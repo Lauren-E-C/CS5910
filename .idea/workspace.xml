@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10a0f636-8d88-4291-8c8a-3f8e6b665a54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/init.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,11 @@
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -59,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602877578148</updated>
       <workItem from="1602877580497" duration="1997000" />
-      <workItem from="1602884922133" duration="2839000" />
+      <workItem from="1602884922133" duration="6686000" />
     </task>
     <servers />
   </component>
@@ -86,14 +92,18 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="939" y="367" key="#Options/0.0.2560.1410@0.0.2560.1410" timestamp="1602878400310" />
+    <state x="93" y="558" key="#SQL_Dialects" timestamp="1602888816201">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="93" y="558" key="#SQL_Dialects/0.0.2560.1410@0.0.2560.1410" timestamp="1602888816201" />
     <state x="864" y="354" key="#SSH_Configurations" timestamp="1602878148120">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="864" y="354" key="#SSH_Configurations/0.0.2560.1410@0.0.2560.1410" timestamp="1602878148120" />
-    <state x="880" y="367" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602878063005">
+    <state x="1401" y="406" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602891357117">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="880" y="367" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602878063005" />
+    <state x="1401" y="406" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602891357117" />
     <state x="168" y="209" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602887093745">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -114,6 +124,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1160" y="605" key="Github.ShareDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602884585484" />
+    <state width="201" height="500" key="HiddenNamespacesPopup" timestamp="1602888719678">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="201" height="500" key="HiddenNamespacesPopup/0.0.2560.1410@0.0.2560.1410" timestamp="1602888719678" />
     <state x="1060" y="426" key="NewPhpClassDialog" timestamp="1602885585921">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -122,5 +136,9 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1104" y="631" width="351" height="148" key="NewPhpFileDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602885549175" />
+    <state x="504" y="446" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1602888731922">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="504" y="446" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602888731922" />
   </component>
 </project>
