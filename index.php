@@ -6,6 +6,7 @@ try {
 
     $m = new TableName();
     $m->get(123);
+    $m->update(["column_1" => 456]);
 }
 catch (\Exception $e) {
     var_dump("Error: " . $e->getMessage());

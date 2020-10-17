@@ -8,42 +8,77 @@ class Model
     protected $primaryKey;
     private $db;
     private $values;
+    private $fields;
+    private $fieldList;
 
     public function __construct($table, $primaryKey)
     {
         $this->table = $table;
         $this->primaryKey = $primaryKey;
         $this->db = new Database();
+
+        $stmt = $this->db->prepare("DESCRIBE $table");
+        $this->db->exec($stmt);
+        $this->fields = $stmt->fetchAll(PDO::FETCH_COLUMN);
+
+        $this->fieldList = "";
+        foreach ($this->fields as $i => $name) {
+            if ($i > 0) {
+                $this->fieldList = ", " . $this->fieldList;
+            }
+            $this->fieldList .= $name;
+        }
     }
 
-    public function getValues() {
+    public function getValues()
+    {
         return $this->values;
     }
 
-    public function setValues($values) {
+    public function setValues($values)
+    {
         $this->values = $values;
     }
 
-    public function getValue($index) {
+    public function getValue($index)
+    {
         return $this->values[$index];
     }
 
-    public function setValue($index, $value) {
+    public function setValue($index, $value)
+    {
         $this->values[$index] = $value;
     }
 
     public function get($primaryKey)
     {
         $clause = $this->makeClause($primaryKey);
-        $sql = "select * from {$this->table} where " . $clause;
-        var_dump($sql);
-        echo "<br>\n";
+        $sql = "select {$this->fieldList} from {$this->table} where " . $clause;
+
         $stmt = $this->db->prepare($sql);
         $this->db->exec($stmt);
 
-        echo "<h2>Rows:</h2>";
         $this->values = $this->db->fetchAll($stmt);
-        var_dump($this->values);
+        // TODO: save original record for updates
+    }
+
+    public function update($values = false)
+    {
+        if ($values) {
+            $this->setValues($values);
+        }
+
+        $set = "SET ";
+        foreach ($this->fields as $i => $name) {
+            if ($i > 0) {
+                $set = ", " . $set;
+            }
+            $set .= $name . "=" . $this->quoteValue($this->values[$name]);
+        }
+
+        // TODO: compound primary keys
+        $sql = "UPDATE {$this->table} " . $set . " WHERE {$this->primaryKey} =  " . $this->quoteValue($this->values[$this->primaryKey]);
+        var_dump($sql);
     }
 
     private function makeClause($value)
@@ -55,16 +90,15 @@ class Model
                 if ($i > 0) {
                     $return = " and " . $return;
                 }
-                $return = $this->primaryKey[$i] . " = '" . $this->keyValue($value[$i]) . "'";
+                $return = $this->primaryKey[$i] . " = '" . $this->quoteValue($value[$i]) . "'";
             }
             return $return;
-        }
-        else {
-            return $this->primaryKey . " = '" . $this->keyValue($value) . "'";
+        } else {
+            return $this->primaryKey . " = '" . $this->quoteValue($value) . "'";
         }
     }
 
-    private function keyValue($value)
+    private function quoteValue($value)
     {
         if (gettype($value) === "string") {
             return "'" . $this->db->quote($value) . "'";
