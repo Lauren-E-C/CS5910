@@ -37,23 +37,28 @@ class Database
         return self::$pdo->errorCode();
     }
 
-
-
     public function errorInfo() {
         return self::$pdo->errorInfo();
     }
 
-    public function exec($statement) {
-        return self::$pdo->exec($statement);
-    }
-
-    public function prepare ($statement, $options=false) {
+    public function prepare($sql, $options = false) {
         if (!$options) $options = array();
-        return self::$pdo->prepare($statement, $options);
+        return self::$pdo->prepare($sql, $options);
     }
 
-    public function query($statement) {
-        return self::$pdo->query($statement);
+    public function exec($statement) {
+        return $statement->execute();
     }
 
+    public function fetch($statement) {
+        return $statement->fetch();
+    }
+
+    public function fetchAll($statement) {
+        return $statement->fetchAll();
+    }
+
+    public function quote ($input) {
+        return self::$pdo->quote($input);
+    }
 }
