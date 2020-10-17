@@ -58,7 +58,7 @@ class Database
         return $statement->fetchAll();
     }
 
-    public function quote ($input) {
+    public function quote($input) {
         return self::$pdo->quote($input);
     }
 }
