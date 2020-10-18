@@ -68,6 +68,11 @@ class Model
         $this->values[$index] = $value;
     }
 
+    public function getFields()
+    {
+        return $this->fields;
+    }
+
     public function get($keyValues = false)
     {
         $sql = "SELECT {$this->fieldList} FROM {$this->table}";
