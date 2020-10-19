@@ -1,16 +1,20 @@
 <?php
 
-require_once $_SERVER['DOCUMENT_ROOT'].'/utils/init.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 
-class TableNameGrid extends Grid {
-
-    public function __constructor()
+class TableNameGrid extends Grid
+{
+    public function __construct()
     {
         $this->model = new TableName();
-        $columns = [
-          "column_1" => "Column One"
+        $this->columns = [
+            "column_1" => "Column One"
         ];
-        parent::__constructor();
+        try {
+            parent::__construct();
+        } catch (Exception $e) {
+            throw new Exception($e);
+        }
     }
 }
 
@@ -21,12 +25,13 @@ class Grid
     protected $columns = false;
     protected $filters = false;
 
-    public function __constructor() {
+    public function __construct()
+    {
         $fields = $this->model->getFields();
 
         if ($this->columns) {
             foreach ($this->columns as $key => $value) {
-                if (array_search($key, $fields, true)  === false) {
+                if (array_search($key, $fields, true) === false) {
                     throw new Exception("Column name not in table: $key");
                 }
             }
@@ -35,5 +40,40 @@ class Grid
                 $this->columns[$field] = $field;
             }
         }
+    }
+
+    public function showGrid()
+    {
+        $m = $this->model;
+        ?>
+        <div class="container">
+            <table class="table table-hover">
+                <thead>
+                <tr>
+                    <?php foreach ($this->columns as $key => $value) {
+                        echo "<th>$value</th>\n";
+                    } ?>
+                </tr>
+                </thead>
+                <tbody>
+                <?php for ($r = $m->get(["column_1" => [0, 999]]); $r; $r = $m->next()) {
+                    $getVars="";
+                    foreach ($m->getKeyFields() as $key => $value) {
+                        if ($getVars !== "") {
+                            $getVars .= "?";
+                        }
+                        $getVars .= $key . "=" . htmlspecialchars($value);
+                    }
+                    echo "<tr onclick=\"document.location = 'links.html?".$getVars."';\">";
+                    foreach ($this->columns as $key => $value) {
+                        echo "<td>$r[$key]</td>\n";
+                    }
+                    echo "</tr>\n";
+                } ?>
+                </tbody>
+            </table>
+        </div>
+
+        <?php
     }
 }

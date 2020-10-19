@@ -73,6 +73,10 @@ class Model
         return $this->fields;
     }
 
+    public function getKeyFields() {
+        return $this->keyValues;
+    }
+
     public function get($keyValues = false)
     {
         $sql = "SELECT {$this->fieldList} FROM {$this->table}";
