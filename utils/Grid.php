@@ -18,6 +18,24 @@ class TableNameGrid extends Grid
     }
 }
 
+class SystemUsersGrid extends Grid
+{
+    public function __construct()
+    {
+        $this->model = new SystemUsers();
+        $this->columns = [
+            "IDNumber" => "ID",
+            "UEmail" => "E-Mail",
+            'FName' => "First Name"
+        ];
+        try {
+            parent::__construct();
+        } catch (Exception $e) {
+            throw new Exception($e);
+        }
+    }
+}
+
 
 class Grid
 {
@@ -56,7 +74,7 @@ class Grid
                 </tr>
                 </thead>
                 <tbody>
-                <?php for ($r = $m->get(["column_1" => [0, 999]]); $r; $r = $m->next()) {
+                <?php for ($r = $m->get(["IDNumber" => 2]); $r; $r = $m->next()) {
                     $getVars="";
                     foreach ($m->getKeyFields() as $key => $value) {
                         if ($getVars !== "") {

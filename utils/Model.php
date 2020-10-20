@@ -30,7 +30,7 @@ class Model
         $this->fieldList = "";
         foreach ($this->fields as $i => $name) {
             if ($i > 0) {
-                $this->fieldList = ", " . $this->fieldList;
+                $this->fieldList = $this->fieldList . ", ";
             }
             $this->fieldList .= $name;
         }
@@ -85,7 +85,6 @@ class Model
             $clause = $this->makeClause($keyValues);
             $sql .= " WHERE " . $clause;
         }
-
         $this->statement = $this->db->prepare($sql);
         $this->db->exec($this->statement);
         $row = $this->db->fetch($this->statement);

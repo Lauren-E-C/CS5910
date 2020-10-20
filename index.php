@@ -4,18 +4,13 @@ try {
     require_once $_SERVER['DOCUMENT_ROOT'].'/utils/init.php';
     echo "<h1>Hello, World!</h1>";
 
-    $m = new TableName();
-    $r = $m->get(
-        ["column_1" => 456]
-    );
+    $m = new SystemUsers();
 
-    $m->update(["column_1" => 123]);
+//    $m->update(["column_1" => 123]);
 
-    for ($r = $m->get(["column_1" => [0,999]]); $r; $r = $m->next()) {
+    for ($r = $m->get(); $r; $r = $m->next()) {
         print_r($r);
     }
-
-    print_r($r);
 
 
 //    $m->update(["column_1" => 456]);
