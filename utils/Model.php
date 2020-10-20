@@ -2,7 +2,7 @@
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 
-class Model
+class Model implements ModelInterface
 {
     protected $table;
     protected $keyFields;
@@ -102,7 +102,7 @@ class Model
         return $this->values;
     }
 
-    public function next($keyValues = false)
+    public function next()
     {
         if ($this->statement === null) {
             return null;
