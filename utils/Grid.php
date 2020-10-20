@@ -60,7 +60,21 @@ class Grid
         }
     }
 
-    public function showGrid()
+    public function showFilterForm($filterFields = null) {
+        ?>
+        <form>
+            <?php foreach ($filterFields as $key => $value) { ?>
+                <div class="form-group">
+                    <label for="<?= $key ?>>"><?= $value ?></label>
+                    <input type="text" class="form-control" id="<?= $key ?>" placeholder="<?= $value ?>" value="<?= $r[$key] ?>">
+                </div>
+            <?php } ?>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        <?php
+    }
+
+    public function showGrid($filter = false)
     {
         $m = $this->model;
         ?>
@@ -74,11 +88,11 @@ class Grid
                 </tr>
                 </thead>
                 <tbody>
-                <?php for ($r = $m->get(["IDNumber" => 2]); $r; $r = $m->next()) {
+                <?php for ($r = $m->get($filter); $r; $r = $m->next()) {
                     $getVars="";
                     foreach ($m->getKeyFields() as $key => $value) {
                         if ($getVars !== "") {
-                            $getVars .= "?";
+                            $getVars .= "&";
                         }
                         $getVars .= $key . "=" . htmlspecialchars($value);
                     }
