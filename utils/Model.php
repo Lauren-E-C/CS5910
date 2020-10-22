@@ -167,13 +167,13 @@ class Model implements ModelInterface
 
         $fields = "";
         $values = "";
-        foreach ($this->fields as $i => $name) {
-            if ($i > 0) {
+        foreach ($this->values as $key => $value) {
+            if ($values) {
                 $fields .= ", ";
                 $values .= ", ";
             }
-            $fields .= $name;
-            $values .= $this->quoteValue($this->values[$name]);
+            $fields .= $key;
+            $values .= $this->quoteValue($value);
         }
 
         $sql = "INSERT INTO {$this->table}($fields) VALUES ($values)";

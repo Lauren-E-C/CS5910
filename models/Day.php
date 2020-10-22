@@ -2,10 +2,10 @@
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 
-class TimeSlot extends Model
+class Day extends Model
 {
     public function __construct()
     {
-        parent::__construct("TimeSlot", ["TimeSlotNum", "NameOfDay"]);
+        parent::__construct("Day", "NameOfDay");
     }
 }

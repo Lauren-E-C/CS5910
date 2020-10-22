@@ -7,5 +7,11 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://192.168.0.18:3306/cs5910</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="u684207109_cs5910@sql157.main-hosting.eu" uuid="133dbb34-655e-49d6-aacf-34e09959ad14">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sql157.main-hosting.eu:3306/u684207109_cs5910</jdbc-url>
+    </data-source>
   </component>
 </project>

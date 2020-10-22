@@ -12,6 +12,10 @@ $i = 0;
 
 $faulty_members = array();
 $faulty_count=1;
+
+$time_slots = array();
+$time_slot_count = 1;
+
 $room_id = 1;
 
 while ($columns = fgetcsv($fin_csv)) {
@@ -35,11 +39,21 @@ while ($columns = fgetcsv($fin_csv)) {
             $r = [
                 "IDNumber" => $faulty_id,
                 "FName" => $faulty_names[0],
-                "LName" => $faulty_names[count($faulty_names)-1]
+                "LName" => $faulty_names[count($faulty_names)-1],
+                "UEmail" => $faulty_names[0] ."." . $faulty_names[count($faulty_names)-1] . "@lakeroyaluniversity.com",
+                "ULocked" => 0,
+                "UType" => 'Professor',
+                "PhoneNum" => "2125551212"
             ];
             $systemUser->create($r);
         }
         $faulty_id = $faulty_members[$columns[13]];
+
+        $key = $columns[8];
+        if (!isset($time_slots[$key])) {
+            $time_slots[$key] = $time_slot_count++;
+
+        }
 
         $r = [
             'CourseRegistrationNumber' => $columns[1],
