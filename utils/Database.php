@@ -2,8 +2,8 @@
 
 class Database
 {
-    #static private $hostname = '192.168.0.18';
-    static private $hostname = '192.168.56.104';
+    static private $hostname = '192.168.0.18';
+    #static private $hostname = '192.168.56.104';
     static private $database = 'cs5910';
     static private $username = 'cs5910';
     static private $password = 'P@ssw0rd';

@@ -6,6 +6,6 @@ class Faculty extends Model
 {
     public function __construct()
     {
-        parent::__construct("Faculty", "PRIMARY_KEY");
+        parent::__construct("Faculty", "FacultyID");
     }
 }

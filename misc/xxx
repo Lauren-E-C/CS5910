@@ -1,0 +1,4750 @@
+Line: Principles of Accounting I - 10006 - ACC 201 - 810
+Name: Principles of Accounting I
+CRN: 10006
+Dept: ACC
+Course: 201
+Section: 810
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 10:30 am - 11:25 am
+    [days] => MWF
+    [where] => Sheldon Hall M00
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Frank   Garcia
+)
+Line: Principles of Accounting I - 10007 - ACC 201 - 820
+Name: Principles of Accounting I
+CRN: 10007
+Dept: ACC
+Course: 201
+Section: 820
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => Sheldon Hall M00
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Frank   Garcia
+)
+Line: Principles of Accounting I - 11352 - ACC 201 - OY1
+Name: Principles of Accounting I
+CRN: 11352
+Dept: ACC
+Course: 201
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 10:30 am - 11:25 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Andrea Maria Anastasia  Pagano
+)
+Line: Principles of Accounting I Lab - 10748 - ACC 201 - OY2
+Name: Principles of Accounting I Lab
+CRN: 10748
+Dept: ACC
+Course: 201
+Section: OY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles of Accounting I Lab - 10747 - ACC 201 - OY3
+Name: Principles of Accounting I Lab
+CRN: 10747
+Dept: ACC
+Course: 201
+Section: OY3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => M
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles of Accounting I Lab - 11357 - ACC 201 - OY4
+Name: Principles of Accounting I Lab
+CRN: 11357
+Dept: ACC
+Course: 201
+Section: OY4
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => W
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles Of Accounting II - 10009 - ACC 202 - 810
+Name: Principles Of Accounting II
+CRN: 10009
+Dept: ACC
+Course: 202
+Section: 810
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:20 pm - 5:40 pm
+    [days] => TR
+    [where] => Rich Hall 221
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Melissa Lynn  Schrader
+)
+Line: Principles Of Accounting II - 10010 - ACC 202 - 820
+Name: Principles Of Accounting II
+CRN: 10010
+Dept: ACC
+Course: 202
+Section: 820
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 5:30 pm - 6:50 pm
+    [days] => TR
+    [where] => Rich Hall 223
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Melissa Lynn  Schrader
+)
+Line: Principles Of Accounting II - 10008 - ACC 202 - ON1
+Name: Principles Of Accounting II
+CRN: 10008
+Dept: ACC
+Course: 202
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Victoria   Chiu
+)
+Line: Principles Accounting II - 10011 - ACC 202 - ON2
+Name: Principles Accounting II
+CRN: 10011
+Dept: ACC
+Course: 202
+Section: ON2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => John   Markert
+)
+Line: Principles Of Accounting II - 11353 - ACC 202 - ON3
+Name: Principles Of Accounting II
+CRN: 11353
+Dept: ACC
+Course: 202
+Section: ON3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => John   Markert
+)
+Line: PrinciplesOf Accounting II Lab - 11356 - ACC 202 - OY1
+Name: PrinciplesOf Accounting II Lab
+CRN: 11356
+Dept: ACC
+Course: 202
+Section: OY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles Accounting II Lab - 10749 - ACC 202 - OY2
+Name: Principles Accounting II Lab
+CRN: 10749
+Dept: ACC
+Course: 202
+Section: OY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => M
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles Accounting II Lab - 10750 - ACC 202 - OY3
+Name: Principles Accounting II Lab
+CRN: 10750
+Dept: ACC
+Course: 202
+Section: OY3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:25 am - 9:20 am
+    [days] => R
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles Accounting II Lab - 10751 - ACC 202 - OY4
+Name: Principles Accounting II Lab
+CRN: 10751
+Dept: ACC
+Course: 202
+Section: OY4
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:25 am - 9:20 am
+    [days] => T
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Principles Accounting II Lab - 10752 - ACC 202 - OY5
+Name: Principles Accounting II Lab
+CRN: 10752
+Dept: ACC
+Course: 202
+Section: OY5
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 8:55 am
+    [days] => W
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Intermediate Accounting I - 13962 - ACC 301 - OY1
+Name: Intermediate Accounting I
+CRN: 13962
+Dept: ACC
+Course: 301
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Andrea Maria Anastasia  Pagano
+)
+Line: Intermediate Accounting I - 13963 - ACC 301 - OY2
+Name: Intermediate Accounting I
+CRN: 13963
+Dept: ACC
+Course: 301
+Section: OY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 1:55 pm
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Unassigned   Staff
+)
+Line: Intermediate Accounting II - 10013 - ACC 302 - 800
+Name: Intermediate Accounting II
+CRN: 10013
+Dept: ACC
+Course: 302
+Section: 800
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:20 am - 12:40 pm
+    [days] => TR
+    [where] => Rich Hall 320
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Laura Bea  Lamb
+)
+Line: Intermediate Accounting II - 10616 - ACC 302 - 810
+Name: Intermediate Accounting II
+CRN: 10616
+Dept: ACC
+Course: 302
+Section: 810
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 11:00 am
+    [days] => TR
+    [where] => Rich Hall 319
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Laura Bea  Lamb
+)
+Line: Accounting Information Systems - 10617 - ACC 305 - ON1
+Name: Accounting Information Systems
+CRN: 10617
+Dept: ACC
+Course: 305
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Thomas J  Tribunella
+)
+Line: Cost Accounting - 10014 - ACC 310 - ON1
+Name: Cost Accounting
+CRN: 10014
+Dept: ACC
+Course: 310
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Victoria   Chiu
+)
+Line: Cost Accounting - 11438 - ACC 310 - ON2
+Name: Cost Accounting
+CRN: 11438
+Dept: ACC
+Course: 310
+Section: ON2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Victoria   Chiu
+)
+Line: Acct as Management Tool - 10618 - ACC 321 - ON1
+Name: Acct as Management Tool
+CRN: 10618
+Dept: ACC
+Course: 321
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Laura Bea  Lamb
+)
+Line: Acct for Non-Profit Orgnz - 12708 - ACC 340 - 800
+Name: Acct for Non-Profit Orgnz
+CRN: 12708
+Dept: ACC
+Course: 340
+Section: 800
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => Rich Hall 118
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Heather   Losi
+)
+Line: Auditing - 10015 - ACC 430 - ON1
+Name: Auditing
+CRN: 10015
+Dept: ACC
+Course: 430
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Dean   Crawford
+)
+Line: Advanced Accounting - 11140 - ACC 440 - OY1
+Name: Advanced Accounting
+CRN: 11140
+Dept: ACC
+Course: 440
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 10:10 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Andrea Maria Anastasia  Pagano
+)
+Line: Interdisciplinary Methods - 13770 - ADO 394 - HY1
+Name: Interdisciplinary Methods
+CRN: 13770
+Dept: ADO
+Course: 394
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:30 pm - 6:10 pm
+    [days] => TR
+    [where] => Shineman Center 175
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Recitation or Discussion
+    [instructors] => Theresa   Parry-Bick
+)
+Line: Interdisciplinary Methods - 12090 - ADO 394 - OY1
+Name: Interdisciplinary Methods
+CRN: 12090
+Dept: ADO
+Course: 394
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:30 pm - 7:30 pm
+    [days] => M
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Recitation or Discussion
+    [instructors] => David Paul  Parisian
+)
+Line: Interdisciplinary Methods - 10142 - ADO 394 - OY2
+Name: Interdisciplinary Methods
+CRN: 10142
+Dept: ADO
+Course: 394
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:30 pm - 7:30 pm
+    [days] => W
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Recitation or Discussion
+    [instructors] => David Paul  Parisian
+)
+Line: Field Experience B:Plan/Teach - 13772 - ADO 593 - ON1
+Name: Field Experience B:Plan/Teach
+CRN: 13772
+Dept: ADO
+Course: 593
+Section: ON1
+Levels: Graduate 
+Credits: 2.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Activity
+    [instructors] => Eric   Olson
+)
+Line: Student Teaching Grades 7-12A - 13246 - ADO 595 - 500
+Name: Student Teaching Grades 7-12A
+CRN: 13246
+Dept: ADO
+Course: 595
+Section: 500
+Levels: Graduate 
+Credits: 6.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => Off Campus 
+    [dates] => Jan 21, 2021 - Mar 18, 2021
+    [schedule_type] => Student Teaching
+    [instructors] => Unassigned   Staff
+)
+Line: Student Teaching Grades 7-12 B - 13623 - ADO 596 - 110
+Name: Student Teaching Grades 7-12 B
+CRN: 13623
+Dept: ADO
+Course: 596
+Section: 110
+Levels: Graduate 
+Credits: 6.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => Off Campus 
+    [dates] => Mar 19, 2021 - May 13, 2021
+    [schedule_type] => Student Teaching
+    [instructors] => Unassigned   Staff
+)
+Line: Amer Sign Language II - 10703 - ASL 102 - OY1
+Name: Amer Sign Language II
+CRN: 10703
+Dept: ASL
+Course: 102
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 5:00 pm - 6:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Laura   Latray-Corey
+)
+Line: Amer Sign Language II - 10730 - ASL 102 - OY2
+Name: Amer Sign Language II
+CRN: 10730
+Dept: ASL
+Course: 102
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:30 pm - 7:50 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Laura   Latray-Corey
+)
+Line: Archaeology &amp; Human Evolution - 11486 - ANT 111 - ON1
+Name: Archaeology &amp; Human Evolution
+CRN: 11486
+Dept: ANT
+Course: 111
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Alanna E  Ossa
+)
+Line: Cultural Anthropology - 10173 - ANT 112 - HY1
+Name: Cultural Anthropology
+CRN: 10173
+Dept: ANT
+Course: 112
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 10:30 am - 11:25 am
+    [days] => MWF
+    [where] => Lanigan Hall 101
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Rebecca W  Peters
+)
+Line: Cultural Anthropology - 14613 - ANT 112 - OY1
+Name: Cultural Anthropology
+CRN: 14613
+Dept: ANT
+Course: 112
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 11:00 am
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Jing   Lei
+)
+Line: Anthropological Theory Part II - 14566 - ANT 211 - OY1
+Name: Anthropological Theory Part II
+CRN: 14566
+Dept: ANT
+Course: 211
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Seminar
+    [instructors] => Rebecca W  Peters
+)
+Line: Introductory Archaeology - 11485 - ANT 230 - HY1
+Name: Introductory Archaeology
+CRN: 11485
+Dept: ANT
+Course: 230
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Mahar Hall 309
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Alanna E  Ossa
+)
+Line: Biological Anthropology - 14561 - ANT 280 - ON1
+Name: Biological Anthropology
+CRN: 14561
+Dept: ANT
+Course: 280
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Kathleen A  Blake
+)
+Line: T:Culture of the Haudenosaunee - 14564 - ANT 301 - OY1
+Name: T:Culture of the Haudenosaunee
+CRN: 14564
+Dept: ANT
+Course: 301
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Michael   Chaness
+)
+Line: ST: Political ANT - 14119 - ANT 301 - OY2
+Name: ST: Political ANT
+CRN: 14119
+Dept: ANT
+Course: 301
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 3:30 pm - 4:50 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Rebecca W  Peters
+)
+Line: Eth.TreatmentofNonhumanPrimate - 10983 - ANT 303 - ON1
+Name: Eth.TreatmentofNonhumanPrimate
+CRN: 10983
+Dept: ANT
+Course: 303
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Kathleen A  Blake
+)
+Line: Language And Culture - 12651 - ANT 344 - OY1
+Name: Language And Culture
+CRN: 12651
+Dept: ANT
+Course: 344
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Jing   Lei
+)
+Line: Peoples&amp;Cultr of China - 14565 - ANT 372 - ON1
+Name: Peoples&amp;Cultr of China
+CRN: 14565
+Dept: ANT
+Course: 372
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Jing   Lei
+)
+Line: Teaching Anthropology - 10172 - ANT 402 - OY1
+Name: Teaching Anthropology
+CRN: 10172
+Dept: ANT
+Course: 402
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Jing   Lei
+)
+Line: ANT Issue:History/Theory/Metho - 10170 - ANT 410 - HY1
+Name: ANT Issue:History/Theory/Metho
+CRN: 10170
+Dept: ANT
+Course: 410
+Section: HY1
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:20 pm - 5:40 pm
+    [days] => TR
+    [where] => Mahar Hall 309
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Alanna E  Ossa
+)
+Line: Human Osteology - 14562 - ANT 451 - ON1
+Name: Human Osteology
+CRN: 14562
+Dept: ANT
+Course: 451
+Section: ON1
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Activity
+    [instructors] => Kathleen A  Blake
+)
+Line: Continuing Elementary Arabic - 11913 - ARA 102 - OY1
+Name: Continuing Elementary Arabic
+CRN: 11913
+Dept: ARA
+Course: 102
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:25 pm - 5:45 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Najet   Gharsallaoui
+)
+Line: Intro to the Visual Arts - 11411 - ART 100 - HY2
+Name: Intro to the Visual Arts
+CRN: 11411
+Dept: ART
+Course: 100
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 3:35 pm
+    [days] => MW
+    [where] => Lanigan Hall 101
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => William   DeMott
+)
+Line: Intro to the Visual Arts - 14417 - ART 100 - ON1
+Name: Intro to the Visual Arts
+CRN: 14417
+Dept: ART
+Course: 100
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Justin Anty  Mastrangelo
+)
+Line: Intro to the Visual Arts - 14782 - ART 100 - OY1
+Name: Intro to the Visual Arts
+CRN: 14782
+Dept: ART
+Course: 100
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 10:30 am - 11:50 am
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => William   DeMott
+)
+Line: T: Ceramics - 11562 - ART 102 - HY1
+Name: T: Ceramics
+CRN: 11562
+Dept: ART
+Course: 102
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 3:30 pm - 5:30 pm
+    [days] => MW
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: Design Concepts I-2D - 11041 - ART 105 - HY1
+Name: Design Concepts I-2D
+CRN: 11041
+Dept: ART
+Course: 105
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 213
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Suzanne L.  Beason
+)
+Line: Design Concepts I-2D - 11938 - ART 105 - HY2
+Name: Design Concepts I-2D
+CRN: 11938
+Dept: ART
+Course: 105
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Tyler Hall 213
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Suzanne L.  Beason
+)
+Line: Design Concepts I-2D - 12791 - ART 105 - HY3
+Name: Design Concepts I-2D
+CRN: 12791
+Dept: ART
+Course: 105
+Section: HY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 213
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Joseph Mario  Romano
+)
+Line: Design Concepts II-3D - 14783 - ART 106 - OY1
+Name: Design Concepts II-3D
+CRN: 14783
+Dept: ART
+Course: 106
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Benjamin R  Entner
+)
+Line: Design Concepts II-3D - 14791 - ART 106 - OY2
+Name: Design Concepts II-3D
+CRN: 14791
+Dept: ART
+Course: 106
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Richard   Metzgar
+)
+Line: Freshmen Colloquium - 11323 - ART 111 - OY1
+Name: Freshmen Colloquium
+CRN: 11323
+Dept: ART
+Course: 111
+Section: OY1
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Mar 12, 2021
+    [schedule_type] => Studio
+    [instructors] => Richard   Metzgar
+)
+Line: Design Concepts II - 10182 - ART 205 - OY1
+Name: Design Concepts II
+CRN: 10182
+Dept: ART
+Course: 205
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Richard   Metzgar
+)
+Line: Digital Media - 14825 - ART 207 - HY1
+Name: Digital Media
+CRN: 14825
+Dept: ART
+Course: 207
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Martin
+)
+Line: Digital Media - 10961 - ART 207 - OY1
+Name: Digital Media
+CRN: 10961
+Dept: ART
+Course: 207
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 11:20 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Elizabeth Nichole  Hunt
+)
+Line: Digital Media - 10960 - ART 207 - OY2
+Name: Digital Media
+CRN: 10960
+Dept: ART
+Course: 207
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Elizabeth Nichole  Hunt
+)
+Line: Digital Media - 13435 - ART 207 - OY3
+Name: Digital Media
+CRN: 13435
+Dept: ART
+Course: 207
+Section: OY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Martin
+)
+Line: Typography - 14908 - ART 209 - HY1
+Name: Typography
+CRN: 14908
+Dept: ART
+Course: 209
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Typography - 10962 - ART 209 - OY1
+Name: Typography
+CRN: 10962
+Dept: ART
+Course: 209
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Drawing I - 10184 - ART 210 - HY1
+Name: Drawing I
+CRN: 10184
+Dept: ART
+Course: 210
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 214
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Jason M  Cheney
+)
+Line: Drawing I - 14152 - ART 210 - HY2
+Name: Drawing I
+CRN: 14152
+Dept: ART
+Course: 210
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Drawing I - 11042 - ART 210 - HY3
+Name: Drawing I
+CRN: 11042
+Dept: ART
+Course: 210
+Section: HY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 214
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Joseph Mario  Romano
+)
+Line: Painting I - 10185 - ART 215 - HY1
+Name: Painting I
+CRN: 10185
+Dept: ART
+Course: 215
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Watercolor Painting I - 14155 - ART 220 - HY1
+Name: Watercolor Painting I
+CRN: 14155
+Dept: ART
+Course: 220
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Intro to Printmaking - 14798 - ART 225 - HY1
+Name: Intro to Printmaking
+CRN: 14798
+Dept: ART
+Course: 225
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Tyler Hall 200
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Kelly L  Roe
+)
+Line: Ceramics I - 10183 - ART 230 - HY1
+Name: Ceramics I
+CRN: 10183
+Dept: ART
+Course: 230
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: Intro to Digital Photography - 13814 - ART 243 - HY1
+Name: Intro to Digital Photography
+CRN: 13814
+Dept: ART
+Course: 243
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 219
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Peter   Cardone
+)
+Line: Intro to Digital Photography - 10179 - ART 243 - HY2
+Name: Intro to Digital Photography
+CRN: 10179
+Dept: ART
+Course: 243
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 219
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Peter   Cardone
+)
+Line: Intro to Digital Photography - 10180 - ART 243 - HY3
+Name: Intro to Digital Photography
+CRN: 10180
+Dept: ART
+Course: 243
+Section: HY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 219
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Peter   Cardone
+)
+Line: Intro to Digital Photography - 11927 - ART 243 - HY4
+Name: Intro to Digital Photography
+CRN: 11927
+Dept: ART
+Course: 243
+Section: HY4
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Tyler Hall 219
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Megan G  King
+)
+Line: Intro to Digital Photography - 14831 - ART 243 - OY1
+Name: Intro to Digital Photography
+CRN: 14831
+Dept: ART
+Course: 243
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Megan G  King
+)
+Line: Sculpture I - 14784 - ART 245 - OY1
+Name: Sculpture I
+CRN: 14784
+Dept: ART
+Course: 245
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Benjamin R  Entner
+)
+Line: West Hert I-Survy Art I - 14787 - ART 250 - OY1
+Name: West Hert I-Survy Art I
+CRN: 14787
+Dept: ART
+Course: 250
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: West Hert I-Survy Art I - 13813 - ART 250 - OY2
+Name: West Hert I-Survy Art I
+CRN: 13813
+Dept: ART
+Course: 250
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: Western Heritage II - 14319 - ART 251 - ON1
+Name: Western Heritage II
+CRN: 14319
+Dept: ART
+Course: 251
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa A  Seppi
+)
+Line: Western Heritage II - 10181 - ART 251 - ON2
+Name: Western Heritage II
+CRN: 10181
+Dept: ART
+Course: 251
+Section: ON2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa A  Seppi
+)
+Line: Figure Drawing I - 10905 - ART 300 - HY1
+Name: Figure Drawing I
+CRN: 10905
+Dept: ART
+Course: 300
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Foundations of Motion/Interact - 14795 - ART 302 - OY1
+Name: Foundations of Motion/Interact
+CRN: 14795
+Dept: ART
+Course: 302
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Type and Image - 14826 - ART 307 - HY1
+Name: Type and Image
+CRN: 14826
+Dept: ART
+Course: 307
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Martin
+)
+Line: Type and Image - 14909 - ART 307 - HY2
+Name: Type and Image
+CRN: 14909
+Dept: ART
+Course: 307
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Type and Image - 10966 - ART 307 - OY1
+Name: Type and Image
+CRN: 10966
+Dept: ART
+Course: 307
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Type and Image - 13428 - ART 307 - OY2
+Name: Type and Image
+CRN: 13428
+Dept: ART
+Course: 307
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Martin
+)
+Line: Branding &amp; Packaging Design - 14912 - ART 308 - HY1
+Name: Branding &amp; Packaging Design
+CRN: 14912
+Dept: ART
+Course: 308
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Branding &amp; Packaging Design - 13817 - ART 308 - OY1
+Name: Branding &amp; Packaging Design
+CRN: 13817
+Dept: ART
+Course: 308
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Multimedia I - 14829 - ART 309 - HY1
+Name: Multimedia I
+CRN: 14829
+Dept: ART
+Course: 309
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Multimedia I - 10969 - ART 309 - OY1
+Name: Multimedia I
+CRN: 10969
+Dept: ART
+Course: 309
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Intermediate Drawing - 10187 - ART 310 - HY1
+Name: Intermediate Drawing
+CRN: 10187
+Dept: ART
+Course: 310
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Transfer Student Colloquim - 11196 - ART 311 - HY1
+Name: Transfer Student Colloquim
+CRN: 11196
+Dept: ART
+Course: 311
+Section: HY1
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 1:50 pm
+    [days] => TR
+    [where] => Tyler Hall 200
+    [dates] => Jan 25, 2021 - Mar 12, 2021
+    [schedule_type] => Studio
+    [instructors] => Unassigned   Staff
+)
+Line: Intro to Illustration I - 10174 - ART 312 - HY1
+Name: Intro to Illustration I
+CRN: 10174
+Dept: ART
+Course: 312
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Tyler Hall 213
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Jason M  Cheney
+)
+Line: Digital Illustration I - 14893 - ART 313 - HY1
+Name: Digital Illustration I
+CRN: 14893
+Dept: ART
+Course: 313
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Digital Illustration I - 14895 - ART 313 - HY2
+Name: Digital Illustration I
+CRN: 14895
+Dept: ART
+Course: 313
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Digital Illustration I - 10176 - ART 313 - OY1
+Name: Digital Illustration I
+CRN: 10176
+Dept: ART
+Course: 313
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Digital Illustration I - 14151 - ART 313 - OY2
+Name: Digital Illustration I
+CRN: 14151
+Dept: ART
+Course: 313
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Painting II - 10188 - ART 315 - HY1
+Name: Painting II
+CRN: 10188
+Dept: ART
+Course: 315
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Painting III - 10186 - ART 316 - HY1
+Name: Painting III
+CRN: 10186
+Dept: ART
+Course: 316
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Web Media I - 14792 - ART 317 - OY1
+Name: Web Media I
+CRN: 14792
+Dept: ART
+Course: 317
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Drawing for Transfer Students - 10932 - ART 322 - HY1
+Name: Drawing for Transfer Students
+CRN: 10932
+Dept: ART
+Course: 322
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Digital Media-Transfer Student - 14910 - ART 323 - HY1
+Name: Digital Media-Transfer Student
+CRN: 14910
+Dept: ART
+Course: 323
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Digital Media-Transfer Student - 10893 - ART 323 - OY1
+Name: Digital Media-Transfer Student
+CRN: 10893
+Dept: ART
+Course: 323
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Ceramics II - 10189 - ART 330 - HY1
+Name: Ceramics II
+CRN: 10189
+Dept: ART
+Course: 330
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: ST:Photography Projects - 14786 - ART 333 - OY1
+Name: ST:Photography Projects
+CRN: 14786
+Dept: ART
+Course: 333
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Art Therapy Principles - 13206 - ART 339 - OY1
+Name: Art Therapy Principles
+CRN: 13206
+Dept: ART
+Course: 339
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:30 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Cardone
+)
+Line: Experimental Photography - 13818 - ART 342 - OY1
+Name: Experimental Photography
+CRN: 13818
+Dept: ART
+Course: 342
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Intermediate Digital Photo - 10854 - ART 343 - OY1
+Name: Intermediate Digital Photo
+CRN: 10854
+Dept: ART
+Course: 343
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Creative Code for Vis Artist I - 14827 - ART 348 - HY1
+Name: Creative Code for Vis Artist I
+CRN: 14827
+Dept: ART
+Course: 348
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Creative Code for Vis Artist I - 14159 - ART 348 - OY1
+Name: Creative Code for Vis Artist I
+CRN: 14159
+Dept: ART
+Course: 348
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Japanese Art - 14788 - ART 369 - ON1
+Name: Japanese Art
+CRN: 14788
+Dept: ART
+Course: 369
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: Art/Architecture Islam Culture - 14789 - ART 371 - ON1
+Name: Art/Architecture Islam Culture
+CRN: 14789
+Dept: ART
+Course: 371
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: Contemporary Museum Issues - 11331 - ART 381 - OY1
+Name: Contemporary Museum Issues
+CRN: 11331
+Dept: ART
+Course: 381
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Michael K.  Flanagan
+)
+Line: Modern Art and Mass Culture - 13217 - ART 387 - ON1
+Name: Modern Art and Mass Culture
+CRN: 13217
+Dept: ART
+Course: 387
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa A  Seppi
+)
+Line: Graphic Design Facility Manage - 11160 - ART 395 - HY1
+Name: Graphic Design Facility Manage
+CRN: 11160
+Dept: ART
+Course: 395
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => Lanigan Hall 33
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Jenilee A.  Ward
+)
+Line: Two Dimensional,Experi.Studio - 14796 - ART 396 - 600
+Name: Two Dimensional,Experi.Studio
+CRN: 14796
+Dept: ART
+Course: 396
+Section: 600
+Levels: Undergraduate 
+Credits: 2.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Two Dimensional,Experi.Studio - 14797 - ART 396 - 640
+Name: Two Dimensional,Experi.Studio
+CRN: 14797
+Dept: ART
+Course: 396
+Section: 640
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Two Dimensional,Experi.Studio - 14543 - ART 396 - 650
+Name: Two Dimensional,Experi.Studio
+CRN: 14543
+Dept: ART
+Course: 396
+Section: 650
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Two Dimensional,Experi.Studio - 10976 - ART 396 - HY1
+Name: Two Dimensional,Experi.Studio
+CRN: 10976
+Dept: ART
+Course: 396
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Peter   Cardone
+)
+Line: Two Dimensional,Experi.Studio - 11401 - ART 396 - HY2
+Name: Two Dimensional,Experi.Studio
+CRN: 11401
+Dept: ART
+Course: 396
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Jason M  Cheney
+)
+Line: Two Dimensional,Experi.Studio - 10760 - ART 396 - HY3
+Name: Two Dimensional,Experi.Studio
+CRN: 10760
+Dept: ART
+Course: 396
+Section: HY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Two Dimensional,Experi.Studio - 11213 - ART 396 - HY4
+Name: Two Dimensional,Experi.Studio
+CRN: 11213
+Dept: ART
+Course: 396
+Section: HY4
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Richard   Metzgar
+)
+Line: Two Dimensional,Experi.Studio - 14406 - ART 396 - HY5
+Name: Two Dimensional,Experi.Studio
+CRN: 14406
+Dept: ART
+Course: 396
+Section: HY5
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Two Dimensional,Experi.Studio - 11400 - ART 396 - HY7
+Name: Two Dimensional,Experi.Studio
+CRN: 11400
+Dept: ART
+Course: 396
+Section: HY7
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Kelly L  Roe
+)
+Line: Two Dimensional,Experi.Studio - 10655 - ART 396 - ON1
+Name: Two Dimensional,Experi.Studio
+CRN: 10655
+Dept: ART
+Course: 396
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Elizabeth Nichole  Hunt
+)
+Line: Two Dimensional,Experi.Studio - 14496 - ART 396 - ON2
+Name: Two Dimensional,Experi.Studio
+CRN: 14496
+Dept: ART
+Course: 396
+Section: ON2
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Two Dimensional,Experi.Studio - 10761 - ART 396 - ON3
+Name: Two Dimensional,Experi.Studio
+CRN: 10761
+Dept: ART
+Course: 396
+Section: ON3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Two Dimensional,Experi.Studio - 14904 - ART 396 - ON4
+Name: Two Dimensional,Experi.Studio
+CRN: 14904
+Dept: ART
+Course: 396
+Section: ON4
+Levels: Undergraduate 
+Credits: 2.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Two Dimensional,Experi.Studio - 11665 - ART 396 - OY1
+Name: Two Dimensional,Experi.Studio
+CRN: 11665
+Dept: ART
+Course: 396
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Two Dimensional.Experi.Studio - 12940 - ART 396 - OY2
+Name: Two Dimensional.Experi.Studio
+CRN: 12940
+Dept: ART
+Course: 396
+Section: OY2
+Levels: Undergraduate 
+Credits: 2.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Two Dimensional,Experi.Studio - 13031 - ART 396 - OY3
+Name: Two Dimensional,Experi.Studio
+CRN: 13031
+Dept: ART
+Course: 396
+Section: OY3
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Two Dimensional,Experi.Studio - 10220 - ART 396 - OY4
+Name: Two Dimensional,Experi.Studio
+CRN: 10220
+Dept: ART
+Course: 396
+Section: OY4
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Two Dimensional,Experi.Studio - 12514 - ART 396 - OY5
+Name: Two Dimensional,Experi.Studio
+CRN: 12514
+Dept: ART
+Course: 396
+Section: OY5
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Two Dimensional,Experi.Studio - 11214 - ART 396 - OY6
+Name: Two Dimensional,Experi.Studio
+CRN: 11214
+Dept: ART
+Course: 396
+Section: OY6
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Two Dimensional,Experi.Studio - 10762 - ART 396 - OY7
+Name: Two Dimensional,Experi.Studio
+CRN: 10762
+Dept: ART
+Course: 396
+Section: OY7
+Levels: Undergraduate 
+Credits: 2.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Two Dimensional,Experi.Studio - 11237 - ART 396 - OY8
+Name: Two Dimensional,Experi.Studio
+CRN: 11237
+Dept: ART
+Course: 396
+Section: OY8
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: 3 Dimensional,Experi. Studio - 10763 - ART 397 - HY2
+Name: 3 Dimensional,Experi. Studio
+CRN: 10763
+Dept: ART
+Course: 397
+Section: HY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Richard   Metzgar
+)
+Line: 3 Dimensional,Experi. Studio - 10979 - ART 397 - HY3
+Name: 3 Dimensional,Experi. Studio
+CRN: 10979
+Dept: ART
+Course: 397
+Section: HY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: 3 Dimensional,Experi. Studio - 10978 - ART 397 - OY1
+Name: 3 Dimensional,Experi. Studio
+CRN: 10978
+Dept: ART
+Course: 397
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Benjamin R  Entner
+)
+Line: Figure Drawing II - 10964 - ART 400 - HY1
+Name: Figure Drawing II
+CRN: 10964
+Dept: ART
+Course: 400
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Figure Drawing III - 10965 - ART 401 - HY1
+Name: Figure Drawing III
+CRN: 10965
+Dept: ART
+Course: 401
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Juan   Perdiguero
+)
+Line: Commercial Graphic Design - 14781 - ART 407 - HY1
+Name: Commercial Graphic Design
+CRN: 14781
+Dept: ART
+Course: 407
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cynthia A  Clabough
+)
+Line: Commercial Graphic Design - 14780 - ART 407 - OY1
+Name: Commercial Graphic Design
+CRN: 14780
+Dept: ART
+Course: 407
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cynthia A  Clabough
+)
+Line: Multimedia II - 14830 - ART 409 - HY1
+Name: Multimedia II
+CRN: 14830
+Dept: ART
+Course: 409
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Multimedia II - 10970 - ART 409 - OY1
+Name: Multimedia II
+CRN: 10970
+Dept: ART
+Course: 409
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: Traditional Illustration II - 10175 - ART 412 - HY1
+Name: Traditional Illustration II
+CRN: 10175
+Dept: ART
+Course: 412
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Traditional Illustration II - 14776 - ART 412 - OY1
+Name: Traditional Illustration II
+CRN: 14776
+Dept: ART
+Course: 412
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Digital Illustration II - 10177 - ART 413 - HY1
+Name: Digital Illustration II
+CRN: 10177
+Dept: ART
+Course: 413
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Digital Illustration II - 14777 - ART 413 - OY1
+Name: Digital Illustration II
+CRN: 14777
+Dept: ART
+Course: 413
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: GraphicDesigPracticum-BFA only - 10974 - ART 414 - HY1
+Name: GraphicDesigPracticum-BFA only
+CRN: 10974
+Dept: ART
+Course: 414
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Practicum
+    [instructors] => Cynthia A  Clabough
+)
+Line: Graphic Design Practicum-BA - 11319 - ART 414 - OY1
+Name: Graphic Design Practicum-BA
+CRN: 11319
+Dept: ART
+Course: 414
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Practicum
+    [instructors] => Cynthia A  Clabough
+)
+Line: Painting IV - 11320 - ART 415 - HY1
+Name: Painting IV
+CRN: 11320
+Dept: ART
+Course: 415
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Web Media II - 14793 - ART 417 - OY1
+Name: Web Media II
+CRN: 14793
+Dept: ART
+Course: 417
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Studio Management - 10656 - ART 419 - 800
+Name: Studio Management
+CRN: 10656
+Dept: ART
+Course: 419
+Section: 800
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => <abbr title="To Be Announced">TBA</abbr>
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Activity
+    [instructors] => Christopher   McEvoy
+)
+Line: Adv. Drawing and Painting - 14790 - ART 422 - HY1
+Name: Adv. Drawing and Painting
+CRN: 14790
+Dept: ART
+Course: 422
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Adv. Problems in Illustration - 12021 - ART 423 - HY1
+Name: Adv. Problems in Illustration
+CRN: 12021
+Dept: ART
+Course: 423
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Adv. Problems in Illustration - 14779 - ART 423 - OY1
+Name: Adv. Problems in Illustration
+CRN: 14779
+Dept: ART
+Course: 423
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Adv Problems in Printmaking - 11739 - ART 425 - HY1
+Name: Adv Problems in Printmaking
+CRN: 11739
+Dept: ART
+Course: 425
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Tyler Hall 200
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Kelly L  Roe
+)
+Line: Ceramics III - 10190 - ART 430 - HY1
+Name: Ceramics III
+CRN: 10190
+Dept: ART
+Course: 430
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: Ceramics IV - 11703 - ART 431 - HY1
+Name: Ceramics IV
+CRN: 11703
+Dept: ART
+Course: 431
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: Advanced Digital Photography - 14335 - ART 443 - OY1
+Name: Advanced Digital Photography
+CRN: 14335
+Dept: ART
+Course: 443
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: CreativeCode for Vis Artist II - 14828 - ART 448 - HY1
+Name: CreativeCode for Vis Artist II
+CRN: 14828
+Dept: ART
+Course: 448
+Section: HY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: CreativeCode for Vis Artist II - 14156 - ART 448 - OY1
+Name: CreativeCode for Vis Artist II
+CRN: 14156
+Dept: ART
+Course: 448
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Cara B  Thompson
+)
+Line: T:SCAI:ResearchProblemsArtHist - 11942 - ART 471 - OY1
+Name: T:SCAI:ResearchProblemsArtHist
+CRN: 11942
+Dept: ART
+Course: 471
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Seminar
+    [instructors] => Lisa A  Seppi
+)
+Line: BFA Exhibition - 10975 - ART 492 - OY1
+Name: BFA Exhibition
+CRN: 10975
+Dept: ART
+Course: 492
+Section: OY1
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 1:55 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Activity
+    [instructors] => Cynthia A  Clabough
+)
+Line: Studio Practicum - 10853 - ART 496 - OY1
+Name: Studio Practicum
+CRN: 10853
+Dept: ART
+Course: 496
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Practicum
+    [instructors] => Benjamin R  Entner
+)
+Line: Art Therapy Principles - 12790 - ART 500 - OY1
+Name: Art Therapy Principles
+CRN: 12790
+Dept: ART
+Course: 500
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:30 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Cardone
+)
+Line: Gr Graphic Design-Print Media - 14913 - ART 508 - HY1
+Name: Gr Graphic Design-Print Media
+CRN: 14913
+Dept: ART
+Course: 508
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Gr Graphic Design-Print Media - 14915 - ART 508 - HY2
+Name: Gr Graphic Design-Print Media
+CRN: 14915
+Dept: ART
+Course: 508
+Section: HY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Melissa   Martin
+)
+Line: GRGD:Branding/Packaging Design - 12795 - ART 508 - OY1
+Name: GRGD:Branding/Packaging Design
+CRN: 12795
+Dept: ART
+Course: 508
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Donna L  Greene
+)
+Line: Gr Graphic Design-Type&amp;Image - 11159 - ART 508 - OY2
+Name: Gr Graphic Design-Type&amp;Image
+CRN: 11159
+Dept: ART
+Course: 508
+Section: OY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Melissa   Martin
+)
+Line: Graduate Multimedia - 14914 - ART 509 - HY1
+Name: Graduate Multimedia
+CRN: 14914
+Dept: ART
+Course: 509
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Grad Digital Multi-media:Intro - 11149 - ART 509 - OY2
+Name: Grad Digital Multi-media:Intro
+CRN: 11149
+Dept: ART
+Course: 509
+Section: OY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Graduate Drawing - 11188 - ART 510 - HY1
+Name: Graduate Drawing
+CRN: 11188
+Dept: ART
+Course: 510
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Juan   Perdiguero
+)
+Line: Graduate Drawing-Figure - 11157 - ART 510 - HY2
+Name: Graduate Drawing-Figure
+CRN: 11157
+Dept: ART
+Course: 510
+Section: HY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 215
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Juan   Perdiguero
+)
+Line: Graduate Digital Illustration - 11146 - ART 513 - HY1
+Name: Graduate Digital Illustration
+CRN: 11146
+Dept: ART
+Course: 513
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cynthia A  Clabough
+)
+Line: Graduate Digital Illustration - 14894 - ART 513 - HY2
+Name: Graduate Digital Illustration
+CRN: 14894
+Dept: ART
+Course: 513
+Section: HY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Graduate Digital Illustration - 14896 - ART 513 - HY3
+Name: Graduate Digital Illustration
+CRN: 14896
+Dept: ART
+Course: 513
+Section: HY3
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => Tyler Hall 217
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Amy E.  Bartell
+)
+Line: Graduate Digital Illustration - 14774 - ART 513 - OY1
+Name: Graduate Digital Illustration
+CRN: 14774
+Dept: ART
+Course: 513
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Amy E.  Bartell
+)
+Line: Graduate Digital Illustration - 14775 - ART 513 - OY2
+Name: Graduate Digital Illustration
+CRN: 14775
+Dept: ART
+Course: 513
+Section: OY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 9:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Amy E.  Bartell
+)
+Line: Graduate Digital Illustration - 14778 - ART 513 - OY3
+Name: Graduate Digital Illustration
+CRN: 14778
+Dept: ART
+Course: 513
+Section: OY3
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Cynthia A  Clabough
+)
+Line: Grad Prob in Graphic Design - 14897 - ART 514 - HY1
+Name: Grad Prob in Graphic Design
+CRN: 14897
+Dept: ART
+Course: 514
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Grad Prob in Graphic Design - 10178 - ART 514 - OY1
+Name: Grad Prob in Graphic Design
+CRN: 10178
+Dept: ART
+Course: 514
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Activity
+    [instructors] => Cara B  Thompson
+)
+Line: Graduate Painting - 11154 - ART 515 - HY1
+Name: Graduate Painting
+CRN: 11154
+Dept: ART
+Course: 515
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Christopher   McEvoy
+)
+Line: Graduate Painting - 14381 - ART 515 - HY2
+Name: Graduate Painting
+CRN: 14381
+Dept: ART
+Course: 515
+Section: HY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Tyler Hall 225
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Christopher   McEvoy
+)
+Line: Graduate Web Design - 14794 - ART 517 - OY1
+Name: Graduate Web Design
+CRN: 14794
+Dept: ART
+Course: 517
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Rebecca Wendy  Mushtare
+)
+Line: Graduate Critique - 14899 - ART 519 - HY1
+Name: Graduate Critique
+CRN: 14899
+Dept: ART
+Course: 519
+Section: HY1
+Levels: Graduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Recitation or Discussion
+    [instructors] => Cara B  Thompson
+)
+Line: Graduate Critique - 14799 - ART 519 - OY1
+Name: Graduate Critique
+CRN: 14799
+Dept: ART
+Course: 519
+Section: OY1
+Levels: Graduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Recitation or Discussion
+    [instructors] => Cara B  Thompson
+)
+Line: Graduate Digital Media - 14911 - ART 523 - HY1
+Name: Graduate Digital Media
+CRN: 14911
+Dept: ART
+Course: 523
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Graduate Digital Media - 11561 - ART 523 - OY1
+Name: Graduate Digital Media
+CRN: 11561
+Dept: ART
+Course: 523
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Donna L  Greene
+)
+Line: Graduate Printmaking-Intro - 13822 - ART 525 - HY1
+Name: Graduate Printmaking-Intro
+CRN: 13822
+Dept: ART
+Course: 525
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Tyler Hall 200
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Kelly L  Roe
+)
+Line: Graduate Ceramics - 11151 - ART 530 - HY1
+Name: Graduate Ceramics
+CRN: 11151
+Dept: ART
+Course: 530
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 12:35 pm
+    [days] => TR
+    [where] => Tyler Hall 128
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Studio
+    [instructors] => Renqian   Yang
+)
+Line: Graduate Photography-Intermed - 12278 - ART 540 - OY1
+Name: Graduate Photography-Intermed
+CRN: 12278
+Dept: ART
+Course: 540
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:30 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Julieve   Jubin
+)
+Line: Grad Photo: Experimental - 11930 - ART 540 - OY2
+Name: Grad Photo: Experimental
+CRN: 11930
+Dept: ART
+Course: 540
+Section: OY2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => MW
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Studio
+    [instructors] => Julieve   Jubin
+)
+Line: Grad Creative Code Vis. Artist - 14907 - ART 548 - HY1
+Name: Grad Creative Code Vis. Artist
+CRN: 14907
+Dept: ART
+Course: 548
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => Lanigan Hall 36
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Grad Creative Code Vis. Artist - 14158 - ART 548 - OY1
+Name: Grad Creative Code Vis. Artist
+CRN: 14158
+Dept: ART
+Course: 548
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:35 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: T:RPAH: Japanese Art - 13213 - ART 571 - ON1
+Name: T:RPAH: Japanese Art
+CRN: 13213
+Dept: ART
+Course: 571
+Section: ON1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: T:RPAH: Art &amp; Architecture of - 14320 - ART 571 - ON2
+Name: T:RPAH: Art &amp; Architecture of
+CRN: 14320
+Dept: ART
+Course: 571
+Section: ON2
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa K  Langlois
+)
+Line: RP: Modern Art/Mass Culture - 11943 - ART 571 - ON3
+Name: RP: Modern Art/Mass Culture
+CRN: 11943
+Dept: ART
+Course: 571
+Section: ON3
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa A  Seppi
+)
+Line: T:RPAH: - 13218 - ART 571 - OY1
+Name: T:RPAH:
+CRN: 13218
+Dept: ART
+Course: 571
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Lisa A  Seppi
+)
+Line: Graduate Art Theory &amp; Practice - 14898 - ART 572 - HY1
+Name: Graduate Art Theory &amp; Practice
+CRN: 14898
+Dept: ART
+Course: 572
+Section: HY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => Lanigan Hall 34
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Graduate Art Theory &amp; Practice - 14160 - ART 572 - OY1
+Name: Graduate Art Theory &amp; Practice
+CRN: 14160
+Dept: ART
+Course: 572
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:00 pm - 5:00 pm
+    [days] => F
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cara B  Thompson
+)
+Line: Res Museum Studies - 14785 - ART 580 - OY1
+Name: Res Museum Studies
+CRN: 14785
+Dept: ART
+Course: 580
+Section: OY1
+Levels: Graduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Tutorial
+    [instructors] => Michael K.  Flanagan
+)
+Line: Astronomy - 10704 - AST 100 - OY1
+Name: Astronomy
+CRN: 10704
+Dept: AST
+Course: 100
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 10:10 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Shashi M  Kanbur
+)
+Line: Astronomy - 14131 - AST 100 - OY2
+Name: Astronomy
+CRN: 14131
+Dept: AST
+Course: 100
+Section: OY2
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 8:00 am - 9:20 am
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Kenneth Eric  Mauser
+)
+Line: Astronomy - 14132 - AST 100 - OY3
+Name: Astronomy
+CRN: 14132
+Dept: AST
+Course: 100
+Section: OY3
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 11:00 am
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Kenneth Eric  Mauser
+)
+Line: Astronomy - 10368 - AST 100 - OY4
+Name: Astronomy
+CRN: 10368
+Dept: AST
+Course: 100
+Section: OY4
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Scott   Roby
+)
+Line: Astronomy - 10370 - AST 100 - OY5
+Name: Astronomy
+CRN: 10370
+Dept: AST
+Course: 100
+Section: OY5
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 10:10 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => John   Zielinski
+)
+Line: Astronomy - 10369 - AST 100 - OY6
+Name: Astronomy
+CRN: 10369
+Dept: AST
+Course: 100
+Section: OY6
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => John   Zielinski
+)
+Line: T:Galaxies - 14129 - AST 310 - OY1
+Name: T:Galaxies
+CRN: 14129
+Dept: AST
+Course: 310
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Scott   Roby
+)
+Line: Solar System Astronomy - 14684 - AST 311 - OY1
+Name: Solar System Astronomy
+CRN: 14684
+Dept: AST
+Course: 311
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 11:00 am
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Scott   Roby
+)
+Line: Intro Astrophysics - 14682 - AST 405 - 800
+Name: Intro Astrophysics
+CRN: 14682
+Dept: AST
+Course: 405
+Section: 800
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 4:00 pm
+    [days] => TR
+    [where] => Shineman Center 122
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Shashi M  Kanbur
+)
+Line: General Biology Lab - 10320 - BIO 101 - OY1
+Name: General Biology Lab
+CRN: 10320
+Dept: BIO
+Course: 101
+Section: OY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 6:00 pm - 8:00 pm
+    [days] => T
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Susan   Hammerly
+)
+Line: General Biology - 10319 - BIO 101 - OY2
+Name: General Biology
+CRN: 10319
+Dept: BIO
+Course: 101
+Section: OY2
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 4:20 pm - 5:40 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Susan   Hammerly
+)
+Line: General Biology Lab - 14728 - BIO 101 - OY3
+Name: General Biology Lab
+CRN: 14728
+Dept: BIO
+Course: 101
+Section: OY3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 10:30 am - 12:30 pm
+    [days] => W
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Susan   Hammerly
+)
+Line: Biology Seminar - 11269 - BIO 110 - 800
+Name: Biology Seminar
+CRN: 11269
+Dept: BIO
+Course: 110
+Section: 800
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 3:10 pm
+    [days] => W
+    [where] => Shineman Center 174
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Seminar
+    [instructors] => Yulia   Artemenko
+)
+Line: Biology Seminar - 11946 - BIO 110 - OY1
+Name: Biology Seminar
+CRN: 11946
+Dept: BIO
+Course: 110
+Section: OY1
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 3:30 pm
+    [days] => T
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Seminar
+    [instructors] => Jinyan   Guo
+)
+Line: Molecular/Cellular FoundatiLAB - 14162 - BIO 120 - HY1
+Name: Molecular/Cellular FoundatiLAB
+CRN: 14162
+Dept: BIO
+Course: 120
+Section: HY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:40 pm
+    [days] => R
+    [where] => Shineman Center 204
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Andrew   McElwain
+)
+Line: Molecular/Cell Foundations Lab - 10593 - BIO 120 - HY2
+Name: Molecular/Cell Foundations Lab
+CRN: 10593
+Dept: BIO
+Course: 120
+Section: HY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 5:15 pm
+    [days] => W
+    [where] => Shineman Center 204
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Andrew   McElwain
+)
+Line: Molecular/Cell Foundations Lab - 10794 - BIO 120 - HY3
+Name: Molecular/Cell Foundations Lab
+CRN: 10794
+Dept: BIO
+Course: 120
+Section: HY3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:20 am - 2:20 pm
+    [days] => T
+    [where] => Shineman Center 204
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Peter   Newell
+)
+Line: Molecular/Cell Foundations Lab - 10592 - BIO 120 - HY4
+Name: Molecular/Cell Foundations Lab
+CRN: 10592
+Dept: BIO
+Course: 120
+Section: HY4
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:40 pm
+    [days] => T
+    [where] => Shineman Center 204
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Peter   Newell
+)
+Line: Molecular/Cellular Foundations - 10589 - BIO 120 - ON1
+Name: Molecular/Cellular Foundations
+CRN: 10589
+Dept: BIO
+Course: 120
+Section: ON1
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Poongodi   Geetha-Loganathan
+)
+Line: Molecular/Cellular Found Lab - 13812 - BIO 120 - ON2
+Name: Molecular/Cellular Found Lab
+CRN: 13812
+Dept: BIO
+Course: 120
+Section: ON2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Poongodi   Geetha-Loganathan
+)
+Line: Molecular/Cellular Foundations - 14164 - BIO 120 - ON3
+Name: Molecular/Cellular Foundations
+CRN: 14164
+Dept: BIO
+Course: 120
+Section: ON3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Poongodi   Geetha-Loganathan
+)
+Line: Molecular/Cell Foundations Lab - 10591 - BIO 120 - ON4
+Name: Molecular/Cell Foundations Lab
+CRN: 10591
+Dept: BIO
+Course: 120
+Section: ON4
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Suresh   Nimmagadda
+)
+Line: Molecular/Cell Foundations Lab - 10590 - BIO 120 - OY1
+Name: Molecular/Cell Foundations Lab
+CRN: 10590
+Dept: BIO
+Course: 120
+Section: OY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 5:15 pm
+    [days] => M
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Christopher H  Chandler
+)
+Line: Molecular/Cell Foundations Lab - 10594 - BIO 120 - OY2
+Name: Molecular/Cell Foundations Lab
+CRN: 10594
+Dept: BIO
+Course: 120
+Section: OY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 5:15 pm
+    [days] => W
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Susan   Hammerly
+)
+Line: Molecular/Cellular Foundations - 10950 - BIO 120 - OY3
+Name: Molecular/Cellular Foundations
+CRN: 10950
+Dept: BIO
+Course: 120
+Section: OY3
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => James A  MacKenzie
+)
+Line: Molecular/Cellular Foundations - 12131 - BIO 120 - OY4
+Name: Molecular/Cellular Foundations
+CRN: 12131
+Dept: BIO
+Course: 120
+Section: OY4
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 10:10 am
+    [days] => MWF
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Peter   Newell
+)
+Line: Human Biology - 10933 - BIO 203 - ON1
+Name: Human Biology
+CRN: 10933
+Dept: BIO
+Course: 203
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Cleane L  Medeiros
+)
+Line: Human Genetics - 14366 - BIO 211 - ON1
+Name: Human Genetics
+CRN: 14366
+Dept: BIO
+Course: 211
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Anthony L  Contento
+)
+Line: Diversity of Life - 13386 - BIO 220 - ON1
+Name: Diversity of Life
+CRN: 13386
+Dept: BIO
+Course: 220
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => C. Eric  Hellquist
+)
+Line: Diversity of Life - 12660 - BIO 220 - OY1
+Name: Diversity of Life
+CRN: 12660
+Dept: BIO
+Course: 220
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:40 am - 11:00 am
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Christopher H  Chandler
+)
+Line: T: Medical and Veterinary Ento - 14729 - BIO 301 - OY1
+Name: T: Medical and Veterinary Ento
+CRN: 14729
+Dept: BIO
+Course: 301
+Section: OY1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 1:00 pm - 2:20 pm
+    [days] => TR
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Michael J  McDonald
+)
+Line: ConsEth.TreatofNonhumanPrimate - 11234 - BIO 303 - ON1
+Name: ConsEth.TreatofNonhumanPrimate
+CRN: 11234
+Dept: BIO
+Course: 303
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Kathleen A  Blake
+)
+Line: Cellular Physiology - 10843 - BIO 309 - ON1
+Name: Cellular Physiology
+CRN: 10843
+Dept: BIO
+Course: 309
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => Poongodi   Geetha-Loganathan
+)
+Line: Microbiology - 13811 - BIO 310 - 800
+Name: Microbiology
+CRN: 13811
+Dept: BIO
+Course: 310
+Section: 800
+Levels: Undergraduate 
+Credits: 4.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:45 am - 12:40 pm
+    [days] => MWF
+    [where] => Lanigan Hall 101
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Lecture
+    [instructors] => Samuel C  McCarthy
+)
+Line: Microbiology Lab - 10667 - BIO 310 - HY1
+Name: Microbiology Lab
+CRN: 10667
+Dept: BIO
+Course: 310
+Section: HY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 11:20 am - 2:20 pm
+    [days] => R
+    [where] => Shineman Center 212
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Samuel C  McCarthy
+)
+Line: Microbiology Lab - 14389 - BIO 310 - HY2
+Name: Microbiology Lab
+CRN: 14389
+Dept: BIO
+Course: 310
+Section: HY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 4:15 pm
+    [days] => W
+    [where] => Shineman Center 212
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Samuel C  McCarthy
+)
+Line: Microbiology Lab - 10949 - BIO 310 - HY3
+Name: Microbiology Lab
+CRN: 10949
+Dept: BIO
+Course: 310
+Section: HY3
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 5:20 pm - 8:20 pm
+    [days] => W
+    [where] => Shineman Center 212
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Samuel C  McCarthy
+)
+Line: Genetics - 11267 - BIO 315 - ON1
+Name: Genetics
+CRN: 11267
+Dept: BIO
+Course: 315
+Section: ON1
+Levels: Undergraduate 
+Credits: 3.000 
+===
+Array
+(
+    [type] => Class
+    [time] => <abbr title="To Be Announced">TBA</abbr>
+    [days] => &nbsp;
+    [where] => 100% web, no face to face 
+    [dates] => Jan 25, 2021 - Apr 30, 2021
+    [schedule_type] => Lecture
+    [instructors] => David A  Dunn
+)
+Line: Laboratory in Genetics - 13805 - BIO 316 - HY1
+Name: Laboratory in Genetics
+CRN: 13805
+Dept: BIO
+Course: 316
+Section: HY1
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:40 pm
+    [days] => R
+    [where] => Shineman Center 208
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => David A  Dunn
+)
+Line: Laboratory in Genetics - 11268 - BIO 316 - HY2
+Name: Laboratory in Genetics
+CRN: 11268
+Dept: BIO
+Course: 316
+Section: HY2
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:40 pm - 5:40 pm
+    [days] => T
+    [where] => Shineman Center 208
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => David A  Dunn
+)
+Line: Laboratory in Genetics - 11266 - BIO 316 - HY3
+Name: Laboratory in Genetics
+CRN: 11266
+Dept: BIO
+Course: 316
+Section: HY3
+Levels: Undergraduate 
+Credits: 1.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 4:15 pm
+    [days] => W
+    [where] => Shineman Center 208
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => David A  Dunn
+)
+Line: Introductory Ecology Lab - 10595 - BIO 320 - HY1
+Name: Introductory Ecology Lab
+CRN: 10595
+Dept: BIO
+Course: 320
+Section: HY1
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 9:15 am - 12:15 pm
+    [days] => W
+    [where] => Rice Creek 123
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Nicholas M  Sard
+)
+Line: Introductory Ecology Lab - 13809 - BIO 320 - HY2
+Name: Introductory Ecology Lab
+CRN: 13809
+Dept: BIO
+Course: 320
+Section: HY2
+Levels: Undergraduate 
+Credits: 0.000 
+===
+Array
+(
+    [type] => Class
+    [time] => 2:15 pm - 4:15 pm
+    [days] => W
+    [where] => Rice Creek 123
+    [dates] => Jan 25, 2021 - May 07, 2021
+    [schedule_type] => Laboratory
+    [instructors] => Nicholas M  Sard
+)

@@ -36,6 +36,27 @@ class SystemUsersGrid extends Grid
     }
 }
 
+class CourseGrid extends Grid
+{
+    public function __construct()
+    {
+        $this->model = new Course();
+        $this->columns = [
+            "CourseID" => "ID",
+            "CourseName" => "Course Name",
+            'CourseDescription' => "CourseDescription",
+            'DepartmentID' => "Department ID",
+            "GraduateType" => "Graduate Type",
+            "Credits" => "Credits"
+        ];
+        try {
+            parent::__construct();
+        } catch (Exception $e) {
+            throw new Exception($e);
+        }
+    }
+}
+
 
 class Grid
 {
@@ -66,7 +87,7 @@ class Grid
             <?php foreach ($filterFields as $key => $value) { ?>
                 <div class="form-group">
                     <label for="<?= $key ?>>"><?= $value ?></label>
-                    <input type="text" class="form-control" id="<?= $key ?>" placeholder="<?= $value ?>" value="<?= $r[$key] ?>">
+                    <input type="text" class="form-control" id="<?= $key ?>" placeholder="<?= $value ?>">
                 </div>
             <?php } ?>
             <button type="submit" class="btn btn-primary">Submit</button>

@@ -169,16 +169,20 @@ class Model implements ModelInterface
         $values = "";
         foreach ($this->fields as $i => $name) {
             if ($i > 0) {
-                $fields = ", " . $fields;
-                $values = ", " . $values;
+                $fields .= ", ";
+                $values .= ", ";
             }
             $fields .= $name;
             $values .= $this->quoteValue($this->values[$name]);
-
         }
 
         $sql = "INSERT INTO {$this->table}($fields) VALUES ($values)";
-        $stmt = $this->db->prepare($sql)->execute();
+        try {
+            $stmt = $this->db->prepare($sql)->execute();
+        }
+        catch (Exception $e) {
+            throw new Exception($e->getMessage() . "SQL: ". $sql);
+        }
 
         // save the key values for updates
         foreach ($this->keyFields as $i => $name) {
@@ -218,7 +222,8 @@ class Model implements ModelInterface
     private function quoteValue($value)
     {
         if (gettype($value) === "string") {
-            return "'" . $this->db->quote($value) . "'";
+            //return "'" . $this->db->quote($value) . "'";
+            return $this->db->quote($value);
         }
         return $value;
     }
