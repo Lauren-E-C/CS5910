@@ -2,64 +2,73 @@
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 
-class TableNameForm extends Form
+class Form
 {
+    protected $method = "post";
+
+    public function getMethod()
+    {
+        return $this->method;
+    }
+
+    public function setMethod($method)
+    {
+        $this->method = $method;
+    }
+
     public function __construct()
     {
-        $this->model = new TableName();
-        $this->fields = [
-            "column_1" => "Field One"
-        ];
-        try {
-            parent::__construct();
-        } catch (Exception $e) {
-            throw new Exception($e);
+
+    }
+
+    public function showForm($fields = array())
+    { // TODO: add other input types
+        $data = array();
+        if ($_SERVER['REQUEST_METHOD'] == "POST") {
+            foreach ($fields as $index => $values) {
+                if (gettype($values) != 'array') {
+                    $values = array($index => $values);
+                }
+                foreach ($values as $key => $value) {
+                    $data[$key] = $_POST[$key];
+                }
+            }
         }
+        ?>
+        <div class="container">
+            <form action="?update" method="post">
+                <?php foreach ($fields as $index => $values) { ?>
+                    <div class="row">
+                        <?php
+                        if (gettype($values) != 'array') {
+                            $values = array($index => $values);
+                        }
+                        foreach ($values as $key => $value) {
+                            ?>
+                            <div class="col-sm form-group">
+                                <label for="<?= $key ?>>"><?= $value ?></label>
+                                <input type="text" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
+                                       placeholder="<?= $value ?>"
+                                    <?php if (isset($data[$key])) echo "value=\"$data[$key]\""; ?>
+                                >
+                            </div>
+                        <?php } ?>
+                    </div>
+                <?php } ?>
+                <input type="submit" class="btn btn-primary" value="Submit">
+            </form>
+        </div>
+        <?php
+        return (count($data) == 0) ? null : $data;
     }
 }
 
 
-class Form
-{
-    protected $model;
-    protected $fields = false;
-    protected $filters = false;
 
-    public function __construct()
-    {
-        $fields = $this->model->getFields();
+class FormField {
+    protected $label;
+}
 
-        if ($this->fields) {
-            foreach ($this->fields as $key => $value) {
-                if (array_search($key, $fields, true) === false) {
-                    throw new Exception("Column name not in table: $key");
-                }
-            }
-        } else {
-            foreach ($fields as $field) {
-                $this->fields[$field] = $field;
-            }
-        }
-    }
+class TextField extends FormField {
 
-    public function showForm()
-    {
-        $m = $this->model;
-        $primaryKey = array();
-        foreach ($m->getKeyFields() as $key => $value) {
-            $primaryKey[$key] = $_GET[$key];
-        }
-        $r = $m->get($primaryKey);
-        ?>
-        <form>
-            <?php foreach ($this->fields as $key => $value) { ?>
-            <div class="form-group">
-                <label for="<?= $key ?>>"><?= $value ?></label>
-                <input type="text" class="form-control" id="<?= $key ?>" placeholder="<?= $value ?>" value="<?= $r[$key] ?>">
-            </div>
-            <?php } ?>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-        <?php
-    }
 }
