@@ -6,7 +6,7 @@ class Course extends Model
 {
     public function __construct()
     {
-        parent::__construct("Course", "CourseID");
+        parent::__construct("Course", "coursenumber");
     }
 
 

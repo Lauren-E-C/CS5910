@@ -6,6 +6,6 @@ class Building extends Model
 {
     public function __construct()
     {
-        parent::__construct("Building", "PRIMARY_KEY");
+        parent::__construct("Building", "BuildingIDNumber");
     }
 }

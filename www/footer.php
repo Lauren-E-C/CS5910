@@ -1,10 +1,13 @@
 <?php
 // page footer
 ?>
+<br>
+<br>
+<br>
 <footer class="footer">
-    <div class="container">
+<!--    <div class="container">-->
         <span class="text-muted">Class Project - CS5910.</span>
-    </div>
+<!--    </div>-->
 </footer>
 </body>
 </html>

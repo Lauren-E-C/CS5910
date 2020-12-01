@@ -12,6 +12,7 @@ class Model implements ModelInterface
     private $keyValues = null;
     private $fields;
     private $fieldList;
+    protected $related = [];
 
     public function __construct($table, $keyFields)
     {
@@ -55,14 +56,17 @@ class Model implements ModelInterface
         }
     }
 
-    public function getValue($index)
+    public function getValue($index, $rModel = false)
     {
-        return $this->values[$index];
+        if (!$rModel) {
+            return $this->values[$index];
+        }
+        return $this->related[$rModel]->getValue($index);
     }
 
     public function setValue($index, $value)
     {
-        if (array_search($index, $this->fields, true)  === false) {
+        if (array_search($index, $this->fields, true) === false) {
             throw new Exception("Column name not in table: $index");
         }
         $this->values[$index] = $value;
@@ -73,7 +77,8 @@ class Model implements ModelInterface
         return $this->fields;
     }
 
-    public function getKeyFields() {
+    public function getKeyFields()
+    {
         return $this->keyValues;
     }
 
@@ -83,8 +88,11 @@ class Model implements ModelInterface
 
         if ($keyValues) {
             $clause = $this->makeClause($keyValues);
-            $sql .= " WHERE " . $clause;
+            if ($clause) {
+                $sql .= " WHERE " . $clause;
+            }
         }
+
         $this->statement = $this->db->prepare($sql);
         $this->db->exec($this->statement);
         $row = $this->db->fetch($this->statement);
@@ -99,13 +107,19 @@ class Model implements ModelInterface
             $this->keyValues[$name] = $this->values[$name];
         }
 
+        $this->getRelated($this->values);
         return $this->values;
+    }
+
+    public function getRelated($values)
+    {
+
     }
 
     public function next()
     {
         if ($this->statement === null) {
-            return null;
+            return false;
         }
 
         $row = $this->db->fetch($this->statement);
@@ -120,7 +134,55 @@ class Model implements ModelInterface
             $this->keyValues[$name] = $this->values[$name];
         }
 
+        $this->getRelated($this->values);
         return $this->values;
+    }
+
+    public function delete($keyValues)
+    {
+        $sql = "DELETE FROM {$this->table} WHERE ";
+
+        $clause = $this->makeClause($keyValues);
+        $sql .=  $clause;
+
+        $this->statement = $this->db->prepare($sql);
+        $this->db->exec($this->statement);
+
+    }
+
+    public function getUnique($column, $keyValues = false)
+    {
+        $sql = "SELECT distinct ($column) as $column FROM {$this->table}";
+
+        if ($keyValues) {
+            $clause = $this->makeClause($keyValues);
+            $sql .= " WHERE " . $clause;
+        }
+
+        $this->statement = $this->db->prepare($sql);
+        $this->db->exec($this->statement);
+
+        $values = array();
+        while ($row = $this->db->fetch($this->statement)) {
+            $values[] = $row[$column];
+        }
+
+        return $values;
+    }
+
+    public function getMax($column)
+    {
+        $sql = "SELECT max($column) as max FROM {$this->table}";
+
+        $this->statement = $this->db->prepare($sql);
+        $this->db->exec($this->statement);
+        $row = $this->db->fetch($this->statement);
+
+        if ($row === false) {
+            return false;
+        }
+
+        return $row;
     }
 
     public function update($values = false)
@@ -147,7 +209,7 @@ class Model implements ModelInterface
 
         $clause = $this->makeClause($this->keyValues);
         $sql = "UPDATE {$this->table} " . $set . " WHERE " . $clause;
-        var_dump($sql);
+//        var_dump($sql);
         $stmt = $this->db->prepare($sql)->execute();
 
         foreach ($this->keyFields as $i => $name) {
@@ -168,20 +230,21 @@ class Model implements ModelInterface
         $fields = "";
         $values = "";
         foreach ($this->values as $key => $value) {
-            if ($values) {
-                $fields .= ", ";
-                $values .= ", ";
+            if (isset($value)) {
+                if ($values) {
+                    $fields .= ", ";
+                    $values .= ", ";
+                }
+                $fields .= $key;
+                $values .= $this->quoteValue($value);
             }
-            $fields .= $key;
-            $values .= $this->quoteValue($value);
         }
 
         $sql = "INSERT INTO {$this->table}($fields) VALUES ($values)";
         try {
             $stmt = $this->db->prepare($sql)->execute();
-        }
-        catch (Exception $e) {
-            throw new Exception($e->getMessage() . "SQL: ". $sql);
+        } catch (Exception $e) {
+            throw new Exception($e->getMessage() . "SQL: " . $sql);
         }
 
         // save the key values for updates
@@ -202,17 +265,28 @@ class Model implements ModelInterface
         foreach ($keyValues as $keyValue) {
             foreach ($keyValue as $key => $value) {
 
-                if (array_search($key, $this->fields, true)  === false) {
+                if (substr($key, 0, 1) == ":") {
+                    continue;
+                }
+
+                if (array_search($key, $this->fields, true) === false) {
                     throw new Exception("Column name not in table: $key");
                 }
 
-                if ($return !== "") {
-                    $return = " AND " . $return;
-                }
                 if (gettype($value) === "array") {
-                    $return .= $key . " BETWEEN " . $this->quoteValue($value[0]) . " AND " . $this->quoteValue($value[1]);
+                    if ($value[0] && $value[1]) {   // TODO: Fix this to work with open ended ranges
+                        if ($return !== "") {
+                            $return .= " AND ";
+                        }
+                        $return .= $key . " BETWEEN " . $this->quoteValue($value[0]) . " AND " . $this->quoteValue($value[1]);
+                    }
                 } else {
-                    $return .= $key . " = " . $this->quoteValue($value);
+                    if ($value) {
+                        if ($return !== "") {
+                            $return .= " AND ";
+                        }
+                        $return .= $key . " = " . $this->quoteValue($value);
+                    }
                 }
             }
         }

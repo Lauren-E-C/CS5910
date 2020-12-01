@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-<?php $g = new SystemUsersGrid(); ?>
+<?php $g = new UsersGrid(); ?>
 
 <h1 style="margin: 20px; padding 20px;">System Users Table</h1>
 <p style="margin: 20px; padding 20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quodsi ipsam honestatem
@@ -11,5 +11,6 @@
     coetum quodam modo civitatis imitantur; </p>
 
 <?php $g->showGrid(); ?>
+<p style="margin: 20px; padding 20px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quodsi ipsam honestatem</p>
 <?php include 'footer.php' ?>
 

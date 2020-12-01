@@ -7,7 +7,7 @@ $fin_csv = fopen($_SERVER['DOCUMENT_ROOT'] . "/misc/courses.csv", "r");
 if (!$fin_csv) die("field to open file");
 
 $courseModel = new Course();
-$systemUser = new SystemUsers();
+$systemUser = new Users();
 $i = 0;
 
 $faulty_members = array();
@@ -20,6 +20,8 @@ $room_id = 1;
 
 while ($columns = fgetcsv($fin_csv)) {
 
+    $course_id = $columns[3];
+
     try {
         $r = [
             "CourseID" => $columns[3],
@@ -29,6 +31,8 @@ while ($columns = fgetcsv($fin_csv)) {
             "GraduateType" => $columns[5],
             "Credits" => $columns[6]
         ];
+
+
         $courseModel->create($r);
 
         $faulty_names = preg_split("/ /", $columns[13]);

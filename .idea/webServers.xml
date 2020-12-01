@@ -9,6 +9,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9dfb4e6f-6fa3-438c-8fa1-9a5fcb0894e2" name="lakeroyaluniversity.com" url="http://185.201.11.125">
+        <fileTransfer rootFolder="/domains/lakeroyaluniversity.com/public_html" host="185.201.11.125" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="631eb441-02f3-4c6b-946b-1e0d0cc1fde7" name="lakeroyaluniversity ssh" url="http://www.lakeroyaluniversity.com">
+        <fileTransfer rootFolder="/home/u684207109/public_html" accessType="SFTP" host="185.201.11.107" port="65002" sshConfigId="4cdde0ba-b9c0-4b45-8b90-a41af7179062" sshConfig="u684207109@185.201.11.107:65002 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

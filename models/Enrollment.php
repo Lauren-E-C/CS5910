@@ -6,6 +6,6 @@ class Enrollment extends Model
 {
     public function __construct()
     {
-        parent::__construct("Enrollment", "PRIMARY_KEY");
+        parent::__construct("Enrollment", ["CourseRegistrationNumber", "StudentID"]);
     }
 }
