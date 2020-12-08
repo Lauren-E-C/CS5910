@@ -26,6 +26,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 class Grid
 {
     protected $model;
+    protected $onclickPage = null;
     protected $columns = false;
     protected $filters = false;
 
@@ -49,6 +50,10 @@ class Grid
                 $this->columns[$field] = $field;
             }
         }
+    }
+
+    public function setOnclickPage($onclickPage) {
+        $this->onclickPage = $onclickPage;
     }
 
     public function showGrid($filter = false)
@@ -78,7 +83,11 @@ class Grid
                         }
                         $getVars .= $key . "=" . htmlspecialchars($value);
                     }
-                    echo "<tr onclick=\"document.location = 'links.html?" . $getVars . "';\">";
+                    if ($this->onclickPage) {
+                        echo "<tr onclick=\"document.location = '".$this->onclickPage."?" . $getVars . "';\">";
+                    } else {
+                        echo "<tr>";
+                    }
                     foreach ($this->columns as $key => $value) {
                         echo "<td>";
                         if (is_array($value)) {

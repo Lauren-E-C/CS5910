@@ -1,7 +1,16 @@
 <?php
-$roles = ['Instructor'];
-$page_title = "Assign Grade";
+$roles = ['Instructor', 'Admin'];
+$page_title = "Assign Final Grade";
 include_once 'header.php';
+
+$crn_form = new Form("get");
+$student_form = new Form("get");
+
+$student_form_data = $student_form->getValues([
+    'Student',
+    'Grade',
+    'Course'
+]);
 
 $class_list = new ClassList();
 
@@ -17,14 +26,14 @@ while ($course_crn_record) {
     $course_crn_record = $class_list->next();
 }
 
-$crn_form = new Form("get");
+
 $course_student_field = new SelectField('Course', $course_crn_values);
 $crn_form_data = $crn_form->showForm([
     'Course' => $course_student_field
 ]);
 
-if ($crn_form_data) {
-    $crn = substr($crn_form_data['Course'],0, 5);
+if ($crn_form_data || $student_form_data) {
+    $crn = substr($crn_form_data['Course'], 0, 5);
     $class_student_record = $class_list->get([
         'FacultyID' => $_SESSION["u_data"]["ID"],
         'CourseRegistrationNumber' => $crn
@@ -38,19 +47,44 @@ if ($crn_form_data) {
         $class_student_record = $class_list->next();
     }
 
-    $student_form = new Form("get");
     $course_student_field = new SelectField('Student', $course_student_values);
     $course_course_field = new HiddenField('Course', $crn);
 
+    $enrollment = new Enrollment();
+    $grade_field = new SelectField("Grade", $enrollment->getGrades());
+
     $student_form_data = $student_form->showForm([
         'Student' => $course_student_field,
-        'Grade' => "Grade",
-        'CRN' => $course_course_field
+        'Grade' => $grade_field,
+        'Course' => $course_course_field
     ]);
 
-    if ($student_form_data) {
-        print_r($student_form_data);
-        die;
+    if (isset($student_form_data['Student'])) {
+        $student_id = substr($student_form_data['Student'], 0, 6);
+        echo "<div class=\"container\">";
+        try {
+            $r = $enrollment->get([
+                'StudentID' => $student_id,
+                'CourseRegistrationNumber' => $student_form_data['Course']
+            ]);
+            if ($r) {
+                $enrollment->update([
+                    'Final_Grade' => $student_form_data['Grade']
+                ]);
+                echo "<div class=\"alert alert-success\" role=\"alert\">";
+                echo "Grade successfully assigned.";
+                echo "</div>";
+            } else {
+                echo "<div class=\"alert alert-danger\" role=\"alert\">";
+                echo "No enrollment for student: $student_id crn: {$student_form_data['Course']}";
+                echo "</div>";
+            }
+        } catch (Exception $e) {
+            echo "<div class=\"alert alert-danger\" role=\"alert\">";
+            echo $e->getMessage();
+            echo "</div>";
+        }
+        echo "</div>";
     }
 
 }

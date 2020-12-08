@@ -19,6 +19,14 @@ if (!isset($page_title)) {
                 integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf"
                 crossorigin="anonymous"></script>
 
+        <link rel="stylesheet" href="bootstrap-combobox.css">
+
+        <style>
+            .custom-select  {
+                background: none;
+            }
+        </style>
+
         <style>
             html {
                 position: relative;
@@ -115,6 +123,7 @@ if (!isset($page_title)) {
                 }
             }
         </style>
+        <script src="bootstrap-combobox.js"></script>
 
         <script>
             jQuery(document).ready(function ($) {
@@ -122,6 +131,7 @@ if (!isset($page_title)) {
                     console.log($(this).data("href"));
                     window.location = $(this).data("data-href");
                 });
+                $('.combobox').combobox();
             });
         </script>
     </head>

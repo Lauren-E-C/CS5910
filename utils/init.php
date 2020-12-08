@@ -17,13 +17,14 @@ $user_pages = [
 $user_nav = [
     'Instructor' => [
         'Advisor Management' => [
-            'View/Manage Advised Students' => '#',
+            'View/Manage Advised Students' => 'instructor_manage_student_grid.php',
         ],
         'Course Management' => [
             'View Class Roster' => 'instructor_view_roster.php',
-            'Take Attendance' => '#',
-            'Assign Midterm Grades' => 'instructor_assign_grade.php',
-            'Assign Final Grades' => '#',
+            'Take Attendance' => 'instructor_take_attendance.php',
+            'View Attendance' => 'instructor_view_attendance.php',
+            'Assign Midterm Grades' => 'instructor_assign_midterm.php',
+            'Assign Final Grades' => 'instructor_assign_final.php',
         ]
     ],
     'Admin' => [
@@ -45,6 +46,8 @@ $user_nav = [
             'Department List' => '#',
             'Create Department' => '#',
             'Edit Department' => '#',
+            'Manage Major' => 'admin_major_grid.php',
+            'Manage Minor' => 'admin_minor_grid.php',
 
         ],
         'Semester Management' => [
@@ -59,6 +62,7 @@ $user_nav = [
             'Manage Student Account' => '#',
             'Manage Faculty Account' => '#',
             'Manage Researcher Account' => '#',
+            'Unlock User Account' => 'admin_unlock_account.php',
             'Create Hold' => '#',
 
         ],
@@ -78,7 +82,7 @@ $user_nav = [
         ],
         'Courses And Sections' => [
             'Prerequisite Table' => '#',
-            'Search Master Schedule' => '#',
+            'Search Master Schedule' => 'master_schedule.php',
             'Search Course Catalog' => '#',
             'Course Catalog' => 'welcomePageOptions/viewCourseCatalog.php'
 
@@ -97,8 +101,7 @@ $user_nav = [
             'Schedule' => 'student_schedule.php',
             'Holds' => '#',
             'Degree Audit' => '#',
-            'Unofficial Transcript' => '#',
-            'Search For A Class' => '#',
+            'Unofficial Transcript' => 'student_transcript.php'
         ],
         'Advising' => [
             'Academic Advisor' => '#'
@@ -132,15 +135,25 @@ if (isset($_SERVER['DOCUMENT_ROOT'])) {
 require_once $base_dir . '/utils/Database.php';
 require_once $base_dir . '/utils/ModelInterface.php';
 require_once $base_dir . '/utils/Model.php';
+require_once $base_dir . '/utils/Grid.php';
+require_once $base_dir . '/utils/Form.php';
+
 require_once $base_dir . '/models/Users.php';
 require_once $base_dir . '/models/Faculty.php';
 require_once $base_dir . '/models/ClassList.php';
 require_once $base_dir . '/models/Enrollment.php';
 require_once $base_dir . '/models/Course.php';
+require_once $base_dir . '/models/Advisor.php';
+require_once $base_dir . '/models/Holds.php';
+require_once $base_dir . '/models/Major.php';
+require_once $base_dir . '/models/MajorRequirements.php';
+require_once $base_dir . '/models/Minor.php';
+require_once $base_dir . '/models/MinorRequirements.php';
+require_once $base_dir . '/models/Department.php';
+require_once $base_dir . '/models/StudentHolds.php';
+require_once $base_dir . '/models/Attendance.php';
 require_once $base_dir . '/models/TimeSlot.php';
 require_once $base_dir . '/models/Building.php';
 require_once $base_dir . '/models/Section.php';
 require_once $base_dir . '/models/Room.php';
 require_once $base_dir . '/models/Department.php';
-require_once $base_dir . '/utils/Grid.php';
-require_once $base_dir . '/utils/Form.php';

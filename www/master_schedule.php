@@ -1,5 +1,5 @@
 <?php
-$roles = ['Student', 'Admin'];
+$roles = ['Student', 'Admin', 'Researcher'];
 $page_title = "Master Schedule";
 include 'header.php';
 

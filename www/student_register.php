@@ -4,10 +4,7 @@ $page_title = "Class Registration";
 include 'header.php';
 
 $f = new Form();
-?>
 
-<h1><?= $page_title ?></h1>
-<?php
 $d = $f->showForm([
     "crn_1" => "Course Registration Number",
     "crn_2" => "Course Registration Number",
@@ -102,7 +99,5 @@ function class_register($crn)
 }
 
 include 'footer.php';
-
-
 ?>
 

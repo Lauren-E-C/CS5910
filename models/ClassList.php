@@ -9,17 +9,6 @@ class ClassList extends Model
         parent::__construct("ClassList", ["StudentID", "CourseRegistrationNumber"]);
     }
 
-
-//X CRN
-//X Department
-//X Course Number
-//X Course Section
-//X Course Name
-//Room Number
-//X Instructor
-//Day
-//Time
-
     public function getRelated($values)
     {
         $this->related = [];
@@ -51,6 +40,14 @@ class ClassList extends Model
         ]);
         if (!$x) echo "Course $key does not exist";
         $this->related['Course'] = $course;
+
+        $enrollment = new Enrollment();
+        $x = $enrollment->get([
+            'StudentID' => $values['StudentID'],
+            'CourseRegistrationNumber' => $values['CourseRegistrationNumber']
+        ]);
+        if (!$x) echo "Enrollment not found: " . $values['StudentID'] . " " . $values['CourseRegistrationNumber'];
+        $this->related['Enrollment'] = $enrollment;
 
         $timeslot = new TimeSlot();
         $key = $section->getValue('TimeSlotNum');

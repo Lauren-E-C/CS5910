@@ -24,6 +24,16 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
                 }
                 header("Location: $page");
                 exit;
+            } elseif ($u && $u["pWord"] != $password ) {
+                $failedLogins = $user->getValue('failedLogins');
+                $failedLogins++;
+                $user->setValue('failedLogins', $failedLogins);
+                if ($failedLogins > 2) {
+                    $user->setValue('uLocked', 'Yes');
+                }
+                $user->update();
+            } elseif ($u && $u["uLocked"] == "Yes") {
+                $err = "Account locked";
             }
         }
     }

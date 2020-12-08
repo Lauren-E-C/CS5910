@@ -6,6 +6,19 @@ class MajorRequirements extends Model
 {
     public function __construct()
     {
-        parent::__construct("MajorRequirements", "PRIMARY_KEY");
+        parent::__construct("MajorRequirements", ['MajorName', 'CourseID']);
+    }
+
+    public function getRelated($values)
+    {
+        $this->related = [];
+
+        $section = new Course();
+        $key = $values['CourseID'];
+        $x = $section->get([
+            'courseID' => $key
+        ]);
+        if (!$x) echo "Course $key does not exist";
+        $this->related['Course'] = $section;
     }
 }

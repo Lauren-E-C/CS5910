@@ -96,7 +96,7 @@ while ($columns = fgetcsv($fin_csv)) {
             "RoomID" => $roomID,
             "BuildingName" => $buildingName,
             "SeatsCapacity" => 30,
-            "Semester" => "Spring",
+            "Semester" => "Spring", // TODO: change for future runs
             "Year" => 2021, // TODO: change for future runs
             "TimeSlotNum" => $timeslotID
         ]);

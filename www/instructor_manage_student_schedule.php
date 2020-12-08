@@ -1,21 +1,21 @@
 <?php
-$roles = ['Student'];
-$page_title = "Schedule";
-include_once 'header.php';
+include_once 'instructor_manage_student_header.php';
 
 $term_form = new Form("get");
 
 $class_list = new ClassList();
 $terms = $class_list->getUnique('TermNumber', [
-    'StudentID' => $_SESSION["u_data"]["ID"]
+    'StudentID' => $student_id
 ]);
 
 $term_field = new SelectField("Term", $terms);
+$student_field = new HiddenField("StudentID", $student_id);
 $term_data = $term_form->showForm([
+    'StudentID' => $student_field,
     'Term' => $term_field
 ]);
 
-if ($term_data) {
+if (isset($_GET['Term'])) {
     $term = $term_data['Term'];
     $year = substr($term, -4, 4);
     $semester = substr($term, 0, strlen($term) - 4);
@@ -32,16 +32,15 @@ if ($term_data) {
         ':r_08' => ['Days', 'TimeSlot', 'DaysOfWeek'],
         ':r_09' => ['Start Time', 'TimeSlot', 'StartTime'],
         ':r_10' => ['End Time', 'TimeSlot', 'EndTime'],
-
     ]);
 
     $grid->showGrid([
-        'StudentID' => $_SESSION["u_data"]["ID"],
+        'StudentID' => $student_id,
         'TermNumber' => $term
     ]);
 }
 
 
-?>
 
-<?php include_once 'footer.php' ?>
+include_once 'footer.php';
+

@@ -20,47 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10a0f636-8d88-4291-8c8a-3f8e6b665a54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/www/instructor_assign_grade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/instructor_view_roster.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/student_drop_class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/student_register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/student_schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_major_add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_major_edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_major_grid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_major_requirement_add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_major_requirement_edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_student_major_grid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_unlock_account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/admin_unlock_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/instructor_manage_student_audit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/instructor_view_attendance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/student_transcript.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/133dbb34-655e-49d6-aacf-34e09959ad14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/133dbb34-655e-49d6-aacf-34e09959ad14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/load_courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/misc/load_courses.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/misc/load_section.php" beforeDir="false" afterPath="$PROJECT_DIR$/misc/load_section.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/misc/parse_class_schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/misc/parse_class_schedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Building.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Building.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Advisor.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Advisor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Attendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Attendance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/ClassList.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/ClassList.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Course.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Course.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Department.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Department.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/Enrollment.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Enrollment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Holds.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Holds.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Major.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Major.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/MajorRequirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/MajorRequirements.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Minor.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Minor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/MinorRequirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/MinorRequirements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/Room.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Room.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Section.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Section.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/TimeSlot.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/TimeSlot.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Users.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Users.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/StudentHolds.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/StudentHolds.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Grid.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/Model.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/utils/init.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/denied.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/denied.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/instructor_assign_grade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/master_schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/master_schedule.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/section_grid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/system_users.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/system_users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/student_register.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/student_register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/student_schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/student_schedule.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/welcomeAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/welcomeAdmin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/welcomeFaculty.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/welcomeFaculty.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/welcomeResearcher.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/welcomeResearcher.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/welcomeStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/welcomeStudent.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +94,9 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql/data/coursecatalog.csv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/misc/MOCK_DATA-Majors.csv" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/www" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -119,7 +117,7 @@
       <workItem from="1602884922133" duration="26485000" />
       <workItem from="1602962948673" duration="3933000" />
       <workItem from="1603388454884" duration="102014000" />
-      <workItem from="1606527462673" duration="49110000" />
+      <workItem from="1606527462673" duration="123295000" />
     </task>
     <servers />
   </component>
@@ -139,10 +137,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="377" key="#Deployment" timestamp="1604628352288">
+    <state x="560" y="377" key="#Deployment" timestamp="1606865346568">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="560" y="377" key="#Deployment/0.0.2560.1410@0.0.2560.1410" timestamp="1604628352288" />
+    <state x="560" y="377" key="#Deployment/0.0.2560.1410@0.0.2560.1410" timestamp="1606865346568" />
     <state x="939" y="367" key="#Options" timestamp="1603388510195">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -188,62 +186,62 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="453" y="463" key="DUMP_DIALOG_DIMENSION_KEY/0.0.2560.1410@0.0.2560.1410" timestamp="1603390192111" />
-    <state x="100" y="100" width="1080" height="1210" key="DiffContextDialog" timestamp="1602956492319">
+    <state x="100" y="100" width="1080" height="1210" key="DiffContextDialog" timestamp="1606875805862">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="100" y="100" width="1080" height="1210" key="DiffContextDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602956492319" />
-    <state x="667" y="224" width="1200" height="1151" key="DirDiffDialog" timestamp="1606528803901">
+    <state x="100" y="100" width="1080" height="1210" key="DiffContextDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606875805862" />
+    <state x="667" y="224" width="1200" height="1151" key="DirDiffDialog" timestamp="1607215352180">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="667" y="224" width="1200" height="1151" key="DirDiffDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606528803901" />
-    <state x="1068" y="463" key="FileChooserDialogImpl" timestamp="1604526692605">
+    <state x="667" y="224" width="1200" height="1151" key="DirDiffDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1607215352180" />
+    <state x="1068" y="463" key="FileChooserDialogImpl" timestamp="1607123815633">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1068" y="463" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1604526692605" />
+    <state x="1068" y="463" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1607123815633" />
     <state x="1160" y="605" key="Github.ShareDialog" timestamp="1602884585484">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1160" y="605" key="Github.ShareDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1602884585484" />
-    <state width="1739" height="204" key="GridCell.Tab.0.bottom" timestamp="1606865048001">
+    <state width="1739" height="204" key="GridCell.Tab.0.bottom" timestamp="1607220464011">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1739" height="204" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1606865048001" />
-    <state width="1739" height="204" key="GridCell.Tab.0.center" timestamp="1606865047999">
+    <state width="1739" height="204" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1607220464011" />
+    <state width="1739" height="204" key="GridCell.Tab.0.center" timestamp="1607220464010">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1739" height="204" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1606865047999" />
-    <state width="1739" height="204" key="GridCell.Tab.0.left" timestamp="1606865047999">
+    <state width="1739" height="204" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1607220464010" />
+    <state width="1739" height="204" key="GridCell.Tab.0.left" timestamp="1607220464010">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1739" height="204" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1606865047999" />
-    <state width="1739" height="204" key="GridCell.Tab.0.right" timestamp="1606865048000">
+    <state width="1739" height="204" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1607220464010" />
+    <state width="1739" height="204" key="GridCell.Tab.0.right" timestamp="1607220464011">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1739" height="204" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1606865048000" />
+    <state width="1739" height="204" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1607220464011" />
     <state width="201" height="500" key="HiddenNamespacesPopup" timestamp="1602888719678">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="201" height="500" key="HiddenNamespacesPopup/0.0.2560.1410@0.0.2560.1410" timestamp="1602888719678" />
-    <state x="403" y="557" key="NewPhpClassDialog" timestamp="1604515935769">
+    <state x="403" y="557" key="NewPhpClassDialog" timestamp="1607220487845">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="403" y="557" key="NewPhpClassDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1604515935769" />
-    <state x="642" y="634" width="351" height="148" key="NewPhpFileDialog" timestamp="1606845183890">
+    <state x="403" y="557" key="NewPhpClassDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1607220487845" />
+    <state x="642" y="634" width="351" height="148" key="NewPhpFileDialog" timestamp="1607398198340">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="642" y="634" width="351" height="148" key="NewPhpFileDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606845183890" />
-    <state x="523" y="584" width="323" height="247" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1604546725105">
+    <state x="642" y="634" width="351" height="148" key="NewPhpFileDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1607398198340" />
+    <state x="971" y="527" width="419" height="314" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607130080983">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="523" y="584" width="323" height="247" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2560.1410@0.0.2560.1410" timestamp="1604546725105" />
-    <state x="658" y="595" width="303" height="220" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1604598360666">
+    <state x="971" y="527" width="419" height="314" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2560.1410@0.0.2560.1410" timestamp="1607130080983" />
+    <state x="658" y="595" width="303" height="220" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1607130014411">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="658" y="595" width="303" height="220" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1604598360666" />
-    <state x="353" y="363" key="com.intellij.database.dbimport.ImportDialog" timestamp="1604526694668">
+    <state x="658" y="595" width="303" height="220" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1607130014411" />
+    <state x="353" y="363" key="com.intellij.database.dbimport.ImportDialog" timestamp="1607123823679">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="353" y="363" key="com.intellij.database.dbimport.ImportDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1604526694668" />
+    <state x="353" y="363" key="com.intellij.database.dbimport.ImportDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1607123823679" />
     <state x="1018" y="513" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1604522194621">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -252,10 +250,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1067" y="523" width="425" height="360" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1604596594828" />
-    <state x="591" y="420" width="485" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604598387548">
+    <state x="996" y="431" width="485" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606961130481">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="591" y="420" width="485" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1604598387548" />
+    <state x="996" y="431" width="485" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606961130481" />
     <state x="935" y="319" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605065857981">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

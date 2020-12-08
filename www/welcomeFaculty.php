@@ -1,9 +1,8 @@
 <?php
 $roles = ['Instructor'];
+$page_title = "Welcome Instructor";
 include 'header.php';
 ?>
-
-<h1>Welcome Instructor</h1>
 
 <?php include 'footer.php' ?>
 

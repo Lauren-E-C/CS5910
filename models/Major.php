@@ -6,6 +6,17 @@ class Major extends Model
 {
     public function __construct()
     {
-        parent::__construct("Major", "PRIMARY_KEY");
+        parent::__construct("Major", "MajorName");
+    }
+
+    public function getRelated($values)
+    {
+        $this->related = [];
+
+        $department = new Department();
+        $department->get([
+            'DepartmentID' => $values['DepartmentID']
+        ]);
+        $this->related['Department'] = $department;
     }
 }

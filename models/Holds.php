@@ -6,6 +6,6 @@ class Holds extends Model
 {
     public function __construct()
     {
-        parent::__construct("Holds", "PRIMARY_KEY");
+        parent::__construct("Holds", "HoldName");
     }
 }

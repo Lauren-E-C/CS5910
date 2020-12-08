@@ -17,6 +17,7 @@ class Model implements ModelInterface
     public function __construct($table, $keyFields)
     {
         $this->table = $table;
+
         if (gettype($keyFields) === "string") {
             $this->keyFields = array($keyFields);
         } else {
@@ -143,7 +144,7 @@ class Model implements ModelInterface
         $sql = "DELETE FROM {$this->table} WHERE ";
 
         $clause = $this->makeClause($keyValues);
-        $sql .=  $clause;
+        $sql .= $clause;
 
         $this->statement = $this->db->prepare($sql);
         $this->db->exec($this->statement);
@@ -201,15 +202,17 @@ class Model implements ModelInterface
 
         $set = "SET ";
         foreach ($this->fields as $i => $name) {
-            if ($i > 0) {
-                $set = ", " . $set;
+            if ($this->values[$name] !== null) {
+                if ($i > 0) {
+                    $set = $set . ", ";
+                }
+                $set .= $name . "=" . $this->quoteValue($this->values[$name]);
             }
-            $set .= $name . "=" . $this->quoteValue($this->values[$name]);
         }
 
         $clause = $this->makeClause($this->keyValues);
         $sql = "UPDATE {$this->table} " . $set . " WHERE " . $clause;
-//        var_dump($sql);
+        var_dump($sql);
         $stmt = $this->db->prepare($sql)->execute();
 
         foreach ($this->keyFields as $i => $name) {
@@ -270,11 +273,11 @@ class Model implements ModelInterface
                 }
 
                 if (array_search($key, $this->fields, true) === false) {
-                    throw new Exception("Column name not in table: $key");
+                    throw new Exception("Column name: $key not in table: " . $this->table);
                 }
 
                 if (gettype($value) === "array") {
-                    if ($value[0] && $value[1]) {   // TODO: Fix this to work with open ended ranges
+                    if ($value[0] && $value[1]) {
                         if ($return !== "") {
                             $return .= " AND ";
                         }

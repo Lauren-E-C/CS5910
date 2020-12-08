@@ -5,6 +5,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 class Form
 {
     protected $method = "post";
+    private $data = null;
 
     public function getMethod()
     {
@@ -41,34 +42,43 @@ class Form
         return (count($data) == 0) ? null : $data;
     }
 
+    public function setValues($data) {
+        $this->data = $data;
+    }
+
     public function showForm($fields = array())
     {
+
         $data = array();
-        if ($_SERVER['REQUEST_METHOD'] == "POST") {
-            foreach ($fields as $index => $values) {
-                if (gettype($values) != 'array') {
-                    $values = array($index => $values);
-                }
-                foreach ($values as $key => $value) {
-                    $data[$key] = $_POST[$key];
+        if ($this->data) {
+            $data = $this->data;
+        } else {
+            if ($_SERVER['REQUEST_METHOD'] == "POST") {
+                foreach ($fields as $index => $values) {
+                    if (gettype($values) != 'array') {
+                        $values = array($index => $values);
+                    }
+                    foreach ($values as $key => $value) {
+                        $data[$key] = $_POST[$key];
+                    }
                 }
             }
-        }
-        if ($_SERVER['REQUEST_METHOD'] == "GET") {
-            foreach ($fields as $index => $values) {
-                if (gettype($values) != 'array') {
-                    $values = array($index => $values);
-                }
-                foreach ($values as $key => $value) {
-                    if (isset($_GET[$key])) {
-                        $data[$key] = $_GET[$key];
+            if ($_SERVER['REQUEST_METHOD'] == "GET") {
+                foreach ($fields as $index => $values) {
+                    if (gettype($values) != 'array') {
+                        $values = array($index => $values);
+                    }
+                    foreach ($values as $key => $value) {
+                        if (isset($_GET[$key])) {
+                            $data[$key] = $_GET[$key];
+                        }
                     }
                 }
             }
         }
         ?>
         <div class="container">
-            <form action="?update" method="<?= $this->method ?>">
+            <form action="?save" method="<?= $this->method ?>">
                 <fieldset>
                     <?php foreach ($fields as $index => $values) { ?>
                         <div class="row">
@@ -101,6 +111,7 @@ class Form
 abstract class FormField
 {
     protected $label;
+    protected $default_value = null;
 
     public function __construct($label = false)
     {
@@ -119,6 +130,10 @@ abstract class FormField
         $this->label = $label;
     }
 
+    public function setValue($value) {
+        $this->default_value = $value;
+    }
+
     abstract function generate($data, $key);
 }
 
@@ -129,6 +144,20 @@ class TextField extends FormField
         <div class="col-sm form-group">
             <label for="<?= $key ?>"><?= $this->label ?></label>
             <input type="text" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
+                   placeholder="<?= $this->label ?>"
+                <?php if (isset($data[$key])) echo "value=\"$data[$key]\""; ?>
+            >
+        </div>
+    <?php }
+}
+
+class ReadOnlyField extends FormField
+{
+    function generate($data, $key)
+    { ?>
+        <div class="col-sm form-group">
+            <label for="<?= $key ?>"><?= $this->label ?></label>
+            <input type="text" readonly="readonly" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
                    placeholder="<?= $this->label ?>"
                 <?php if (isset($data[$key])) echo "value=\"$data[$key]\""; ?>
             >
@@ -157,7 +186,11 @@ class HiddenField extends FormField
 class DateField extends FormField
 {
     function generate($data, $key)
-    { ?>
+    {
+        if (!isset($data[$key]) && $this->default_value !== null) {
+            $data[$key] = $this->default_value;
+        }
+        ?>
         <div class="col-sm form-group">
             <label for="<?= $key ?>"><?= $this->label ?></label>
             <input type="date" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
@@ -171,7 +204,6 @@ class DateField extends FormField
 class SelectField extends FormField
 {
     protected $values = array();
-    protected $selectedValue = false;
 
     public function __construct($label = false, $values = false)
     {
@@ -189,8 +221,8 @@ class SelectField extends FormField
         } ?>
         <div class="col-sm form-group">
             <label for="<?= $key ?>"><?= $this->label ?></label>
-            <select class="custom-select" id="<?= $key ?>" name="<?= $key ?>">
-                <option <?php if (!$v) echo "selected " ?>><?= $key ?>...</option>
+            <select class="combobox custom-select" id="<?= $key ?>" name="<?= $key ?>">
+                <option <?php if (!$v) echo "selected " ?>><?= $this->label ?>...</option>
                 <?php foreach ($this->values as $value) { ?>
                     <option <?php if ($v && $v == $value) echo "selected " ?>
                             value="<?= $value ?>"><?= $value ?></option>

@@ -6,6 +6,19 @@ class StudentHolds extends Model
 {
     public function __construct()
     {
-        parent::__construct("StudentHolds", "PRIMARY_KEY");
+        parent::__construct("StudentHolds", "StudentID");
+    }
+
+    public function getRelated($values)
+    {
+        $this->related = [];
+
+        $section = new Holds();
+        $key = $values['HoldName'];
+        $x = $section->get([
+            'HoldName' => $key
+        ]);
+        if (!$x) echo "Holds $key does not exist";
+        $this->related['Holds'] = $section;
     }
 }
