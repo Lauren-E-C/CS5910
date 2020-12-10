@@ -83,6 +83,18 @@ class Model implements ModelInterface
         return $this->keyValues;
     }
 
+    public function getKeyValues($key, $value, $filter = false)
+    {
+        $values = array();
+
+        $record = $this->get($filter);  // get first record
+        while ($record) {   // loop until no more data
+            $values[$this->getValue($key)] = $this->getValue($value);
+            $record = $this->next();
+        }
+        return $values;
+    }
+
     public function get($keyValues = false)
     {
         $sql = "SELECT {$this->fieldList} FROM {$this->table}";
@@ -115,6 +127,11 @@ class Model implements ModelInterface
     public function getRelated($values)
     {
 
+    }
+
+    public function getRelatedModel($model)
+    {
+        return $this->related[$model];
     }
 
     public function next()
@@ -212,7 +229,7 @@ class Model implements ModelInterface
 
         $clause = $this->makeClause($this->keyValues);
         $sql = "UPDATE {$this->table} " . $set . " WHERE " . $clause;
-        var_dump($sql);
+//        var_dump($sql);
         $stmt = $this->db->prepare($sql)->execute();
 
         foreach ($this->keyFields as $i => $name) {

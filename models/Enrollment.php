@@ -33,9 +33,9 @@ class Enrollment extends Model
         return $grades;
     }
 
-    private function computeQuality($grade)
+    public function computeQuality($grade)
     {
-        if (!isset($this->quality_points[$grade])) throw new Exception("Invalid grade");
+        if (!isset($this->quality_points[$grade])) throw new Exception("Invalid grade: $grade ");
 
         return $this->quality_points[$grade];
     }

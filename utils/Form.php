@@ -6,6 +6,7 @@ class Form
 {
     protected $method = "post";
     private $data = null;
+    private $disabled = false;
 
     public function getMethod()
     {
@@ -15,6 +16,14 @@ class Form
     public function setMethod($method)
     {
         $this->method = $method;
+    }
+
+    /**
+     * @param bool $disabled
+     */
+    public function setDisabled($disabled)
+    {
+        $this->disabled = $disabled;
     }
 
     public function __construct($method = "post")
@@ -42,7 +51,8 @@ class Form
         return (count($data) == 0) ? null : $data;
     }
 
-    public function setValues($data) {
+    public function setValues($data)
+    {
         $this->data = $data;
     }
 
@@ -59,6 +69,7 @@ class Form
                         $values = array($index => $values);
                     }
                     foreach ($values as $key => $value) {
+                        if (!isset($_POST[$key])) throw new Exception("Key $key not in _POST");
                         $data[$key] = $_POST[$key];
                     }
                 }
@@ -79,7 +90,12 @@ class Form
         ?>
         <div class="container">
             <form action="?save" method="<?= $this->method ?>">
-                <fieldset>
+                <fieldset
+                    <?php
+                    if ($this->disabled == true)
+                        echo " disabled=\"disabled\" ";
+                    ?>
+                >
                     <?php foreach ($fields as $index => $values) { ?>
                         <div class="row">
                             <?php
@@ -130,7 +146,8 @@ abstract class FormField
         $this->label = $label;
     }
 
-    public function setValue($value) {
+    public function setValue($value)
+    {
         $this->default_value = $value;
     }
 
@@ -150,7 +167,19 @@ class TextField extends FormField
         </div>
     <?php }
 }
-
+class TextAreaField extends FormField
+{
+    function generate($data, $key)
+    { ?>
+        <div class="col-sm form-group">
+            <label for="<?= $key ?>"><?= $this->label ?></label>
+            <input type="text" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
+                   placeholder="<?= $this->label ?>"
+                <?php if (isset($data[$key])) echo "value=\"$data[$key]\""; ?>
+            >
+        </div>
+    <?php }
+}
 class ReadOnlyField extends FormField
 {
     function generate($data, $key)
@@ -222,10 +251,40 @@ class SelectField extends FormField
         <div class="col-sm form-group">
             <label for="<?= $key ?>"><?= $this->label ?></label>
             <select class="combobox custom-select" id="<?= $key ?>" name="<?= $key ?>">
-                <option <?php if (!$v) echo "selected " ?>><?= $this->label ?>...</option>
                 <?php foreach ($this->values as $value) { ?>
                     <option <?php if ($v && $v == $value) echo "selected " ?>
                             value="<?= $value ?>"><?= $value ?></option>
+                <?php } ?>
+            </select>
+        </div>
+
+    <?php }
+}
+
+class KeyValueField extends FormField
+{
+    protected $values = array();
+
+    public function __construct($label = false, $values = false)
+    {
+        if ($values) {
+            $this->values = $values;
+        }
+        parent::__construct($label);
+    }
+
+    function generate($data, $index)
+    {
+        $k = "";
+        if (isset($data[$index])) {
+            $k = $data[$index];
+        } ?>
+        <div class="col-sm form-group">
+            <label for="<?= $index ?>"><?= $this->label ?></label>
+            <select class="custom-select" id="<?= $index ?>" name="<?= $index ?>">
+                <?php foreach ($this->values as $key => $value) { ?>
+                    <option <?php if ($k && $k == $key) echo "selected " ?>
+                            value="<?= $key ?>"><?= $value ?></option>
                 <?php } ?>
             </select>
         </div>

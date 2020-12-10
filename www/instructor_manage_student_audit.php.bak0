@@ -1,0 +1,77 @@
+<?php
+include_once 'instructor_manage_student_header.php';
+
+$student_id = null;
+
+if (isset($_GET['StudentID'])) {
+    $student_id = $_GET['StudentID'];
+} else {
+    $student_id = $_POST['StudentID'];
+}
+
+$student_major = new StudentMajor();
+$student_major_record = $student_major->get([
+    'StudentID' => $student_id
+]);
+
+if (!$student_major_record) {
+    echo "Student has not declared major<br>";
+} else {
+    $student_major_name = $student_major_record['MajorName'];
+}
+
+$enrollments = array();
+$enrollment = new Enrollment();
+for ($enrollment_record = $enrollment->get(['StudentID' => $student_id]); $enrollment_record; $enrollment_record = $enrollment->next()) {
+    $enrollment_record['Section'] = $enrollment->getRelatedModel('Section')->getValues();
+    $enrollment_record['Course'] = $enrollment->getRelatedModel('Course')->getValues();
+    $course_id = $enrollment->getValue('CourseID', 'Section');
+    $enrollments[$course_id] = $enrollment_record;
+//    var_dump($enrollments[$course_id]);
+}
+?>
+<div class="container">
+    <table class="table">
+        <caption style="caption-side: top;">Major: <?= $student_major_name ?></caption>
+        <thead>
+        <tr>
+            <th>Requirement</th>
+            <th>Grade Received</th>
+            <th>Minimum Grade</th>
+            <th>Filled?</th>
+        </tr>
+        </thead>
+        <tbody>
+
+
+        <?php
+        // retrieve all of the requirements for the student's major
+        $major_requirements = new MajorRequirements();
+        for ($major_requirements_record = $major_requirements->get(['MajorName' => $student_major_name]); $major_requirements_record; $major_requirements_record = $major_requirements->next()) {
+            $course_id = $major_requirements_record['CourseID'];
+
+            $course_name = $major_requirements->getValue('coursename', 'Course');
+
+            $fulfilled = 'No';
+            $grade_received = "Not taken";
+            if (isset($enrollments[$course_id])) {
+                $grade_received = $enrollments[$course_id]['Final_Grade'];
+
+            }
+
+            $grade_required = $major_requirements->getValue('GradeRequirement');
+
+            $fulfilled = 'No';
+            ?>
+            <tr>
+                <td><?= $course_name ?></td>
+                <td><?= $grade_received ?></td>
+                <td><?= $grade_required ?></td>
+                <td><?= $fulfilled ?></td>
+            </tr>
+            <?php
+        }
+        ?>
+        </tbody>
+    </table>
+</div>

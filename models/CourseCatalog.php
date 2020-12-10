@@ -2,10 +2,10 @@
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/utils/init.php';
 
-class StudentMajor extends Model
+class CourseCatalog extends Model
 {
     public function __construct()
     {
-        parent::__construct("StudentMajor", "StudentID");
+        parent::__construct("CourseCatalog", "courseID");
     }
 }

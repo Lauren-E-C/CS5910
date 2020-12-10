@@ -110,7 +110,11 @@ $user_nav = [
 
 ];
 
-if ($_SERVER['SCRIPT_URL'] != "/www/login.php" && $_SERVER['SCRIPT_URL'] != "/www/denied.php") {
+if (!isset($roles)) {
+    $roles = null;
+}
+
+if ($roles !== null && $_SERVER['SCRIPT_URL'] != "/www/login.php" && $_SERVER['SCRIPT_URL'] != "/www/denied.php") {
     if (!isset($roles)) {
         $roles = [];
     }
@@ -146,8 +150,10 @@ require_once $base_dir . '/models/Course.php';
 require_once $base_dir . '/models/Advisor.php';
 require_once $base_dir . '/models/Holds.php';
 require_once $base_dir . '/models/Major.php';
+require_once $base_dir . '/models/StudentMajor.php';
 require_once $base_dir . '/models/MajorRequirements.php';
 require_once $base_dir . '/models/Minor.php';
+require_once $base_dir . '/models/StudentMinor.php';
 require_once $base_dir . '/models/MinorRequirements.php';
 require_once $base_dir . '/models/Department.php';
 require_once $base_dir . '/models/StudentHolds.php';
