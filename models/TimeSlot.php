@@ -20,4 +20,17 @@ class TimeSlot extends Model
     {
         parent::__construct("TimeSlotNew", "ID");
     }
+
+    public function getKeyValues($key, $value, $filter = false)
+    {
+        $values = array();
+
+        $record = $this->get($filter);  // get first record
+        while ($record) {   // loop until no more data
+            $values[$this->getValue($key)] = $this->getValue('DaysOfWeek') . ': ' . $this->getValue('StartTime') . '-' . $this->getValue('EndTime');
+            $record = $this->next();
+        }
+        return $values;
+    }
+
 }

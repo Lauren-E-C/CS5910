@@ -22,7 +22,7 @@ if (!isset($page_title)) {
         <link rel="stylesheet" href="bootstrap-combobox.css">
 
         <style>
-            .custom-select  {
+            .combobox.custom-select  {
                 background: none;
             }
         </style>

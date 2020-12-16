@@ -8,4 +8,21 @@ class Department extends Model
     {
         parent::__construct("Department", "DepartmentID");
     }
+
+    public function getRelated($values)
+    {
+        $this->related = [];
+
+        $chairperson = new Users();
+        $chairperson->get([
+            'ID' => $values['ChairpersonID']
+        ]);
+        $this->related['Chairperson'] = $chairperson;
+
+        $manager = new Users();
+        $manager->get([
+            'ID' => $values['ManagerID']
+        ]);
+        $this->related['Manager'] = $manager;
+    }
 }

@@ -88,13 +88,16 @@ class Grid
                     } else {
                         echo "<tr>";
                     }
+
+                    #preg_replace($pattern, $replacement, $string);
+
                     foreach ($this->columns as $key => $value) {
                         echo "<td>";
                         if (is_array($value)) {
                             // ['Student ID', 'Student', 'lastName'],
-                            echo $m->getValue($value[2], $value[1]);
+                            echo preg_replace('/00:00:00/','' , $m->getValue($value[2], $value[1]));
                         } else {
-                            echo $m->getValue($key);
+                            echo preg_replace('/00:00:00/','' ,$m->getValue($key));
                         }
                         echo "</td>";
                     }

@@ -1024,590 +1024,709 @@
       <ObjectGrants>ALL PRIVILEGES|u684207109_cs5910:null
 </ObjectGrants>
     </user>
-    <table id="327" parent="3" name="Advisor"/>
-    <table id="328" parent="3" name="Attendance"/>
-    <table id="329" parent="3" name="Building"/>
-    <table id="330" parent="3" name="ClassList"/>
-    <table id="331" parent="3" name="Course"/>
-    <table id="332" parent="3" name="CourseHistoryOfStudent"/>
-    <table id="333" parent="3" name="Day"/>
-    <table id="334" parent="3" name="DayOfSection"/>
-    <table id="335" parent="3" name="DayOfTimeSlot"/>
-    <table id="336" parent="3" name="Department"/>
-    <table id="337" parent="3" name="Enrollment"/>
-    <table id="338" parent="3" name="Faculty"/>
-    <table id="339" parent="3" name="FacultyFullTime"/>
-    <table id="340" parent="3" name="FacultyPartTime"/>
-    <table id="341" parent="3" name="Holds"/>
-    <table id="342" parent="3" name="Major"/>
-    <table id="343" parent="3" name="MajorRequirements"/>
-    <table id="344" parent="3" name="Minor"/>
-    <table id="345" parent="3" name="MinorRequirements"/>
-    <table id="346" parent="3" name="PeriodOfSection"/>
-    <table id="347" parent="3" name="PeriodOfTimeSlot"/>
-    <table id="348" parent="3" name="Prerequisites"/>
-    <table id="349" parent="3" name="Researchers"/>
-    <table id="350" parent="3" name="Room"/>
-    <table id="351" parent="3" name="Section"/>
-    <table id="352" parent="3" name="StudentGraduate"/>
-    <table id="353" parent="3" name="StudentHolds"/>
-    <table id="354" parent="3" name="StudentMajor"/>
-    <table id="355" parent="3" name="StudentMinor"/>
-    <table id="356" parent="3" name="StudentUndergraduate"/>
-    <table id="357" parent="3" name="Students"/>
-    <table id="358" parent="3" name="SystemAdministrator"/>
-    <table id="359" parent="3" name="TimeSlot"/>
-    <table id="360" parent="3" name="TimeSlotNew"/>
-    <table id="361" parent="3" name="YearOfSemester"/>
-    <table id="362" parent="3" name="usertable"/>
-    <column id="363" parent="327" name="FacultyID">
+    <table id="327" parent="3" name="AcademicCalendar"/>
+    <table id="328" parent="3" name="Advisor"/>
+    <table id="329" parent="3" name="Attendance"/>
+    <table id="330" parent="3" name="Building"/>
+    <table id="331" parent="3" name="ClassList"/>
+    <table id="332" parent="3" name="Course"/>
+    <table id="333" parent="3" name="CourseHistoryOfStudent"/>
+    <table id="334" parent="3" name="Day"/>
+    <table id="335" parent="3" name="DayOfSection"/>
+    <table id="336" parent="3" name="DayOfTimeSlot"/>
+    <table id="337" parent="3" name="Department"/>
+    <table id="338" parent="3" name="Enrollment"/>
+    <table id="339" parent="3" name="Faculty"/>
+    <table id="340" parent="3" name="FacultyFullTime"/>
+    <table id="341" parent="3" name="FacultyPartTime"/>
+    <table id="342" parent="3" name="Holds"/>
+    <table id="343" parent="3" name="Major"/>
+    <table id="344" parent="3" name="MajorRequirements"/>
+    <table id="345" parent="3" name="Minor"/>
+    <table id="346" parent="3" name="MinorRequirements"/>
+    <table id="347" parent="3" name="PeriodOfSection"/>
+    <table id="348" parent="3" name="PeriodOfTimeSlot"/>
+    <table id="349" parent="3" name="Prerequisites"/>
+    <table id="350" parent="3" name="Researchers"/>
+    <table id="351" parent="3" name="Room"/>
+    <table id="352" parent="3" name="Section"/>
+    <table id="353" parent="3" name="StudentGraduate"/>
+    <table id="354" parent="3" name="StudentHolds"/>
+    <table id="355" parent="3" name="StudentMajor"/>
+    <table id="356" parent="3" name="StudentMinor"/>
+    <table id="357" parent="3" name="StudentUndergraduate"/>
+    <table id="358" parent="3" name="Students"/>
+    <table id="359" parent="3" name="SystemAdministrator"/>
+    <table id="360" parent="3" name="TimeSlot"/>
+    <table id="361" parent="3" name="TimeSlotNew"/>
+    <table id="362" parent="3" name="YearOfSemester"/>
+    <table id="363" parent="3" name="usertable"/>
+    <view id="364" parent="3" name="SectionCourse">
+      <SourceTextLength>1180</SourceTextLength>
+      <Definer>u684207109_cs5910@75.127.200.98</Definer>
+    </view>
+    <column id="365" parent="327" name="ID">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>null</SequenceIdentity>
     </column>
-    <column id="364" parent="327" name="StudentID">
+    <column id="366" parent="327" name="Date">
       <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
+      <DataType>date|0s</DataType>
     </column>
-    <column id="365" parent="327" name="AssignedDate">
+    <column id="367" parent="327" name="Event">
       <Position>3</Position>
-      <DataType>datetime|0s</DataType>
+      <DataType>varchar(320)|0s</DataType>
     </column>
-    <column id="366" parent="328" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="367" parent="328" name="Status">
-      <Position>2</Position>
-      <DataType>varchar(7)|0s</DataType>
-    </column>
-    <column id="368" parent="328" name="Date">
-      <Position>3</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="369" parent="328" name="CourseRegistrationNumber">
+    <column id="368" parent="327" name="Term">
       <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="370" parent="329" name="BuildingIDNumber">
-      <Position>1</Position>
-      <DataType>varchar(3)|0s</DataType>
-    </column>
-    <column id="371" parent="329" name="BuildingName">
-      <Position>2</Position>
       <DataType>varchar(32)|0s</DataType>
     </column>
-    <column id="372" parent="330" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="373" parent="330" name="FacultyID">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="374" parent="330" name="TermNumber">
-      <Position>3</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="375" parent="330" name="CourseRegistrationNumber">
-      <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="376" parent="331" name="courseID">
-      <Position>1</Position>
-      <DataType>int(12)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="377" parent="331" name="departmentcode">
-      <Position>2</Position>
-      <DataType>varchar(200)|0s</DataType>
-    </column>
-    <column id="378" parent="331" name="coursenumber">
-      <Position>3</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="379" parent="331" name="coursename">
-      <Position>4</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="380" parent="331" name="description">
-      <Position>5</Position>
-      <DataType>varchar(2500)|0s</DataType>
-    </column>
-    <column id="381" parent="331" name="level">
-      <Position>6</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="382" parent="331" name="prerequisites">
-      <Position>7</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="383" parent="331" name="credits">
-      <Position>8</Position>
-      <DataType>int(10)|0s</DataType>
-    </column>
-    <column id="384" parent="332" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="385" parent="332" name="CourseRegistrationNumber">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="386" parent="332" name="GradeReceived">
-      <Position>3</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="387" parent="332" name="TermNumber">
-      <Position>4</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="388" parent="332" name="Year">
-      <Position>5</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="389" parent="333" name="NameOfDay">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="390" parent="334" name="NameOfDay">
-      <Position>1</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="391" parent="335" name="TimeSlotNum">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="392" parent="335" name="NameOfDay">
-      <Position>2</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="393" parent="336" name="DepartmentID">
-      <Position>1</Position>
-      <DataType>varchar(3)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="394" parent="336" name="DepartmentName">
-      <Position>2</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="395" parent="336" name="ChairpersonIDNumber">
-      <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="396" parent="336" name="ChairpersonName">
-      <Position>4</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="397" parent="336" name="PhoneNumber">
-      <Position>5</Position>
-      <DataType>varchar(20)|0s</DataType>
-    </column>
-    <column id="398" parent="336" name="BuildingName">
-      <Position>6</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="399" parent="336" name="RoomID">
-      <Position>7</Position>
-      <DataType>varchar(4)|0s</DataType>
-    </column>
-    <column id="400" parent="336" name="DepartmentManager">
-      <Position>8</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <column id="401" parent="336" name="Email">
-      <Position>9</Position>
-      <DataType>varchar(350)|0s</DataType>
-    </column>
-    <key id="402" parent="336" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>DepartmentID</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="403" parent="337" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="404" parent="337" name="EnrollmentDate">
-      <Position>2</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="405" parent="337" name="Midterm_Grade">
-      <Position>3</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="406" parent="337" name="Final_Grade">
-      <Position>4</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="407" parent="337" name="CourseRegistrationNumber">
-      <Position>5</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="408" parent="337" name="Midterm_Quality">
-      <Position>6</Position>
-      <DataType>double|0s</DataType>
-    </column>
-    <column id="409" parent="337" name="Final_Quality">
-      <Position>7</Position>
-      <DataType>double|0s</DataType>
-    </column>
-    <column id="410" parent="338" name="FacultyID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="411" parent="338" name="RoomID">
-      <Position>2</Position>
-      <DataType>varchar(4)|0s</DataType>
-    </column>
-    <column id="412" parent="338" name="DepartmentID">
-      <Position>3</Position>
-      <DataType>varchar(3)|0s</DataType>
-    </column>
-    <column id="413" parent="338" name="TimeInDepartment">
-      <Position>4</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="414" parent="339" name="FacultyID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="415" parent="340" name="FacultyID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="416" parent="341" name="HoldName">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="417" parent="341" name="TypeOfHold">
-      <Position>2</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="418" parent="341" name="DescriptionOfHold">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="419" parent="342" name="MajorName">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="420" parent="342" name="DepartmentID">
-      <Position>2</Position>
-      <DataType>varchar(3)|0s</DataType>
-    </column>
-    <column id="421" parent="342" name="TypeOfDegree">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="422" parent="342" name="inactive">
-      <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="423" parent="343" name="MajorName">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="424" parent="343" name="GradeRequirement">
-      <Position>2</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="425" parent="343" name="CourseID">
-      <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="426" parent="343" name="CoreRequirement">
-      <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="427" parent="344" name="MinorName">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="428" parent="344" name="DepartmentID">
-      <Position>2</Position>
-      <DataType>varchar(3)|0s</DataType>
-    </column>
-    <column id="429" parent="344" name="MajorAffiliation">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="430" parent="345" name="MinorName">
-      <Position>1</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="431" parent="345" name="GradeRequirement">
-      <Position>2</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="432" parent="345" name="CourseID">
-      <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="433" parent="346" name="PeriodNumber">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="434" parent="346" name="StartTime">
-      <Position>2</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="435" parent="346" name="EndTime">
-      <Position>3</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="436" parent="347" name="TimeSlotNum">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="437" parent="347" name="NameOfDay">
-      <Position>2</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="438" parent="348" name="CourseID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="439" parent="348" name="PreqCourseID">
-      <Position>2</Position>
-      <DataType>varchar(4)|0s</DataType>
-    </column>
-    <column id="440" parent="348" name="GradeRequirement">
-      <Position>3</Position>
-      <DataType>varchar(2)|0s</DataType>
-    </column>
-    <column id="441" parent="349" name="ResearcherID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="442" parent="350" name="RoomID">
-      <Position>1</Position>
-      <DataType>varchar(4)|0s</DataType>
-    </column>
-    <column id="443" parent="350" name="BuildingIDNumber">
-      <Position>2</Position>
-      <DataType>varchar(3)|0s</DataType>
-    </column>
-    <column id="444" parent="350" name="RoomSize">
-      <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="445" parent="350" name="RoomType">
-      <Position>4</Position>
-      <DataType>varchar(12)|0s</DataType>
-    </column>
-    <column id="446" parent="351" name="CourseRegistrationNumber">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="447" parent="351" name="CourseID">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="448" parent="351" name="SectionNumber">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="449" parent="351" name="FacultyID">
-      <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="450" parent="351" name="TimeSlotNum">
-      <Position>5</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="451" parent="351" name="SeatsCapacity">
-      <Position>6</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="452" parent="351" name="RoomID">
-      <Position>7</Position>
-      <DataType>varchar(4)|0s</DataType>
-    </column>
-    <column id="453" parent="351" name="BuildingName">
-      <Position>8</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="454" parent="351" name="Semester">
-      <Position>9</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="455" parent="351" name="Year">
-      <Position>10</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="456" parent="352" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="457" parent="352" name="RequiredCredits">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="458" parent="352" name="StudentType">
-      <Position>3</Position>
-      <DataType>varchar(25)|0s</DataType>
-    </column>
-    <column id="459" parent="353" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="460" parent="353" name="HoldName">
-      <Position>2</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="461" parent="354" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="462" parent="354" name="DeclaredDate">
-      <Position>2</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="463" parent="354" name="MajorName">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="464" parent="355" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="465" parent="355" name="DeclaredDate">
-      <Position>2</Position>
-      <DataType>datetime|0s</DataType>
-    </column>
-    <column id="466" parent="355" name="MinorName">
-      <Position>3</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="467" parent="356" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="468" parent="356" name="RequiredCredits">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="469" parent="356" name="StudentType">
-      <Position>3</Position>
-      <DataType>varchar(25)|0s</DataType>
-    </column>
-    <column id="470" parent="357" name="StudentID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="471" parent="358" name="AdminID">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="472" parent="359" name="TimeSlotNum">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="473" parent="359" name="NameOfDay">
-      <Position>2</Position>
-      <DataType>varchar(32)|0s</DataType>
-    </column>
-    <column id="474" parent="360" name="DaysOfWeek">
-      <Position>1</Position>
-      <DataType>varchar(12)|0s</DataType>
-    </column>
-    <column id="475" parent="360" name="StartTime">
-      <Position>2</Position>
-      <DataType>time|0s</DataType>
-    </column>
-    <column id="476" parent="360" name="EndTime">
-      <Position>3</Position>
-      <DataType>time|0s</DataType>
-    </column>
-    <column id="477" parent="360" name="ID">
-      <Position>4</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="478" parent="361" name="TermNumber">
-      <Position>1</Position>
-      <DataType>varchar(15)|0s</DataType>
-    </column>
-    <column id="479" parent="361" name="Year">
-      <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <column id="480" parent="361" name="Session">
-      <Position>3</Position>
-      <DataType>varchar(25)|0s</DataType>
-    </column>
-    <column id="481" parent="362" name="ID">
-      <Position>1</Position>
-      <DataType>int(12)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="482" parent="362" name="lastName">
-      <Position>2</Position>
-      <DataType>varchar(200)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="483" parent="362" name="firstName">
-      <Position>3</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="484" parent="362" name="phoneNumber">
-      <Position>4</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="485" parent="362" name="email">
-      <Position>5</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="486" parent="362" name="address">
-      <Position>6</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="487" parent="362" name="town">
-      <Position>7</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="488" parent="362" name="zip">
-      <Position>8</Position>
-      <DataType>int(12)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="489" parent="362" name="pWord">
-      <Position>9</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="490" parent="362" name="uLocked">
-      <Position>10</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="491" parent="362" name="uType">
-      <Position>11</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="492" parent="362" name="state">
-      <Position>12</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="493" parent="362" name="country">
-      <Position>13</Position>
-      <DataType>varchar(350)|0s</DataType>
-      <NotNull>1</NotNull>
-    </column>
-    <column id="494" parent="362" name="failedLogins">
-      <Position>14</Position>
-      <DataType>int(11)|0s</DataType>
-    </column>
-    <key id="495" parent="362" name="PRIMARY">
+    <key id="369" parent="327" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>ID</ColNames>
       <Primary>1</Primary>
     </key>
+    <column id="370" parent="328" name="FacultyID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="371" parent="328" name="StudentID">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="372" parent="328" name="AssignedDate">
+      <Position>3</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="373" parent="329" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="374" parent="329" name="Status">
+      <Position>2</Position>
+      <DataType>varchar(7)|0s</DataType>
+    </column>
+    <column id="375" parent="329" name="Date">
+      <Position>3</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="376" parent="329" name="CourseRegistrationNumber">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="377" parent="330" name="BuildingIDNumber">
+      <Position>1</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <column id="378" parent="330" name="BuildingName">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="379" parent="331" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="380" parent="331" name="FacultyID">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="381" parent="331" name="TermNumber">
+      <Position>3</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="382" parent="331" name="CourseRegistrationNumber">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="383" parent="332" name="courseID">
+      <Position>1</Position>
+      <DataType>varchar(12)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="384" parent="332" name="departmentcode">
+      <Position>2</Position>
+      <DataType>varchar(200)|0s</DataType>
+    </column>
+    <column id="385" parent="332" name="coursenumber">
+      <Position>3</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="386" parent="332" name="coursename">
+      <Position>4</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="387" parent="332" name="description">
+      <Position>5</Position>
+      <DataType>varchar(2500)|0s</DataType>
+    </column>
+    <column id="388" parent="332" name="level">
+      <Position>6</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="389" parent="332" name="prerequisites">
+      <Position>7</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="390" parent="332" name="credits">
+      <Position>8</Position>
+      <DataType>int(10)|0s</DataType>
+    </column>
+    <column id="391" parent="332" name="listed">
+      <Position>9</Position>
+      <DataType>varchar(1)|0s</DataType>
+      <DefaultExpression>&apos;Y&apos;</DefaultExpression>
+    </column>
+    <key id="392" parent="332" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>courseID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="393" parent="333" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="394" parent="333" name="CourseRegistrationNumber">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="395" parent="333" name="GradeReceived">
+      <Position>3</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="396" parent="333" name="TermNumber">
+      <Position>4</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="397" parent="333" name="Year">
+      <Position>5</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="398" parent="334" name="NameOfDay">
+      <Position>1</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="399" parent="335" name="NameOfDay">
+      <Position>1</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="400" parent="336" name="TimeSlotNum">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="401" parent="336" name="NameOfDay">
+      <Position>2</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="402" parent="337" name="DepartmentID">
+      <Position>1</Position>
+      <DataType>varchar(3)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="403" parent="337" name="DepartmentName">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="404" parent="337" name="ChairpersonID">
+      <Position>3</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="405" parent="337" name="ManagerID">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="406" parent="337" name="ChairpersonName">
+      <Position>5</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="407" parent="337" name="PhoneNumber">
+      <Position>6</Position>
+      <DataType>varchar(20)|0s</DataType>
+    </column>
+    <column id="408" parent="337" name="BuildingName">
+      <Position>7</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="409" parent="337" name="RoomID">
+      <Position>8</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="410" parent="337" name="DepartmentManager">
+      <Position>9</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="411" parent="337" name="Email">
+      <Position>10</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="412" parent="337" name="listed">
+      <Position>11</Position>
+      <DataType>varchar(1)|0s</DataType>
+      <DefaultExpression>&apos;Y&apos;</DefaultExpression>
+    </column>
+    <column id="413" parent="337" name="BuildingID">
+      <Position>12</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <key id="414" parent="337" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>DepartmentID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="415" parent="338" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="416" parent="338" name="EnrollmentDate">
+      <Position>2</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="417" parent="338" name="Midterm_Grade">
+      <Position>3</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="418" parent="338" name="Final_Grade">
+      <Position>4</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="419" parent="338" name="CourseRegistrationNumber">
+      <Position>5</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="420" parent="338" name="Midterm_Quality">
+      <Position>6</Position>
+      <DataType>double|0s</DataType>
+    </column>
+    <column id="421" parent="338" name="Final_Quality">
+      <Position>7</Position>
+      <DataType>double|0s</DataType>
+    </column>
+    <column id="422" parent="339" name="FacultyID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="423" parent="339" name="RoomID">
+      <Position>2</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="424" parent="339" name="DepartmentID">
+      <Position>3</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <column id="425" parent="339" name="TimeInDepartment">
+      <Position>4</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="426" parent="340" name="FacultyID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="427" parent="341" name="FacultyID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="428" parent="342" name="HoldName">
+      <Position>1</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="429" parent="342" name="TypeOfHold">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="430" parent="342" name="DescriptionOfHold">
+      <Position>3</Position>
+      <DataType>varchar(128)|0s</DataType>
+    </column>
+    <column id="431" parent="343" name="MajorName">
+      <Position>1</Position>
+      <DataType>varchar(120)|0s</DataType>
+    </column>
+    <column id="432" parent="343" name="DepartmentID">
+      <Position>2</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <column id="433" parent="343" name="TypeOfDegree">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="434" parent="344" name="MajorName">
+      <Position>1</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="435" parent="344" name="GradeRequirement">
+      <Position>2</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="436" parent="344" name="CourseID">
+      <Position>3</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="437" parent="344" name="CoreRequirement">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="438" parent="345" name="MinorName">
+      <Position>1</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="439" parent="345" name="DepartmentID">
+      <Position>2</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <column id="440" parent="345" name="MajorAffiliation">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="441" parent="346" name="MinorName">
+      <Position>1</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="442" parent="346" name="GradeRequirement">
+      <Position>2</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="443" parent="346" name="CourseID">
+      <Position>3</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="444" parent="347" name="PeriodNumber">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="445" parent="347" name="StartTime">
+      <Position>2</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="446" parent="347" name="EndTime">
+      <Position>3</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="447" parent="348" name="TimeSlotNum">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="448" parent="348" name="NameOfDay">
+      <Position>2</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="449" parent="349" name="CourseID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="450" parent="349" name="PreqCourseID">
+      <Position>2</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="451" parent="349" name="GradeRequirement">
+      <Position>3</Position>
+      <DataType>varchar(2)|0s</DataType>
+    </column>
+    <column id="452" parent="350" name="ResearcherID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="453" parent="351" name="RoomID">
+      <Position>1</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="454" parent="351" name="BuildingIDNumber">
+      <Position>2</Position>
+      <DataType>varchar(3)|0s</DataType>
+    </column>
+    <column id="455" parent="351" name="RoomSize">
+      <Position>3</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="456" parent="351" name="RoomType">
+      <Position>4</Position>
+      <DataType>varchar(12)|0s</DataType>
+    </column>
+    <column id="457" parent="352" name="CourseRegistrationNumber">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="458" parent="352" name="CourseID">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="459" parent="352" name="SectionNumber">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="460" parent="352" name="FacultyID">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="461" parent="352" name="TimeSlotNum">
+      <Position>5</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="462" parent="352" name="SeatsCapacity">
+      <Position>6</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="463" parent="352" name="RoomID">
+      <Position>7</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="464" parent="352" name="BuildingName">
+      <Position>8</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="465" parent="352" name="Semester">
+      <Position>9</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="466" parent="352" name="Year">
+      <Position>10</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="467" parent="353" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="468" parent="353" name="RequiredCredits">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="469" parent="353" name="StudentType">
+      <Position>3</Position>
+      <DataType>varchar(25)|0s</DataType>
+    </column>
+    <column id="470" parent="354" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="471" parent="354" name="HoldName">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="472" parent="355" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="473" parent="355" name="DeclaredDate">
+      <Position>2</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="474" parent="355" name="MajorName">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="475" parent="356" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="476" parent="356" name="DeclaredDate">
+      <Position>2</Position>
+      <DataType>datetime|0s</DataType>
+    </column>
+    <column id="477" parent="356" name="MinorName">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="478" parent="357" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="479" parent="357" name="RequiredCredits">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="480" parent="357" name="StudentType">
+      <Position>3</Position>
+      <DataType>varchar(25)|0s</DataType>
+    </column>
+    <column id="481" parent="358" name="StudentID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="482" parent="359" name="AdminID">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="483" parent="360" name="TimeSlotNum">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="484" parent="360" name="NameOfDay">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="485" parent="361" name="DaysOfWeek">
+      <Position>1</Position>
+      <DataType>varchar(12)|0s</DataType>
+    </column>
+    <column id="486" parent="361" name="StartTime">
+      <Position>2</Position>
+      <DataType>time|0s</DataType>
+    </column>
+    <column id="487" parent="361" name="EndTime">
+      <Position>3</Position>
+      <DataType>time|0s</DataType>
+    </column>
+    <column id="488" parent="361" name="ID">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="489" parent="362" name="TermNumber">
+      <Position>1</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="490" parent="362" name="Year">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="491" parent="362" name="Session">
+      <Position>3</Position>
+      <DataType>varchar(25)|0s</DataType>
+    </column>
+    <column id="492" parent="363" name="ID">
+      <Position>1</Position>
+      <DataType>int(12)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="493" parent="363" name="lastName">
+      <Position>2</Position>
+      <DataType>varchar(200)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="494" parent="363" name="firstName">
+      <Position>3</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="495" parent="363" name="phoneNumber">
+      <Position>4</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="496" parent="363" name="email">
+      <Position>5</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="497" parent="363" name="address">
+      <Position>6</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="498" parent="363" name="town">
+      <Position>7</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="499" parent="363" name="zip">
+      <Position>8</Position>
+      <DataType>int(12)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="500" parent="363" name="pWord">
+      <Position>9</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="501" parent="363" name="uLocked">
+      <Position>10</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="502" parent="363" name="uType">
+      <Position>11</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="503" parent="363" name="state">
+      <Position>12</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="504" parent="363" name="country">
+      <Position>13</Position>
+      <DataType>varchar(350)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="505" parent="363" name="failedLogins">
+      <Position>14</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="506" parent="363" name="name">
+      <Position>15</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <key id="507" parent="363" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>ID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="508" parent="364" name="CourseRegistrationNumber">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="509" parent="364" name="CourseID">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="510" parent="364" name="SectionNumber">
+      <Position>3</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="511" parent="364" name="FacultyID">
+      <Position>4</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="512" parent="364" name="TimeSlotNum">
+      <Position>5</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="513" parent="364" name="SeatsCapacity">
+      <Position>6</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="514" parent="364" name="RoomID">
+      <Position>7</Position>
+      <DataType>varchar(4)|0s</DataType>
+    </column>
+    <column id="515" parent="364" name="BuildingName">
+      <Position>8</Position>
+      <DataType>varchar(32)|0s</DataType>
+    </column>
+    <column id="516" parent="364" name="Semester">
+      <Position>9</Position>
+      <DataType>varchar(15)|0s</DataType>
+    </column>
+    <column id="517" parent="364" name="Year">
+      <Position>10</Position>
+      <DataType>int(11)|0s</DataType>
+    </column>
+    <column id="518" parent="364" name="departmentcode">
+      <Position>11</Position>
+      <DataType>varchar(200)|0s</DataType>
+    </column>
+    <column id="519" parent="364" name="coursenumber">
+      <Position>12</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="520" parent="364" name="coursename">
+      <Position>13</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="521" parent="364" name="description">
+      <Position>14</Position>
+      <DataType>varchar(2500)|0s</DataType>
+    </column>
+    <column id="522" parent="364" name="level">
+      <Position>15</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="523" parent="364" name="prerequisites">
+      <Position>16</Position>
+      <DataType>varchar(350)|0s</DataType>
+    </column>
+    <column id="524" parent="364" name="credits">
+      <Position>17</Position>
+      <DataType>int(10)|0s</DataType>
+    </column>
   </database-model>
 </dataSource>

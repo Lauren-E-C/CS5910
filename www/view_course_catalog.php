@@ -58,11 +58,12 @@ if ($form_data) {
 
     // show the grid, filter course items by departmentcode
     $g->showGrid([
-        'departmentcode' => $department_id
+        'departmentcode' => $department_id,
+        'listed' => 'Y'
     ]);
 
 } else {
-    echo "Form not submitted";
+    echo "A department not been selected.  Please select a department to view the courses.";
 }
 
 ?>

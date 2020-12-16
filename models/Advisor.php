@@ -18,5 +18,12 @@ class Advisor extends Model
             'ID' => $values['StudentID']
         ]);
         $this->related['Student'] = $student;
+
+
+        $student = new StudentHolds();
+        $student->get([
+            'StudentID' => $values['StudentID']
+        ]);
+        $this->related['StudentHolds'] = $student;
     }
 }

@@ -46,7 +46,7 @@ class ClassList extends Model
             'StudentID' => $values['StudentID'],
             'CourseRegistrationNumber' => $values['CourseRegistrationNumber']
         ]);
-        if (!$x) echo "Enrollment not found: " . $values['StudentID'] . " " . $values['CourseRegistrationNumber'];
+#        if (!$x) echo "Enrollment not found: " . $values['StudentID'] . " " . $values['CourseRegistrationNumber'];
         $this->related['Enrollment'] = $enrollment;
 
         $timeslot = new TimeSlot();

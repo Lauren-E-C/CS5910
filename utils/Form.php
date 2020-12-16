@@ -128,6 +128,12 @@ abstract class FormField
 {
     protected $label;
     protected $default_value = null;
+    protected $onChange = null;
+
+    public function setOnChange($onChange)
+    {
+        $this->onChange = $onChange;
+    }
 
     public function __construct($label = false)
     {
@@ -167,6 +173,7 @@ class TextField extends FormField
         </div>
     <?php }
 }
+
 class TextAreaField extends FormField
 {
     function generate($data, $key)
@@ -180,6 +187,7 @@ class TextAreaField extends FormField
         </div>
     <?php }
 }
+
 class ReadOnlyField extends FormField
 {
     function generate($data, $key)
@@ -250,7 +258,7 @@ class SelectField extends FormField
         } ?>
         <div class="col-sm form-group">
             <label for="<?= $key ?>"><?= $this->label ?></label>
-            <select class="combobox custom-select" id="<?= $key ?>" name="<?= $key ?>">
+            <select class="custom-select" id="<?= $key ?>" name="<?= $key ?>">
                 <?php foreach ($this->values as $value) { ?>
                     <option <?php if ($v && $v == $value) echo "selected " ?>
                             value="<?= $value ?>"><?= $value ?></option>
@@ -281,7 +289,11 @@ class KeyValueField extends FormField
         } ?>
         <div class="col-sm form-group">
             <label for="<?= $index ?>"><?= $this->label ?></label>
-            <select class="custom-select" id="<?= $index ?>" name="<?= $index ?>">
+            <select class="combobox custom-select" id="<?= $index ?>" name="<?= $index ?>"
+                <?php
+                if ($this->onChange) { ?>
+                    onchange="<?= $this->onChange ?>(this)"
+                <?php } ?>>
                 <?php foreach ($this->values as $key => $value) { ?>
                     <option <?php if ($k && $k == $key) echo "selected " ?>
                             value="<?= $key ?>"><?= $value ?></option>

@@ -3,14 +3,14 @@ $roles = ['Student', 'Admin', 'Researcher'];
 $page_title = "Master Schedule";
 include 'header.php';
 
-$g = new Grid(new Section(), [
+$g = new Grid(new SectionCourse(), [
     "CourseRegistrationNumber" => "Course Registration Number",
     "SectionNumber" => "Section Number",
     'CourseID' => "CourseID",
     'SeatsCapacity' => "Seats",
     'RoomID' => "Room",
     'BuildingName' => "Building",
-    ':r_01' => ['Dept. Code', 'Course', 'departmentcode'],
+    'departmentcode' => 'Department'
 ]);
 
 $dept = new Department();
@@ -27,7 +27,7 @@ $f = new Form();
 $d = $f->showForm([
     "CourseRegistrationNumber" => "Course Registration Number",
     "SectionNumber" => "Section Number",
-    ['CourseIDMin' => "Seats Min", 'CourseIDMax' => "Seats Max"],
+    ['SeatsMin' => "Seats Min", 'SeatsMax' => "Seats Max"],
     'RoomID' => "Room",
     'BuildingName' => "Building",
     'Department' => $deptField
@@ -36,14 +36,31 @@ $d = $f->showForm([
 echo "<hr>";
 
 if ($d != null) {
-    $filter = array(
-        "CourseRegistrationNumber" => $d['CourseRegistrationNumber'],
-        "SectionNumber" => $d['SectionNumber'],
-        "CourseID" => [$d['CourseIDMin'], $d['CourseIDMax']],
-        "RoomID" => $d['RoomID'],
-        "BuildingName" => $d['BuildingName'],
-        ":r_01" => ['Course', 'departmentcode', ['a', 'b']]
-    );
+    $filter = array();
+
+    if ($d['CourseRegistrationNumber']) {
+        $filter["CourseRegistrationNumber"] = $d['CourseRegistrationNumber'];
+    }
+
+    if ($d['SectionNumber']) {
+        $filter["SectionNumber"] = $d['SectionNumber'];
+    }
+
+    if ([$d['SeatsMin'] || $d['SeatsMax']]) {
+        $filter["SeatsCapacity"] = [$d['SeatsMin'], $d['SeatsMax']];
+    }
+
+    if ($d['RoomID']) {
+        $filter["RoomID"] = $d['RoomID'];
+    }
+
+    if ($d['BuildingName']) {
+        $filter["BuildingName"] = $d['BuildingName'];
+    }
+
+    if ($d['Department']) {
+        $filter["departmentcode"] = $d['Department'];
+    }
 
     $g->showGrid($filter);
 }

@@ -1,0 +1,903 @@
+﻿Coursename,CRN,Department,CourseID,Section,Level,Credits,Prerequisites,timeslot,Day,Location,Term,Roomtype,Instructor,Capacity
+Physical Geology,91750,GEO,100,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 174,Fall2019,Lecture,Rachel   Lee,30
+Physical Geology,91976,GEO,100,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 174,Fall2019,Lecture,Nicholas J  DiFrancesco,30
+Physical Geology,94094,GEO,100,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 172,Fall2019,Lecture,Rachel   Lee,30
+Physical Geology Laboratory,91033,GEO,101,4,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 372,Fall2019,Laboratory,Paul Albert  Agle,30
+Physical Geology Laboratory,91400,GEO,101,5,Undergraduate ,3,,9:35 am - 12:30 pm,T,Shineman Center 372,Fall2019,Laboratory,Rachel   Lee,30
+Environmental Sustainability,90998,GEO,115,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 122,Fall2019,Lecture,Justin   Stroup,30
+Mineralogy,90416,GEO,310,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Wilber B5,Fall2019,Lecture,Nicholas J  DiFrancesco,30
+Mineralogy Lab,90966,GEO,310,1,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 370,Fall2019,Laboratory,Nicholas J  DiFrancesco,30
+Mineralogy,94785,GEO,310,2,Undergraduate ,3,,9:00 am - 12:00 pm,T,Shineman Center 370,Fall2019,Laboratory,Nicholas J  DiFrancesco,30
+Earth's Fury,91622,GEO,315,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Kevin John  Finerghty,30
+Structural Geology,91977,GEO,330,4,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 370,Fall2019,Lecture,David   Valentino,30
+Structural Geology Lab,91978,GEO,330,5,Undergraduate ,3,,9:35 am - 12:30 pm,R,Shineman Center 370,Fall2019,Laboratory,David   Valentino,30
+T:Geomorphology Lab,94731,GEO,390,6,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 372,Fall2019,Laboratory,Justin   Stroup,30
+Stratigraphy,90832,GEO,420,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 370,Fall2019,Lecture,Paul Albert  Agle,30
+Stratigraphy Lab,90967,GEO,420,1,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 370,Fall2019,Laboratory,Paul Albert  Agle,30
+Volcanology,94494,GEO,435,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 372,Fall2019,Lecture,Rachel   Lee,30
+Geomorphology,94101,GEO,450,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 372,Fall2019,Lecture,Justin   Stroup,30
+Exploration Geology,94497,GEO,470,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 370,Fall2019,Lecture,David   Valentino,30
+Elementary German,90292,GER,101,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 210,Fall2019,Lecture,Ana   Djukic-Cocks,30
+Elementary German,94481,GER,101,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 242,Fall2019,Lecture,Ana   Djukic-Cocks,30
+Continuing Elementary German,90294,GER,102,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 258,Fall2019,Lecture,Patrick   Schultz,30
+Brothers Grimm Fairy Tales,94729,GER,141,1,Undergraduate ,3,,8:40 am - 10:05 am,MW,Marano Campus Center 232,Fall2019,Lecture,Patrick   Schultz,30
+Intermediate German,90295,GER,201,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 210,Fall2019,Lecture,Ana   Djukic-Cocks,30
+Advanced German A,94480,GER,301,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 258,Fall2019,Lecture,Ana   Djukic-Cocks,30
+Principles of Accounting I,92624,ACC,201,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 219,Fall2019,Lecture,Frank   Garcia,30
+Principles of Accounting I,92625,ACC,201,5,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 219,Fall2019,Laboratory,Brittany A  Jones,30
+Principles of Accounting I,92628,ACC,201,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 320,Fall2019,Lecture,Laura Bea  Lamb,30
+Principles of Accounting I,92631,ACC,201,7,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Rich Hall 320,Fall2019,Laboratory,Miranda   Kryskow,30
+Principles of Accounting I,92630,ACC,201,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 219,Fall2019,Lecture,Frank   Garcia,30
+Principles of Accounting I,92629,ACC,201,2,Undergraduate ,3,,8:00 am - 8:55 am,F,Rich Hall 219,Fall2019,Laboratory,Victory C  Porter,30
+Principles of Accounting I,92634,ACC,201,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 320,Fall2019,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92635,ACC,201,4,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 320,Fall2019,Laboratory,Janeah C  Thomas,30
+Principles of Accounting I,92636,ACC,201,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 320,Fall2019,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92637,ACC,201,6,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 320,Fall2019,Laboratory,Jiahui   Lu,30
+Principles of Accounting I,92638,ACC,201,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 319,Fall2019,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92639,ACC,201,1,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 319,Fall2019,Laboratory,Katherine Grace  Vicat,30
+Principles Of Accounting II,92618,ACC,202,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Rich Hall 320,Fall2019,Lecture,Heather   Losi,30
+Principles Accounting II Lab,90979,ACC,202,3,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 320,Fall2019,Laboratory,Erin Caroline  Gantley,30
+Principles Of Accounting II,92619,ACC,202,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 223,Fall2019,Lecture,Heather   Losi,30
+Principles Accounting II Lab,91190,ACC,202,5,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 223,Fall2019,Laboratory,Miranda   Kryskow,30
+Principles Of Accounting II,92620,ACC,202,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 223,Fall2019,Lecture,Heather   Losi,30
+Principles Of Accounting IILab,91310,ACC,202,7,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 223,Fall2019,Laboratory,Victory C  Porter,30
+Principles Of Accounting II,92622,ACC,202,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 319,Fall2019,Lecture,Andrea Maria Anastasia  Pagano,30
+Principles Of Accounting IILab,91510,ACC,202,2,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 319,Fall2019,Laboratory,Janeah C  Thomas,30
+Intermediate Accounting I,90038,ACC,301,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 221,Fall2019,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90961,ACC,301,4,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 221,Fall2019,Laboratory,Spencer   Johnson,30
+Intermediate Accounting I,90042,ACC,301,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 221,Fall2019,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90962,ACC,301,6,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 221,Fall2019,Laboratory,Katelyn   Cook,30
+Intermediate Accounting II,90043,ACC,302,7,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Rich Hall 324,Fall2019,Lecture,Laura Bea  Lamb,30
+Accounting Information Systems,90553,ACC,305,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 319,Fall2019,Lecture,Thomas J  Tribunella,30
+Accounting Information Systems,91192,ACC,305,2,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 323,Fall2019,Lecture,Thomas J  Tribunella,30
+Cost Accounting,90050,ACC,310,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 320,Fall2019,Lecture,Debra A.  Geroux,30
+Managerial Accounting,91971,ACC,320,4,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Mahar Hall 111,Fall2019,Lecture,David F  DiRoma,30
+Acct as Management Tool,93043,ACC,321,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 220,Fall2019,Lecture,Laura Bea  Lamb,30
+Acct as Management Tool,94141,ACC,321,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 320,Fall2019,Lecture,Laura Bea  Lamb,30
+Federal Tax Accounting I,90053,ACC,330,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 320,Fall2019,Lecture,Dean   Crawford,30
+Federal Tax Accounting I,90055,ACC,330,1,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 320,Fall2019,Lecture,Dean   Crawford,30
+Auditing,90942,ACC,430,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 221,Fall2019,Lecture,Hema   Rao,30
+Content Methods; English,90081,ADO,310,3,Undergraduate ,3,,4:00 pm - 8:00 pm,T,Park Hall 204,Fall2019,Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90083,ADO,313,4,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Sharon G  Kane,30
+Content Methds:2nd/ForeignLang,90084,ADO,320,5,Undergraduate ,3,,4:30 pm - 8:30 pm,M,Wilber 220,Fall2019,Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd/Foreign Lang,90086,ADO,323,6,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90088,ADO,330,7,Undergraduate ,3,,4:10 pm - 8:10 pm,W,Sheldon Hall 328,Fall2019,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III:Mathematic,90090,ADO,333,1,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Jean E  Hallagan,30
+Content Methods: Science,90743,ADO,340,2,Undergraduate ,3,,5:00 pm - 9:00 pm,T,Wilber B7,Fall2019,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90093,ADO,343,3,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Eric   Olson,30
+Content Methods:Social Studies,90095,ADO,350,4,Undergraduate ,3,,4:30 pm - 8:30 pm,T,Wilber 203,Fall2019,Recitation or Discussion,Ritu   Radhakrishnan,30
+Content Methods:Social Studies,94761,ADO,350,5,Undergraduate ,3,,4:30 pm - 8:30 pm,W,Sheldon Hall 337,Fall2019,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field PlacementIII:Social Stud,90098,ADO,353,6,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Ritu   Radhakrishnan,30
+Content Methods: English,90082,ADO,510,7,Graduate ,3,,4:00 pm - 8:00 pm,T,Park Hall 204,Fall2019,Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90101,ADO,513,1,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Sharon G  Kane,30
+Content Methods:2ndForeignLang,90085,ADO,520,2,Graduate ,3,,4:30 pm - 8:30 pm,M,Wilber 220,Fall2019,Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd Foreign Lang,90087,ADO,523,3,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90089,ADO,530,4,Graduate ,3,,4:10 pm - 8:10 pm,W,Sheldon Hall 328,Fall2019,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III: Math,90091,ADO,533,5,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Jean E  Hallagan,30
+Content Methods:Science,90092,ADO,540,6,Graduate ,3,,5:00 pm - 9:00 pm,T,Wilber B7,Fall2019,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90094,ADO,543,7,Graduate ,3,,TBA,T,Off Campus ,Fall2019,Activity,Eric   Olson,30
+Content Methods:Social Studies,90096,ADO,550,1,Graduate ,3,,4:30 pm - 8:30 pm,W,Sheldon Hall 337,Fall2019,Recitation or Discussion,Ritu   Radhakrishnan,30
+Content Methods:Social Studies,94760,ADO,550,2,Graduate ,3,,4:30 pm - 8:30 pm,T,Wilber 203,Fall2019,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field Placement III:Soc Studie,90097,ADO,553,3,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Ritu   Radhakrishnan,30
+Field Experience B:Plan/Teach,91470,ADO,593,4,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Joanne E.  O'Toole,30
+Archaeology & Human Evolution,90190,ANT,111,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 309,Fall2019,Lecture,Alanna E  Ossa,30
+Archaeology & Human Evolution,92378,ANT,111,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 309,Fall2019,Lecture,Kathleen A  Blake,30
+Cultural Anthropology,90192,ANT,112,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 105,Fall2019,Lecture,Jing   Lei,30
+Cultural Anthropology,93536,ANT,112,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 105,Fall2019,Lecture,Micah F  Morton,30
+History of Ethnological Theory,91026,ANT,210,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 202,Fall2019,Lecture,Micah F  Morton,30
+Biological Anthropology,90988,ANT,280,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 307,Fall2019,Lecture,Kathleen A  Blake,30
+Sex and Gender Across Cultures,94774,ANT,300,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 217,Fall2019,Lecture,Micah F  Morton,30
+Teaching Anthropology,93546,ANT,302,5,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Tutorial,Alanna E  Ossa,30
+Research Methods,90194,ANT,310,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 309,Fall2019,Lecture,Alanna E  Ossa,30
+Archaeology of Americn SW,94475,ANT,339,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 309,Fall2019,Lecture,Alanna E  Ossa,30
+Sociolinguistics,94472,ANT,345,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jing   Lei,30
+Forensic Anthropology,91105,ANT,354,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 307,Fall2019,Lecture,Kathleen A  Blake,30
+Peoples&Cultr of China,91956,ANT,372,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 309,Fall2019,Lecture,Jing   Lei,30
+North American Indians,90836,ANT,375,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 102,Fall2019,Lecture,Michael   Chaness,30
+Intro to the Visual Arts,91651,ART,100,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 102,Fall2019,Lecture,William   DeMott,30
+Intro to the Visual Arts,93297,ART,100,6,Undergraduate ,3,,6:00 pm - 7:25 pm,MW,Mahar Hall 309,Fall2019,Lecture,William   DeMott,30
+Intro to the Visual Arts,94726,ART,100,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Justin Anty  Mastrangelo,30
+Design Concepts I-2D,90268,ART,105,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 213,Fall2019,Studio,Asli   Kinsizer,30
+Design Concepts I-2D,91212,ART,105,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 213,Fall2019,Studio,Mary D.  Pierce,30
+Design Concepts I-2D,91224,ART,105,3,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 213,Fall2019,Studio,Asli   Kinsizer,30
+Design Concepts I-2D,90267,ART,105,4,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 213,Fall2019,Studio,Mary D.  Pierce,30
+Design Concepts II-3D,90269,ART,106,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 207,Fall2019,Studio,Renqian   Yang,30
+Design Concepts II-3D,91204,ART,106,6,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 207,Fall2019,Studio,Richard   Metzgar,30
+Design Concepts II-3D,91657,ART,106,7,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 207,Fall2019,Studio,Richard   Metzgar,30
+Digital Media,91200,ART,207,1,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Tyler Hall 217,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Digital Media,94178,ART,207,2,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Tyler Hall 217,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Digital Media,91935,ART,207,3,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 217,Fall2019,Studio,Melissa   Martin,30
+Typography,91225,ART,209,4,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 34,Fall2019,Studio,Donna L  Greene,30
+Typography,91782,ART,209,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,Fall2019,Studio,Donna L  Greene,30
+Drawing I,93883,ART,210,6,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 214,Fall2019,Studio,Jason M  Cheney,30
+Drawing I,94828,ART,210,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 214,Fall2019,Studio,Shane   Durgee,30
+Drawing I,94194,ART,210,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 214,Fall2019,Studio,Joseph Mario  Romano,30
+Drawing I,94195,ART,210,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 214,Fall2019,Studio,Joseph Mario  Romano,30
+Drawing to Communicate,94563,ART,211,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 213,Fall2019,Lecture,Juan   Perdiguero,30
+Painting I,92787,ART,215,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 225,Fall2019,Studio,Christopher   McEvoy,30
+Intro to Printmaking,90271,ART,225,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 200,Fall2019,Studio,Mary D.  Pierce,30
+Ceramics I,90272,ART,230,6,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1B,Fall2019,Studio,Renqian   Yang,30
+Ceramics I,94771,ART,230,7,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Fall2019,Studio,Renqian   Yang,30
+Intro to Digital Photography,90273,ART,243,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 216,Fall2019,Studio,Peter   Cardone,30
+Intro to Digital Photography,90899,ART,243,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 216,Fall2019,Studio,Julieve   Jubin,30
+Intro to Digital Photography,91205,ART,243,3,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 216,Fall2019,Studio,Megan G  King,30
+West Hert I-Survy Art I,90274,ART,250,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 107,Fall2019,Lecture,Lisa K  Langlois,30
+West HertII-Survy Art II,91661,ART,251,5,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Mahar Hall 309,Fall2019,Lecture,Suzanne L.  Beason,30
+West HertII-Survy Art II,94189,ART,251,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Lisa A  Seppi,30
+Wood Design,94550,ART,260,7,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 207,Fall2019,Activity,Steven   Ginsburg,30
+Figure Drawing I,90733,ART,300,1,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 215,Fall2019,Studio,Juan   Perdiguero,30
+Type and Image,91211,ART,307,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 217,Fall2019,Studio,Melissa   Martin,30
+Intermediate Drawing,90275,ART,310,3,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 215,Fall2019,Studio,Juan   Perdiguero,30
+Intro to Illustration I,93750,ART,312,4,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 213,Fall2019,Studio,Jason M  Cheney,30
+Digital Illustration I,91483,ART,313,5,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 217,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Painting II,93583,ART,315,6,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,Fall2019,Studio,Christopher   McEvoy,30
+Painting III,93584,ART,316,7,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,Fall2019,Studio,Christopher   McEvoy,30
+Web Media I,91214,ART,317,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 36,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+Web Media I,94560,ART,317,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+Drawing for Transfer Students,91267,ART,322,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 213,Fall2019,Studio,Juan   Perdiguero,30
+Digital Media-Transfer Student,91213,ART,323,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Fall2019,Studio,Amy E.  Bartell,30
+Printmaking-Intaglio,91666,ART,325,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 200,Fall2019,Studio,Mary D.  Pierce,30
+Screen Printing,90871,ART,326,6,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Ceramics II,90829,ART,330,7,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Fall2019,Studio,Renqian   Yang,30
+Art Therapy Practices,94147,ART,336,,Undergraduate ,3,,6:30 pm - 8:30 pm,MW,Tyler Hall 200,Fall2019,Studio,Melissa   Cardone,30
+Black & White Darkroom PhotoI,94149,ART,340,1,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 219,Fall2019,Studio,Peter   Cardone,30
+Intermediate Digital Photo,91260,ART,343,2,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,Fall2019,Studio,Julieve   Jubin,30
+20th Century Art,90831,ART,353,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Tyler Hall 209,Fall2019,Lecture,Lisa A  Seppi,30
+Gender in the Visual Arts,94553,ART,357,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 214,Fall2019,Lecture,Lisa K  Langlois,30
+History of Graphic Design,90554,ART,365,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107,Fall2019,Lecture,Cynthia A  Clabough,30
+Art/Architecture Islam Culture,94552,ART,371,6,Undergraduate ,3,,5:20 pm - 6:45 pm,MW,Mahar Hall 102,Fall2019,Lecture,Lisa K  Langlois,30
+Intro To Museum Studies,90279,ART,380,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 214,Fall2019,Lecture,Michael K.  Flanagan,30
+American Visual Art & Culture,94566,ART,388,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Tyler Hall 209,Fall2019,Lecture,Lisa A  Seppi,30
+Graphic Design Facility Manage,91215,ART,395,2,Undergraduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 34,Fall2019,Studio,Jenilee A.  Ward,30
+"Two Dimensional,Experi.Studio",91216,ART,396,3,Undergraduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 34,Fall2019,Studio,Jenilee A.  Ward,30
+"Two Dimensional,Experi.Studio",91206,ART,396,4,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91223,ART,396,5,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91649,ART,396,6,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91395,ART,396,7,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+"Two Dimensional,Experi.Studio",91398,ART,396,1,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Christopher   McEvoy,30
+"Two Dimensional,Experi.Studio",91650,ART,396,2,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91592,ART,396,3,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91208,ART,396,4,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Richard   Metzgar,30
+"Two Dimensional,Experi.Studio",91804,ART,396,5,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Julieve   Jubin,30
+"Two Dimensional,Experi.Studio",91035,ART,396,6,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Peter   Cardone,30
+"Two Dimensional,Experi.Studio",92819,ART,396,7,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",94516,ART,396,1,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Studio,Amy E.  Bartell,30
+"Two Dimensional,Experi.Studio",91201,ART,396,2,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Mary D.  Pierce,30
+"Two Dimensional,Experi.Studio",91230,ART,396,3,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Juan   Perdiguero,30
+"3 Dimensional,Experi. Studio",91202,ART,397,4,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Studio,Renqian   Yang,30
+"3 Dimensional,Experi. Studio",91219,ART,397,5,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Studio,Richard   Metzgar,30
+"3 Dimensional,Experi. Studio",91228,ART,397,6,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Studio,Steven   Ginsburg,30
+Figure Drawing III,94564,ART,401,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 215,Fall2019,Studio,Juan   Perdiguero,30
+Publication Design,91289,ART,408,1,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,Fall2019,Studio,Donna L  Greene,30
+Traditional Illustration II,93577,ART,412,2,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2019,Studio,Amy E.  Bartell,30
+Traditional Illustration II,94543,ART,412,3,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 213,Fall2019,Studio,Jason M  Cheney,30
+Digital Illustration II,90280,ART,413,4,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2019,Studio,Amy E.  Bartell,30
+Graphic&InteractiveDesignPract,91222,ART,414,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,Fall2019,Tutorial,Cynthia A  Clabough,30
+Painting IV,93585,ART,415,6,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,Fall2019,Studio,Christopher   McEvoy,30
+Web Media II,91393,ART,417,7,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 36,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+Web Media II,94561,ART,417,1,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2019,Studio,Rebecca Wendy  Mushtare,30
+Studio Management,90882,ART,419,2,Undergraduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Activity,Christopher   McEvoy,30
+Adv. Drawing and Painting,94558,ART,422,3,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 225,Fall2019,Studio,Christopher   McEvoy,30
+Adv. Problems in Illustration,92816,ART,423,4,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2019,Studio,Amy E.  Bartell,30
+Adv Problems in Printmaking,91652,ART,425,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Ceramics III,90830,ART,430,6,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Fall2019,Studio,Renqian   Yang,30
+Advanced Digital Photography,91229,ART,443,7,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 216,Fall2019,Studio,Julieve   Jubin,30
+BFA Exhibition,91210,ART,492,1,Undergraduate ,3,,5:30 pm - 6:30 pm,T,Lanigan Hall 34,Fall2019,Activity,Kelly L  Roe,30
+Graduate Studio-Illustration,93805,ART,500,2,Graduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 213,Fall2019,Lecture,Jason M  Cheney,30
+GS:Art Therapy Practices,94148,ART,500,3,Graduate ,3,,6:30 pm - 8:30 pm,MW,Tyler Hall 200,Fall2019,Studio,Melissa   Cardone,30
+Gr Graphic Design-Publication,91263,ART,508,4,Graduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,Fall2019,Lecture,Donna L  Greene,30
+Gr Graphic Design-Type&Image,93189,ART,508,5,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 217,Fall2019,Studio,Melissa   Martin,30
+Graduate Drawing,94334,ART,510,6,Graduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 215,Fall2019,Lecture,Juan   Perdiguero,30
+Graduate Drawing,94748,ART,510,7,Graduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 213,Fall2019,Lecture,Juan   Perdiguero,30
+Graduate Digital Illustration,91262,ART,513,1,Graduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2019,Lecture,Amy E.  Bartell,30
+Grad Prob in Graphic Design,90602,ART,514,2,Graduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,Fall2019,Activity,Cynthia A  Clabough,30
+Graduate Painting,94555,ART,515,3,Graduate ,3,,TBA,TBA,TBA,Fall2019,Studio,Christopher   McEvoy,30
+Graduate Web Design,91268,ART,517,4,Graduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 36,Fall2019,Lecture,Rebecca Wendy  Mushtare,30
+Graduate Web Design,94562,ART,517,5,Graduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2019,Lecture,Rebecca Wendy  Mushtare,30
+Graduate Critique,MA,91261,,6,Graduate ,3,,2:00 pm - 5:00 pm,F,Tyler Hall 228,Fall2019,Recitation or Discussion,Kelly L  Roe,30
+Graduate Digital Media,91781,ART,523,7,Graduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Fall2019,Studio,Amy E.  Bartell,30
+GR. Printmaking:Screenprinting,91653,ART,525,1,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,Fall2019,Studio,Elizabeth Nichole  Hunt,30
+Graduate Ceramics,91264,ART,530,2,Graduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Fall2019,Lecture,Renqian   Yang,30
+Graduate Ceramics,94567,ART,530,3,Graduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1B,Fall2019,Studio,Renqian   Yang,30
+Graduate Photography,91302,ART,540,4,Graduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 216,Fall2019,Studio,Julieve   Jubin,30
+GR Photography: Beginning,93579,ART,540,5,Graduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,Fall2019,Studio,Julieve   Jubin,30
+GP:Black & White Darkroom,94150,ART,540,6,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 219,Fall2019,Lecture,Peter   Cardone,30
+20th Century Art,91795,ART,553,7,Graduate ,3,,12:40 pm - 1:35 pm,MWF,Tyler Hall 209,Fall2019,Lecture,Lisa A  Seppi,30
+Grad History Graphic Design,91805,ART,565,1,Graduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107,Fall2019,Lecture,Cynthia A  Clabough,30
+Research Problems in Art Histo,91663,ART,571,2,Graduate ,3,,10:20 am - 11:15 am,MWF,Tyler Hall 209,Fall2019,Lecture,Lisa A  Seppi,30
+RPAH:Islamic Art,91660,ART,571,3,Graduate ,3,,5:20 pm - 6:45 pm,MW,Mahar Hall 102,Fall2019,Lecture,Lisa K  Langlois,30
+RPAH: Gender and the Visual Ar,94180,ART,571,4,Graduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 214,Fall2019,Lecture,Lisa K  Langlois,30
+Graduate Art Theory & Practice,90628,ART,572,5,Graduate ,3,,2:00 pm - 5:00 pm,F,Tyler Hall 228,Fall2019,Activity,Kelly L  Roe,30
+Graduate Art Theory & Practice,94568,ART,572,6,Graduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Activity,Cynthia A  Clabough,30
+Graduate Art Theory & Practice,94569,ART,572,7,Graduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Activity,Rebecca Wendy  Mushtare,30
+Graduate Art Theory & Practice,94851,ART,572,1,Graduate ,3,,TBA,TBA,TBA,Fall2019,Lecture,Juan   Perdiguero,30
+American Sign Language I,90288,ASL,101,2,Undergraduate ,3,,5:00 pm - 6:20 pm,TR,Marano Campus Center 208,Fall2019,Lecture,Laura   Latray-Corey,30
+Astronomy,90412,AST,100,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 183,Fall2019,Lecture,Shashi M  Kanbur,30
+Astronomy,90413,AST,100,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 122,Fall2019,Lecture,Scott   Roby,30
+Astronomy,90414,AST,100,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Sheldon Hall 328,Fall2019,Lecture,Kenneth Eric  Mauser,30
+Astronomy,90415,AST,100,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 328,Fall2019,Lecture,Kenneth Eric  Mauser,30
+Astronomy,92978,AST,100,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rice Creek 121,Fall2019,Lecture,John   Zielinski,30
+Astronomy,92979,AST,100,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 172,Fall2019,Lecture,John   Zielinski,30
+Astronomy,94683,AST,100,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 196,Fall2019,Lecture,Scott   Roby,30
+Intro to Health Info Systems,93702,BHI,501,3,Graduate ,3,,6:00 pm - 9:00 pm,W,Sonata 201,Fall2019,Lecture,Kevin Edward  Kurzinski,30
+Intro to Health Info Systems,92175,BHI,501,4,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Kevin Edward  Kurzinski,30
+Health Informatics Methods,93704,BHI,502,5,Graduate ,3,,6:00 pm - 9:00 pm,M,Sonata 202,Fall2019,Lecture,Isabelle   Bichindaritz,30
+Health Informatics Methods,92176,BHI,502,6,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Isabelle   Bichindaritz,30
+eHealth Systems,93706,BHI,503,7,Graduate ,3,,6:00 pm - 9:00 pm,R,Sonata 303,Fall2019,Lecture,Boseon   Byeon,30
+eHealth Systems,92177,BHI,503,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Boseon   Byeon,30
+Digital Health,93707,BHI,505,2,Graduate ,3,,6:00 pm - 9:00 pm,T,Sonata TBD,Fall2019,Lecture,Boseon   Byeon,30
+Digital Health,93708,BHI,505,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Boseon   Byeon,30
+Database Applications,92181,BHI,508,4,Graduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 448,Fall2019,Lecture,Ioana   Coman,30
+Database Applications,91914,BHI,508,5,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Ioana   Coman,30
+Geospatial/Temporal/NetworkDat,94079,BHI,510,6,Graduate ,3,,6:00 pm - 9:00 pm,W,Sonata TBD,Fall2019,Lecture,Isabelle   Bichindaritz,30
+Geospatial/Temporal/NetworkDat,94080,BHI,510,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93703,BHI,698,1,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93709,BHI,698,2,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Boseon   Byeon,30
+Project in BHI,92882,BHI,699,3,Graduate ,3,,TBA,TBA,TBA,Fall2019,Activity,Isabelle   Bichindaritz,30
+Project in BHI,93201,BHI,699,4,Graduate ,3,,TBA,TBA,TBA,Fall2019,Activity,Boseon   Byeon,30
+Thesis in BHI,92883,BHI,700,5,Graduate ,3,,TBA,TBA,TBA,Fall2019,Activity,Isabelle   Bichindaritz,30
+Thesis in BHI,93202,BHI,700,6,Graduate ,3,,TBA,TBA,TBA,Fall2019,Activity,Isabelle   Bichindaritz,30
+General Biology,90366,BIO,101,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 183,Fall2019,Lecture,Michael J  McDonald,30
+General Biology Lab,90963,BIO,101,1,Undergraduate ,3,,1:50 pm - 3:50 pm,F,Shineman Center 204,Fall2019,Laboratory,Michael J  McDonald,30
+Biology Seminar,90880,BIO,110,2,Undergraduate ,3,,9:35 am - 10:55 am,R,Shineman Center 196,Fall2019,Seminar,James A  MacKenzie,30
+Biology Seminar,90728,BIO,110,3,Undergraduate ,3,,10:20 am - 11:15 am,F,Shineman Center 196,Fall2019,Seminar,Maria   Sagot,30
+Biology Seminar,91717,BIO,110,4,Undergraduate ,3,,9:10 am - 10:05 am,M,Sheldon Hall 336,Fall2019,Seminar,Susan   Hammerly,30
+Biology Seminar,90729,BIO,110,5,Undergraduate ,3,,12:45 pm - 1:40 pm,T,Shineman Center 192,Fall2019,Seminar,Richard C  Back,30
+Biology Seminar,92209,BIO,110,6,Undergraduate ,3,,1:50 pm - 2:45 pm,W,Shineman Center 172,Fall2019,Seminar,Susan   Hammerly,30
+Biology Seminar,94841,BIO,110,7,Undergraduate ,3,,5:30 pm - 6:25 pm,R,Shineman Center 176,Fall2019,Seminar,Karen R  Sime,30
+Biology Seminar,91177,BIO,110,1,Undergraduate ,3,,11:10 am - 12:30 pm,T,Shineman Center 196,Fall2019,Seminar,James A  MacKenzie,30
+Biology Seminar,91175,BIO,110,2,Undergraduate ,3,,1:50 pm - 2:45 pm,M,Shineman Center 172,Fall2019,Seminar,Richard C  Back,30
+Biology Seminar,90758,BIO,110,3,Undergraduate ,3,,9:10 am - 10:05 am,W,Sheldon Hall 336,Fall2019,Seminar,Maria   Sagot,30
+Biology Seminar,91709,BIO,110,4,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Shineman Center 174,Fall2019,Seminar,Richard C  Back,30
+Biology Seminar,91708,BIO,110,5,Undergraduate ,3,,11:10 am - 12:30 pm,R,Shineman Center 196,Fall2019,Seminar,James A  MacKenzie,30
+Biology Seminar,94812,BIO,110,6,Undergraduate ,3,,11:10 am - 12:05 pm,T,Shineman Center 192,Fall2019,Seminar,Richard C  Back,30
+Biology Seminar,94813,BIO,110,7,Undergraduate ,3,,11:10 am - 12:05 pm,R,Shineman Center 178,Fall2019,Seminar,Susan   Hammerly,30
+Molecular/Cellular Foundations,91136,BIO,120,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 175,Fall2019,Lecture,Yulia   Artemenko,30
+Molecular/Cellular Found Lab,91173,BIO,120,2,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 204,Fall2019,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular Found. Lab,91320,BIO,120,3,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 204,Fall2019,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular FoundaLAB,92763,BIO,120,4,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 204,Fall2019,Laboratory,Yulia   Artemenko,30
+Human Impacts on Environment,94814,BIO,200,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Wilber 311,Fall2019,Lecture,Richard C  Back,30
+Human Biology,90407,BIO,203,6,Undergraduate ,3,,7:00 pm - 8:25 pm,MW,Shineman Center 122,Fall2019,Lecture,Cleane L  Medeiros,30
+Diversity of Life,92958,BIO,220,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 315,Fall2019,Lecture,Christopher H  Chandler,30
+T:Cancer Biology,93290,BIO,301,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Wilber B7,Fall2019,Lecture,Adam Spencer  Hoffman,30
+T:Extremophiles,94260,BIO,301,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 172,Fall2019,Lecture,Samuel C  McCarthy,30
+Cellular Physiology,93289,BIO,309,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 313,Fall2019,Lecture,Samuel C  McCarthy,30
+Microbiology,91557,BIO,310,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 174,Fall2019,Lecture,Peter   Newell,30
+Microbiology Lab,91558,BIO,310,5,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 212,Fall2019,Laboratory,Peter   Newell,30
+Microbiology Lab,91559,BIO,310,6,Undergraduate ,3,,8:00 am - 11:00 am,R,Shineman Center 212,Fall2019,Laboratory,Peter   Newell,30
+Microbiology Lab,92766,BIO,310,7,Undergraduate ,3,,12:45 pm - 3:45 pm,R,Shineman Center 212,Fall2019,Laboratory,Peter   Newell,30
+Genetics,90408,BIO,315,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 122,Fall2019,Lecture,Adam Spencer  Hoffman,30
+Laboratory in Genetics,90723,BIO,316,2,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 208,Fall2019,Laboratory,Nicholas M  Sard,30
+Laboratory in Genetics,90837,BIO,316,3,Undergraduate ,3,,5:45 pm - 8:45 pm,R,Shineman Center 208,Fall2019,Laboratory,Samuel C  McCarthy,30
+Laboratory in Genetics,90838,BIO,316,4,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 208,Fall2019,Laboratory,Poongodi   Geetha-Loganathan,30
+Laboratory in Genetics,90839,BIO,316,5,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 208,Fall2019,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,90840,BIO,316,6,Undergraduate ,3,,5:45 pm - 8:45 pm,T,Shineman Center 208,Fall2019,Laboratory,Samuel C  McCarthy,30
+Laboratory in Genetics,91306,BIO,316,7,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 208,Fall2019,Laboratory,Adam Spencer  Hoffman,30
+Introductory Ecology,91174,BIO,320,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 315,Fall2019,Lecture,C. Eric  Hellquist,30
+Introductory Ecology Lab,91313,BIO,320,2,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Rice Creek 119,Fall2019,Laboratory,C. Eric  Hellquist,30
+Introductory Ecology Lab,91715,BIO,320,3,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Rice Creek 119,Fall2019,Laboratory,C. Eric  Hellquist,30
+Introductory Ecology Lab,94522,BIO,320,4,Undergraduate ,3,,9:35 am - 12:35 pm,T,Rice Creek 119,Fall2019,Laboratory,C. Eric  Hellquist,30
+Behavioral Biology,94031,BIO,325,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 223,Fall2019,Lecture,Daniel T  Baldassarre,30
+Behavioral Biology Lab,94030,BIO,325,6,Undergraduate ,3,,9:10 am - 12:10 pm,F,Rice Creek 119,Fall2019,Laboratory,Daniel T  Baldassarre,30
+The Plant Kingdom,90908,BIO,340,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 172,Fall2019,Lecture,Jinyan   Guo,30
+The Plant Kingdom Lab,92963,BIO,340,1,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 301,Fall2019,Laboratory,Jinyan   Guo,30
+The Plant Kingdom Lab,93552,BIO,340,2,Undergraduate ,3,,9:10 am - 12:10 pm,F,Shineman Center 301,Fall2019,Laboratory,Jinyan   Guo,30
+Great Lakes Environ. Issues,94029,BIO,363,3,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 175,Fall2019,Lecture,Nicholas M  Sard,30
+The Animal Kingdom,91562,BIO,370,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 174,Fall2019,Lecture,Andrew   McElwain,30
+The Animal Kingdom Lab,91563,BIO,370,5,Undergraduate ,3,,6:00 pm - 9:00 pm,W,Shineman Center 305,Fall2019,Laboratory,Andrew   McElwain,30
+The Animal Kingdom Lab,93558,BIO,370,6,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 305,Fall2019,Laboratory,Michael J  McDonald,30
+Evolution,91179,BIO,425,7,Undergraduate ,3,,5:30 pm - 6:55 pm,MW,Shineman Center 185,Fall2019,Lecture,Jinyan   Guo,30
+Evolution,91181,BIO,425,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 336,Fall2019,Lecture,Daniel T  Baldassarre,30
+Evolution,91003,BIO,425,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 204,Fall2019,Lecture,Michael J  McDonald,30
+Evolution,91842,BIO,425,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 178,Fall2019,Lecture,Peter A  Rosenbaum,30
+Evolution,93877,BIO,425,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 196,Fall2019,Lecture,Daniel T  Baldassarre,30
+Research: Entomology,91713,BIO,492,5,Undergraduate ,3,,10:20 am - 1:20 pm,F,Shineman Center 304,Fall2019,Lecture,Karen R  Sime,30
+Research: Genomics,90410,BIO,492,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 348,Fall2019,Lecture,Christopher H  Chandler,30
+Research: Molecular Ecology,91004,BIO,492,7,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 348,Fall2019,Activity,Nicholas M  Sard,30
+Research:Field Ecology,93556,BIO,492,1,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Rice Creek 121,Fall2019,Lecture,Kamal I  Mohamed,30
+Evolution,91180,BIO,525,2,Graduate ,3,,5:30 pm - 6:55 pm,MW,Shineman Center 185,Fall2019,Seminar,Jinyan   Guo,30
+Evolution,91009,BIO,525,3,Graduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 336,Fall2019,Seminar,Daniel T  Baldassarre,30
+Evolution,91008,BIO,525,4,Graduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 204,Fall2019,Seminar,Michael J  McDonald,30
+Evolution,92029,BIO,525,5,Graduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 178,Fall2019,Seminar,Peter A  Rosenbaum,30
+Evolution,94506,BIO,525,6,Graduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 196,Fall2019,Seminar,Daniel T  Baldassarre,30
+Research: Entomology,91714,BIO,592,7,Graduate ,3,,10:20 am - 1:20 pm,F,Shineman Center 304,Fall2019,Lecture,Karen R  Sime,30
+Research: Genomics,90526,BIO,592,1,Graduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 348,Fall2019,Lecture,Christopher H  Chandler,30
+Research: Molecular Ecology,91010,BIO,592,2,Graduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 348,Fall2019,Activity,Nicholas M  Sard,30
+Business Law I,90060,BLW,280,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 118,Fall2019,Lecture,John W  Spring,30
+Business Law I,94572,BLW,280,4,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Marano Campus Center 211,Fall2019,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,91199,BLW,355,5,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 220,Fall2019,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,90054,BLW,355,6,Undergraduate ,3,,5:30 pm - 6:55 pm,MW,Rich Hall 118,Fall2019,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,90056,BLW,355,7,Undergraduate ,3,,7:10 pm - 8:30 pm,MW,Rich Hall 324,Fall2019,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,91013,BLW,355,,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 220,Fall2019,Lecture,Lisa   Cuomo,30
+Legal&Regulatory Environ ofBus,94570,BLW,355,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 220,Fall2019,Lecture,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,91677,BLW,355,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 220,Fall2019,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,90051,BLW,355,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,91676,BLW,355,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Kathryn   Wolfe,30
+Legal&Regulatory Environ ofBus,93120,BLW,355,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Andrew T.  Wolfe,30
+Business Law II,90057,BLW,381,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 220,Fall2019,Lecture,Mary E  McGowan,30
+Introduction To Mass Media,91471,BRC,108,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 104,Fall2019,Lecture,Mary   Simone,30
+Introduction To Mass Media,91553,BRC,108,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 106,Fall2019,Lecture,Jennifer   Fogel,30
+Introduction To Mass Media,92719,BRC,108,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 104,Fall2019,Lecture,Mary   Simone,30
+Introduction To Mass Media,94682,BRC,108,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jason Matthew  Becker,30
+Soc Hist Amer Radio&TV,92964,BRC,200,4,Undergraduate ,3,,6:15 pm - 9:00 pm,M,Lanigan Hall 106A,Fall2019,Lecture,Peter E.  Hunn,30
+Broadcast Performance,90225,BRC,215,5,Undergraduate ,3,,6:15 pm - 9:00 pm,W,Lanigan Hall 20,Fall2019,Lecture,Peter E.  Hunn,30
+Radio Production,90227,BRC,220,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 20,Fall2019,Lecture,Jeffrey N  Bradbury,30
+Integrated Media Writ/Design,93616,BRC,223,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 211,Fall2019,Lecture,Serenity   Sutherland,30
+Integrated Media Writ/Design,93622,BRC,223,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Sheldon Hall 337,Fall2019,Lecture,Serenity   Sutherland,30
+Broadcast Newswriting,90228,BRC,229,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 206,Fall2019,Lecture,Michael J  Riecke,30
+Broadcast Newswriting,91460,BRC,229,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 206,Fall2019,Lecture,Catherine J  Loper,30
+Broadcast Newswriting,94756,BRC,229,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 210,Fall2019,Lecture,Catherine J  Loper,30
+Broadcast Newswriting,92726,BRC,229,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 211,Fall2019,Lecture,Catherine J  Loper,30
+Intro Video Production,90229,BRC,235,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 36,Fall2019,Lecture,Michael   Cleland,30
+Intro Video Production,94728,BRC,235,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 36,Fall2019,Lecture,Michael   Cleland,30
+Intro Video Production,91235,BRC,235,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 20,Fall2019,Lecture,Michael   Cleland,30
+Intro Video Production,92727,BRC,235,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 20,Fall2019,Lecture,Francisco   Suarez,30
+Media Economics,93037,BRC,301,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 106A,Fall2019,Lecture,Jason   Zenor,30
+Media Economics,92728,BRC,301,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 106A,Fall2019,Lecture,Jason   Zenor,30
+Media Economics,93602,BRC,301,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jason Matthew  Becker,30
+Media Management,94629,BRC,305,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 220,Fall2019,Lecture,David   Crider,30
+Media Management,94630,BRC,305,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107A,Fall2019,Lecture,David   Crider,30
+Media Management,94691,BRC,305,1,Undergraduate ,3,,4:25 pm - 5:45 pm,TR,Mahar Hall 122,Fall2019,Lecture,James R  Lerch,30
+Sound for TV and Film,92952,BRC,308,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 20,Fall2019,Lecture,Jeffrey N  Bradbury,30
+Sound for TV and Film,92953,BRC,308,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 20,Fall2019,Lecture,Jeffrey N  Bradbury,30
+Post Production and Editing,93613,BRC,315,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Marybeth   Longo,30
+Mass Media and the Law,91817,BRC,319,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 102A,Fall2019,Lecture,Brian   Moritz,30
+Mass Media and the Law,91284,BRC,319,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 106A,Fall2019,Lecture,Jason   Zenor,30
+Mass Media and the Law,94197,BRC,319,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 107A,Fall2019,Lecture,David   Crider,30
+Mass Media and the Law,93625,BRC,319,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jason   Zenor,30
+Research Methodsfor Mass Media,94198,BRC,325,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 202,Fall2019,Lecture,Arvind   Diddi,30
+Media Copywriting,90231,BRC,328,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Timan Harris  Nekritz,30
+Broadcast News Reporting,90232,BRC,329,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 20,Fall2019,Lecture,Michael J  Riecke,30
+Broadcast News Reporting Lab,90965,BRC,329,5,Undergraduate ,3,,3:00 pm - 4:55 pm,F,Lanigan Hall 20,Fall2019,Laboratory,Michael J  Riecke,30
+Sports Broadcasting,91803,BRC,345,6,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 20,Fall2019,Lecture,James R  Lerch,30
+"Chldrn,Womn&Minori Media",91273,BRC,350,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 106,Fall2019,Lecture,Jennifer   Fogel,30
+Television Criticism,94719,BRC,355,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 122,Fall2019,Seminar,Jennifer   Fogel,30
+Social Networks and the Web,93615,BRC,421,2,Undergraduate ,3,,3:00 pm - 4:25 pm,W,Mahar Hall 204,Fall2019,Lecture,Ulises A  Mejias,30
+Social Networks and the Web,94638,BRC,421,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Ulises A  Mejias,30
+Scriptwriting for Television,90233,BRC,428,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 118,Fall2019,Activity,Francisco   Suarez,30
+Advanced TV Production,94640,BRC,445,5,Undergraduate ,3,,3:00 pm - 5:00 pm,MW,Lanigan Hall 20,Fall2019,Laboratory,Michael   Cleland,30
+Broadcast Practicum,94795,BRC,497,6,Undergraduate ,3,,2:20 pm - 3:40 pm,R,TBA,Fall2019,Practicum,Michael J  Riecke,30
+Independent Study,94369,BRC,499,7,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Independent Study,TBA,30
+Teaching Mathematics,94662,CED,330,1,Undergraduate ,3,,4:00 pm - 7:00 pm,T,Sheldon Hall 328,Fall2019,Lecture,Jean E  Hallagan,30
+Teaching Mathematics,94049,CED,330,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Wilber 115,Fall2019,Lecture,Joan   Gujarati,30
+Teaching Science & Technology,92856,CED,340,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Wilber B7,Fall2019,Lecture,Eric   Olson,30
+Teaching Science & Technology,90103,CED,340,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Wilber B7,Fall2019,Lecture,Eric   Olson,30
+Teaching Science & Technology,90111,CED,340,5,Undergraduate ,3,,3:00 pm - 5:00 pm,M,Wilber B7,Fall2019,Lecture,Richard   Baier,30
+Teaching Social Studies,90116,CED,350,6,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 336,Fall2019,Lecture,Robyn Lynn  Proud,30
+Teaching Social Studies,90117,CED,350,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Sheldon Hall 336,Fall2019,Lecture,Ritu   Radhakrishnan,30
+Teaching Social Studies,92864,CED,350,1,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Sheldon Hall 336,Fall2019,Lecture,Robyn Lynn  Proud,30
+Field Placement III,90119,CED,393,2,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,Jennifer   Kagan,30
+Field Placement III,94894,CED,393,3,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,Joan   Gujarati,30
+Field Placement III,94895,CED,393,4,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,Christine H  Weisenburger,30
+Integrated Childhood Methods,90125,CED,394,5,Undergraduate ,3,,4:00 pm - 6:00 pm,TR,Off Campus ,Fall2019,Lecture,Joan   Gujarati,30
+Integrated Childhood Methods,92157,CED,394,6,Undergraduate ,3,,2:00 pm - 6:00 pm,T,Park Hall 212,Fall2019,Lecture,Christine H  Weisenburger,30
+Integrated Childhood Methods,94305,CED,394,7,Undergraduate ,3,,4:00 pm - 8:00 pm,T,Sonata 118,Fall2019,Lecture,Areli   Schermerhorn,30
+Integ  Lang Arts/SocSt Methods,92862,CED,542,1,Graduate ,3,,1:00 pm - 4:00 pm,R,Sonata 107,Fall2019,Lecture,Doreen L  Mazzye,30
+Integ  Lang Arts/SocSt Methods,94807,CED,542,2,Graduate ,3,,1:00 pm - 4:00 pm,R,Sonata 104,Fall2019,Lecture,Katherine A  Sojewicz,30
+Field Experience A,92861,CED,543,3,Graduate ,3,,TBA,MTWRF,Off Campus ,Fall2019,Tutorial,Doreen L  Mazzye,30
+Field Experience A,94808,CED,543,4,Graduate ,3,,TBA,MTWRF,Off Campus ,Fall2019,Tutorial,Katherine A  Sojewicz,30
+Survey of Chemistry,90435,CHE,101,5,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 122,Fall2019,Lecture,Francis Philip  Pappalardo,30
+Freshman Seminar,92115,CHE,110,6,Undergraduate ,3,,10:20 am - 11:15 am,M,Shineman Center 196,Fall2019,Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92116,CHE,110,7,Undergraduate ,3,,10:20 am - 11:15 am,W,Shineman Center 196,Fall2019,Seminar,Kristin Irene  Gublo,30
+General Chemistry,90437,CHE,111,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 175,Fall2019,Lecture,Whalmany L  Ounkham,30
+General Chemistry,91453,CHE,111,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 122,Fall2019,Lecture,Kestutis G  Bendinskas,30
+General Chemistry,90438,CHE,111,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 175,Fall2019,Lecture,Jeffery A.  Schneider,30
+General Chemistry,93821,CHE,111,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 175,Fall2019,Lecture,Whalmany L  Ounkham,30
+General Chemistry-majors only,92792,CHE,111,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 106,Fall2019,Lecture,Thomas M  Brown,30
+Laboratory (for Che 111),90443,CHE,113,6,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 106,Fall2019,Laboratory,Ryan M  Smith,30
+Laboratory (for Che 111)major,92037,CHE,113,7,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 104,Fall2019,Laboratory,Ryan M  Smith,30
+Laboratory (for Che 111),94824,CHE,113,1,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 103,Fall2019,Laboratory,Hannah Bridget  Vail,30
+Laboratory (for Che 111),90444,CHE,113,2,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 104,Fall2019,Laboratory,Hannah Bridget  Vail,30
+Laboratory (for Che 111),90440,CHE,113,3,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 106,Fall2019,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),90441,CHE,113,4,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 106,Fall2019,Laboratory,Hannah Bridget  Vail,30
+Laboratory (for Che 111),90445,CHE,113,5,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 104,Fall2019,Laboratory,Julian Clifford  Barber,30
+Laboratory (for Che 111),90783,CHE,113,6,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 104,Fall2019,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),90442,CHE,113,7,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 104,Fall2019,Laboratory,Robert S  Morse,30
+Laboratory (for Che 111),90608,CHE,113,1,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 106,Fall2019,Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),90446,CHE,113,2,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 104,Fall2019,Laboratory,Alita Nicole  Nichols,30
+Laboratory (for Che 111),91280,CHE,113,3,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 104,Fall2019,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),91455,CHE,113,4,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 103,Fall2019,Laboratory,Alita Nicole  Nichols,30
+Laboratory (for Che 111),91570,CHE,113,5,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 103,Fall2019,Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111),92038,CHE,113,6,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 106,Fall2019,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 111),92039,CHE,113,7,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 103,Fall2019,Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111),92793,CHE,113,1,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 104,Fall2019,Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),90439,CHE,113,2,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 104,Fall2019,Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),91870,CHE,113,3,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 106,Fall2019,Laboratory,Alita Nicole  Nichols,30
+Laboratory (for Che 111),92346,CHE,113,4,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 106,Fall2019,Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111)major,90844,CHE,113,5,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 106,Fall2019,Laboratory,Jeffery A.  Schneider,30
+Chemistry & Public Concern,90447,CHE,209,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 315,Fall2019,Lecture,Whalmany L  Ounkham,30
+Chemistry & Public Concern,93643,CHE,209,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Fehmi   Damkaci,30
+General Chem II,90448,CHE,212,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 170,Fall2019,Lecture,Martha   Bruch,30
+Laboratory (for Che 212),90450,CHE,214,2,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 103,Fall2019,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 212),90449,CHE,214,3,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 103,Fall2019,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 212),94773,CHE,214,4,Undergraduate ,3,,8:00 am - 11:00 am,R,Shineman Center 103,Fall2019,Laboratory,Angela Marie  Frampton,30
+Introductory Organic Chemistry,90451,CHE,230,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 175,Fall2019,Lecture,Matthew S  Baker,30
+Intro Organic CHE Laboratory,90452,CHE,230,6,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 101,Fall2019,Laboratory,Emma K  Kuczkowski,30
+Intro Organic CHE Laboratory,90453,CHE,230,7,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 101,Fall2019,Laboratory,Julian Clifford  Barber,30
+Introductory Organic Chemistry,91626,CHE,230,1,Undergraduate ,3,,5:30 pm - 8:25 pm,R,Shineman Center 101,Fall2019,Laboratory,Julian Clifford  Barber,30
+Environmental Science,94241,CHE,300,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 172,Fall2019,Lecture,Webe   Kadima,30
+Environmental Science,90454,CHE,300,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jeffery A.  Schneider,30
+Criminalistic Chemistry,90455,CHE,305,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 174,Fall2019,Lecture,Shokouh H  Haddadi,30
+Analytical Chemistry,91613,CHE,322,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 323,Fall2019,Lecture,Webe   Kadima,30
+Analytical Chemistry Lab,90964,CHE,322,6,Undergraduate ,3,,2:20 pm - 6:20 pm,R,Shineman Center 205,Fall2019,Laboratory,Robert S  Morse,30
+Analytical Chemistry Lab,91614,CHE,322,7,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 205,Fall2019,Laboratory,Webe   Kadima,30
+Organic Chemistry,90456,CHE,331,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 122,Fall2019,Lecture,Matthew S  Baker,30
+Organic Chemistry-Majors only,91305,CHE,331,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 174,Fall2019,Lecture,Fehmi   Damkaci,30
+Organic Chemistry Laboratory,90989,CHE,331,3,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90457,CHE,331,4,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90458,CHE,331,5,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90460,CHE,331,6,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,91048,CHE,331,7,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Chemistry-Laboratory,92755,CHE,331,1,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Organic Che Lab,major only,90459,,2,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 101,Fall2019,Laboratory,Matthew S  Baker,30
+Physical Chemistry,90461,CHE,341,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 170,Fall2019,Lecture,Jeffery A.  Schneider,30
+Physical Chemistry II,94720,CHE,342,4,Undergraduate ,3,,5:30 pm - 6:50 pm,MW,Shineman Center 170,Fall2019,Lecture,Martha   Bruch,30
+Comp Physical Chem Lab,91754,CHE,343,5,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 201,Fall2019,Laboratory,Martha   Bruch,30
+Instrumental Analysis,91624,CHE,425,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 204,Fall2019,Lecture,Vadoud H  Niri,30
+Instrumental Analysis Lab,93644,CHE,425,7,Undergraduate ,3,,12:40 pm - 4:40 pm,W,Shineman Center 203,Fall2019,Laboratory,Vadoud H  Niri,30
+Inorganic Chemistry,90463,CHE,451,1,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 172,Fall2019,Lecture,Casey C  Raymond,30
+Inorganic Chemistry Lab,94023,CHE,451,2,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 207,Fall2019,Laboratory,Thomas M  Brown,30
+Biochemistry,90464,CHE,461,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 122,Fall2019,Lecture,Julia   Koeppe,30
+Biochemistry Lab,90465,CHE,461,4,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,Fall2019,Laboratory,Julia   Koeppe,30
+Biochemistry Lab,90990,CHE,461,5,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 112,Fall2019,Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,91508,CHE,461,6,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 112,Fall2019,Laboratory,Julia   Koeppe,30
+NMR Laboratory,94477,CHE,503,7,Graduate ,3,,1:50 pm - 3:55 pm,MW,Shineman Center 201,Fall2019,Lecture,Martha   Bruch,30
+Analytical Spectroscopy,94478,CHE,526,1,Graduate ,3,,9:35 am - 10:55 am,TR,Park Hall 304,Fall2019,Lecture,Vadoud H  Niri,30
+T:Advanced Forensic,94025,CHE,529,2,Graduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 304,Fall2019,Lecture,Shokouh H  Haddadi,30
+Advanced Organic Chemistry,94468,CHE,536,3,Graduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 304,Fall2019,Lecture,Matthew S  Baker,30
+ST:InorganChem:Photochemistry,94476,CHE,559,4,Graduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 176,Fall2019,Lecture,Thomas M  Brown,30
+Biochemistry,90466,CHE,561,5,Graduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 122,Fall2019,Lecture,Julia   Koeppe,30
+Biochemistry Laboratory,90467,CHE,561,6,Graduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,Fall2019,Laboratory,Julia   Koeppe,30
+Elementary Chinese,90818,CHI,101,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 225,Fall2019,Lecture,Ching Hung  Hsiao,30
+Arts and Ideas,91456,CMA,100,1,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Lanigan Hall 102A,Fall2019,Lecture,Sally   Rock-Blake,30
+Arts and Ideas,91165,CMA,100,2,Undergraduate ,3,,4:10 pm - 5:30 pm,W,Lanigan Hall 102A,Fall2019,Lecture,Sally   Rock-Blake,30
+Integrated Media Theory/Design,93601,CMA,400,3,Undergraduate ,3,,4:30 pm - 7:15 pm,W,Mahar Hall 211,Fall2019,Lecture,Serenity   Sutherland,30
+Artistic Integration/Collabora,94295,CMA,401,4,Undergraduate ,3,,5:30 pm - 7:00 pm,TR,Lanigan Hall 103,Fall2019,Lecture,Francisco   Suarez,30
+S:Start-ups Branding&Design,94742,CMA,495,5,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Mahar Hall 210,Fall2019,Lecture,Stephen M  Chirello,30
+Intro to Cognitive Science,90473,COG,166,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 170,Fall2019,Lecture,David   Vampola,30
+Intro to Cognitive Science,92277,COG,166,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 150,Fall2019,Lecture,John K  Lindstedt,30
+Program/Knowledge Representati,91457,COG,241,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 444,Fall2019,Lecture,James P  Early,30
+Program/Knowledge Representati,94074,COG,241,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 183,Fall2019,Lecture,Aleksandar V  Pantaleev,30
+"Brains, Minds, & Consciousness",91133,COG,266,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 208,Fall2019,Lecture,Theo   Rhodes,30
+Comp Models of Cognitive Sci,93711,COG,366,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 444,Fall2019,Lecture,Craig   Graci,30
+Cognitive Systems,93534,COG,435,5,Undergraduate ,3,,8:40 am - 10:05 am,MW,Mahar Hall 208,Fall2019,Lecture,Theo   Rhodes,30
+Semiotics & Study of Meaning,93802,COG,444,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 174,Fall2019,Lecture,David   Vampola,30
+Foundations Of Communication,90234,COM,100,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 104,Fall2019,Lecture,Jenny   Rosenberg,30
+Foundations Of Communication,94755,COM,100,1,Undergraduate ,3,,3:00 pm - 4:20 pm,MW,Mahar Hall 309,Fall2019,Lecture,Jennifer   Knapp,30
+Foundations Of Communication,91869,COM,100,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Denise   Casey,30
+FYSC-WinterisComing-NarrPopTV,94206,COM,198,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 102A,Fall2019,Lecture,Jessica K  Reeher,30
+CriticalThink/PublicSpeak,91057,COM,210,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 202,Fall2019,Lecture,Jill M  Ennis,30
+Critical Thinking/Public Speak,90235,COM,210,5,Undergraduate ,3,,4:40 pm - 7:25 pm,T,Mahar Hall 104,Fall2019,Lecture,Penny S  Morley,30
+Critical Thinking/Public Speak,93035,COM,210,6,Undergraduate ,3,,4:40 pm - 7:25 pm,M,Mahar Hall 220,Fall2019,Lecture,Penny S  Morley,30
+Critical Thinking/Public Speak,91029,COM,210,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 106A,Fall2019,Lecture,Christine M  Hirsch,30
+Critical Thinking/Public Speak,91322,COM,210,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 106,Fall2019,Lecture,John K  Smith,30
+Critical Thinking/Public Speak,91275,COM,210,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 106,Fall2019,Lecture,John K  Smith,30
+Critical Thinking/Public Speak,92357,COM,210,3,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 102A,Fall2019,Lecture,Thomas   Downs,30
+Critical Thinking/Public Speak,91533,COM,210,4,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Lanigan Hall 107A,Fall2019,Lecture,Judith Ann  Roberts,30
+Critical Thinking/Public Speak,94684,COM,210,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 104,Fall2019,Lecture,Sevgi   Evren Familo,30
+Strategic Communication in Bus,91486,COM,211,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 35,Fall2019,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91488,COM,211,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Park Hall 211,Fall2019,Seminar,Anastasia   Gagas,30
+Strategic Communication in Bus,91491,COM,211,,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 107A,Fall2019,Seminar,Kim A.  Park,30
+Strategic Communication in Bus,91853,COM,211,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 35,Fall2019,Seminar,James Alan  Dunagan,30
+Strategic Communication in Bus,91492,COM,211,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 106A,Fall2019,Seminar,James Alan  Dunagan,30
+Strategic Communication in Bus,91526,COM,211,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 35,Fall2019,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91527,COM,211,4,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Mahar Hall 103,Fall2019,Seminar,Mallory L  Bower,30
+Strategic Communication in Bus,91487,COM,211,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 103,Fall2019,Seminar,Jacob Richard  Byron,30
+Strategic Comm in Bus,91485,COM,211,6,Undergraduate ,3,,6:25 pm - 7:50 pm,MW,Lanigan Hall 107A,Fall2019,Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91525,COM,211,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 103,Fall2019,Seminar,Jacob Richard  Byron,30
+Strategic Communication in Bus,94751,COM,211,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 107,Fall2019,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,94752,COM,211,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 107,Fall2019,Seminar,Rose Marie   Crisalli,30
+Strategic CommuniBus-LC,92736,COM,211,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 107,Fall2019,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,92960,COM,211,4,Undergraduate ,3,,12:00 pm - 1:20 pm,TR,Sonata 105,Fall2019,Seminar,Adam Michael  Marinelli,30
+Strategic Communication in Bus,93607,COM,211,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Park Hall 211,Fall2019,Seminar,Anastasia   Gagas,30
+Interpersonal Communication,90237,COM,212,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 203,Fall2019,Lecture,Andrea J  Vickery,30
+Interpersonal Communication,91291,COM,212,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 107A,Fall2019,Lecture,Sevgi   Evren Familo,30
+Interpersonal Communication,92057,COM,212,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 102A,Fall2019,Lecture,Jessica   Hample,30
+Interpersonal Communication,93867,COM,212,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 122,Fall2019,Lecture,Andrea J  Vickery,30
+Survey Of Public Relations,90239,COM,215,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 107A,Fall2019,Lecture,Lindsay Marie  McCluskey,30
+Survey Of Public Relations,90240,COM,215,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 107A,Fall2019,Lecture,Joseph Earl  Stabb,30
+Survey Of Public Relations,94641,COM,215,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Joseph Earl  Stabb,30
+Group Interaction & Discussion,92048,COM,240,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 202,Fall2019,Lecture,Jill M  Ennis,30
+Communication Theories,90238,COM,301,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 103,Fall2019,Lecture,Minhao   Dai,30
+Communication Theories,91632,COM,301,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 202,Fall2019,Lecture,Minhao   Dai,30
+Message Criticism,90727,COM,302,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 102A,Fall2019,Lecture,Jessica K  Reeher,30
+Message Criticism,91531,COM,302,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jessica K  Reeher,30
+PublicRelationsWriting&MassMed,91630,COM,313,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 106A,Fall2019,Lecture,Kathleen   White,30
+PublicRelationsWriting&MassMed,94627,COM,313,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Denise   Casey,30
+Design & Layout For Media,91691,COM,315,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 36,Fall2019,Lecture,Woomi   Shim,30
+Design & Layout For Media,91692,COM,315,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 36,Fall2019,Lecture,Woomi   Shim,30
+Survey of Health Communication,94201,COM,316,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 217,Fall2019,Lecture,Taejin   Jung,30
+Public Relations Research,92047,COM,317,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 107A,Fall2019,Lecture,Joseph Earl  Stabb,30
+Argumentation & Debate,91822,COM,350,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 102A,Fall2019,Lecture,Thomas   Downs,30
+Persuasion,90752,COM,360,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 108,Fall2019,Lecture,Jessica   Hample,30
+Persuasion,91696,COM,360,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 108,Fall2019,Lecture,Jessica   Hample,30
+Organizational Communication,94203,COM,365,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 102,Fall2019,Lecture,Christine M  Hirsch,30
+Communication Ethics,94636,COM,380,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 106A,Fall2019,Lecture,Christine M  Hirsch,30
+Communication Ethics,94754,COM,380,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Christine M  Hirsch,30
+Communication Research Methods,94647,COM,403,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 203,Fall2019,Lecture,Andrea J  Vickery,30
+Case Studies Public Relations,90241,COM,415,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 107A,Fall2019,Lecture,Lindsay Marie  McCluskey,30
+Capstone in Public Relations,90242,COM,416,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 217,Fall2019,Lecture,Taejin   Jung,30
+InterculturalCommunication,92968,COM,422,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Amy B  McHugh,30
+Communication/Service Learning,91444,COM,490,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 119,Fall2019,Lecture,Jenny   Rosenberg,30
+Int to Strategic Communication,94645,COM,500,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Katherine   Thweatt,30
+Applied Communication Theory,94646,COM,501,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Katherine   Thweatt,30
+Applied Research Methods,93277,COM,503,2,Graduate ,3,,4:30 pm - 7:15 pm,M,Mahar Hall 103,Fall2019,Lecture,Minhao   Dai,30
+Intercultural Communication,94784,COM,522,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Amy B  McHugh,30
+Org COM Graduae Seminar,94205,COM,565,4,Graduate ,3,,4:30 pm - 7:15 pm,R,Mahar Hall 102,Fall2019,Lecture,Jessica   Hample,30
+Strategic COM Thesis/ApProject,93302,COM,590,5,Graduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Lecture,Jenna L  Currie-Mueller,30
+Strategic COM Thesis/ApProject,93854,COM,590,6,Graduate ,3,,TBA,TBA,TBA,Fall2019,Lecture,Katherine   Thweatt,30
+Strategic COM Thesis/ApProject,94643,COM,590,7,Graduate ,3,,TBA,TBA,To Be Announced ,Fall2019,Lecture,Serenity   Sutherland,30
+Issues & Careers Human Service,90176,CPS,308,1,Undergraduate ,3,,3:55 pm - 6:55 pm,T,Shineman Center 174,Fall2019,Lecture,Barbara   Streets,30
+Introduction to Counseling,90177,CPS,310,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 315,Fall2019,Lecture,Michael G  Mullen,30
+Introduction to Counseling,93003,CPS,310,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 103,Fall2019,Lecture,Kristin Renee  MacDonald,30
+Intro to Family,90178,CPS,391,4,Undergraduate ,3,,4:00 pm - 6:45 pm,M,Shineman Center 174,Fall2019,Lecture,Maggie L  Fitzsimmons,30
+Intro to Family,93004,CPS,391,5,Undergraduate ,3,,3:30 pm - 6:15 pm,W,Wilber B5,Fall2019,Lecture,Maggie L  Fitzsimmons,30
+Intr to Expressive Art Therapy,92211,CPS,393,6,Undergraduate ,3,,12:30 pm - 3:15 pm,R,Wilber 311,Fall2019,Lecture,Kyle Richard  Dzintars,30
+Intr to Expressive Art Therapy,90724,CPS,393,7,Undergraduate ,3,,1:00 pm - 3:45 pm,M,Wilber 311,Fall2019,Lecture,Kristin Renee  MacDonald,30
+Psych Found,Personality,90182,,1,Graduate ,3,,11:30 am - 2:15 pm,M,Wilber B8,Fall2019,Lecture,Tamara   Sullivan,30
+Psych Found,Personality,90183,,2,Graduate ,3,,11:00 am - 1:45 pm,T,Wilber 311,Fall2019,Lecture,Tamara   Sullivan,30
+Psych Found,Personality,91170,,3,Graduate ,3,,1:00 pm - 3:45 pm,T,Sonata 106,Fall2019,Lecture,Jason   Duffy,30
+Psych Found,Development,91301,,4,Graduate ,3,,4:30 pm - 7:15 pm,M,Park Hall 313,Fall2019,Lecture,Jason   Duffy,30
+Psych Found,Development,91271,,5,Graduate ,3,,5:00 pm - 7:45 pm,T,Sonata 104,Fall2019,Lecture,Carlo   Cuccaro,30
+Found. Mental Health Coun,91172,CPS,508,6,Graduate ,3,,5:00 pm - 7:45 pm,M,Sonata 106,Fall2019,Lecture,Sarah F  Spiegelhoff,30
+Prof.Orient/Ethics MH Counsel,90187,CPS,509,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Tiphanie   Gonzalez,30
+Counseling Theory & Process,90188,CPS,510,1,Graduate ,3,,1:00 pm - 3:45 pm,W,Park Hall 313,Fall2019,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90189,CPS,510,2,Graduate ,3,,1:00 pm - 3:35 pm,M,Park Hall 313,Fall2019,Lecture,Jason   Duffy,30
+Counseling Theory & Process,90191,CPS,510,3,Graduate ,3,,9:30 am - 12:15 pm,W,Wilber 313,Fall2019,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,91171,CPS,510,4,Graduate ,3,,5:30 pm - 8:15 pm,W,Sonata 118,Fall2019,Lecture,Sarah F  Spiegelhoff,30
+Practicum in Counseling,94844,CPS,511,5,Graduate ,3,,TBA,TBA,TBA,Fall2019,Lecture,Michael   LeBlanc,30
+Internship Mental Health Couns,92349,CPS,515,6,Graduate ,3,,9:00 am - 12:00 pm,T,Sonata 106,Fall2019,Internship,Jason   Duffy,30
+Internship Mental Health Couns,91481,CPS,515,7,Graduate ,3,,3:00 pm - 6:00 pm,T,Wilber 311,Fall2019,Internship,Tiphanie   Gonzalez,30
+Internship Mental Health Couns,91576,CPS,515,1,Graduate ,3,,3:00 pm - 6:00 pm,T,Wilber 311,Fall2019,Internship,Tiphanie   Gonzalez,30
+Intern:Alcohol/Substance Couns,91480,CPS,516,2,Graduate ,3,,3:00 pm - 6:00 pm,T,Wilber 311,Fall2019,Internship,Tiphanie   Gonzalez,30
+Intern:Alcohol/Substance Couns,91825,CPS,516,3,Graduate ,3,,9:00 am - 12:00 pm,T,Sonata 106,Fall2019,Internship,Jason   Duffy,30
+Orientation to Counsel.Profess,90195,CPS,530,4,Graduate ,3,,1:30 pm - 4:05 pm,R,Wilber B8,Fall2019,Lecture,Sean   Finnerty,30
+Intro to Group Process,90196,CPS,541,5,Graduate ,3,,4:10 pm - 8:10 pm,M,Wilber 311,Fall2019,Lecture,Daniel   McManus,30
+Ethno-cult Aspects of Trauma,91746,CPS,559,6,Graduate ,3,,4:10 pm - 7:30 pm,W,Mahar Hall 215,Fall2019,Lecture,Barbara   Streets,30
+Chem Dependency & Treatment,94240,CPS,560,7,Graduate ,3,,6:00 pm - 8:40 pm,R,Wilber 311,Fall2019,Lecture,John M  Randall,30
+Voc Dev & Decision-Making,90197,CPS,574,1,Graduate ,3,,9:00 am - 12:00 pm,T,Wilber 203,Fall2019,Lecture,Barbara   Streets,30
+Foundtn of Psy & Edu Appraisal,90198,CPS,585,2,Graduate ,3,,10:30 am - 1:15 pm,R,Wilber B8,Fall2019,Lecture,Michelle S  Storie,30
+Foundtn of Psy & Edu Appraisal,91389,CPS,585,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Michael   LeBlanc,30
+Individual Cognitive Assessmen,90199,CPS,587,4,Graduate ,3,,4:30 pm - 7:15 pm,W,Wilber 220,Fall2019,Lecture,Laura M  Spenceley,30
+Individual Cognitive Assessmen,90921,CPS,587,5,Graduate ,3,,4:30 pm - 7:15 pm,W,Wilber 220,Fall2019,Lecture,Laura M  Spenceley,30
+Intro. Expressive Art Therapy,92212,CPS,590,6,Graduate ,3,,12:30 pm - 3:15 pm,R,Wilber 311,Fall2019,Lecture,Kyle Richard  Dzintars,30
+Intro. Expressive Art Therapy,91001,CPS,590,7,Graduate ,3,,1:00 pm - 3:45 pm,M,Wilber 311,Fall2019,Lecture,Kristin Renee  MacDonald,30
+Research Methods in HS/CC,91446,CPS,596,1,Graduate ,3,,6:00 pm - 8:45 pm,T,Park Hall 211,Fall2019,Lecture,Daniel   McManus,30
+Practicum in School Psych,90210,CPS,613,2,Graduate ,3,,9:30 am - 12:05 pm,T,Park Hall 211,Fall2019,Practicum,James L  McDougal,30
+Practicum in School Psych,91182,CPS,613,3,Graduate ,3,,9:30 am - 12:05 pm,T,Park Hall 211,Fall2019,Practicum,James L  McDougal,30
+Consultn Counslrs & Sch Psy,90211,CPS,686,4,Graduate ,3,,1:15 pm - 4:00 pm,T,Wilber B8,Fall2019,Lecture,Michelle S  Storie,30
+Academic & Educ. Intervention,90212,CPS,688,5,Graduate ,3,,4:00 pm - 6:45 pm,W,Wilber 311,Fall2019,Seminar,Michelle S  Storie,30
+Intro to Criminal Justice,94536,CRJ,101,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 101,Fall2019,Lecture,Margaret A  Schmuhl,30
+Intro to Criminal Justice,94514,CRJ,101,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Roger   Guy,30
+FYSC-The Injustice League,94535,CRJ,198,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 111,Fall2019,Lecture,Margaret A  Schmuhl,30
+FYSC-Mass Shootings in America,94532,CRJ,198,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 106,Fall2019,Lecture,Jaclyn   Schildkraut,30
+Introduction to Policing,94521,CRJ,210,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 103,Fall2019,Lecture,Diane Marie  Brand,30
+Introduction to Policing,94549,CRJ,210,4,Undergraduate ,3,,5:00 pm - 7:45 pm,R,Sonata 107,Fall2019,Lecture,Michael J.  Walsh,30
+Intro to Courts & Judic Procs,94533,CRJ,220,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 122,Fall2019,Lecture,Jaclyn   Schildkraut,30
+Intro to Courts & Judic Procs,94517,CRJ,220,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Mark J  Shannon,30
+Introduction to Corrections,94518,CRJ,230,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Roger   Guy,30
+Prof & Eth Dilemmas in CRJ,94547,CRJ,326,1,Undergraduate ,3,,5:00 pm - 7:45 pm,M,Sonata 118,Fall2019,Lecture,Donna   Stuccio,30
+Crime Theories & Victimization,94524,CRJ,333,2,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 214,Fall2019,Lecture,Roger   Guy,30
+Crime Theories & Victimization,94531,CRJ,333,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jaclyn   Schildkraut,30
+Crime Theories & Victimization,94820,CRJ,333,4,Undergraduate ,3,,TBA,TBA,TBA,Fall2019,Lecture,Celinet   Duran,30
+Crime and Society,94530,CRJ,347,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Omara   Rivera-Vazquez,30
+Criminal Evidence,94676,CRJ,348,6,Undergraduate ,3,,5:00 pm - 7:45 pm,T,Sonata 107,Fall2019,Lecture,Tamara E  Thomson,30
+Intro to Criminal Law,94520,CRJ,365,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 111,Fall2019,Lecture,Diane Marie  Brand,30
+Intro to Criminal Law,94539,CRJ,365,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jeremy J  Shifton,30
+Drugs & Crime,94519,CRJ,385,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 111,Fall2019,Lecture,Diane Marie  Brand,30
+Research Methods CRJ,94527,CRJ,387,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 314,Fall2019,Lecture,Seung   Paek,30
+Seminar in Criminal Justice,94526,CRJ,401,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 111,Fall2019,Lecture,Seung   Paek,30
+Seminar in Criminal Justice,94528,CRJ,401,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 314,Fall2019,Lecture,Seung   Paek,30
+Seminar in Criminal Justice,94692,CRJ,401,6,Undergraduate ,3,,4:00 pm - 6:45 pm,M,Sonata 125,Fall2019,Lecture,Jeremy J  Shifton,30
+Comparative Justice Systems,94541,CRJ,425,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jeremy J  Shifton,30
+Comparative Justice Systems,94697,CRJ,425,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Mark J  Shannon,30
+Police Management,94548,CRJ,435,2,Undergraduate ,3,,5:00 pm - 7:45 pm,R,Sonata 118,Fall2019,Lecture,Donna   Stuccio,30
+Practicum in Teaching CrimJust,94523,CRJ,490,3,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Practicum,Diane Marie  Brand,30
+Practicum in Teaching CrimJust,94534,CRJ,490,4,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Practicum,Jaclyn   Schildkraut,30
+Practicum in Teaching CrimJust,94538,CRJ,490,5,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Practicum,Margaret A  Schmuhl,30
+Practicum in Teaching CrimJust,94529,CRJ,490,6,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Practicum,Seung   Paek,30
+FYSC-I Have SomethingtoTellYou,94622,CRW,198,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 322,Fall2019,Lecture,Stephanie Sue  Pritchard,30
+Screenwriting: Introductory,94090,CRW,201,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 258,Fall2019,Lecture,Michael   Raicht,30
+Screenwriting: Introductory,91119,CRW,201,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 258,Fall2019,Lecture,Juliet A  Giglio,30
+Screenwriting: Introductory,91120,CRW,201,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 211,Fall2019,Lecture,Juliet A  Giglio,30
+Poetry Writing: Introductory,90709,CRW,205,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 258,Fall2019,Seminar,Christopher S  Citro,30
+Poetry Writing: Introductory,92062,CRW,205,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 231,Fall2019,Seminar,Soma Mei Sheng   Frazier,30
+Poetry Writing: Introductory,91116,CRW,205,6,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 322,Fall2019,Seminar,Stephanie Sue  Pritchard,30
+Poetry Writing: Introductory,93872,CRW,205,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 323,Fall2019,Seminar,Christopher S  Citro,30
+FictionWriting:Introductory,90712,CRW,206,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 223,Fall2019,Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,90713,CRW,206,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 223,Fall2019,Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,91069,CRW,206,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 242,Fall2019,Seminar,Laura A  Halferty,30
+Fiction Writing: Introductory,94326,CRW,206,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 242,Fall2019,Seminar,Laura A  Halferty,30
+Playwriting: Introductory,91122,CRW,207,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 208,Fall2019,Seminar,Brad   Korbesmeyer,30
+Playwriting: Introductory,93744,CRW,207,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 208,Fall2019,Seminar,Brad   Korbesmeyer,30
+Creative Nonfiction Writing: I,93748,CRW,208,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 322,Fall2019,Seminar,Donna M  Steiner,30
+Creative Nonfiction Writing: I,93873,CRW,208,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 232,Fall2019,Seminar,Soma Mei Sheng   Frazier,30
+CreatiNonfiction Writing:I LC,90714,CRW,208,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 322,Fall2019,Seminar,Donna M  Steiner,30
+Graphic Storytelling: Intro.,94740,CRW,210,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 208,Fall2019,Seminar,Michael   Raicht,30
+Living Writer Series,90717,CRW,300,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 132,Fall2019,Lecture,Laura   Donnelly,30
+Screenwriting: Intermediate,90718,CRW,301,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 314,Fall2019,Lecture,Jamie L.  Adams,30
+Screenwriting: Intermediate,91111,CRW,301,6,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 313,Fall2019,Lecture,Juliet A  Giglio,30
+Poetry Writing: Intermediate,94086,CRW,305,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 223,Fall2019,Seminar,Laura   Donnelly,30
+Poetry Writing: Intermediate,91731,CRW,305,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 223,Fall2019,Seminar,Laura   Donnelly,30
+Fiction Writing: Intermediate,90719,CRW,306,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 322,Fall2019,Seminar,Robert T.  O'Connor,30
+Fiction Writing: Intermediate,91117,CRW,306,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 223,Fall2019,Seminar,Robert T.  O'Connor,30
+Playwriting: Intermediate,90720,CRW,307,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Lee Hall 300,Fall2019,Seminar,Brad   Korbesmeyer,30
+Creative Nonfiction Writ: Inte,94084,CRW,308,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 231,Fall2019,Seminar,Jessie Rose  Moore,30
+Creative Nonfiction Writ: Inte,92939,CRW,308,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 231,Fall2019,Seminar,Jessie Rose  Moore,30
+Digital Storytelling,94628,CRW,313,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 313,Fall2019,Lecture,Soma Mei Sheng   Frazier,30
+Literary Citizenship,94626,CRW,355,1,Undergraduate ,3,,4:30 pm - 7:15 pm,M,Marano Campus Center 208,Fall2019,Lecture,Donna M  Steiner,30
+Fiction Writing: Advanced,92069,CRW,406,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 322,Fall2019,Seminar,Robert T.  O'Connor,30
+Tools for Computing,90476,CSC,101,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 122,Fall2019,Lecture,Robert A.  Zuber,30
+Tools for Computing,91128,CSC,101,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Robert A.  Zuber,30
+BUS Info System&Computing Tool,90820,CSC,102,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 122,Fall2019,Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91369,CSC,102,6,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Shineman Center 122,Fall2019,Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91534,CSC,102,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 175,Fall2019,Lecture,Michael L  Smith,30
+BUS Info System&Computing Tool,91674,CSC,102,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Michael L  Smith,30
+Comp Tools/Info Lit for EDU,90992,CSC,103,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 183,Fall2019,Lecture,William C  Bosch,30
+Comp Tools/Info Lit for EDU,90993,CSC,103,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 448,Fall2019,Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,90991,CSC,103,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 448,Fall2019,Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,93763,CSC,103,5,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Shineman Center 448,Fall2019,Lecture,Richard   Baier,30
+Int To Prog & Prog Language,90483,CSC,120,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 448,Fall2019,Lecture,Michael L  Smith,30
+Principles Of Programming,90485,CSC,212,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 315,Fall2019,Lecture,Daniel Ray  Schlegel,30
+Principles Of Programming,91282,CSC,212,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 444,Fall2019,Lecture,Mohammad   Mohammadi,30
+Principles Of Programming Lab,91131,CSC,212,2,Undergraduate ,3,,1:50 pm - 2:45 pm,W,Shineman Center 446,Fall2019,Laboratory,Mohammad   Mohammadi,30
+Principles Of Programming-LAB,91370,CSC,212,3,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Shineman Center 446,Fall2019,Laboratory,Bastian   Tenbergen,30
+Principles Of Programming-Lab,90490,CSC,212,4,Undergraduate ,3,,4:10 pm - 5:05 pm,W,Shineman Center 446,Fall2019,Laboratory,Douglas   Lea,30
+Principles Of Programming Lab,91126,CSC,212,5,Undergraduate ,3,,8:00 am - 8:55 am,R,Shineman Center 446,Fall2019,Laboratory,James P  Early,30
+Principles Of Programming-Lab,90487,CSC,212,6,Undergraduate ,3,,2:20 pm - 3:15 pm,R,Shineman Center 446,Fall2019,Laboratory,Aleksandar V  Pantaleev,30
+Principles Of Programming-Lab,90489,CSC,212,7,Undergraduate ,3,,11:10 am - 12:05 pm,R,Shineman Center 446,Fall2019,Laboratory,Daniel Ray  Schlegel,30
+Principles Of Programming-Lab,90493,CSC,212,,Undergraduate ,3,,12:45 pm - 1:40 pm,R,Shineman Center 446,Fall2019,Laboratory,Jae Woong   Lee,30
+Principles Of Programming-Lab,90702,CSC,212,1,Undergraduate ,3,,9:35 am - 10:30 am,R,Shineman Center 446,Fall2019,Laboratory,Daniel Ray  Schlegel,30
+Foundation Of Computer Science,90494,CSC,221,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 183,Fall2019,Lecture,Ioana   Coman,30
+Foundation Of Computer Science,91942,CSC,221,3,Undergraduate ,3,,3:00 pm - 4:20 pm,MW,Shineman Center 444,Fall2019,Lecture,Jae Woong   Lee,30
+Computer Orgnztn & Programming,94311,CSC,222,4,Undergraduate ,3,,9:35 am - 12:15 pm,TR,Shineman Center 404,Fall2019,Lecture,Mustafa   Ayad,30
+Abstract Data Types&Prog Meth,90496,CSC,241,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 444,Fall2019,Lecture,James P  Early,30
+Abstract Data Types&Prog Meth,91756,CSC,241,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 183,Fall2019,Lecture,Aleksandar V  Pantaleev,30
+Systems Programming,91132,CSC,322,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 170,Fall2019,Lecture,Jae Woong   Lee,30
+Programming Languages,93723,CSC,344,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 170,Fall2019,Lecture,Daniel Ray  Schlegel,30
+Data Structures & Algorithms,91134,CSC,365,2,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 444,Fall2019,Lecture,Douglas   Lea,30
+Computational Models Cog Proce,93712,CSC,366,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 444,Fall2019,Lecture,Craig   Graci,30
+Parallel Computing,91939,CSC,375,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 444,Fall2019,Lecture,Douglas   Lea,30
+Software Engineering,94078,CSC,380,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 170,Fall2019,Lecture,James P  Early,30
+Software Quality,91728,CSC,385,6,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 444,Fall2019,Lecture,Bastian   Tenbergen,30
+Teaching Computing,90502,CSC,390,7,Undergraduate ,3,,3:00 pm - 5:40 pm,F,Shineman Center 448,Fall2019,Lecture,James   Patridge,30
+System Simulation/VirtualWorld,94577,CSC,454,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 444,Fall2019,Lecture,Aleksandar V  Pantaleev,30
+Computer Graphics,94579,CSC,470,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 444,Fall2019,Lecture,Aleksandar V  Pantaleev,30
+Software Design,94272,CSC,480,3,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Shineman Center 444,Fall2019,Lecture,Bastian   Tenbergen,30
+Software Engineering Sem:I,94072,CSC,495,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Shineman Center 444,Fall2019,Seminar,Jae Woong   Lee,30
+Software Engineering Sem: II,94073,CSC,496,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Shineman Center 444,Fall2019,Seminar,Jae Woong   Lee,30
+First-Year Practicum-LC,93784,CSS,111,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 323,Fall2019,Seminar,Tiffany L  Deater,30
+Intro to Cinema Production,91410,CSS,235,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 232,Fall2019,Lecture,Jacob A  Dodd,30
+Intro to Cinema Production,94267,CSS,235,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 142,Fall2019,Lecture,Joshua   Adams,30
+Intermediate Cinema Production,91115,CSS,335,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 142,Fall2019,Lecture,Joshua   Adams,30
+Cinematography,94255,CSS,336,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 232,Fall2019,Studio,Jacob A  Dodd,30
+Motion Picture Editing,93790,CSS,337,4,Undergraduate ,3,,3:00 pm - 6:00 pm,W,Mahar Hall 6,Fall2019,Studio,Jacob A  Dodd,30
+StuNationCin:N. Africa Global,94732,CSS,360,5,Undergraduate ,3,,3:00 pm - 6:45 pm,W,Marano Campus Center 211,Fall2019,Lecture,Bennet   Schaber,30
+ST:Cinema & Environment,92946,CSS,395,6,Undergraduate ,3,,3:00 pm - 6:00 pm,M,Shineman Center 175,Fall2019,Lecture,Tiffany L  Deater,30
+T: The Horror Film,94804,CSS,395,7,Undergraduate ,3,,3:15 pm - 6:15 pm,M,Rich Hall 219,Fall2019,Lecture,Michael   Raicht,30
+Begin Modern Dance Technique,94327,DNC,112,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lee Hall 300,Fall2019,Studio,Ligia R  Pinheiro,30
+T:Prequel to Ed Admin,94891,EAD,600,2,Graduate ,3,,TBA,TBA,Sonata TBD,Fall2019,Lecture,Angela   Perrotto,30
+Internship-Build/District Lead,90593,EAD,695,3,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Richard   Cavallaro,30
+Internship-Build/District Lead,90594,EAD,695,4,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Linda Rae  Markert,30
+Internship-Build/District Lead,90595,EAD,695,5,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Tamara   Lipke,30
+Internship-Build/District Lead,90596,EAD,695,6,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Lynne   Erdle,30
+Internship-Build/District Lead,90597,EAD,695,7,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Internship,Linda Rae  Markert,30
+Introduction to Engineering,92156,ECE,101,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 196,Fall2019,Lecture,Ildar   Sabirianov,30
+Introduction to Engineering,91857,ECE,101,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 408,Fall2019,Lecture,Sungeun   Kim,30
+Electric Circuits,91127,ECE,211,3,Undergraduate ,3,,11:30 am - 1:20 pm,MWF,Shineman Center 406,Fall2019,Lecture,Sungeun   Kim,30
+Signals and Systems,93515,ECE,233,4,Undergraduate ,3,,2:20 pm - 5:00 pm,TR,Shineman Center 404,Fall2019,Laboratory,Mustafa   Ayad,30
+Digital Systems,91130,ECE,271,5,Undergraduate ,3,,9:35 am - 12:15 pm,TR,Shineman Center 404,Fall2019,Lecture,Mustafa   Ayad,30
+Microelectronic Circuits,93516,ECE,314,6,Undergraduate ,3,,11:30 am - 1:20 pm,MWF,Shineman Center 404,Fall2019,Studio,Adrian   Ieta,30
+Power Circuits and Systems,94135,ECE,321,7,Undergraduate ,3,,1:50 pm - 3:40 pm,MWF,Shineman Center 406,Fall2019,Lecture,Hui   Zhang,30
+Electromagnetics,91992,ECE,344,1,Undergraduate ,3,,4:10 pm - 5:05 pm,MWF,Shineman Center 406,Fall2019,Lecture,Sungeun   Kim,30
+Control Systems,94584,ECE,365,2,Undergraduate ,3,,9:10 am - 11:00 am,MWF,Shineman Center 406,Fall2019,Studio,Hui   Zhang,30
+Microprocessor Applications,93141,ECE,375,3,Undergraduate ,3,,11:10 am - 1:50 pm,TR,Shineman Center 406,Fall2019,Studio,Rachid   Manseur,30
+ECE Seminar,92138,ECE,401,4,Undergraduate ,3,,2:20 pm - 4:20 pm,R,Shineman Center 176,Fall2019,Seminar,Rachid   Manseur,30
+Advanced Electronics,94583,ECE,416,5,Undergraduate ,3,,1:50 pm - 3:40 pm,MWF,Shineman Center 404,Fall2019,Studio,Adrian   Ieta,30
+Communications Systems,91986,ECE,454,6,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 408,Fall2019,Studio,Mario   Bkassiny,30
+Communications Systems Lab,91987,ECE,454,7,Undergraduate ,3,,2:20 pm - 5:05 pm,T,Shineman Center 408,Fall2019,Laboratory,Mario   Bkassiny,30
+Wireless Communications,94582,ECE,455,1,Undergraduate ,3,,11:30 am - 1:20 pm,MWF,Shineman Center 408,Fall2019,Lecture,Mario   Bkassiny,30
+Computer Architecture,94134,ECE,475,2,Undergraduate ,3,,11:10 am - 1:50 pm,TR,Shineman Center 408,Fall2019,Studio,Marianne   Hromalik,30
+Capstone Design Proposal,91993,ECE,491,3,Undergraduate ,3,,9:35 am - 10:30 am,R,Shineman Center 406,Fall2019,Lecture,Marianne   Hromalik,30
+Principles of Microeconomics,90201,ECO,101,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 101,Fall2019,Lecture,John   Kane,30
+Principles of Microeconomics,91530,ECO,101,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 102,Fall2019,Lecture,Javad   Nosratabadi,30
+Principles of Microeconomics,91555,ECO,101,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 204,Fall2019,Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,91905,ECO,101,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 204,Fall2019,Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,90202,ECO,101,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,John   Kane,30
+Prin of Macroeconomics,91360,ECO,200,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 201,Fall2019,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,91141,ECO,200,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 201,Fall2019,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,92803,ECO,200,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Lanigan Hall 107,Fall2019,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,90203,ECO,200,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 103,Fall2019,Lecture,Glenn   Graham,30
+Intermediate Macro Theory,91361,ECO,300,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 122,Fall2019,Lecture,Elizabeth A  Schmitt,30
+Intermediate Micro Theory,90204,ECO,301,7,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 214,Fall2019,Lecture,Said   Atri,30
+Managerial Economics,90205,ECO,302,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Said   Atri,30
+Am Economic Hist before 1900,90206,ECO,326,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 108,Fall2019,Lecture,Ranjit   Dighe,30
+Economic Development,92802,ECO,330,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 108,Fall2019,Lecture,Glenn   Graham,30
+Money And Banking,91140,ECO,340,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Lanigan Hall 102,Fall2019,Lecture,Craig   Benedict,30
+Money And Banking,91904,ECO,340,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 220,Fall2019,Lecture,Craig   Benedict,30
+Money And Banking,90207,ECO,340,6,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Mahar Hall 220,Fall2019,Lecture,Craig   Benedict,30
+Money And Banking,90208,ECO,340,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Elizabeth A  Schmitt,30
+Political Eco Financial Crises,94573,ECO,341,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 102,Fall2019,Lecture,Ranjit   Dighe,30
+Political Eco Financial Crises,94574,ECO,341,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 102,Fall2019,Lecture,Ranjit   Dighe,30
+International Trade,91454,ECO,344,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 204,Fall2019,Lecture,Mihai   Paraschiv,30
+Intro to Labor Economics,90209,ECO,350,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 220,Fall2019,Lecture,Javad   Nosratabadi,30
+Intro to Labor Economics,91597,ECO,350,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 220,Fall2019,Lecture,Javad   Nosratabadi,30
+Intro toCollege Level Learning,90556,EDU,101,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Mahar Hall 122,Fall2019,Lecture,Drew   Spriggs,30
+Intro toCollege Level Learning,90557,EDU,101,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Marano Campus Center 211,Fall2019,Lecture,Valerie Ann  Ledford,30
+Intro toCollege Level Learning,90558,EDU,101,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Mahar Hall 102,Fall2019,Lecture,Grace Ann  Maxon-Clarke,30
+Intro toCollege Level Learning,94699,EDU,101,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Mahar Hall 108,Fall2019,Lecture,Scott G.  Cunningham,30
+Comparative & International ED,93863,EDU,114,3,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Marano Campus Center 210,Fall2019,Lecture,Corie Anne  Kohlbach,30
+Comparative & International ED,94052,EDU,114,4,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Marano Campus Center 210,Fall2019,Lecture,Corie Anne  Kohlbach,30
+Comparative & International ED,92669,EDU,114,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Namrata   Sharma,30
+Comparative & International ED,93101,EDU,114,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Namrata   Sharma,30
+FYSC-Ultimate Reality Show,94679,EDU,198,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Wilber 220,Fall2019,Lecture,Barbara A  Beyerbach,30
+HIS of EDU in US since 1865,93864,EDU,210,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 332,Fall2019,Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,91236,EDU,210,2,Undergraduate ,3,,4:30 pm - 7:30 pm,R,Sheldon Hall 332,Fall2019,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,91239,EDU,210,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 332,Fall2019,Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,92093,EDU,210,4,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 332,Fall2019,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,90968,EDU,210,5,Undergraduate ,3,,5:00 pm - 8:00 pm,M,Wilber B5,Fall2019,Lecture,Kara A  Shore,30
+Elected Field Experience,90135,EDU,300,6,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Sandra L  Kyle,30
+Elected Field Experience,90136,EDU,300,7,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Amanda   Fenlon,30
+Elected Field Experience,90137,EDU,300,1,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,Amanda   Fenlon,30
+"School,Pedagogy&Social Justice",90138,EDU,301,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 336,Fall2019,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90139,EDU,301,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Park Hall 212,Fall2019,Lecture,Theresa   Parry-Bick,30
+"School,Pedagogy&Social Justice",90877,EDU,301,4,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Sheldon Hall 336,Fall2019,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90141,EDU,301,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 336,Fall2019,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",94046,EDU,301,6,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Park Hall 204,Fall2019,Lecture,Jean   Ann,30
+"School,Pedagogy&Social Justice",90142,EDU,301,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 336,Fall2019,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",94744,EDU,301,1,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Park Hall 314,Fall2019,Lecture,Marcia M  Burrell,30
+Field Placement I,90143,EDU,303,2,Undergraduate ,3,,11:00 am - 3:00 pm,R,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90144,EDU,303,3,Undergraduate ,3,,8:00 am - 12:00 pm,M,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90145,EDU,303,4,Undergraduate ,3,,8:00 am - 12:00 pm,T,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90146,EDU,303,5,Undergraduate ,3,,11:00 am - 3:00 pm,T,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90147,EDU,303,6,Undergraduate ,3,,8:00 am - 12:00 pm,W,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90148,EDU,303,7,Undergraduate ,3,,8:00 am - 12:00 pm,R,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90901,EDU,303,1,Undergraduate ,3,,8:00 am - 12:00 pm,F,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,90149,EDU,303,2,Undergraduate ,3,,11:00 am - 3:00 pm,M,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Field Placement I,91288,EDU,303,3,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Activity,David Paul  Parisian,30
+Culturally Relevant Teaching,94745,EDU,380,4,Undergraduate ,3,,5:00 pm - 8:00 pm,W,Wilber 115,Fall2019,Lecture,Lisa   McGhee-Laracuente,30
+Culturally Relevant Teaching,90151,EDU,380,5,Undergraduate ,3,,12:45 pm - 3:40 pm,M,Off Campus ,Fall2019,Lecture,Barbara A  Beyerbach,30
+Culturally Relevant Teaching,90150,EDU,380,6,Undergraduate ,3,,11:10 am - 12:30 pm,MW,Wilber 220,Fall2019,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,91818,EDU,380,7,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Sonata 107,Fall2019,Lecture,Anne   Fairbrother,30
+Culturally Relevant Teaching,90152,EDU,380,1,Undergraduate ,3,,2:20 pm - 3:40 pm,MW,Wilber 115,Fall2019,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,90755,EDU,380,2,Undergraduate ,3,,9:35 am - 10:55 am,MW,Wilber 220,Fall2019,Lecture,Alfred   Frederick,30
+Teach Eng Lang Learn,91610,EDU,383,3,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Wilber 115,Fall2019,Lecture,Anne   Fairbrother,30
+Professionalism&Social Justice,90153,EDU,430,4,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Practicum,David Paul  Parisian,30
+Critical Pedagogy,93733,EDU,500,5,Graduate ,3,,5:00 pm - 8:00 pm,T,Wilber B8,Fall2019,Lecture,Tania   Ramalho,30
+Critical Pedagogy,92086,EDU,500,6,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Tania   Ramalho,30
+Tech for Professional Developm,92097,EDU,506,7,Graduate ,3,,4:30 pm - 7:15 pm,W,Park Hall 313,Fall2019,Recitation or Discussion,Marcus Giovanni  D'Urso,30
+Educational Assessment,92070,EDU,510,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Jean E  Hallagan,30
+Cont Pro Develop thro Research,94722,EDU,516,2,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Dennis   Parsons,30
+Professionalism&Social Justice,93226,EDU,530,3,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Lecture,David Paul  Parisian,30
+Curriculum Development,92084,EDU,555,4,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Tania   Ramalho,30
+Composition I,91121,ENG,101,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Sheldon Hall 336,Fall2019,Lecture,Robert M  Early,30
+Composition I,90157,ENG,101,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 328,Fall2019,Lecture,Melissa Ruth  Webb,30
+Composition I,90158,ENG,101,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 212,Fall2019,Lecture,Anthony J  Caputa,30
+Composition I,90161,ENG,101,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 313,Fall2019,Lecture,Melissa Ruth  Webb,30
+Composition I,90159,ENG,101,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 232,Fall2019,Lecture,Anthony J  Caputa,30
+Composition I-International,91832,ENG,101,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 208,Fall2019,Lecture,Anthony J  Caputa,30
+Composition II,91433,ENG,102,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 242,Fall2019,Lecture,Diane Marie  Zeller,30
+Composition II,91406,ENG,102,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Sheldon Hall 336,Fall2019,Lecture,Thomas   Bertonneau,30
+Composition II,91730,ENG,102,6,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 322,Fall2019,Lecture,Robert M  Early,30
+Composition II,92343,ENG,102,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Sheldon Hall 336,Fall2019,Lecture,Thomas   Bertonneau,30
+Composition II,91738,ENG,102,1,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Park Hall 212,Fall2019,Lecture,Kenneth S  Nichols,30
+Composition II,91735,ENG,102,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 208,Fall2019,Lecture,William T.  Brangan,30
+Composition II,92376,ENG,102,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 118,Fall2019,Lecture,Jennifer M  Smith,30
+Composition II,91417,ENG,102,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 104,Fall2019,Lecture,William T.  Brangan,30
+Composition II,93266,ENG,102,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 211,Fall2019,Lecture,Jarrod   Hagadorn,30
+Composition II,91418,ENG,102,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 206,Fall2019,Lecture,Mary A  Hess,30
+Composition II,91423,ENG,102,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 326,Fall2019,Lecture,Timothy W  McCoy,30
+Composition II,91421,ENG,102,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 211,Fall2019,Lecture,Linda M.  Black-Ochsenbein,30
+Composition II,91422,ENG,102,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 258,Fall2019,Lecture,Amanda Rae  Trainham,30
+Composition II,91413,ENG,102,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 210,Fall2019,Lecture,Stephanie Sue  Pritchard,30
+Composition II,91432,ENG,102,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 306,Fall2019,Lecture,Jean   Troy-Smith,30
+Composition II,91742,ENG,102,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Sheldon Hall 326,Fall2019,Lecture,Emily   Kirch,30
+Composition II,91407,ENG,102,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 103,Fall2019,Lecture,Amanda Rae  Trainham,30
+Composition II,91414,ENG,102,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 204,Fall2019,Lecture,Melissa Ruth  Webb,30
+Composition II,91429,ENG,102,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 107,Fall2019,Lecture,Dwayne Francis  Arruza,30
+Composition II,91740,ENG,102,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 326,Fall2019,Lecture,Emily   Kirch,30
+Composition II,91411,ENG,102,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 142,Fall2019,Lecture,Kenneth S  Nichols,30
+Composition II,91434,ENG,102,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 322,Fall2019,Lecture,Maureen F  Curtin,30
+Composition II,91412,ENG,102,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Park Hall 313,Fall2019,Lecture,Jamie L.  Adams,30
+Composition II,91416,ENG,102,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 232,Fall2019,Lecture,Michael   Murphy,30
+Composition II,91425,ENG,102,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Park Hall 211,Fall2019,Lecture,Linda M.  Black-Ochsenbein,30
+Composition II,91741,ENG,102,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 106,Fall2019,Lecture,Amanda Rae  Trainham,30
+Comp II: Service Learning,94708,ENG,102,2,Undergraduate ,3,,8:00 am - 9:20 am,TR,Marano Campus Center 141,Fall2019,Lecture,Sean Thomas  Milligan,30
+Composition II,94825,ENG,102,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 306,Fall2019,Lecture,Kenneth S  Nichols,30
+Composition II-International,92153,ENG,102,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 208,Fall2019,Lecture,Melissa Ruth  Webb,30
+Composition II,94325,ENG,102,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 326,Fall2019,Lecture,Timothy W  McCoy,30
+Composition II,91833,ENG,102,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 211,Fall2019,Lecture,Mary A  Hess,30
+Composition II,94803,ENG,102,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 314,Fall2019,Lecture,Karol   Cooper,30
+Composition II,94826,ENG,102,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 211,Fall2019,Lecture,Michael   Murphy,30
+Adv. Listening Comprehension,93064,ENG,103,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 256,Fall2019,Lecture,Angela M  Herrera,30
+Advanced Reading-International,91867,ENG,104,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 256,Fall2019,Lecture,Angela M  Herrera,30
+FYSC-Victorian Monsters,94678,ENG,198,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 314,Fall2019,Lecture,Sarah L.  Berry,30
+Writing About LiteratureLC,94698,ENG,204,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 223,Fall2019,Lecture,Michael   Raicht,30
+Writing About Literature,91858,ENG,204,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 323,Fall2019,Lecture,Diane Marie  Zeller,30
+Writing AboutLiterature,91729,ENG,204,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 206,Fall2019,Lecture,Jarrod   Hagadorn,30
+Writing About Literature,90167,ENG,204,,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 322,Fall2019,Lecture,Patrick   Murphy,30
+Writing About Literature,90958,ENG,204,1,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Marano Campus Center 231,Fall2019,Lecture,Karol   Cooper,30
+Modern Culture & Media,94614,ENG,220,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 306,Fall2019,Lecture,Fiona   Coll,30
+Amer Lit/Begin-Civ War,91112,ENG,235,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 211,Fall2019,Lecture,Douglas A  Guerra,30
+Ethnicity & Cul Diff in Lit,91733,ENG,237,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 306,Fall2019,Lecture,Roberta   Hurtado,30
+SophSem:Epic/Romance1660-1750,94088,ENG,265,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 225,Fall2019,Seminar,Elizabeth Briande  Bishop,30
+Sophomore Seminar-Genre,91476,ENG,265,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 142,Fall2019,Seminar,Sarah L.  Berry,30
+Sophomore Seminar-Genre,94321,ENG,265,7,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 142,Fall2019,Seminar,Sarah L.  Berry,30
+Practical English Grammar,90169,ENG,271,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 132,Fall2019,Lecture,Robert M  Early,30
+Int Cinema/Screen,90841,ENG,286,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 211,Fall2019,Lecture,Bennet   Schaber,30
+Intro Cinema/Screen StudiesLC,91734,ENG,286,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 323,Fall2019,Lecture,Amy   Shore,30
+Advanced Composition,94621,ENG,302,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 306,Fall2019,Recitation or Discussion,Michael   Murphy,30
+Literary Criticism,91749,ENG,304,5,Undergraduate ,3,,6:00 pm - 9:00 pm,W,Marano Campus Center 323,Fall2019,Lecture,Patrick   Murphy,30
+Literary Criticism,90765,ENG,304,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 323,Fall2019,Lecture,Maureen F  Curtin,30
+Shakespeare- An Introduction,90170,ENG,319,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 323,Fall2019,Lecture,Patrick   Murphy,30
+19thC English Novel,93739,ENG,322,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 306,Fall2019,Lecture,Fiona   Coll,30
+20thC American Novel,92067,ENG,343,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 306,Fall2019,Lecture,Roberta   Hurtado,30
+Amer Poetry Since 1945,94611,ENG,351,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 225,Fall2019,Lecture,Elizabeth Briande  Bishop,30
+Latina Writings and Theories,94619,ENG,356,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 332,Fall2019,Lecture,Roberta   Hurtado,30
+Black Women Writers,94613,ENG,357,5,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 306,Fall2019,Lecture,Patricia E  Clark,30
+LGC:Nat Cin NAfrica Lit Global,94681,ENG,360,6,Undergraduate ,3,,3:00 pm - 6:45 pm,W,Marano Campus Center 211,Fall2019,Lecture,Bennet   Schaber,30
+Literature in Global Context,90171,ENG,360,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 306,Fall2019,Lecture,Manori N  Jayawardane,30
+Genre,History,Theory,,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 225,Fall2019,Lecture,Douglas A  Guerra,30
+Jr Seminar:,90925,ENG,365,2,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Marano Campus Center 306,Fall2019,Seminar,Manori N  Jayawardane,30
+Junior Seminar:Herman Melville,94087,ENG,365,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 225,Fall2019,Seminar,Douglas A  Guerra,30
+Hist & Devel English Lang,91777,ENG,374,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 225,Fall2019,Lecture,Elizabeth Briande  Bishop,30
+Theories of Diverse Sexuality,94616,ENG,375,5,Undergraduate ,3,,5:00 pm - 7:45 pm,T,Marano Campus Center 323,Fall2019,Lecture,Maureen F  Curtin,30
+Literature for Young Adults,93800,ENG,384,6,Undergraduate ,3,,4:10 pm - 6:55 pm,W,Wilber B8,Fall2019,Lecture,Sharon G  Kane,30
+Children's Literature,90172,ENG,385,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 306,Fall2019,Lecture,Jean   Troy-Smith,30
+The Cinema,90173,ENG,386,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 108,Fall2019,Lecture,Amy   Shore,30
+Vision & Textuality,94623,ENG,387,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 211,Fall2019,Lecture,Bennet   Schaber,30
+Film Genre with lab,90174,ENG,388,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 323,Fall2019,Lecture,Tiffany L  Deater,30
+Images of Native AM in Film,94620,ENG,390,4,Undergraduate ,3,,5:30 pm - 8:20 pm,T,Lanigan Hall 107,Fall2019,Recitation or Discussion,Christopher   LaLonde,30
+T: The Horror Film,94805,ENG,395,5,Undergraduate ,3,,3:15 pm - 6:15 pm,M,Rich Hall 219,Fall2019,Lecture,Michael   Raicht,30
+SemAdvLit:,92065,ENG,465,6,Undergraduate ,3,,6:25 pm - 7:50 pm,MW,Marano Campus Center 306,Fall2019,Seminar,Manori N  Jayawardane,30
+Corporate Finance,91191,FIN,325,7,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 320,Fall2019,Lecture,David F  DiRoma,30
+Corporate Finance,90058,FIN,325,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 319,Fall2019,Lecture,Hong   Wan,30
+Corporate Finance,90059,FIN,325,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rich Hall 320,Fall2019,Lecture,Hong   Wan,30
+Corporate Finance,94144,FIN,325,3,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Sonata 105,Fall2019,Lecture,Adam   Gagas,30
+Corporate Finance,90956,FIN,325,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Rich Hall 223,Fall2019,Lecture,Graig   Arcuri,30
+Corporate Finance,92640,FIN,325,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 323,Fall2019,Lecture,David F  DiRoma,30
+Financial Statement Analysis,91449,FIN,340,6,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Rich Hall 319,Fall2019,Lecture,Mary Tone  Rodgers,30
+Financial Statement Analysis,92641,FIN,340,7,Undergraduate ,3,,7:35 pm - 8:55 pm,TR,Rich Hall 319,Fall2019,Lecture,Mary Tone  Rodgers,30
+Investments,91014,FIN,354,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Rich Hall 320,Fall2019,Lecture,Eric   Tsai,30
+Investments,91810,FIN,354,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Eric   Tsai,30
+Investments,94281,FIN,354,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Fall2019,Lecture,Eric   Tsai,30
+Real Estate Finance,94137,FIN,391,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 223,Fall2019,Lecture,Graig   Arcuri,30
+Real Estate Finance,94136,FIN,391,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 223,Fall2019,Lecture,Graig   Arcuri,30
+Elementary French,91473,FRE,101,6,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 106,Fall2019,Lecture,Allen   Stagl,30
+Elementary French,91704,FRE,101,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 106,Fall2019,Lecture,Allen   Stagl,30
+Elementary French,94483,FRE,101,1,Undergraduate ,3,,4:10 pm - 5:30 pm,MW,Marano Campus Center 323,Fall2019,Lecture,Najet   Gharsallaoui,30
+Continuing Elementary French,91840,FRE,102,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 225,Fall2019,Lecture,Stewart   Smith,30
+Continuing Elementary French,92830,FRE,102,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 256,Fall2019,Lecture,Susan   Bertonneau,30
+Continuing Elementary French,93811,FRE,102,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 256,Fall2019,Lecture,Susan   Bertonneau,30
+Intermediate French,90291,FRE,201,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 256,Fall2019,Lecture,Susan   Bertonneau,30
+Continuing Intermediate French,90819,FRE,202,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 210,Fall2019,Lecture,Jeanine   Teodorescu,30
+Adv FRE:Culture/Comm/Commerce,94487,FRE,303,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 210,Fall2019,Lecture,Jeanine   Teodorescu,30
+Freshmen Colloquium,91203,ART,111,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 106,Fall2019,Studio,Richard   Metzgar,30
+Transfer Student Colloquim,91209,ART,311,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Mahar Hall 201,Fall2019,Studio,Kelly L  Roe,30
+Strat Instr in the Disciplines,92380,EDU,104,3,Undergraduate ,3,,11:10 am - 12:05 pm,TR,Park Hall 212,Fall2019,Lecture,Allison R  Peer,30
+Elementary French,91124,FRE,101,4,Undergraduate ,3,,3:00 pm - 5:00 pm,MTR,Marano Campus Center 242,Fall2019,Lecture,Lenuta   Giukin,30
+Fund of Administration,92122,EAD,601,5,Graduate ,3,,4:30 pm - 10:00 pm,T,Jefferson Community College ,Fall2019,Lecture,Tamara   Lipke,30
+Fund of Administration,92999,EAD,601,6,Graduate ,3,,4:30 pm - 9:45 pm,W,Sonata 107,Fall2019,Lecture,Linda Rae  Markert,30
+Student Teaching,90099,ADO,420,7,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Fall2019,Student Teaching,Unassigned   Staff,30
+Student Teaching Grades 7-12A,93735,ADO,595,1,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,Unassigned   Staff,30
+Student Teaching Grades 7-12A,94464,ADO,595,2,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,TBA,30
+Student Teaching Grades 7-12A,94465,ADO,595,3,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,TBA,30
+Student Teaching Grades 7-12A,94466,ADO,595,4,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,TBA,30
+Student Teaching Grades 7-12A,94467,ADO,595,5,Graduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,TBA,30
+Childhood Student Teaching,90121,CED,420,6,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Fall2019,Student Teaching,Unassigned   Staff,30
+Hollywood POV,94730,CMA,410,7,Undergraduate ,3,,11:30 am - 12:25 pm,M,Mahar Hall 112,Fall2019,Lecture,Michael J  Riecke,30
+Strat Instr in the Disciplines,92599,EDU,104,1,Undergraduate ,3,,11:10 am - 12:05 pm,TR,Park Hall 212,Fall2019,Lecture,Allison R  Peer,30
+Schools in Global Context,94831,EDU,382,2,Undergraduate ,3,,10:00 am - 1:00 pm,S,Wilber 203,Fall2019,Seminar,Ritu   Radhakrishnan,30
+Continuing Elementary French,91474,FRE,102,3,Undergraduate ,3,,3:00 pm - 5:00 pm,MTR,Marano Campus Center 242,Fall2019,Lecture,Lenuta   Giukin,30
+Cross Cultural Student Teach,90100,ADO,421,4,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Fall2019,Student Teaching,Unassigned   Staff,30
+CrossCulturalStudentTeaching,90122,CED,421,5,Undergraduate ,3,,TBA,TBA,Off Campus ,Fall2019,Student Teaching,Unassigned   Staff,30
+Topics in Education:Benin,94766,EDU,305,6,Undergraduate ,3,,8:00 pm - 10:00 pm,W,Wilber 203,Fall2019,Recitation or Discussion,Marcia M  Burrell,30
+Topics in Education:Benin,94767,EDU,505,7,Graduate ,3,,8:00 pm - 10:00 pm,W,Wilber 203,Fall2019,Recitation or Discussion,Marcia M  Burrell,30
+Clinical Consult Play Therapy,91816,CPS,603,1,Graduate ,3,,9:00 am - 3:15 pm,F,Wilber 115,Fall2019,Seminar,Ashley Elizabeth-Ann  Lawton Converse,30
+Internship in School Psych,92118,CPS,617,2,Graduate ,3,,9:30 am - 12:00 pm,F,Wilber 220,Fall2019,Paid Internship,James L  McDougal,30
+Internship in School Psych,94677,CPS,617,3,Graduate ,3,,9:30 am - 12:00 pm,F,Wilber 220,Fall2019,Paid Internship,James L  McDougal,30
+Fund of Administration,92163,EAD,601,4,Graduate ,3,,4:30 pm - 10:00 pm,M,Palmyra-Macedon CSD ,Fall2019,Lecture,Danielle M  Dehm,30
+Supervsn- Improvment of Inst,93001,EAD,641,5,Graduate ,3,,4:30 pm - 10:00 pm,M,Palmyra-Macedon CSD ,Fall2019,Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93000,EAD,641,6,Graduate ,3,,4:30 pm - 10:00 pm,W,Sonata 107,Fall2019,Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93002,EAD,641,7,Graduate ,3,,4:30 pm - 10:00 pm,W,Jefferson Community College ,Fall2019,Lecture,Tamara   Lipke,30
+DASA Training,93011,DASA,1020,1,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,,8:30 am - 3:30 pm,S,Marano Campus Center 211,Fall2019,Lecture,Geri   Geitner,30

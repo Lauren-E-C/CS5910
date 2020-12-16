@@ -294,7 +294,7 @@ class Model implements ModelInterface
                 }
 
                 if (gettype($value) === "array") {
-                    if ($value[0] && $value[1]) {
+                    if ($value[0] || $value[1]) {
                         if ($return !== "") {
                             $return .= " AND ";
                         }

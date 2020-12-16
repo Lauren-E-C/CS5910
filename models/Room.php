@@ -15,21 +15,21 @@ class Room extends Model
         parent::__construct("Room", ["RoomID", "BuildingIDNumber"]);
     }
 
-    public function get($keyValues = false)
-    {
-        if ($keyValues && isset($specialRooms['RoomID'])) {
-            $roomID = $keyValues['RoomID'];
-            if (isset($this->specialRooms[$roomID])) {
-                $this->setValues([
-                    'RoomID' => $roomID,
-                    'BuildingIDNumber' => null,
-                    'RoomSize' => 0,
-                    'RoomType' => $this->specialRooms[$roomID]
-                ]);
-            }
-            return $this->getValues();
-        }
-
-        return parent::get($keyValues);
-    }
+//    public function get($keyValues = false)
+//    {
+//        if ($keyValues && isset($specialRooms['RoomID'])) {
+//            $roomID = $keyValues['RoomID'];
+//            if (isset($this->specialRooms[$roomID])) {
+//                $this->setValues([
+//                    'RoomID' => $roomID,
+//                    'BuildingIDNumber' => null,
+//                    'RoomSize' => 0,
+//                    'RoomType' => $this->specialRooms[$roomID]
+//                ]);
+//            }
+//            return $this->getValues();
+//        }
+//
+//        return parent::get($keyValues);
+//    }
 }

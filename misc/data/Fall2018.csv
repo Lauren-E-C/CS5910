@@ -1,0 +1,998 @@
+﻿Coursename,CRN,Department,CourseID,Section,Level,Credits,Prerequisites,timeslot,Day,Location,Term,Roomtype,Instructor,Capacity
+Intro. to Geography,90214,GEG,100,1,Undergraduate ,3,,6:15 pm - 9:00 pm,R,Mahar Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Amy   D'Angelo,30
+Physical Geology,91750,GEO,100,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rachel   Lee,30
+Physical Geology,91976,GEO,100,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Nicholas J  DiFrancesco,30
+Physical Geology,94094,GEO,100,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rachel   Lee,30
+Physical Geology Laboratory,91033,GEO,101,5,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Richard   Frieman,30
+Physical Geology Laboratory,91400,GEO,101,6,Undergraduate ,3,,9:35 am - 12:30 pm,R,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Paul B  Tomascak,30
+Environmental Sustainability,90998,GEO,115,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Justin   Stroup,30
+Mineralogy,90416,GEO,310,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Lecture,Nicholas J  DiFrancesco,30
+Mineralogy Lab,90966,GEO,310,2,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Nicholas J  DiFrancesco,30
+Mineralogy Lab,93188,GEO,310,3,Undergraduate ,3,,9:35 am - 12:15 pm,T,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Nicholas J  DiFrancesco,30
+Structural Geology,91977,GEO,330,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Valentino,30
+Structural Geology Lab,91978,GEO,330,5,Undergraduate ,3,,9:35 am - 12:30 pm,T,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Laboratory,David   Valentino,30
+Geophysics,94120,GEO,340,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Valentino,30
+Intro to Remote Sensing,94097,GEO,350,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rachel   Lee,30
+Intro to Remote Sensing Lab,94100,GEO,350,1,Undergraduate ,3,,9:35 am - 12:30 pm,R,Shineman Center 377,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Rachel   Lee,30
+STG:Geoscience Research,93682,GEO,390,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 377,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Valentino,30
+STG: Geomorphology Lab,94119,GEO,390,3,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 372,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Justin   Stroup,30
+Stratigraphy,90832,GEO,420,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Lecture,Richard   Frieman,30
+Stratigraphy Lab,90967,GEO,420,5,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 370,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Richard   Frieman,30
+Elementary German,90292,GER,101,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patrick   Schultz,30
+Elementary German,93543,GER,101,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patrick   Schultz,30
+Continuing Elementary German,90294,GER,102,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ana   Djukic-Cocks,30
+GER Conversation Through Film,94063,GER,200,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Ana   Djukic-Cocks,30
+Intermediate German,90295,GER,201,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patrick   Schultz,30
+Survey Germ Lit&CultureB,94062,GER,351,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 258,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ana   Djukic-Cocks,30
+Principles of Accounting I,92624,ACC,201,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 219,"Aug 27, 2018 - Dec 07, 2018",Lecture,Yi   Liu,30
+Principles of Accounting I,92625,ACC,201,6,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Douglas   Castro,30
+Principles of Accounting I,92626,ACC,201,7,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Lecture,Yi   Liu,30
+Principles of Accounting I,92627,ACC,201,1,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Yan Carlos   Minaya,30
+Principles of Accounting I,92628,ACC,201,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura Bea  Lamb,30
+Principles of Accounting I,92631,ACC,201,3,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Yan Carlos   Minaya,30
+Principles of Accounting I,92630,ACC,201,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 219,"Aug 27, 2018 - Dec 07, 2018",Lecture,Yi   Liu,30
+Principles of Accounting I,92629,ACC,201,5,Undergraduate ,3,,8:00 am - 8:55 am,F,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Aaron W  Norton,30
+Principles of Accounting I,92634,ACC,201,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92635,ACC,201,7,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Jiahui   Lu,30
+Principles of Accounting I,92636,ACC,201,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92637,ACC,201,2,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kaitlin M  O'Connor,30
+Principles of Accounting I,92638,ACC,201,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92639,ACC,201,4,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 324,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Stephen   Giannotta,30
+Principles Of Accounting II,92618,ACC,202,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heather   Losi,30
+Principles Accounting II Lab,90979,ACC,202,6,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Derek L  Schnorr,30
+Principles Of Accounting II,92619,ACC,202,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heather   Losi,30
+Principles Accounting II Lab,91190,ACC,202,1,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Alysha Agnes  Lawton,30
+Principles Of Accounting II,92620,ACC,202,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heather   Losi,30
+Principles Of Accounting IILab,91310,ACC,202,3,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Morgan Marie  McDermott,30
+Principles Of Accounting II,92622,ACC,202,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Andrea Maria Anastasia  Pagano,30
+Principles Of Accounting IILab,91510,ACC,202,5,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 324,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Joshua T  Jasewicz,30
+Intermediate Accounting I,90038,ACC,301,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90961,ACC,301,7,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Brian T  Regel,30
+Intermediate Accounting I,90042,ACC,301,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90962,ACC,301,2,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Megan   Hatton,30
+Intermediate Accounting II,90043,ACC,302,3,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura Bea  Lamb,30
+Accounting Information Systems,90553,ACC,305,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas J  Tribunella,30
+Accounting Information Systems,91192,ACC,305,5,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas J  Tribunella,30
+Cost Accounting,90050,ACC,310,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 324,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Wright,30
+Cost Accounting,91184,ACC,310,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 324,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Wright,30
+Managerial Accounting,91971,ACC,320,1,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Lecture,Debra A.  Geroux,30
+Acct as Management Tool,93043,ACC,321,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura Bea  Lamb,30
+Acct as Management Tool,94141,ACC,321,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura Bea  Lamb,30
+Federal Tax Accounting I,90053,ACC,330,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Dean   Crawford,30
+Federal Tax Accounting I,90055,ACC,330,5,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 219,"Aug 27, 2018 - Dec 07, 2018",Lecture,Dean   Crawford,30
+Auditing,90942,ACC,430,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Hema   Rao,30
+Content Methods; English,90081,ADO,310,7,Undergraduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 212,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90083,ADO,313,1,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Sharon G  Kane,30
+Content Methds:2nd/ForeignLang,90084,ADO,320,2,Undergraduate ,3,,4:30 pm - 8:30 pm,M,Sheldon Hall 337,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd/Foreign Lang,90086,ADO,323,3,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90088,ADO,330,4,Undergraduate ,3,,4:10 pm - 8:10 pm,W,Sheldon Hall 328,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III:Mathematic,90090,ADO,333,5,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Jean E  Hallagan,30
+Content Methods: Science,90743,ADO,340,6,Undergraduate ,3,,5:00 pm - 9:00 pm,T,Hewitt Union 228C,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90093,ADO,343,7,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Eric   Olson,30
+Content Methods:Social Studies,90095,ADO,350,1,Undergraduate ,3,,4:30 pm - 8:30 pm,T,Sheldon Hall 326,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Ritu   Radhakrishnan,30
+Field PlacementIII:Social Stud,90098,ADO,353,2,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Ritu   Radhakrishnan,30
+Content Methods: English,90082,ADO,510,3,Graduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 212,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90101,ADO,513,4,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Sharon G  Kane,30
+Content Methods:2ndForeignLang,90085,ADO,520,5,Graduate ,3,,4:30 pm - 8:30 pm,M,Sheldon Hall 337,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd Foreign Lang,90087,ADO,523,6,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90089,ADO,530,7,Graduate ,3,,4:30 pm - 8:30 pm,M,Sonata,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Alicia K.  Pizzuto,30
+Field Placement III: Math,90091,ADO,533,1,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Content Methods:Science,90092,ADO,540,2,Graduate ,3,,5:00 pm - 9:00 pm,T,Hewitt Union 228C,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90094,ADO,543,3,Graduate ,3,,TBA,T,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Eric   Olson,30
+Content Methods:Social Studies,90096,ADO,550,4,Graduate ,3,,4:30 pm - 8:30 pm,T,Sheldon Hall 326,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Ritu   Radhakrishnan,30
+Field Placement III:Soc Studie,90097,ADO,553,5,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Ritu   Radhakrishnan,30
+Field Experience B:Plan/Teach,91470,ADO,593,6,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Joanne E.  O'Toole,30
+Interdisciplinary Methods,91020,ADO,594,7,Graduate ,3,,6:15 pm - 9:15 pm,R,Sonata,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,David Paul  Parisian,30
+Archaeology & Human Evolution,90190,ANT,111,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alanna E  Ossa,30
+Archaeology & Human Evolution,92378,ANT,111,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 104,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas   Pippin,30
+Cultural Anthropology,90192,ANT,112,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jing   Lei,30
+Cultural Anthropology,93536,ANT,112,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,Micah F  Morton,30
+First Year Signature Course,94058,ANT,198,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 307,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kathleen A  Blake,30
+History of Ethnological Theory,91026,ANT,210,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 307,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jing   Lei,30
+Introductory Archaeology,91374,ANT,230,7,Undergraduate ,3,,3:00 pm - 5:45 pm,M,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas   Pippin,30
+Biological Anthropology,90988,ANT,280,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 307,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kathleen A  Blake,30
+T:North American Archaeology,94059,ANT,301,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas   Pippin,30
+Teaching Anthropology,93546,ANT,302,3,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Tutorial,Kathleen A  Blake,30
+Research Methods,90194,ANT,310,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alanna E  Ossa,30
+Archaeology of the Old World,94239,ANT,341,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alanna E  Ossa,30
+Forensic Anthropology,91105,ANT,354,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 307,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kathleen A  Blake,30
+Medical Anthropology,93537,ANT,355,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Micah F  Morton,30
+Death & Dying-Cross Cult.Pers,94121,ANT,368,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Micah F  Morton,30
+North American Indians,90836,ANT,375,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Taylor,30
+Intro to the Visual Arts,91651,ART,100,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,William   DeMott,30
+Intro to the Visual Arts,93297,ART,100,4,Undergraduate ,3,,6:00 pm - 7:25 pm,MW,Lanigan Hall 35,"Aug 27, 2018 - Dec 07, 2018",Lecture,William   DeMott,30
+Design Concepts I-2D,90268,ART,105,5,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Studio,Mary D.  Pierce,30
+Design Concepts I-2D,91212,ART,105,6,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Studio,Richard   Metzgar,30
+Design Concepts I-2D,91224,ART,105,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Studio,Joseph Mario  Romano,30
+Design Concepts I-2D,90267,ART,105,1,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Studio,Mary D.  Pierce,30
+Design Concepts II-3D,90269,ART,106,2,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+Design Concepts II-3D,91204,ART,106,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Richard   Metzgar,30
+Design Concepts II-3D,91657,ART,106,4,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+Digital Media,91200,ART,207,5,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Elizabeth Nichole  Hunt,30
+Digital Media,94178,ART,207,6,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Elizabeth Nichole  Hunt,30
+Digital Media,91935,ART,207,7,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Melissa   Martin,30
+Typography,91225,ART,209,1,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Donna L  Greene,30
+Typography,91782,ART,209,2,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Donna L  Greene,30
+Drawing I,93883,ART,210,3,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 214,"Aug 27, 2018 - Dec 07, 2018",Studio,Jason M  Cheney,30
+Drawing I,94194,ART,210,4,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 214,"Aug 27, 2018 - Dec 07, 2018",Studio,Joseph Mario  Romano,30
+Drawing I,94195,ART,210,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 214,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+Painting I,92787,ART,215,6,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Intro to Printmaking,90271,ART,225,7,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Mary D.  Pierce,30
+Ceramics I,90272,ART,230,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1B,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+Intro to Digital Photography,90273,ART,243,2,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Peter   Cardone,30
+Intro to Digital Photography,90899,ART,243,3,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Julieve   Jubin,30
+Intro to Digital Photography,91205,ART,243,4,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Stephen   Shaner,30
+Sculpture I,91768,ART,245,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+West Hert I-Survy Art I,90274,ART,250,6,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Mahar Hall 201,"Aug 27, 2018 - Dec 07, 2018",Lecture,Benjamin R  Entner,30
+West HertII-Survy Art II,91661,ART,251,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 201,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa K  Langlois,30
+Figure Drawing I,90733,ART,300,1,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+Type and Image,91211,ART,307,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Melissa   Martin,30
+Multimedia I,91220,ART,309,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+Multimedia I,93589,ART,309,4,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+Intermediate Drawing,90275,ART,310,5,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+Intro to Illustration I,93750,ART,312,6,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Studio,Jason M  Cheney,30
+Digital Illustration I,91483,ART,313,7,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Amy E.  Bartell,30
+Painting II,93583,ART,315,1,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Painting III,93584,ART,316,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Web Media I,91214,ART,317,3,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Rebecca Wendy  Mushtare,30
+3-D Modeling and Animation,91654,ART,318,4,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Lisa A.  DuBois,30
+Drawing for Transfer Students,91267,ART,322,5,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+Digital Media-Transfer Student,91213,ART,323,6,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Cynthia A  Clabough,30
+Printmaking-Intaglio,91666,ART,325,7,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Mary D.  Pierce,30
+Screen Printing,90871,ART,326,,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Elizabeth Nichole  Hunt,30
+Ceramics II,90829,ART,330,1,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+ST: PExperience Design,93795,ART,333,2,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Rebecca Wendy  Mushtare,30
+ST:Abstract Drawing & Painting,94182,ART,333,3,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Art Therapy Practices,94147,ART,336,4,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Melissa   Cardone,30
+Black & White Darkroom PhotoI,94149,ART,340,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 219,"Aug 27, 2018 - Dec 07, 2018",Studio,Peter   Cardone,30
+Intermediate Digital Photo,91260,ART,343,6,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Julieve   Jubin,30
+Sculpture,91767,ART,345,7,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+20th Century Art,90831,ART,353,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa A  Seppi,30
+History Of Photography,94179,ART,356,2,Undergraduate ,3,,5:20 pm - 6:45 pm,MW,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa K  Langlois,30
+Native N. American Indian Art,94190,ART,358,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa A  Seppi,30
+History of Graphic Design,90554,ART,365,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Cynthia A  Clabough,30
+Asian Art Through Silk Road,94181,ART,374,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa K  Langlois,30
+Intro To Museum Studies,90279,ART,380,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael K.  Flanagan,30
+Graphic Design Facility Manage,91215,ART,395,7,Undergraduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 33,"Aug 27, 2018 - Dec 07, 2018",Studio,Jenilee A.  Ward,30
+"Two Dimensional,Experi.Studio",91216,ART,396,1,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91206,ART,396,2,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91223,ART,396,3,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91649,ART,396,4,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91395,ART,396,5,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Kelly L  Roe,30
+"Two Dimensional,Experi.Studio",91398,ART,396,6,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Amy E.  Bartell,30
+"Two Dimensional,Experi.Studio",91650,ART,396,7,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91592,ART,396,1,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91208,ART,396,2,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+"Two Dimensional,Experi.Studio",91804,ART,396,3,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+"Two Dimensional,Experi.Studio",92819,ART,396,4,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91201,ART,396,5,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Peter   Cardone,30
+"Two Dimensional,Experi.Studio",91230,ART,396,6,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Studio,Richard   Metzgar,30
+"3 Dimensional,Experi. Studio",91202,ART,397,7,Undergraduate ,3,,TBA,TBA,To Be Announced ,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+"3 Dimensional,Experi. Studio",91219,ART,397,1,Undergraduate ,3,,TBA,TBA,To Be Announced ,"Aug 27, 2018 - Dec 07, 2018",Studio,Richard   Metzgar,30
+"3 Dimensional,Experi. Studio",91228,ART,397,2,Undergraduate ,3,,TBA,TBA,To Be Announced ,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+Figure Drawing II,91207,ART,400,3,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Studio,Juan   Perdiguero,30
+Publication Design,91289,ART,408,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Donna L  Greene,30
+Multimedia II,91221,ART,409,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+Multimedia II,93590,ART,409,6,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Cara B  Thompson,30
+Traditional Illustration II,93577,ART,412,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Amy E.  Bartell,30
+Digital Illustration II,90280,ART,413,1,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Amy E.  Bartell,30
+Graphic/InteractiveDesign Prac,91222,ART,414,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Tutorial,Cara B  Thompson,30
+Painting IV,93585,ART,415,3,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Web Media II,91393,ART,417,4,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Rebecca Wendy  Mushtare,30
+Adv 3-D Modeling & Animation,91655,ART,418,5,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Lisa A.  DuBois,30
+Studio Management,90882,ART,419,6,Undergraduate ,3,,TBA,TBA,To Be Announced ,"Aug 27, 2018 - Dec 07, 2018",Activity,Christopher   McEvoy,30
+Adv. Problems in Illustration,92816,ART,423,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Amy E.  Bartell,30
+Adv Problems in Printmaking,91652,ART,425,1,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Elizabeth Nichole  Hunt,30
+Ceramics III,90830,ART,430,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+Ceramics IV,90946,ART,431,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,"Aug 27, 2018 - Dec 07, 2018",Studio,Renqian   Yang,30
+Advanced Digital Photography,91229,ART,443,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Julieve   Jubin,30
+ProjSt 3D/4D:Sculpture,91769,ART,445,5,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+BFA Exhibition,91210,ART,492,6,Undergraduate ,3,,12:45 pm - 2:05 pm,T,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Activity,Elizabeth Nichole  Hunt,30
+GR Studio:3-D Model/Animation,91656,ART,500,7,Graduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Lisa A.  DuBois,30
+Graduate Studio-Illustration,93805,ART,500,1,Graduate ,3,,6:00 pm - 9:00 pm,TR,Hewitt Union 1A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason M  Cheney,30
+GS:Art Therapy Practices,94148,ART,500,2,Graduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Melissa   Cardone,30
+Gr Graphic Design-Publication,91263,ART,508,3,Graduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Lecture,Donna L  Greene,30
+Gr Graphic Design-Type&Image,93189,ART,508,4,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Studio,Melissa   Martin,30
+Gr Multimedia,92815,ART,509,5,Graduate ,3,,6:00 pm - 9:00 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Lecture,Cara B  Thompson,30
+Graduate Drawing: Figure,91397,ART,510,6,Graduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Lecture,Juan   Perdiguero,30
+Graduate Drawing,94334,ART,510,7,Graduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 215,"Aug 27, 2018 - Dec 07, 2018",Lecture,Juan   Perdiguero,30
+Graduate Digital Illustration,91262,ART,513,1,Graduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Lecture,Amy E.  Bartell,30
+Grad Prob in Graphic Design,90602,ART,514,2,Graduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Activity,Cara B  Thompson,30
+Grad Prob in Graphic Design,92456,ART,514,3,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Activity,Cynthia A  Clabough,30
+Graduate Painting,91637,ART,515,4,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Graduate Web Design,91268,ART,517,5,Graduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rebecca Wendy  Mushtare,30
+Graduate Critique,MAT,92809,,6,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Kelly L  Roe,30
+Graduate Critique,MA,91261,,7,Graduate ,3,,2:00 pm - 5:00 pm,F,Tyler Hall 228,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Cynthia A  Clabough,30
+Graduate Digital Media,91781,ART,523,1,Graduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,"Aug 27, 2018 - Dec 07, 2018",Studio,Cynthia A  Clabough,30
+Graduate Printmaking,91667,ART,525,2,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Mary D.  Pierce,30
+GR. Printmaking:Screenprinting,91653,ART,525,3,Graduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 200,"Aug 27, 2018 - Dec 07, 2018",Studio,Elizabeth Nichole  Hunt,30
+Graduate Ceramics,91264,ART,530,4,Graduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,"Aug 27, 2018 - Dec 07, 2018",Lecture,Renqian   Yang,30
+ST: PExperience Design,94184,ART,533,5,Graduate ,3,,11:30 am - 1:35 pm,MWF,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Studio,Rebecca Wendy  Mushtare,30
+ST:Abstract Drawing & Painting,94183,ART,533,6,Graduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 225,"Aug 27, 2018 - Dec 07, 2018",Studio,Christopher   McEvoy,30
+Graduate Photography,91302,ART,540,7,Graduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Julieve   Jubin,30
+GR Photography: Beginning,93579,ART,540,1,Graduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,"Aug 27, 2018 - Dec 07, 2018",Studio,Julieve   Jubin,30
+GP:Black & White Darkroom,94150,ART,540,2,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 219,"Aug 27, 2018 - Dec 07, 2018",Lecture,Peter   Cardone,30
+Graduate Sculpture,91450,ART,545,3,Graduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,"Aug 27, 2018 - Dec 07, 2018",Studio,Benjamin R  Entner,30
+20th Century Art,91795,ART,553,4,Graduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa A  Seppi,30
+Grad History Graphic Design,91805,ART,565,5,Graduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Cynthia A  Clabough,30
+RPAH:Nat.NAmericanArtArchitect,91663,ART,571,6,Graduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa A  Seppi,30
+RPAH: History of Photography,91660,ART,571,7,Graduate ,3,,5:20 pm - 6:45 pm,MW,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa K  Langlois,30
+RPAH:Asian Art ThroughSilkRoad,94180,ART,571,1,Graduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa K  Langlois,30
+Graduate Art Theory & Practice,90628,ART,572,2,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Activity,Cynthia A  Clabough,30
+American Sign Language I,90288,ASL,101,3,Undergraduate ,3,,5:00 pm - 6:20 pm,TR,Marano Campus Center 142,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura   Latray-Corey,30
+Astronomy,90412,AST,100,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Scott   Roby,30
+Astronomy,90413,AST,100,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Scott   Roby,30
+Astronomy,90414,AST,100,6,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kenneth Eric  Mauser,30
+Astronomy,90415,AST,100,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kenneth Eric  Mauser,30
+Astronomy,92978,AST,100,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,TBA,"Aug 27, 2018 - Dec 07, 2018",Lecture,John   Zielinski,30
+Astronomy,92979,AST,100,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 172,"Aug 27, 2018 - Dec 07, 2018",Lecture,John   Zielinski,30
+Topics In Modern Astronomy,92102,AST,310,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 194,"Aug 27, 2018 - Dec 07, 2018",Lecture,Shashi M  Kanbur,30
+Intro to Health Info Systems,93702,BHI,501,4,Graduate ,3,,6:00 pm - 9:00 pm,T,Sonata 303,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joseph A  Miles,30
+Health Informatics Methods,93704,BHI,502,5,Graduate ,3,,6:00 pm - 9:00 pm,M,Sonata 303,"Aug 27, 2018 - Dec 07, 2018",Lecture,Isabelle   Bichindaritz,30
+eHealth Systems,93706,BHI,503,6,Graduate ,3,,6:00 pm - 9:00 pm,T,Sonata 301,"Aug 27, 2018 - Dec 07, 2018",Lecture,Manaswini   Pradhan,30
+Digital Health,93707,BHI,505,7,Graduate ,3,,6:00 pm - 9:00 pm,R,Sonata 303,"Aug 27, 2018 - Dec 07, 2018",Lecture,Manaswini   Pradhan,30
+Geospatial/Temporal/NetworkDat,94079,BHI,510,1,Graduate ,3,,6:00 pm - 9:00 pm,W,Sonata 303,"Aug 27, 2018 - Dec 07, 2018",Lecture,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93703,BHI,698,2,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93709,BHI,698,3,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Unassigned   Staff,30
+Thesis in BHI,92883,BHI,700,4,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Activity,Isabelle   Bichindaritz,30
+General Biology,90366,BIO,101,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 176,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Hammerly,30
+General Biology Lab,90963,BIO,101,6,Undergraduate ,3,,3:55 pm - 5:55 pm,R,Shineman Center 204,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Susan   Hammerly,30
+Biology Seminar,90880,BIO,110,7,Undergraduate ,3,,9:35 am - 10:55 am,R,Shineman Center 196,"Aug 27, 2018 - Dec 07, 2018",Seminar,James A  MacKenzie,30
+Biology Seminar,90728,BIO,110,1,Undergraduate ,3,,10:20 am - 11:15 am,F,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Seminar,Maria   Sagot,30
+Biology Seminar,91717,BIO,110,2,Undergraduate ,3,,10:20 am - 11:15 am,W,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Seminar,Christopher H  Chandler,30
+Biology Seminar,90729,BIO,110,3,Undergraduate ,3,,9:35 am - 10:30 am,T,Shineman Center 196,"Aug 27, 2018 - Dec 07, 2018",Seminar,Susan   Hammerly,30
+Biology Seminar,92209,BIO,110,4,Undergraduate ,3,,3:55 pm - 4:50 pm,T,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Seminar,Karen R  Sime,30
+Biology Seminar,93553,BIO,110,5,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Seminar,Kamal I  Mohamed,30
+Biology Seminar,91177,BIO,110,6,Undergraduate ,3,,11:10 am - 12:30 pm,T,Shineman Center 176,"Aug 27, 2018 - Dec 07, 2018",Seminar,James A  MacKenzie,30
+Biology Seminar,91175,BIO,110,7,Undergraduate ,3,,1:50 pm - 2:45 pm,M,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,C. Eric  Hellquist,30
+Biology Seminar,90758,BIO,110,1,Undergraduate ,3,,1:50 pm - 2:45 pm,W,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Maria   Sagot,30
+Biology Seminar,91709,BIO,110,2,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Seminar,Susan   Hammerly,30
+Biology Seminar,91708,BIO,110,3,Undergraduate ,3,,11:10 am - 12:30 pm,R,Shineman Center 176,"Aug 27, 2018 - Dec 07, 2018",Seminar,James A  MacKenzie,30
+Molecular/Cellular Foundations,91136,BIO,120,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Yulia   Artemenko,30
+Molecular/Cellular Found Lab,91173,BIO,120,5,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 204,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Yulia   Artemenko,30
+Molecular/Cellular Found. Lab,91320,BIO,120,6,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 204,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Yulia   Artemenko,30
+Molecular/Cellular FoundaLAB,92763,BIO,120,7,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 204,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Yulia   Artemenko,30
+Human Biology,90407,BIO,203,1,Undergraduate ,3,,7:00 pm - 8:25 pm,MW,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Cleane L  Medeiros,30
+Diversity of Life,92958,BIO,220,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel T  Baldassarre,30
+T:Captive Wildlife Management,93290,BIO,301,3,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 196,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Hammerly,30
+T:Biotechnology,94260,BIO,301,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 172,"Aug 27, 2018 - Dec 07, 2018",Lecture,Adam Spencer  Hoffman,30
+Cellular Physiology,93289,BIO,309,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 194,"Aug 27, 2018 - Dec 07, 2018",Lecture,Samuel C  McCarthy,30
+Microbiology,91557,BIO,310,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Peter   Newell,30
+Microbiology Lab,91558,BIO,310,7,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 212,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Peter   Newell,30
+Microbiology Lab,91559,BIO,310,1,Undergraduate ,3,,8:00 am - 11:00 am,R,Shineman Center 212,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Peter   Newell,30
+Microbiology Lab,92766,BIO,310,2,Undergraduate ,3,,12:45 pm - 3:45 pm,R,Shineman Center 212,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Peter   Newell,30
+Genetics,90408,BIO,315,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 315,"Aug 27, 2018 - Dec 07, 2018",Lecture,Adam Spencer  Hoffman,30
+Laboratory in Genetics,90723,BIO,316,4,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Samuel C  McCarthy,30
+Laboratory in Genetics,90837,BIO,316,5,Undergraduate ,3,,5:20 pm - 8:20 pm,M,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Suresh   Nimmagadda,30
+Laboratory in Genetics,90838,BIO,316,6,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Poongodi   Geetha-Loganathan,30
+Laboratory in Genetics,94032,BIO,316,7,Undergraduate ,3,,4:10 pm - 7:10 pm,W,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Nicholas M  Sard,30
+Laboratory in Genetics,90839,BIO,316,1,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Samuel C  McCarthy,30
+Laboratory in Genetics,90840,BIO,316,2,Undergraduate ,3,,5:45 pm - 8:45 pm,T,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Suresh   Nimmagadda,30
+Laboratory in Genetics,91306,BIO,316,3,Undergraduate ,3,,12:40 pm - 3:40 pm,W,Shineman Center 208,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Samuel C  McCarthy,30
+Introductory Ecology,91174,BIO,320,4,Undergraduate ,3,,9:10 am - 10:05 am,MW,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,C. Eric  Hellquist,30
+Introductory Ecology Lab,91313,BIO,320,5,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Rice Creek 119,"Aug 27, 2018 - Dec 07, 2018",Laboratory,C. Eric  Hellquist,30
+Introductory Ecology Lab,91715,BIO,320,6,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Rice Creek 119,"Aug 27, 2018 - Dec 07, 2018",Laboratory,C. Eric  Hellquist,30
+Behavioral Biology,94031,BIO,325,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Karen R  Sime,30
+Behavioral Biology Lab,94030,BIO,325,1,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 305,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Karen R  Sime,30
+The Plant Kingdom,90908,BIO,340,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jinyan   Guo,30
+The Plant Kingdom Lab,92963,BIO,340,3,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 301,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Jinyan   Guo,30
+The Plant Kingdom Lab,93552,BIO,340,4,Undergraduate ,3,,6:00 pm - 9:00 pm,T,Shineman Center 301,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Jinyan   Guo,30
+Great Lakes Environ. Issues,94029,BIO,363,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 192,"Aug 27, 2018 - Dec 07, 2018",Lecture,Richard C  Back,30
+The Animal Kingdom,91562,BIO,370,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Andrew   McElwain,30
+The Animal Kingdom Lab,91563,BIO,370,7,Undergraduate ,3,,6:00 pm - 9:00 pm,T,Shineman Center 305,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Andrew   McElwain,30
+The Animal Kingdom Lab,93558,BIO,370,1,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 305,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Michael J  McDonald,30
+Evolution,91179,BIO,425,2,Undergraduate ,3,,5:30 pm - 6:55 pm,MW,Shineman Center 183,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel T  Baldassarre,30
+Evolution,91181,BIO,425,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jinyan   Guo,30
+Evolution,91003,BIO,425,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel T  Baldassarre,30
+Evolution,91842,BIO,425,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 194,"Aug 27, 2018 - Dec 07, 2018",Lecture,James A  MacKenzie,30
+Evolution,93877,BIO,425,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael J  McDonald,30
+Research: Entomology,91713,BIO,492,7,Undergraduate ,3,,10:20 am - 1:20 pm,F,Shineman Center 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Karen R  Sime,30
+Research: Genomics,90410,BIO,492,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 348,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christopher H  Chandler,30
+Research: Molecular Ecology,91004,BIO,492,2,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 348,"Aug 27, 2018 - Dec 07, 2018",Activity,Nicholas M  Sard,30
+Research:Field Ecology,93556,BIO,492,3,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Rice Creek 121,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kamal I  Mohamed,30
+Evolution,91180,BIO,525,4,Graduate ,3,,5:30 pm - 6:55 pm,MW,Shineman Center 183,"Aug 27, 2018 - Dec 07, 2018",Seminar,Daniel T  Baldassarre,30
+Evolution,91009,BIO,525,5,Graduate ,3,,3:00 pm - 4:25 pm,MW,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Jinyan   Guo,30
+Evolution,91008,BIO,525,6,Graduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Daniel T  Baldassarre,30
+Evolution,92029,BIO,525,7,Graduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 194,"Aug 27, 2018 - Dec 07, 2018",Seminar,James A  MacKenzie,30
+Research: Entomology,91714,BIO,592,1,Graduate ,3,,10:20 am - 1:20 pm,F,Shineman Center 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Karen R  Sime,30
+Research: Genomics,90526,BIO,592,2,Graduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 348,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christopher H  Chandler,30
+Research: Molecular Ecology,91010,BIO,592,3,Graduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 348,"Aug 27, 2018 - Dec 07, 2018",Activity,Nicholas M  Sard,30
+Business Law I,90060,BLW,280,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 118,"Aug 27, 2018 - Dec 07, 2018",Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,94306,BLW,355,5,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 324,"Aug 27, 2018 - Dec 07, 2018",Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,91199,BLW,355,6,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,90054,BLW,355,7,Undergraduate ,3,,5:30 pm - 6:55 pm,MW,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa   Cuomo,30
+Legal&Regulatory Environ ofBus,90056,BLW,355,1,Undergraduate ,3,,7:10 pm - 8:30 pm,MW,Rich Hall 118,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lisa   Cuomo,30
+Legal&Regulatory Environ ofBus,91013,BLW,355,2,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 219,"Aug 27, 2018 - Dec 07, 2018",Lecture,Andrew T.  Wolfe,30
+Legal&Regulatory Environ ofBus,91677,BLW,355,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Park Hall 206,"Aug 27, 2018 - Dec 07, 2018",Lecture,Catherine   Sullivan,30
+Business Law II,90057,BLW,381,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary E  McGowan,30
+Business Law II,91186,BLW,381,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary E  McGowan,30
+Introduction To Mass Media,91471,BRC,108,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 104,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary   Simone,30
+Introduction To Mass Media,91553,BRC,108,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jennifer   Fogel,30
+Introduction To Mass Media,91052,BRC,108,,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Crider,30
+Introduction To Mass Media,92719,BRC,108,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jacob J  Nickell,30
+Soc Hist Amer Radio&TV,92964,BRC,200,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jennifer   Fogel,30
+Broadcast Performance,90225,BRC,215,3,Undergraduate ,3,,6:15 pm - 9:00 pm,W,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Peter E.  Hunn,30
+Radio Production,90227,BRC,220,4,Undergraduate ,3,,4:30 pm - 5:50 pm,TR,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,James Alan  Dunagan,30
+Introduction to New Media,94207,BRC,222,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Serenity   Sutherland,30
+Integrated Media Writ/Design,93616,BRC,223,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Brian   Moritz,30
+Integrated Media Writ/Design,93622,BRC,223,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Serenity   Sutherland,30
+Broadcast Newswriting,90228,BRC,229,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael J  Riecke,30
+Broadcast Newswriting,91460,BRC,229,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael J  Riecke,30
+Broadcast Newswriting,92726,BRC,229,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Catherine J  Loper,30
+Intro Video Production,90229,BRC,235,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Lecture,Francisco   Suarez,30
+Intro Video Production,94196,BRC,235,5,Undergraduate ,3,,4:40 pm - 6:10 pm,MW,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Cleland,30
+Intro Video Production,91011,BRC,235,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Cleland,30
+Intro Video Production,91235,BRC,235,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Marybeth   Longo,30
+Intro Video Production,92727,BRC,235,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Lecture,Francisco   Suarez,30
+Media Economics,93037,BRC,301,2,Undergraduate ,3,,6:15 pm - 9:00 pm,M,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Peter E.  Hunn,30
+Media Economics,92728,BRC,301,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 106A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason   Zenor,30
+Sound for TV and Film,92952,BRC,308,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jeffrey N  Bradbury,30
+Sound for TV and Film,92953,BRC,308,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jeffrey N  Bradbury,30
+Mass Media and the Law,91817,BRC,319,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 106A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason   Zenor,30
+Mass Media and the Law,91284,BRC,319,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Brian   Moritz,30
+Mass Media and the Law,94197,BRC,319,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Crider,30
+"Programs, Programming &Effects",90230,BRC,320,2,Undergraduate ,3,,4:30 pm - 5:55 pm,TR,Lanigan Hall 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,James R  Lerch,30
+Research Methodsfor Mass Media,94198,BRC,325,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Arvind   Diddi,30
+Media Copywriting,90231,BRC,328,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 07, 2018",Lecture,Timan Harris  Nekritz,30
+Broadcast News Reporting,90232,BRC,329,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael J  Riecke,30
+Broadcast News Reporting Lab,90965,BRC,329,6,Undergraduate ,3,,3:00 pm - 4:55 pm,F,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Michael J  Riecke,30
+Sports Broadcasting,91803,BRC,345,7,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 20,"Aug 27, 2018 - Dec 07, 2018",Lecture,James R  Lerch,30
+"Chldrn,Womn&Minori Media",91273,BRC,350,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jennifer   Fogel,30
+Mass Media & Politics,94208,BRC,419,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason   Zenor,30
+Social Networks and the Web,93615,BRC,421,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ulises A  Mejias,30
+Scriptwriting for Television,90233,BRC,428,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Activity,Francisco   Suarez,30
+Electron Field Prod&Video,93614,BRC,455,5,Undergraduate ,3,,3:00 pm - 5:55 pm,W,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Marybeth   Longo,30
+Teaching Mathematics,94049,CED,330,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael Joseph  Difabio,30
+Teaching Science & Technology,92856,CED,340,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Hewitt Union 228C,"Aug 27, 2018 - Dec 07, 2018",Lecture,Eric   Olson,30
+Teaching Science & Technology,90103,CED,340,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Hewitt Union 228C,"Aug 27, 2018 - Dec 07, 2018",Lecture,Eric   Olson,30
+Teaching Science & Technology,90111,CED,340,2,Undergraduate ,3,,3:00 pm - 5:00 pm,M,Hewitt Union 228C,"Aug 27, 2018 - Dec 07, 2018",Lecture,Richard   Baier,30
+Teaching Social Studies,90116,CED,350,3,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robyn Lynn  Proud,30
+Teaching Social Studies,90117,CED,350,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ritu   Radhakrishnan,30
+Teaching Social Studies,92864,CED,350,5,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robyn Lynn  Proud,30
+Field Placement III,90119,CED,393,6,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Student Teaching,Kathleen B  Bartley,30
+Integrated Childhood Methods,92157,CED,394,7,Undergraduate ,3,,4:00 pm - 8:00 pm,T,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christine H  Weisenburger,30
+Integrated Childhood Methods,94305,CED,394,1,Undergraduate ,3,,4:00 pm - 8:00 pm,T,Sonata 125,"Aug 27, 2018 - Dec 07, 2018",Lecture,Areli   Schermerhorn,30
+Field Experience A,92861,CED,543,2,Graduate ,3,,TBA,MTWRF,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Tutorial,Doreen L  Mazzye,30
+Survey of Chemistry,90435,CHE,101,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Francis Philip  Pappalardo,30
+Freshman Seminar,92115,CHE,110,4,Undergraduate ,3,,11:30 am - 12:25 pm,M,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92116,CHE,110,5,Undergraduate ,3,,11:30 am - 12:25 pm,W,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92337,CHE,110,6,Undergraduate ,3,,12:40 pm - 1:35 pm,F,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Seminar,Kristin Irene  Gublo,30
+General Chemistry,90437,CHE,111,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sarah   Harris,30
+General Chemistry,91453,CHE,111,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 315,"Aug 27, 2018 - Dec 07, 2018",Lecture,Whalmany L  Ounkham,30
+General Chemistry,90438,CHE,111,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 315,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jeffery A.  Schneider,30
+General Chemistry,93821,CHE,111,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Whalmany L  Ounkham,30
+General Chemistry-majors only,92792,CHE,111,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas M  Brown,30
+Laboratory (for Che 111)major,90844,CHE,113,5,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111),90443,CHE,113,6,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Timothy Tiljevang  Jones,30
+Laboratory (for Che 111)major,92037,CHE,113,7,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Jeffery A.  Schneider,30
+Laboratory (for Che 111),90444,CHE,113,1,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Timothy Tiljevang  Jones,30
+Laboratory (for Che 111),90440,CHE,113,2,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Aaron Brooks  League,30
+Laboratory (for Che 111),90441,CHE,113,3,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),90445,CHE,113,4,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Ryan M  Smith,30
+Laboratory (for Che 111),90783,CHE,113,5,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,MaryCatherine Elizabeth  Rice,30
+Laboratory (for Che 111),90442,CHE,113,6,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111),90608,CHE,113,7,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),90446,CHE,113,1,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Ryan M  Smith,30
+Laboratory (for Che 111),91280,CHE,113,2,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,MaryCatherine Elizabeth  Rice,30
+Laboratory (for Che 111),91455,CHE,113,3,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Ryan M  Smith,30
+Laboratory (for Che 111),91570,CHE,113,4,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Darryl J  Webber,30
+Laboratory (for Che 111),92038,CHE,113,5,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Domenick Joseph  Palmieri,30
+Laboratory (for Che 111),92039,CHE,113,6,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Laboratory,MaryCatherine Elizabeth  Rice,30
+Laboratory (for Che 111),92793,CHE,113,7,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Timothy Tiljevang  Jones,30
+Laboratory (for Che 111),90439,CHE,113,1,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 104,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Brittany Noelle  Parody,30
+Laboratory (for Che 111),91870,CHE,113,2,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Aaron Brooks  League,30
+Laboratory (for Che 111),92346,CHE,113,3,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 106,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Aaron Brooks  League,30
+Chemistry & Public Concern,90447,CHE,209,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Whalmany L  Ounkham,30
+General Chem II,90448,CHE,212,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Martha   Bruch,30
+Laboratory (for Che 212),90450,CHE,214,6,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kimberly Eileen  LaGatta,30
+Laboratory (for Che 212),90449,CHE,214,7,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kimberly Eileen  LaGatta,30
+Introductory Organic Chemistry,90451,CHE,230,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Matthew S  Baker,30
+Intro Organic CHE Laboratory,90452,CHE,230,2,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Domenick Joseph  Palmieri,30
+Intro Organic CHE Laboratory,90453,CHE,230,3,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Adam Browning  Lyle,30
+Introductory Organic Chemistry,91626,CHE,230,4,Undergraduate ,3,,5:30 pm - 8:25 pm,R,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Domenick Joseph  Palmieri,30
+Criminalistic Chemistry,90455,CHE,305,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Shokouh H  Haddadi,30
+Analytical Chemistry,91613,CHE,322,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 183,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sarah   Harris,30
+Analytical Chemistry Lab,90964,CHE,322,7,Undergraduate ,3,,3:00 pm - 7:00 pm,R,Shineman Center 205,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Robert S  Morse,30
+Analytical Chemistry Lab,91614,CHE,322,1,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 205,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Sarah   Harris,30
+Organic Chemistry,90456,CHE,331,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Matthew S  Baker,30
+Organic Chemistry-Majors only,91305,CHE,331,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Fehmi   Damkaci,30
+Organic Chemistry Laboratory,90989,CHE,331,4,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90457,CHE,331,5,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90458,CHE,331,6,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90460,CHE,331,7,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,91048,CHE,331,1,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry-Laboratory,92754,CHE,331,2,Undergraduate ,3,,10:20 am - 1:15 pm,M,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Chemistry-Laboratory,92755,CHE,331,3,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Organic Che Lab,major only,90459,,4,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 101,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Matthew S  Baker,30
+Physical Chemistry,90461,CHE,341,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,Martha   Bruch,30
+Comp Physical Chem Lab,91754,CHE,343,6,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 201,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Martha   Bruch,30
+STAdv Che:Chemical Information,94276,CHE,401,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Casey C  Raymond,30
+Forensic Science,90462,CHE,405,1,Undergraduate ,3,,1:50 pm - 5:05 pm,W,Shineman Center 103,"Aug 27, 2018 - Dec 07, 2018",Lecture,Shokouh H  Haddadi,30
+Instrumental Analysis,91624,CHE,425,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Vadoud H  Niri,30
+Instrumental Analysis Lab,93644,CHE,425,3,Undergraduate ,3,,12:40 pm - 4:40 pm,W,Shineman Center 203,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Vadoud H  Niri,30
+Inorganic Chemistry,90463,CHE,451,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 183,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas M  Brown,30
+Inorganic Chemistry Lab,94023,CHE,451,5,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 207,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Thomas M  Brown,30
+Biochemistry,90464,CHE,461,6,Undergraduate ,3,,5:30 pm - 6:55 pm,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kestutis G  Bendinskas,30
+Biochemistry Lab,90465,CHE,461,7,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,90990,CHE,461,1,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 112,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,91508,CHE,461,2,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 112,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Julia   Koeppe,30
+STC: Chemical Information,91981,CHE,501,3,Graduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Casey C  Raymond,30
+T:Adv.Electroanalytical Chemis,94236,CHE,501,4,Graduate ,3,,9:35 am - 10:55 am,TR,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Vadoud H  Niri,30
+Spec.Topics Analytical Chem,94025,CHE,529,5,Graduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Shokouh H  Haddadi,30
+Adv. Organic Chemistry II,94024,CHE,537,6,Graduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Fehmi   Damkaci,30
+Biochemistry,90466,CHE,561,7,Graduate ,3,,5:30 pm - 6:55 pm,TR,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kestutis G  Bendinskas,30
+Biochemistry Laboratory,90467,CHE,561,1,Graduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Kestutis G  Bendinskas,30
+Special Topics in Biochemistry,94026,CHE,569,2,Graduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 212,"Aug 27, 2018 - Dec 07, 2018",Lecture,Julia   Koeppe,30
+Elementary Chinese,90818,CHI,101,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ching Hung  Hsiao,30
+Arts and Ideas,91456,CMA,100,4,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sally   Rock-Blake,30
+Arts and Ideas,91165,CMA,100,5,Undergraduate ,3,,4:10 pm - 5:30 pm,W,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sally   Rock-Blake,30
+Integrated Media Theory/Design,93601,CMA,400,6,Undergraduate ,3,,4:40 pm - 7:25 pm,W,Mahar Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Serenity   Sutherland,30
+SCMA Independent Study,94433,CMA,499,7,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Independent Study,Mya   Brown,30
+Intro to Cognitive Science,90473,COG,166,1,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Shineman Center 176,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ahmed   AbdelFattah,30
+Intro to Cognitive Science,92277,COG,166,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Vampola,30
+Program/Knowledge Representati,91457,COG,241,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,James P  Early,30
+Program/Knowledge Representati,94074,COG,241,4,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel Ray  Schlegel,30
+"Brains, Minds, & Consciousness",91133,COG,266,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 111,"Aug 27, 2018 - Dec 07, 2018",Lecture,Theo   Rhodes,30
+Comp Models of Cognitive Sci,93711,COG,366,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ahmed   AbdelFattah,30
+Cognitive Systems,93534,COG,435,7,Undergraduate ,3,,8:40 am - 10:05 am,MW,Mahar Hall 114,"Aug 27, 2018 - Dec 07, 2018",Lecture,Theo   Rhodes,30
+Semiotics & Study of Meaning,93802,COG,444,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,David   Vampola,30
+Foundations Of Communication,90234,COM,100,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 101,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica K  Reeher,30
+First Year Signature Course,94206,COM,198,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica K  Reeher,30
+Critical Thinking/Public Speak,93237,COM,210,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 118,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heidi   Bulk,30
+Critical Thinking/Public Speak,93035,COM,210,5,Undergraduate ,3,,4:40 pm - 7:10 pm,M,Lanigan Hall 106A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Penny S  Morley,30
+Critical Thinking/Public Speak,90235,COM,210,6,Undergraduate ,3,,4:40 pm - 7:10 pm,T,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Penny S  Morley,30
+CriticalThink/PublicSpeak LC,91057,COM,210,7,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jill M  Ennis,30
+Critical Thinking/Public Speak,91029,COM,210,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christine M  Hirsch,30
+Critical Thinking/Public Speak,91322,COM,210,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,John K  Smith,30
+Critical Thinking/Public Speak,91275,COM,210,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sevgi   Evren Familo,30
+Critical Thinking/Public Speak,92357,COM,210,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Downs,30
+Critical Thinking/Public Speak,91533,COM,210,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary   Simone,30
+Strategic Communication in Bus,91486,COM,211,6,Undergraduate ,3,,6:10 pm - 7:35 pm,MW,Mahar Hall 104,"Aug 27, 2018 - Dec 07, 2018",Seminar,Michael Charles  Backus,30
+Strategic Communication in Bus,91487,COM,211,7,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91488,COM,211,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Seminar,Anastasia   Gagas,30
+Strategic Communication in Bus,91490,COM,211,2,Undergraduate ,3,,7:05 pm - 8:25 pm,TR,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91491,COM,211,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,91494,COM,211,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,91525,COM,211,5,Undergraduate ,3,,7:45 pm - 9:10 pm,MW,Mahar Hall 104,"Aug 27, 2018 - Dec 07, 2018",Seminar,Michael Charles  Backus,30
+Strategic Communication in Bus,91690,COM,211,6,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Seminar,James Alan  Dunagan,30
+Strategic Communication in Bus,91853,COM,211,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 35,"Aug 27, 2018 - Dec 07, 2018",Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91492,COM,211,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Park Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Adam Michael  Marinelli,30
+Strategic Communication in Bus,91526,COM,211,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 35,"Aug 27, 2018 - Dec 07, 2018",Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91527,COM,211,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Lanigan Hall 106A,"Aug 27, 2018 - Dec 07, 2018",Seminar,Jacob Richard  Byron,30
+Strategic Comm in Bus,91485,COM,211,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Seminar,Sarah Ann  Bozek,30
+Strategic Communication in Bus,93609,COM,211,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Seminar,Anastasia   Gagas,30
+Strategic CommunicationBus-LC,92736,COM,211,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,92960,COM,211,7,Undergraduate ,3,,12:00 pm - 1:20 pm,TR,Sonata 105,"Aug 27, 2018 - Dec 07, 2018",Seminar,Leila   Karkia,30
+Interpersonal Communication,90237,COM,212,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica   Hample,30
+Interpersonal Communication,91291,COM,212,2,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica   Hample,30
+Interpersonal Communication,92057,COM,212,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jenny   Rosenberg,30
+Interpersonal Communication,91442,COM,212,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jenny   Rosenberg,30
+Interpersonal Communication,93867,COM,212,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rose Marie   Crisalli,30
+Survey Of Public Relations,90239,COM,215,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lindsay Marie  McCluskey,30
+Survey Of Public Relations,90240,COM,215,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joseph Earl  Stabb,30
+Group Interaction & Discussion,92048,COM,240,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jill M  Ennis,30
+Communication Theories,90238,COM,301,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica   Hample,30
+Communication Theories,91632,COM,301,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heidi   Bulk,30
+Message Criticism,90727,COM,302,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jacob J  Nickell,30
+Message Criticism,91531,COM,302,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jacob J  Nickell,30
+PublicRelationsWriting&MassMed,91630,COM,313,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lindsay Marie  McCluskey,30
+PublicRelationsWriting&MassMed,91872,COM,313,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lindsay Marie  McCluskey,30
+Design & Layout For Media,91691,COM,315,,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Lecture,Woomi   Shim,30
+Design & Layout For Media,91692,COM,315,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 36,"Aug 27, 2018 - Dec 07, 2018",Lecture,Woomi   Shim,30
+Survey of Health Communication,94201,COM,316,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,Taejin   Jung,30
+Public Relations Research,92047,COM,317,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joseph Earl  Stabb,30
+Event Planning,91744,COM,318,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joseph Earl  Stabb,30
+Female-Male Communicatn,93610,COM,322,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jacob J  Nickell,30
+Conflict Management,93621,COM,340,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 216,"Aug 27, 2018 - Dec 07, 2018",Lecture,John K  Smith,30
+Argumentation & Debate,91822,COM,350,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Downs,30
+Persuasion,90752,COM,360,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christine M  Hirsch,30
+Persuasion,91696,COM,360,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christine M  Hirsch,30
+Organizational Communication,94203,COM,365,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heidi   Bulk,30
+Organizational Communication,94204,COM,365,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Heidi   Bulk,30
+Communication Research Methods,94200,COM,403,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 201,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessica   Hample,30
+Case Studies Public Relations,90241,COM,415,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 203,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sarah Ann  Bozek,30
+Capstone in Public Relations,90242,COM,416,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Taejin   Jung,30
+Capstone in Public Relations,92050,COM,416,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Taejin   Jung,30
+Communication/Service Learning,91444,COM,490,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jenny   Rosenberg,30
+Int to Strategic Communication,92056,COM,500,3,Graduate ,3,,4:30 pm - 7:15 pm,M,Mahar Hall 215,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary   Toale,30
+Applied Research Methods,93277,COM,503,4,Graduate ,3,,4:30 pm - 7:15 pm,T,Mahar Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Katherine   Thweatt,30
+Org COM Graduae Seminar,94205,COM,565,5,Graduate ,3,,4:30 pm - 7:15 pm,W,Mahar Hall 210,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jenna L  Currie-Mueller,30
+Strategic COM Thesis/ApProject,93302,COM,590,6,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Lecture,Katherine   Thweatt,30
+Issues & Careers Human Service,90176,CPS,308,7,Undergraduate ,3,,3:55 pm - 6:55 pm,T,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Cory Ann  Brosch,30
+Introduction to Counseling,90177,CPS,310,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael G  Mullen,30
+Introduction to Counseling,93003,CPS,310,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 309,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael G  Mullen,30
+Intro to Family,90178,CPS,391,3,Undergraduate ,3,,4:00 pm - 6:45 pm,M,Lanigan Hall 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Elizabeth Louise  Eck,30
+Intro to Family,93004,CPS,391,4,Undergraduate ,3,,3:30 pm - 6:15 pm,W,Mahar Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Maggie L  Fitzsimmons,30
+Intr to Expressive Art Therapy,92211,CPS,393,5,Undergraduate ,3,,12:30 pm - 3:15 pm,R,Mahar Hall 112,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kyle Richard  Dzintars,30
+Intr to Expressive Art Therapy,90724,CPS,393,6,Undergraduate ,3,,1:50 pm - 4:20 pm,M,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kristin Renee  MacDonald,30
+T: Instructional Techniques,94331,CPS,395,7,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   LeBlanc,30
+T: Applied Research,94382,CPS,395,1,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 07, 2018",Lecture,James L  McDougal,30
+Psych Found,Personality,90182,,2,Graduate ,3,,11:30 am - 2:10 pm,M,Mahar Hall 214,"Aug 27, 2018 - Dec 07, 2018",Lecture,Tamara   Sullivan,30
+Psych Found,Personality,90183,,3,Graduate ,3,,11:30 am - 2:05 pm,T,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Tamara   Sullivan,30
+Psych Found,Personality,91170,,4,Graduate ,3,,1:00 pm - 3:45 pm,T,Sonata 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason   Duffy,30
+Psych Found,Development,91301,,5,Graduate ,3,,4:30 pm - 7:00 pm,M,Mahar Hall 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jason   Duffy,30
+Psych Found,Development,91271,,6,Graduate ,3,,5:00 pm - 7:45 pm,T,Sonata 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel   McManus,30
+Found. Mental Health Coun,91172,CPS,508,7,Graduate ,3,,5:00 pm - 7:45 pm,M,Sonata 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sarah F  Spiegelhoff,30
+Counseling Theory & Process,90188,CPS,510,1,Graduate ,3,,1:30 pm - 4:15 pm,W,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90189,CPS,510,2,Graduate ,3,,1:00 pm - 3:35 pm,M,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90191,CPS,510,3,Graduate ,3,,9:00 am - 11:30 am,W,Mahar Hall 215,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,91171,CPS,510,4,Graduate ,3,,5:30 pm - 8:15 pm,W,Sonata 118,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sean   Finnerty,30
+Internship Mental Health Couns,92349,CPS,515,5,Graduate ,3,,9:00 am - 12:00 pm,T,Sonata 106,"Aug 27, 2018 - Dec 07, 2018",Internship,Jason   Duffy,30
+Internship Mental Health Couns,91481,CPS,515,6,Graduate ,3,,3:00 pm - 6:00 pm,T,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Internship,Michael   LeBlanc,30
+Internship Mental Health Couns,91576,CPS,515,7,Graduate ,3,,3:00 pm - 6:00 pm,T,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Internship,Michael   LeBlanc,30
+Internship Mental Health Couns,91824,CPS,515,1,Graduate ,3,,5:30 pm - 8:30 pm,M,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Internship,Daniel   McManus,30
+Intern:Alcohol/Substance Couns,91480,CPS,516,2,Graduate ,3,,3:00 pm - 6:00 pm,T,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Internship,Michael   LeBlanc,30
+Intern:Alcohol/Substance Couns,91825,CPS,516,3,Graduate ,3,,9:00 am - 12:00 pm,T,Sonata 106,"Aug 27, 2018 - Dec 07, 2018",Internship,Jason   Duffy,30
+Intern:Alcohol/Substance Couns,94133,CPS,516,4,Graduate ,3,,5:30 pm - 8:30 pm,M,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Internship,Daniel   McManus,30
+Orientation to Counsel.Profess,90195,CPS,530,5,Graduate ,3,,5:30 pm - 8:15 pm,T,Mahar Hall 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sean   Finnerty,30
+Intro to Group Process,90196,CPS,541,6,Graduate ,3,,4:10 pm - 8:10 pm,M,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   LeBlanc,30
+Ethno-cult Aspects of Trauma,91746,CPS,559,7,Graduate ,3,,4:10 pm - 7:30 pm,W,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Karen   Wolford,30
+Chem Dependency & Treatment,94240,CPS,560,1,Graduate ,3,,6:00 pm - 8:40 pm,R,Mahar Hall 103,"Aug 27, 2018 - Dec 07, 2018",Lecture,John M  Randall,30
+Voc Dev & Decision-Making,90197,CPS,574,2,Graduate ,3,,2:20 pm - 5:05 pm,T,Mahar Hall 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Maggie L  Fitzsimmons,30
+Foundtn of Psy & Edu Appraisal,90198,CPS,585,3,Graduate ,3,,10:30 am - 1:15 pm,R,Mahar Hall 217,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel   McManus,30
+Individual Cognitive Assessmen,90199,CPS,587,4,Graduate ,3,,10:20 am - 1:15 pm,W,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura M  Spenceley,30
+Individual Cognitive Assessmen,90921,CPS,587,5,Graduate ,3,,10:20 am - 1:15 pm,W,Mahar Hall 117,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura M  Spenceley,30
+Intro. Expressive Art Therapy,92212,CPS,590,6,Graduate ,3,,12:30 pm - 3:15 pm,R,Mahar Hall 112,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kyle Richard  Dzintars,30
+Intro. Expressive Art Therapy,91001,CPS,590,7,Graduate ,3,,1:50 pm - 4:20 pm,M,Mahar Hall 314,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kristin Renee  MacDonald,30
+Prof. Problems in School Psych,94132,CPS,609,1,Graduate ,3,,4:35 pm - 7:00 pm,M,Mahar Hall 119,"Aug 27, 2018 - Dec 07, 2018",Lecture,John M.  Garruto,30
+Practicum in School Psych,90210,CPS,613,2,Graduate ,3,,9:30 am - 12:05 pm,T,Mahar Hall 215,"Aug 27, 2018 - Dec 07, 2018",Practicum,James L  McDougal,30
+Practicum in School Psych,91182,CPS,613,3,Graduate ,3,,9:30 am - 12:05 pm,T,Mahar Hall 215,"Aug 27, 2018 - Dec 07, 2018",Practicum,James L  McDougal,30
+Consultn Counslrs & Sch Psy,90211,CPS,686,4,Graduate ,3,,4:30 pm - 7:15 pm,T,Mahar Hall 106,"Aug 27, 2018 - Dec 07, 2018",Lecture,Carlo   Cuccaro,30
+Academic & Educ. Intervention,90212,CPS,688,5,Graduate ,3,,4:00 pm - 6:45 pm,W,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Seminar,Carlo   Cuccaro,30
+Screenwriting: Introductory,94090,CRW,201,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jamie L.  Adams,30
+Screenwriting: Introductory,91119,CRW,201,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Juliet A  Giglio,30
+Screenwriting: Introductory,91120,CRW,201,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Juliet A  Giglio,30
+Poetry Writing: Introductory,90709,CRW,205,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Seminar,Laura   Donnelly,30
+Poetry Writing: Introductory,92062,CRW,205,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Seminar,Charles F  Itzin,30
+Poetry Writing: Introductory,91116,CRW,205,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Seminar,Stephanie Sue  Pritchard,30
+Poetry Writing: Introductory,93872,CRW,205,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Seminar,Laura   Donnelly,30
+FictionWriting:Introductory,90712,CRW,206,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 258,"Aug 27, 2018 - Dec 07, 2018",Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,90713,CRW,206,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 258,"Aug 27, 2018 - Dec 07, 2018",Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,91069,CRW,206,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Seminar,Laura A  Halferty,30
+Playwriting: Introductory,91122,CRW,207,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 208,"Aug 27, 2018 - Dec 07, 2018",Seminar,Brad   Korbesmeyer,30
+Playwriting: Introductory,93744,CRW,207,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 208,"Aug 27, 2018 - Dec 07, 2018",Seminar,Brad   Korbesmeyer,30
+Creative Nonfiction Writing: I,93748,CRW,208,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Seminar,Donna M  Steiner,30
+Creative Nonfiction Writing: I,90715,CRW,208,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 208,"Aug 27, 2018 - Dec 07, 2018",Seminar,Laura A  Halferty,30
+Creative Nonfiction Writing: I,90716,CRW,208,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Seminar,Linda C.  Loomis,30
+Creative Nonfiction Writing: I,93873,CRW,208,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Seminar,Laura A  Halferty,30
+CreatiNonfiction Writing:I LC,90714,CRW,208,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Seminar,Donna M  Steiner,30
+Creating the Graphic Novel,94258,CRW,210,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Seminar,Michael   Raicht,30
+Living Writer Series,90717,CRW,300,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 132,"Aug 27, 2018 - Dec 07, 2018",Lecture,Laura   Donnelly,30
+Screenwriting: Intermediate,90718,CRW,301,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jamie L.  Adams,30
+Screenwriting: Intermediate,91111,CRW,301,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Juliet A  Giglio,30
+Poetry Writing: Intermediate,94086,CRW,305,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Seminar,Charles F  Itzin,30
+Poetry Writing: Intermediate,91731,CRW,305,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Seminar,Stephanie Sue  Pritchard,30
+Fiction Writing: Intermediate,90719,CRW,306,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Seminar,Robert T.  O'Connor,30
+Fiction Writing: Intermediate,91117,CRW,306,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Seminar,Robert T.  O'Connor,30
+Playwriting: Intermediate,90720,CRW,307,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Seminar,Brad   Korbesmeyer,30
+Creative Nonfiction Writ: Inte,94084,CRW,308,4,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Shineman Center 194,"Aug 27, 2018 - Dec 07, 2018",Seminar,Donna M  Steiner,30
+Creative Nonfiction Writ: Inte,92939,CRW,308,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Seminar,Linda C.  Loomis,30
+Tools for Computing,90476,CSC,101,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert A.  Zuber,30
+BUS Info System&Computing Tool,90820,CSC,102,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91368,CSC,102,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael L  Smith,30
+BUS Info System&Computing Tool,91369,CSC,102,2,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91534,CSC,102,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael L  Smith,30
+Comp Tools/Info Lit for EDU,90992,CSC,103,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,William C  Bosch,30
+Comp Tools/Info Lit for EDU,90993,CSC,103,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,90991,CSC,103,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,93763,CSC,103,7,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Lecture,Richard   Baier,30
+Int To Prog & Prog Language,90483,CSC,120,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael L  Smith,30
+Principles Of Programming,90485,CSC,212,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 315,"Aug 27, 2018 - Dec 07, 2018",Lecture,Craig   Graci,30
+Principles Of Programming,91282,CSC,212,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mohammad   Mohammadi,30
+Principles Of Programming Lab,91131,CSC,212,4,Undergraduate ,3,,1:50 pm - 2:45 pm,W,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Mohammad   Mohammadi,30
+Principles Of Programming-LAB,91370,CSC,212,5,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Douglas   Lea,30
+Principles Of Programming-Lab,90490,CSC,212,6,Undergraduate ,3,,4:10 pm - 5:05 pm,W,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Douglas   Lea,30
+Principles Of Programming Lab,91126,CSC,212,7,Undergraduate ,3,,8:00 am - 8:55 am,R,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Craig   Graci,30
+Principles Of Programming-Lab,90487,CSC,212,1,Undergraduate ,3,,2:20 pm - 3:15 pm,R,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Daniel Ray  Schlegel,30
+Principles Of Programming-Lab,90489,CSC,212,2,Undergraduate ,3,,11:10 am - 12:05 pm,R,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,David   Vampola,30
+Principles Of Programming-Lab,90493,CSC,212,3,Undergraduate ,3,,12:45 pm - 1:40 pm,R,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Bastian   Tenbergen,30
+Principles Of Programming-Lab,90702,CSC,212,4,Undergraduate ,3,,9:35 am - 10:30 am,R,Shineman Center 446,"Aug 27, 2018 - Dec 07, 2018",Laboratory,James P  Early,30
+Foundation Of Computer Science,90494,CSC,221,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel Ray  Schlegel,30
+Foundation Of Computer Science,91942,CSC,221,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ahmed   AbdelFattah,30
+Computer Orgnztn & Programming,94311,CSC,222,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Lecture,Marianne   Hromalik,30
+Computer Orgnztn & Programming,93068,CSC,222,1,Undergraduate ,3,,3:00 pm - 4:50 pm,MWF,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sungeun   Kim,30
+Abstract Data Types&Prog Meth,90496,CSC,241,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 170,"Aug 27, 2018 - Dec 07, 2018",Lecture,James P  Early,30
+Abstract Data Types&Prog Meth,91756,CSC,241,3,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel Ray  Schlegel,30
+Systems Programming,91132,CSC,322,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 172,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jae Woong   Lee,30
+Cryptology,94066,CSC,332,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 178,"Aug 27, 2018 - Dec 07, 2018",Lecture,Elizabeth   Wilcox,30
+Programming Languages,93723,CSC,344,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 175,"Aug 27, 2018 - Dec 07, 2018",Lecture,Daniel Ray  Schlegel,30
+Data Structures & Algorithms,91134,CSC,365,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ioana   Coman,30
+Computational Models Cog Proce,93712,CSC,366,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ahmed   AbdelFattah,30
+Parallel Computing,91939,CSC,375,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas   Lea,30
+Software Engineering,94078,CSC,380,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 174,"Aug 27, 2018 - Dec 07, 2018",Lecture,James P  Early,30
+Software Quality,91728,CSC,385,4,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bastian   Tenbergen,30
+Teaching Computing,90502,CSC,390,5,Undergraduate ,3,,3:00 pm - 5:40 pm,F,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Lecture,James   Patridge,30
+Artificl Intell Prog Lang,94077,CSC,416,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Craig   Graci,30
+Graphical User Interfaces,94070,CSC,420,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Gi Woong   Choi,30
+TCG:HCI Gaming,94081,CSC,430,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Damian   Schofield,30
+Compiler Construction,94076,CSC,444,2,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas   Lea,30
+Software Design,94272,CSC,480,3,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Shineman Center 444,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bastian   Tenbergen,30
+ST: Sensors / IOT,94075,CSC,490,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 196,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jae Woong   Lee,30
+Software Engineering Sem:I,94072,CSC,495,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 128,"Aug 27, 2018 - Dec 07, 2018",Seminar,Bastian   Tenbergen,30
+First-Year Practicum-LC,93784,CSS,111,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Seminar,Tiffany L  Deater,30
+Intro to Cinema Production,91410,CSS,235,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jacob A  Dodd,30
+Intro to Cinema Production,94267,CSS,235,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 6,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joshua   Adams,30
+Intermediate Cinema Production,91115,CSS,335,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joshua   Adams,30
+Cinematography,94255,CSS,336,3,Undergraduate ,3,,3:00 pm - 6:00 pm,W,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Studio,Jacob A  Dodd,30
+Motion Picture Editing,93790,CSS,337,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 6,"Aug 27, 2018 - Dec 07, 2018",Studio,Jacob A  Dodd,30
+StuNationCin:N. Africa Global,93746,CSS,360,5,Undergraduate ,3,,3:00 pm - 6:15 pm,W,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bennet   Schaber,30
+ST:Cinema & Environment,92946,CSS,395,6,Undergraduate ,3,,3:00 pm - 6:00 pm,M,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Tiffany L  Deater,30
+ST:The Horror Film,94085,CSS,395,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Raicht,30
+Begin Modern Dance Technique,94327,DNC,112,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lee Hall 300,"Aug 27, 2018 - Dec 07, 2018",Studio,Cheryl   Wilkins-Mitchell,30
+Begin Jazz Dance Technique,94226,DNC,116,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lee Hall 300,"Aug 27, 2018 - Dec 07, 2018",Studio,Cheryl   Wilkins-Mitchell,30
+Beginning Ballet Technique,93692,DNC,118,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lee Hall 300,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ligia R  Pinheiro,30
+Internship-Build/District Lead,90593,EAD,695,4,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Richard   Cavallaro,30
+Internship-Build/District Lead,90594,EAD,695,5,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Linda Rae  Markert,30
+Internship-Build/District Lead,90595,EAD,695,6,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Terry Lee  Ward,30
+Internship-Build/District Lead,90596,EAD,695,7,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Lynne   Erdle,30
+Internship-Build/District Lead,90597,EAD,695,1,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Cathleen J  Chamberlain,30
+Internship-Build/District Lead,91763,EAD,695,2,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Internship,Tamara   Lipke,30
+Introduction to Engineering,92156,ECE,101,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Lecture,Hui   Zhang,30
+Introduction to Engineering,91857,ECE,101,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mustafa   Ayad,30
+Electric Circuits,91127,ECE,211,5,Undergraduate ,3,,9:10 am - 11:00 am,MWF,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Lecture,Adrian   Ieta,30
+Signals and Systems,93515,ECE,233,6,Undergraduate ,3,,12:40 pm - 2:30 pm,MWF,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Mario   Bkassiny,30
+Digital Systems,91130,ECE,271,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Lecture,Marianne   Hromalik,30
+Digital Systems,92203,ECE,271,1,Undergraduate ,3,,3:00 pm - 4:50 pm,MWF,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sungeun   Kim,30
+Microelectronic Circuits,93516,ECE,314,2,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Studio,Adrian   Ieta,30
+Microelectronic Circuits,93520,ECE,314,3,Undergraduate ,3,,2:20 pm - 5:05 pm,T,Shineman Center 404,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Adrian   Ieta,30
+Power Circuits and Systems,94135,ECE,321,4,Undergraduate ,3,,10:20 am - 12:10 pm,MWF,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Lecture,Hui   Zhang,30
+Electromagnetics,91992,ECE,344,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sungeun   Kim,30
+Electromagnetics,94277,ECE,344,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 436,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sungeun   Kim,30
+Microprocessor Applications,93141,ECE,375,7,Undergraduate ,3,,9:35 am - 12:20 pm,TR,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Studio,Mustafa   Ayad,30
+ECE Seminar,92138,ECE,401,1,Undergraduate ,3,,2:20 pm - 4:20 pm,R,Shineman Center 448,"Aug 27, 2018 - Dec 07, 2018",Seminar,Rachid   Manseur,30
+Communications Systems,91986,ECE,454,2,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Studio,Mario   Bkassiny,30
+Communications Systems Lab,91987,ECE,454,3,Undergraduate ,3,,2:20 pm - 5:05 pm,T,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Laboratory,Mario   Bkassiny,30
+Elements of Robotics,94274,ECE,463,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rachid   Manseur,30
+Computer Architecture,94134,ECE,475,5,Undergraduate ,3,,3:00 pm - 4:50 pm,MWF,Shineman Center 406,"Aug 27, 2018 - Dec 07, 2018",Studio,Marianne   Hromalik,30
+Capstone Design Proposal,91993,ECE,491,6,Undergraduate ,3,,8:00 am - 8:55 am,R,Shineman Center 408,"Aug 27, 2018 - Dec 07, 2018",Lecture,Rachid   Manseur,30
+Principles of Microeconomics,90201,ECO,101,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 101,"Aug 27, 2018 - Dec 07, 2018",Lecture,John   Kane,30
+Principles of Microeconomics,91530,ECO,101,,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Craig   Benedict,30
+Principles of Microeconomics,91596,ECO,101,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Craig   Benedict,30
+Principles of Microeconomics,91555,ECO,101,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,91905,ECO,101,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 201,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mihai   Paraschiv,30
+Prin of Macroeconomics,91360,ECO,200,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lyudmyla   Ardan,30
+Prin of Macroeconomics,91362,ECO,200,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Glenn   Graham,30
+Prin of Macroeconomics,91141,ECO,200,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,92803,ECO,200,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,90203,ECO,200,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Brian   Dempsey,30
+Intermediate Macro Theory,91361,ECO,300,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Elizabeth A  Schmitt,30
+Intermediate Micro Theory,90204,ECO,301,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Said   Atri,30
+Am Economic Hist before 1900,90206,ECO,326,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ranjit   Dighe,30
+Economic Development,92802,ECO,330,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,David R  Andrews,30
+Money And Banking,91140,ECO,340,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 102,"Aug 27, 2018 - Dec 07, 2018",Lecture,Elizabeth A  Schmitt,30
+Money And Banking,91904,ECO,340,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Craig   Benedict,30
+Money And Banking,90207,ECO,340,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ranjit   Dighe,30
+Money And Banking,91139,ECO,340,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 108,"Aug 27, 2018 - Dec 07, 2018",Lecture,Ranjit   Dighe,30
+International Trade,91454,ECO,344,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 122,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mihai   Paraschiv,30
+Intro to Labor Economics,90209,ECO,350,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lyudmyla   Ardan,30
+Intro to Labor Economics,91597,ECO,350,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 220,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lyudmyla   Ardan,30
+Intro toCollege Level Learning,90555,EDU,101,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Drew   Spriggs,30
+Intro toCollege Level Learning,90556,EDU,101,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joey   Tse,30
+Intro toCollege Level Learning,90557,EDU,101,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Grace Ann  Maxon-Clarke,30
+Intro toCollege Level Learning,90558,EDU,101,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MW,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Valerie Ann  Ledford,30
+Comparative & International ED,93863,EDU,114,3,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Marano Campus Center 142,"Aug 27, 2018 - Dec 07, 2018",Lecture,Corie Anne  Kohlbach,30
+Comparative & International ED,94052,EDU,114,4,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Marano Campus Center 142,"Aug 27, 2018 - Dec 07, 2018",Lecture,Corie Anne  Kohlbach,30
+HIS of EDU in US since 1865,93864,EDU,210,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 328,"Aug 27, 2018 - Dec 07, 2018",Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,91236,EDU,210,6,Undergraduate ,3,,4:30 pm - 7:30 pm,R,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,91239,EDU,210,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 328,"Aug 27, 2018 - Dec 07, 2018",Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,92093,EDU,210,1,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Mahar Hall 119,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,90968,EDU,210,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Hewitt Union 228B,"Aug 27, 2018 - Dec 07, 2018",Lecture,Theresa   Parry-Bick,30
+Elected Field Experience,90135,EDU,300,3,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Sandra L  Kyle,30
+Elected Field Experience,90136,EDU,300,4,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Marcia M  Burrell,30
+Elected Field Experience,90137,EDU,300,5,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,Marcia M  Burrell,30
+"School,Pedagogy&Social Justice",90138,EDU,301,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90139,EDU,301,7,Undergraduate ,3,,4:00 pm - 7:00 pm,R,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Theresa   Parry-Bick,30
+"School,Pedagogy&Social Justice",90877,EDU,301,1,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90141,EDU,301,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",94046,EDU,301,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Park Hall 206,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jean   Ann,30
+"School,Pedagogy&Social Justice",90142,EDU,301,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bonita   Hampton,30
+Field Placement I,90143,EDU,303,5,Undergraduate ,3,,11:00 am - 3:00 pm,R,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90144,EDU,303,6,Undergraduate ,3,,8:00 am - 12:00 pm,M,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90145,EDU,303,7,Undergraduate ,3,,8:00 am - 12:00 pm,T,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90146,EDU,303,1,Undergraduate ,3,,11:00 am - 3:00 pm,T,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90147,EDU,303,2,Undergraduate ,3,,8:00 am - 12:00 pm,W,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90148,EDU,303,3,Undergraduate ,3,,8:00 am - 12:00 pm,R,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90901,EDU,303,4,Undergraduate ,3,,8:00 am - 12:00 pm,F,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,90149,EDU,303,5,Undergraduate ,3,,11:00 am - 3:00 pm,M,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Field Placement I,91288,EDU,303,6,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Activity,David Paul  Parisian,30
+Culturally Relevant Teaching,94278,EDU,380,7,Undergraduate ,3,,5:00 pm - 8:00 pm,R,Sheldon Hall 328,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert   Chalwell,30
+Culturally Relevant Teaching,90151,EDU,380,1,Undergraduate ,3,,8:00 am - 9:30 am,MW,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Lecture,Barbara A  Beyerbach,30
+Culturally Relevant Teaching,90150,EDU,380,2,Undergraduate ,3,,11:10 am - 12:30 pm,MW,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,91818,EDU,380,3,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Sonata 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anne   Fairbrother,30
+Culturally Relevant Teaching,90152,EDU,380,4,Undergraduate ,3,,2:20 pm - 3:40 pm,MW,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,90755,EDU,380,5,Undergraduate ,3,,9:35 am - 10:55 am,MW,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Alfred   Frederick,30
+Teach Eng Lang Learn,91610,EDU,383,6,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anne   Fairbrother,30
+Professionalism&Social Justice,90153,EDU,430,7,Undergraduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Practicum,David Paul  Parisian,30
+Critical Pedagogy,93733,EDU,500,1,Graduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 336,"Aug 27, 2018 - Dec 07, 2018",Lecture,Tania   Ramalho,30
+Tech for Professional Developm,92097,EDU,506,2,Graduate ,3,,4:30 pm - 7:15 pm,W,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Recitation or Discussion,Harrison   Yang,30
+Professionalism&Social Justice,93226,EDU,530,3,Graduate ,3,,TBA,TBA,Off Campus ,"Aug 27, 2018 - Dec 07, 2018",Lecture,David Paul  Parisian,30
+TeachENG Lang Learn Across Cur,93309,EDU,583,4,Graduate ,3,,4:30 pm - 7:30 pm,T,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anne   Fairbrother,30
+Composition I,91121,ENG,101,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert M  Early,30
+Composition I,90158,ENG,101,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 231,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anthony J  Caputa,30
+Composition I,90161,ENG,101,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anthony J  Caputa,30
+Composition I,90159,ENG,101,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Melissa Ruth  Webb,30
+Composition I-International,91832,ENG,101,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Gurdeep   Skolnik,30
+Composition II,93288,ENG,102,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Bertonneau,30
+Composition II,91433,ENG,102,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Anthony J  Caputa,30
+Composition II,91406,ENG,102,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 118,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Bertonneau,30
+Composition II,91730,ENG,102,6,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert M  Early,30
+Composition II,92343,ENG,102,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 107,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Bertonneau,30
+Composition II,91738,ENG,102,1,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kenneth S  Nichols,30
+Composition II,91735,ENG,102,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Lecture,William T.  Brangan,30
+Composition II,92376,ENG,102,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 231,"Aug 27, 2018 - Dec 07, 2018",Lecture,Linda M.  Black-Ochsenbein,30
+Composition II,91417,ENG,102,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 102A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christopher S  Citro,30
+Composition II,93266,ENG,102,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Timothy W  McCoy,30
+Composition II,91418,ENG,102,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 212,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary A  Hess,30
+Composition II,91423,ENG,102,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christopher S  Citro,30
+Composition II,91419,ENG,102,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kenneth S  Nichols,30
+Composition II,91421,ENG,102,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Devon   Moore,30
+Composition II,91422,ENG,102,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 231,"Aug 27, 2018 - Dec 07, 2018",Lecture,Timothy W  McCoy,30
+Composition II,91413,ENG,102,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Stephanie Sue  Pritchard,30
+Composition II,91432,ENG,102,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jean   Troy-Smith,30
+Composition II,91742,ENG,102,6,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessie Rose  Moore,30
+Composition II,91407,ENG,102,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Diane Marie  Zeller,30
+Composition II,91414,ENG,102,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 313,"Aug 27, 2018 - Dec 07, 2018",Lecture,Kenneth S  Nichols,30
+Composition II,91429,ENG,102,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 119,"Aug 27, 2018 - Dec 07, 2018",Lecture,Christopher S  Citro,30
+Composition II,91740,ENG,102,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 326,"Aug 27, 2018 - Dec 07, 2018",Lecture,Emily   Kirch,30
+Composition II,91411,ENG,102,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Murphy,30
+Composition II,91434,ENG,102,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 231,"Aug 27, 2018 - Dec 07, 2018",Lecture,Linda M.  Black-Ochsenbein,30
+Composition II,91412,ENG,102,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Diane Marie  Zeller,30
+Composition II,91425,ENG,102,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jarrod   Hagadorn,30
+Composition II LC,91739,ENG,102,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Lecture,Melissa Ruth  Webb,30
+Composition II,91741,ENG,102,2,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Park Hall 304,"Aug 27, 2018 - Dec 07, 2018",Lecture,Devon   Moore,30
+Composition II-International,92153,ENG,102,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 332,"Aug 27, 2018 - Dec 07, 2018",Lecture,Gurdeep   Skolnik,30
+Composition II,94325,ENG,102,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Lecture,Melissa Ruth  Webb,30
+Composition II,91833,ENG,102,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 212,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary A  Hess,30
+Composition II,91736,ENG,102,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Lecture,William T.  Brangan,30
+CompositionII-CSS major LC,91431,ENG,102,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jessie Rose  Moore,30
+Adv. Listening Comprehension,93064,ENG,103,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 258,"Aug 27, 2018 - Dec 07, 2018",Lecture,Gurdeep   Skolnik,30
+Advanced Reading-International,91867,ENG,104,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 326,"Aug 27, 2018 - Dec 07, 2018",Lecture,Gurdeep   Skolnik,30
+Writing About Literature,91858,ENG,204,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sarah L.  Berry,30
+Writing About Literature,91729,ENG,204,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert M  Early,30
+Writing About Literature,90167,ENG,204,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Lecture,Robert M  Early,30
+Writing About LiteratureLC,90958,ENG,204,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Raicht,30
+Western Heritage I-Lit,93738,ENG,210,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Thomas   Bertonneau,30
+Amer Lit/Begin-Civ War,91112,ENG,235,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas A  Guerra,30
+Ethnicity & Cul Diff in Lit,91733,ENG,237,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Roberta   Hurtado,30
+SophSem:Epic/Romance1660-1750,94088,ENG,265,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Seminar,Karol   Cooper,30
+Sophomore Seminar-Genre,91476,ENG,265,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Rich Hall 220,"Aug 27, 2018 - Dec 07, 2018",Seminar,Sarah L.  Berry,30
+Sophomore Seminar-Genre,94321,ENG,265,5,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Lanigan Hall 107A,"Aug 27, 2018 - Dec 07, 2018",Seminar,Sarah L.  Berry,30
+Practical English Grammar,90169,ENG,271,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Murphy,30
+Int Cinema/Screen,90841,ENG,286,7,Undergraduate ,3,,3:00 pm - 6:15 pm,W,Park Hall 315,"Aug 27, 2018 - Dec 07, 2018",Lecture,Joshua   Adams,30
+Intro Cinema/Screen StudiesLC,91734,ENG,286,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 206,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bennet   Schaber,30
+Literary Criticism,91749,ENG,304,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Maureen F  Curtin,30
+Literary Criticism,90765,ENG,304,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 208,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patrick   Murphy,30
+Shakespeare- An Introduction,90170,ENG,319,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patrick   Murphy,30
+19thC English Novel,93739,ENG,322,5,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Fiona   Coll,30
+T:Africa Amer Lit:On Water,94089,ENG,337,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Patricia E  Clark,30
+20thC American Novel,92067,ENG,343,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Roberta   Hurtado,30
+LGC:Nat Cin N. Africa Lit Glob,93747,ENG,360,1,Undergraduate ,3,,3:00 pm - 6:15 pm,W,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Bennet   Schaber,30
+LitGlobal:Anti/DeColonial Lit,90171,ENG,360,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Roberta   Hurtado,30
+Genre,History,Theory,,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 142,"Aug 27, 2018 - Dec 07, 2018",Lecture,Douglas A  Guerra,30
+Jr Seminar: Eliza Haywood,90925,ENG,365,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Seminar,Karol   Cooper,30
+Junior Seminar:Herman Melville,94087,ENG,365,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 142,"Aug 27, 2018 - Dec 07, 2018",Seminar,Douglas A  Guerra,30
+Women In Literature,92937,ENG,370,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Lecture,Maureen F  Curtin,30
+Hist & Devel English Lang,91777,ENG,374,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Elizabeth Briande  Bishop,30
+Literature for Young Adults,93800,ENG,384,1,Undergraduate ,3,,3:55 pm - 6:55 pm,T,Mahar Hall 202,"Aug 27, 2018 - Dec 07, 2018",Lecture,Sharon G  Kane,30
+Children's Literature,90172,ENG,385,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Jean   Troy-Smith,30
+The Cinema,90173,ENG,386,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 306,"Aug 27, 2018 - Dec 07, 2018",Lecture,Amy   Shore,30
+Film Genre with lab,90174,ENG,388,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 211,"Aug 27, 2018 - Dec 07, 2018",Lecture,Tiffany L  Deater,30
+Documentary Traditions,94268,ENG,389,5,Undergraduate ,3,,3:00 pm - 5:45 pm,W,Marano Campus Center 322,"Aug 27, 2018 - Dec 07, 2018",Lecture,Amy   Shore,30
+ST: Int Digital Literary Study,92944,ENG,395,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 206,"Aug 27, 2018 - Dec 07, 2018",Lecture,Fiona   Coll,30
+SemAdvLit:Utopias&Dystopias,92065,ENG,465,7,Undergraduate ,3,,5:00 pm - 7:45 pm,T,Marano Campus Center 323,"Aug 27, 2018 - Dec 07, 2018",Seminar,Maureen F  Curtin,30
+Words in the World,91424,ENG,485,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Lecture,Michael   Murphy,30
+Corporate Finance,91191,FIN,325,2,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,David F  DiRoma,30
+Corporate Finance,90058,FIN,325,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Hong   Wan,30
+Corporate Finance,90059,FIN,325,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Hong   Wan,30
+Corporate Finance,94144,FIN,325,5,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Sonata 105,"Aug 27, 2018 - Dec 07, 2018",Lecture,Choopong   Sripraipan,30
+Corporate Finance,90956,FIN,325,6,Undergraduate ,3,,8:00 am - 9:20 am,TR,Rich Hall 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Graig   Arcuri,30
+Corporate Finance,92640,FIN,325,7,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,David F  DiRoma,30
+Financial Statement Analysis,91449,FIN,340,1,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary Tone  Rodgers,30
+Financial Statement Analysis,92641,FIN,340,2,Undergraduate ,3,,7:35 pm - 8:55 pm,TR,Rich Hall 319,"Aug 27, 2018 - Dec 07, 2018",Lecture,Mary Tone  Rodgers,30
+Investments,91014,FIN,354,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Eric   Tsai,30
+Real Estate Finance,94137,FIN,391,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 221,"Aug 27, 2018 - Dec 07, 2018",Lecture,Graig   Arcuri,30
+Real Estate Finance,94136,FIN,391,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 320,"Aug 27, 2018 - Dec 07, 2018",Lecture,Graig   Arcuri,30
+Elementary French,91473,FRE,101,6,Undergraduate ,3,,4:10 pm - 5:35 pm,MW,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Lecture,Stewart   Smith,30
+Elementary French,91704,FRE,101,7,Undergraduate ,3,,4:10 pm - 5:05 pm,MTR,Marano Campus Center 232,"Aug 27, 2018 - Dec 07, 2018",Lecture,Najet   Gharsallaoui,30
+Continuing Elementary French,91840,FRE,102,1,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Bertonneau,30
+Continuing Elementary French,92830,FRE,102,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 223,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Bertonneau,30
+Continuing Elementary French,93811,FRE,102,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 210,"Aug 27, 2018 - Dec 07, 2018",Lecture,Stewart   Smith,30
+Intermediate French,90291,FRE,201,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Bertonneau,30
+Continuing Intermediate French,90819,FRE,202,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Allen   Stagl,30
+Advanced French A,94061,FRE,301,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 242,"Aug 27, 2018 - Dec 07, 2018",Lecture,Susan   Bertonneau,30
+French Culture/Civilization I,94093,FRE,355,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 225,"Aug 27, 2018 - Dec 07, 2018",Lecture,Allen   Stagl,30
+S:20-21C French Literature,94064,FRE,395,1,Undergraduate ,3,,5:15 pm - 6:35 pm,TR,Marano Campus Center 256,"Aug 27, 2018 - Dec 07, 2018",Lecture,Lenuta   Giukin,30
+Strategic Communication in Bus,93607,COM,211,2,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 107A,"Aug 27, 2018 - Dec 08, 2018",Seminar,Kim A.  Park,30
+Earth's Fury,91622,GEO,315,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Kevin John  Finerghty,30
+Peoples&Cultr of China,91956,ANT,372,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jing   Lei,30
+West HertII-Survy Art II,94189,ART,251,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Lisa A  Seppi,30
+"Two Dimensional,Experi.Studio",91035,ART,396,6,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Studio,Julieve   Jubin,30
+Grad Prob in Graphic Design,94187,ART,514,7,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Kelly L  Roe,30
+Grad Prob in Graphic Design,94193,ART,514,1,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Cara B  Thompson,30
+Grad Prob in Graphic Design,94146,ART,514,2,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Amy E.  Bartell,30
+Graduate Art Theory & Practice,94185,ART,572,3,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Rebecca Wendy  Mushtare,30
+Graduate Art Theory & Practice,94188,ART,572,4,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Kelly L  Roe,30
+Graduate Art Theory & Practice,94191,ART,572,5,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Lecture,Cara B  Thompson,30
+Intro to Health Info Systems,92175,BHI,501,6,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Joseph A  Miles,30
+Health Informatics Methods,92176,BHI,502,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Isabelle   Bichindaritz,30
+eHealth Systems,92177,BHI,503,,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Manaswini   Pradhan,30
+Digital Health,93708,BHI,505,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Manaswini   Pradhan,30
+Database Applications,91914,BHI,508,2,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Ioana   Coman,30
+Geospatial/Temporal/NetworkDat,94080,BHI,510,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Isabelle   Bichindaritz,30
+Project in BHI,92882,BHI,699,4,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Activity,Isabelle   Bichindaritz,30
+Project in BHI,93201,BHI,699,5,Graduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Activity,Unassigned   Staff,30
+Legal&Regulatory Environ ofBus,90051,BLW,355,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,91676,BLW,355,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Kathryn   Wolfe,30
+Legal&Regulatory Environ ofBus,93120,BLW,355,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Andrew T.  Wolfe,30
+Media Economics,93602,BRC,301,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jason Matthew  Becker,30
+Post Production and Editing,93613,BRC,315,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Marybeth   Longo,30
+Mass Media and the Law,93625,BRC,319,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jason   Zenor,30
+"Programs, Programming &Effects",91503,BRC,320,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jason Matthew  Becker,30
+IS: Oswego Experience,94369,BRC,499,6,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Dec 14, 2018",Independent Study,Francisco   Suarez,30
+Chemistry & Public Concern,93643,CHE,209,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Fehmi   Damkaci,30
+Environmental Science,90454,CHE,300,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jeffery A.  Schneider,30
+Environmental Science,94241,CHE,300,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jeffery A.  Schneider,30
+Foundations Of Communication,91869,COM,100,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Denise   Casey,30
+Foundations Of Communication,94309,COM,100,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Denise   Casey,30
+Communication Theories,94297,COM,301,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jenna L  Currie-Mueller,30
+InterculturalCommunication,92968,COM,422,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Amy B  McHugh,30
+Intercultural Communication,94298,COM,422,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jenna L  Currie-Mueller,30
+Global Media Literacy,93751,COM,508,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Ulises A  Mejias,30
+Intercultural Communication,94202,COM,522,2,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Amy B  McHugh,30
+Prof.Orient/Ethics MH Counsel,90187,CPS,509,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Tiphanie   Gonzalez,30
+Foundtn of Psy & Edu Appraisal,91389,CPS,585,4,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Michael   LeBlanc,30
+Research Methods in HS/CC,91446,CPS,596,5,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Tiphanie   Gonzalez,30
+Fiction Writing: Introductory,94326,CRW,206,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Seminar,Robert T.  O'Connor,30
+Tools for Computing,91128,CSC,101,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Robert A.  Zuber,30
+BUS Info System&Computing Tool,91674,CSC,102,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Michael L  Smith,30
+Principles of Microeconomics,90202,ECO,101,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,John   Kane,30
+Managerial Economics,90205,ECO,302,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Said   Atri,30
+Money And Banking,90208,ECO,340,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Elizabeth A  Schmitt,30
+Comparative & International ED,92669,EDU,114,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Namrata   Sharma,30
+Comparative & International ED,93101,EDU,114,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Namrata   Sharma,30
+Critical Pedagogy,92086,EDU,500,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Tania   Ramalho,30
+Educational Assessment,92070,EDU,510,1,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Jean E  Hallagan,30
+Curriculum Development,92084,EDU,555,2,Graduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Tania   Ramalho,30
+Corporate Finance,90061,FIN,325,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Hong   Wan,30
+Investments,91810,FIN,354,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Eric   Tsai,30
+Investments,94281,FIN,354,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ","Aug 27, 2018 - Dec 14, 2018",Lecture,Eric   Tsai,30
+Freshmen Colloquium,91203,ART,111,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 101,"Aug 27, 2018 - Oct 19, 2018",Studio,Benjamin R  Entner,30
+Transfer Student Colloquim,91209,ART,311,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Mahar Hall 201,"Aug 27, 2018 - Oct 19, 2018",Studio,Kelly L  Roe,30
+Artistic Integration/Collabora,94295,CMA,401,1,Undergraduate ,3,,TBA,TBA,TBA,"Aug 27, 2018 - Oct 19, 2018",Lecture,Francisco   Suarez,30
+Strat Instr in the Disciplines,92380,EDU,104,2,Undergraduate ,3,,11:10 am - 12:05 pm,TR,Marano Campus Center 164,"Aug 27, 2018 - Oct 19, 2018",Lecture,Alicia R  King,30
+Fund of Administration,92122,EAD,601,3,Graduate ,3,,4:30 pm - 10:00 pm,T,Cambria,"Aug 28, 2018 - Sep 04, 2018",Lecture,Tamara   Lipke,30
+Fund of Administration,92163,EAD,601,4,Graduate ,3,,4:30 pm - 9:45 pm,W,Sonata 129,"Aug 29, 2018 - Sep 12, 2018",Lecture,Linda Rae  Markert,30
+Intro to Play Therapy,91390,CPS,592,5,Graduate ,3,,9:00 am - 3:00 pm,R,Mahar Hall 215,"Aug 30, 2018 - Sep 06, 2018",Lecture,Jodi Ann  Mullen,30
+Caves/Paint/Carve:PaleoSFrance,94453,ANT,321,6,Undergraduate ,3,,6:00 pm - 7:00 pm,M,Mahar Hall 307,"Oct 22, 2018 - Dec 07, 2018",Lecture,Douglas   Pippin,30
+Hollywood POV,94307,CMA,410,7,Undergraduate ,3,,11:30 am - 12:25 pm,M,Mahar Hall 112,"Oct 22, 2018 - Dec 07, 2018",Lecture,Cara B  Thompson,30
+Strat Instr in the Disciplines,92599,EDU,104,1,Undergraduate ,3,,11:10 am - 12:05 pm,TR,Marano Campus Center 164,"Oct 22, 2018 - Dec 07, 2018",Lecture,Alicia R  King,30
+Continuing Elementary French,91474,FRE,102,2,Undergraduate ,3,,3:00 pm - 5:00 pm,MTR,Marano Campus Center 256,"Oct 22, 2018 - Dec 07, 2018",Lecture,Lenuta   Giukin,30
+Cross Cultural Student Teach,90100,ADO,421,3,Undergraduate ,3,,TBA,MTWRF,Off Campus ,"Oct 22, 2018 - Dec 13, 2018",Student Teaching,Unassigned   Staff,30
+CrossCulturalStudentTeaching,90122,CED,421,4,Undergraduate ,3,,TBA,TBA,Off Campus ,"Oct 22, 2018 - Dec 13, 2018",Student Teaching,Unassigned   Staff,30
+Student Teaching,90099,ADO,420,5,Undergraduate ,3,,TBA,MTWRF,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Kathleen B  Bartley,30
+Student Teaching Grades 7-12A,93735,ADO,595,6,Graduate ,3,,TBA,TBA,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Unassigned   Staff,30
+Student Teaching Grades 7-12A,94464,ADO,595,7,Graduate ,3,,TBA,TBA,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Kathleen B  Bartley,30
+Student Teaching Grades 7-12A,94465,ADO,595,1,Graduate ,3,,TBA,TBA,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Cathleen J  Chamberlain,30
+Student Teaching Grades 7-12A,94466,ADO,595,2,Graduate ,3,,TBA,TBA,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Ronald   Cocciole,30
+Student Teaching Grades 7-12A,94467,ADO,595,3,Graduate ,3,,TBA,TBA,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Stacey   Pope,30
+Childhood Student Teaching,90121,CED,420,4,Undergraduate ,3,,TBA,MTWRF,Off Campus ,"Sep 04, 2018 - Oct 18, 2018",Student Teaching,Unassigned   Staff,30
+Supervsn- Improvment of Inst,93001,EAD,641,5,Graduate ,3,,4:30 pm - 10:00 pm,T,Palmyra-Macedon CSD ,"Sep 04, 2018 - Sep 04, 2018",Lecture,Angela   Perrotto,30
+Fund of Administration,92122,EAD,601,6,Graduate ,3,,4:30 pm - 10:00 pm,T,Off Campus ,"Sep 05, 2017 - Dec 05, 2017",Lecture,Tamara   Lipke,30
+Fiction Writing,60102,CRW,206,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jan 26, 2018",Seminar,Cheryl C  Meany,30
+Fiction Writing,60130,CRW,206,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jan 26, 2018",Seminar,William J  Neumire,30
+Composition II,60000,ENG,102,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jan 26, 2018",Lecture,Emily   Kirch,30
+Composition II,60133,ENG,102,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jan 26, 2018",Lecture,Emily   Kirch,30
+Intermediate German,60116,GER,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jennifer   Wolf,30
+Intermediate German,60009,GER,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Eleanor   Christie,30
+Intermediate German,60084,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Todd   Hutson,30
+Intermediate German,60011,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Kimberly Anne  Rice,30
+Intermediate German,60020,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Carmen   Rehrl-Ruggio,30
+Intermediate German,60021,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Terry   Legg,30
+Intermediate German,60100,GER,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Aisa   Cehajic-Roth,30
+Intermediate German,60026,GER,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Kate   Stewart,30
+Intermediate German,60043,GER,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Benjamin Philip  Gerardi,30
+Intermediate German,60049,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Brenna   Muldoon,30
+Intermediate German,60056,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Susan   Poet,30
+Intermediate German,60071,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Rune   Williams,30
+Intermediate German,60090,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Corinna   Coorssen,30
+Intermediate German,60111,GER,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,TBA,30
+Cont Inter German,60115,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jennifer   Wolf,30
+Cont Intermediate German,60138,GER,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Terry   Legg,30
+Cont Inter German,60004,GER,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Kimberly Anne  Rice,30
+Cont Inter German,60008,GER,202,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,TBA,30
+Cont Inter German,60019,GER,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Carmen   Rehrl-Ruggio,30
+Cont Inter German,60042,GER,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Benjamin Philip  Gerardi,30
+Cont Inter German,60048,GER,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Brenna   Muldoon,30
+Cont Inter German,60067,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Rune   Williams,30
+Cont Inter German,60095,GER,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Corinna   Coorssen,30
+Cont Inter German,60079,GER,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Susan   Poet,30
+Intermediate French,60118,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Raelene A  Noll,30
+Intermediate French,60003,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Sandra   Taylor,30
+Intermediate French,60006,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Melissa   Brown,30
+Intermediate French,60016,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Deana H.  Honeywell,30
+Intermediate French,60098,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Lynelle   Vandenberg,30
+Intermediate French,60040,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Sandi L  Sibe,30
+Intermediate French,60044,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Elena   Southard,30
+Intermediate French,60025,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jessica L  Keane,30
+Intermediate French,60029,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Stewart   Smith,30
+Intermediate French,60031,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Denise   Mahns,30
+Intermediate French,60033,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Roberta   Brown,30
+Intermediate French,60061,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Heather   Molina,30
+Intermediate French,60053,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Unassigned   Staff,30
+Intermediate French,60070,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Kimberley Elizabeth  Harter,30
+Intermediate French,60073,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Sarah   Woodward-Jones,30
+Intermediate French,60081,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jane   Murlin,30
+Intermediate French,60092,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Maria   Kaleta,30
+Cont Inter French,60117,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Unassigned   Staff,30
+Cont Inter French,60005,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Melissa   Brown,30
+Cont Inter French,60014,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Deana H.  Honeywell,30
+Cont Inter French,60028,FRE,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Stewart   Smith,30
+Cont Inter French,60088,FRE,202,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Elena   Southard,30
+Cont Inter French,60039,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Sandi L  Sibe,30
+Cont Inter French,60066,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Kimberley Elizabeth  Harter,30
+Cont Inter French,60032,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jessica   Cuello,30
+Cont Inter French,60078,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jane   Murlin,30
+Cont Inter French,60089,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Jessica L  Keane,30
+Cont Inter French,60054,FRE,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Raelene A  Noll,30
+Cont Inter French,60062,FRE,202,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Heather   Molina,30
+Cont Inter French,60096,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Maria   Kaleta,30
+Cont Inter French,60108,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 05, 2017 - Jun 30, 2018",Lecture,Sandra   Taylor,30
+Fiction Writing:Intro,60130,CRW,206,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jan 02, 2019",Seminar,William J  Neumire,30
+Composition II,60000,ENG,102,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jan 02, 2019",Lecture,Emily   Kirch,30
+Composition II,60133,ENG,102,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jan 02, 2019",Lecture,Emily   Kirch,30
+Intermediate German,60116,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jennifer   Wolf,30
+Intermediate German,60009,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Eleanor   Christie,30
+Intermediate German,60084,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Todd   Hutson,30
+Intermediate German,60011,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Kimberly Anne  Rice,30
+Intermediate German,60255,GER,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Carmen   Rehrl-Ruggio,30
+Intermediate German,60021,GER,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Terry   Legg,30
+Intermediate German,60100,GER,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Aisa   Cehajic-Roth,30
+Intermediate German,60026,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Kate   Stewart,30
+Intermediate German,60049,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Christine   Connor,30
+Intermediate German,60071,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Rune   Williams,30
+Intermediate German,60090,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Tiffany M  Phelps,30
+Cont Inter German,60115,GER,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jennifer   Wolf,30
+Cont Intermed German,60127,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Aisa   Cehajic-Roth,30
+Continuing Intermediate German,60248,GER,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Shelly   Thompson,30
+Cont Interm. German,60138,GER,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Terry   Legg,30
+Cont Inter German,60004,GER,202,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Kimberly Anne  Rice,30
+Cont Inter German,60019,GER,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Carmen   Rehrl-Ruggio,30
+Cont Inter German,60042,GER,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Benjamin Philip  Gerardi,30
+Cont Inter German,60048,GER,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Christine   Connor,30
+Cont Inter German,60067,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Rune   Williams,30
+Cont Inter German,60095,GER,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Tiffany M  Phelps,30
+T:Trad Media/Methods,60136,ART,102,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Studio,Nina M  Spano,30
+Intermediate French,60118,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Raelene A  Noll,30
+Intermediate French,60003,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Sandra   Taylor,30
+Intermediate French,60006,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Melissa   Brown,30
+Intermediate French,60016,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Deana H.  Honeywell,30
+Intermediate French,60098,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Lynelle   Vandenberg,30
+Intermediate French,60040,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Sandi L  Sibe,30
+Intermediate French,60029,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Stewart   Smith,30
+Intermediate French,60031,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Denise   Mahns,30
+Intermediate French,60033,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jessica   Cuello,30
+Intermediate French,60061,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Heather   Molina,30
+Intermediate French,60053,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Rosine   Leloir,30
+Intermediate French,60070,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Kimberley Elizabeth  Harter,30
+Intermediate French,60073,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Sarah   Woodward-Jones,30
+Intermediate French,60081,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jane   Murlin,30
+Intermediate French,60092,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Maria   Kaleta,30
+Cont Inter French,60117,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Rosine   Leloir,30
+Cont Intermed French,60128,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Lynelle   Vandenberg,30
+Cont Inter French,60005,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Melissa   Brown,30
+Cont Inter French,60014,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Deana H.  Honeywell,30
+Cont Inter French,60028,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Stewart   Smith,30
+Cont Inter French,60039,FRE,202,6,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Sandi L  Sibe,30
+Cont Inter French,60066,FRE,202,7,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Kimberley Elizabeth  Harter,30
+Cont Inter French,60032,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jessica   Cuello,30
+Cont Inter French,60078,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Jane   Murlin,30
+Cont Inter French,60054,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Raelene A  Noll,30
+Cont Inter French,60062,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Heather   Molina,30
+Cont Inter French,60096,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,"Sep 04, 2018 - Jun 30, 2019",Lecture,Maria   Kaleta,30
+Clinical Consult Play Therapy,91816,CPS,603,6,Graduate ,3,,9:00 am - 3:15 pm,S,Mahar Hall 103,"Sep 01, 2018 - Sep 01, 2018",Seminar,Ashley Elizabeth-Ann  Lawton Converse,30
+Supervsn- Improvment of Inst,93000,EAD,641,7,Graduate ,3,,4:30 pm - 10:00 pm,W,Sonata 129,"Sep 05, 2018 - Sep 12, 2018",Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93002,EAD,641,1,Graduate ,3,,4:30 pm - 10:00 pm,W,Cambria,"Sep 05, 2018 - Sep 12, 2018",Lecture,Tamara   Lipke,30
+Internship: School Counseling,91748,CPS,618,2,Graduate ,3,,5:30 pm - 8:30 pm,R,Sonata 118,"Sep 06, 2018 - Sep 06, 2018",Internship,Sean   Finnerty,30
+Internship: School Counseling,92119,CPS,618,3,Graduate ,3,,5:30 pm - 8:30 pm,R,Sonata 118,"Sep 06, 2018 - Sep 06, 2018",Internship,Sean   Finnerty,30
+Internship in School Psych,92118,CPS,617,4,Graduate ,3,,9:30 am - 12:00 pm,F,Mahar Hall 117,"Sep 14, 2018 - Sep 14, 2018",Paid Internship,James L  McDougal,30
+DASA Training,93011,DASA,1020,5,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,,8:30 am - 3:30 pm,S,Marano Campus Center 211,"Sep 15, 2018 - Sep 15, 2018",Lecture,Carlo   Cuccaro,30

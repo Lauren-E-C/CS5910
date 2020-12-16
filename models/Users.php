@@ -17,4 +17,18 @@ class Users extends Model
 
         return false;
     }
+
+
+    public function getKeyValues($key, $value, $filter = false)
+    {
+        $values = array();
+
+        $record = $this->get($filter);  // get first record
+        while ($record) {   // loop until no more data
+            $values[$this->getValue($key)] = $this->getValue('firstName') . ' ' . $this->getValue('lastName');
+            $record = $this->next();
+        }
+        return $values;
+    }
+
 }

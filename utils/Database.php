@@ -25,11 +25,12 @@ class Database
             $this->password = 'cs5910P@ssw0rd';
         }
         if (self::$pdo === null) {
-            $dsn = "mysql:host=".$this->hostname.";dbname=".$this->database.";charset=utf8mb4";
+            $dsn = "mysql:host=" . $this->hostname . ";dbname=" . $this->database . ";charset=utf8mb4";
             $options = [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
                 PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-                PDO::ATTR_EMULATE_PREPARES => false,
+//                PDO::ATTR_EMULATE_PREPARES => false,
+                PDO::ATTR_EMULATE_PREPARES => true,
             ];
             try {
                 self::$pdo = new PDO($dsn, $this->username, $this->password, $options);
@@ -40,33 +41,40 @@ class Database
         return self::$pdo;
     }
 
-    public function errorCode() {
+    public function errorCode()
+    {
         return self::$pdo->errorCode();
     }
 
-    public function errorInfo() {
+    public function errorInfo()
+    {
         return self::$pdo->errorInfo();
     }
 
-    public function prepare($sql, $options = false) {
+    public function prepare($sql, $options = false)
+    {
         if (!$options) $options = array();
 //        print_r($sql);echo "\n";
         return self::$pdo->prepare($sql, $options);
     }
 
-    public function exec($statement) {
+    public function exec($statement)
+    {
         return $statement->execute();
     }
 
-    public function fetch($statement) {
+    public function fetch($statement)
+    {
         return $statement->fetch();
     }
 
-    public function fetchAll($statement) {
+    public function fetchAll($statement)
+    {
         return $statement->fetchAll();
     }
 
-    public function quote($input) {
+    public function quote($input)
+    {
         return self::$pdo->quote($input);
     }
 }

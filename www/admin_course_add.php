@@ -31,19 +31,16 @@ $department_field = new KeyValueField('Department', $department_values);
     <hr>
 <?php
 
-// -- create fields to be used in the form
-$course_id_field = new TextField('Course ID');
-$course_name_field = new TextField('Course Name');
-
 // -- create a new instance of a form object
 $f = new Form();
 
 // render the form to the browser
 $course_form_data = $f->showForm([
-    'courseID' => $course_id_field,
+    'courseID' => new TextField('Course ID'),
+    'coursenumber' => new TextField('Course Number'),
     'departmentcode' => $department_field,
-    'coursename' => $course_name_field,
-    'description' => new TextAreaField('Description'),
+    'coursename' => new TextField('Course Name'),
+    'description' => new TextAreaField('Prerequisite'),
     'level' => 'Level', // new TextField('Level')
     'credits' => 'Credits', // new TextField('Credits')
     'prerequisites' => 'Prerequisites', // new TextField('Prerequisites')

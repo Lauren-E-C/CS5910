@@ -1,0 +1,959 @@
+﻿Coursename,CRN,Department,CourseID,Section,Level,Credits,Prerequisites,timeslot,Day,Location,,,Term,Roomtype,Instructor,Capacity
+Internship: School Counseling,91720,CPS,618,1,Graduate ,3,,4:00 pm - 7:00 pm,M,Mahar Hall 114,Mahar Hall ,114,Fall2016,Internship,Sean   Finnerty,30
+Internship: School Counseling,91721,CPS,618,2,Graduate ,3,,4:00 pm - 7:00 pm,M,Mahar Hall 114,Mahar Hall ,201,Fall2016,Internship,Sean   Finnerty,30
+Intro. to Geography,90214,GEG,100,3,Undergraduate ,3,,6:15 pm - 9:00 pm,W,Mahar Hall 201,Shineman Center ,122,Fall2016,Lecture,Amy   D'Angelo,30
+Physical Geology,91750,GEO,100,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 122,Shineman Center ,170,Fall2016,Lecture,Rachel   Lee,30
+Physical Geology,91976,GEO,100,5,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Shineman Center 170,Shineman Center ,372,Fall2016,Lecture,Allen   Andersen,30
+Physical Geology Laboratory,91033,GEO,101,6,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 372,Shineman Center ,372,Fall2016,Laboratory,Rachel   Lee,30
+Physical Geology Laboratory,91400,GEO,101,7,Undergraduate ,3,,4:00 pm - 7:00 pm,F,Shineman Center 372,Park Hall ,315,Fall2016,Laboratory,Brian   Hough,30
+Environmental Sustainability,90998,GEO,115,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 315,,"100% web, no face to face ",Fall2016,Lecture,J Graham   Bradley,30
+Environmental Sustainability,92992,GEO,115,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Kevin John  Finerghty,30
+Earth Resources,91623,GEO,305,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Rich Hall ,219,Fall2016,Distance Learning,David   Valentino,30
+Mineralogy,90416,GEO,310,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Rich Hall 219,Shineman Center ,370,Fall2016,Lecture,Allen   Andersen,30
+Mineralogy Lab,90966,GEO,310,5,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 370,Shineman Center ,370,Fall2016,Laboratory,Allen   Andersen,30
+Mineralogy Lab,93188,GEO,310,6,Undergraduate ,3,,9:35 am - 12:30 pm,T,Shineman Center 370,,"100% web, no face to face ",Fall2016,Laboratory,Allen   Andersen,30
+Earth's Fury,91622,GEO,315,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Shineman Center ,370,Fall2016,Distance Learning,Kevin John  Finerghty,30
+Structural Geology,91977,GEO,330,1,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 370,Shineman Center ,370,Fall2016,Lecture,David   Valentino,30
+Structural Geology Lab,91978,GEO,330,2,Undergraduate ,3,,9:35 am - 12:30 pm,R,Shineman Center 370,Shineman Center ,370,Fall2016,Laboratory,David   Valentino,30
+Stratigraphy,90832,GEO,420,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 370,Shineman Center ,370,Fall2016,Lecture,Brian   Hough,30
+Stratigraphy Lab,90967,GEO,420,4,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 370,Shineman Center ,372,Fall2016,Laboratory,Brian   Hough,30
+Hydrogeology,91973,GEO,430,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 372,Shineman Center ,372,Fall2016,Lecture,J Graham   Bradley,30
+Hydrogeology-Lab,92808,GEO,430,6,Undergraduate ,3,,9:35 am - 12:35 pm,T,Shineman Center 372,Marano Campus Center ,232,Fall2016,Laboratory,J Graham   Bradley,30
+Elementary German,90292,GER,101,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 232,Marano Campus Center ,232,Fall2016,Lecture,Johanna M  Henry,30
+Elementary German,90293,GER,101,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 232,Marano Campus Center ,223,Fall2016,Lecture,Johanna M  Henry,30
+Continuing Elementary German,90294,GER,102,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 223,Marano Campus Center ,242,Fall2016,Lecture,Ana   Djukic-Cocks,30
+"German Castles, Customs & Cult",91968,GER,140,3,Undergraduate ,3,,8:40 am - 10:05 am,MW,Marano Campus Center 242,Marano Campus Center ,256,Fall2016,Lecture,John F  Lalande,30
+Intermediate German,90295,GER,201,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 256,Marano Campus Center ,256,Fall2016,Lecture,Ana   Djukic-Cocks,30
+Advanced German A,90922,GER,301,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 256,Marano Campus Center ,256,Fall2016,Lecture,Ana   Djukic-Cocks,30
+Survey Germ Lit&CultureA,92623,GER,350,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 256,Marano Campus Center ,211,Fall2016,Lecture,John F  Lalande,30
+Introduction to Global Studies,90750,GLS,200,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 211,Mahar Hall ,103,Fall2016,Lecture,Joshua   McKeown,30
+Introduction to Global Studies,92790,GLS,200,1,Undergraduate ,3,,8:40 am - 10:05 am,MW,Mahar Hall 103,Mahar Hall ,102,Fall2016,Lecture,Lisa M  Glidden,30
+Issues in Global Economy,90740,GLS,300,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 102,Rich Hall ,223,Fall2016,Lecture,Said   Atri,30
+Principles of Accounting I,92624,ACC,201,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Susan   Wright,30
+Principles of Accounting I,92625,ACC,201,4,Undergraduate ,3,,8:00 am - 8:55 am,M,Rich Hall 223,Rich Hall ,223,Fall2016,Laboratory,Sheneya   Wilson,30
+Principles of Accounting I,92626,ACC,201,5,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Susan   Wright,30
+Principles of Accounting I,92627,ACC,201,6,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 223,Rich Hall ,319,Fall2016,Laboratory,Emily N  Karszes,30
+Principles of Accounting I,92628,ACC,201,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 319,Rich Hall ,319,Fall2016,Lecture,Laura Bea  Lamb,30
+Principles of Accounting I,92631,ACC,201,1,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Rich Hall 319,Rich Hall ,322,Fall2016,Laboratory,Lauren C  Ryan,30
+Principles of Accounting I,92630,ACC,201,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 322,Rich Hall ,322,Fall2016,Lecture,Laura Bea  Lamb,30
+Principles of Accounting I,92629,ACC,201,3,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Rich Hall 322,Rich Hall ,324,Fall2016,Laboratory,Amanda M  Lattimore,30
+Principles of Accounting I,92632,ACC,201,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Rich Hall 324,Rich Hall ,324,Fall2016,Lecture,Laura Bea  Lamb,30
+Principles of Accounting I,92633,ACC,201,5,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Rich Hall 324,Rich Hall ,221,Fall2016,Laboratory,Lauren C  Ryan,30
+Principles of Accounting I,92634,ACC,201,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 221,Rich Hall ,323,Fall2016,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92635,ACC,201,7,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Rich Hall 323,Rich Hall ,320,Fall2016,Laboratory,Dylan R  Niewiemski,30
+Principles of Accounting I,92636,ACC,201,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 320,Rich Hall ,320,Fall2016,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92637,ACC,201,2,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 320,Rich Hall ,221,Fall2016,Laboratory,Dylan R  Niewiemski,30
+Principles of Accounting I,92638,ACC,201,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 221,Rich Hall ,221,Fall2016,Lecture,Victoria   Chiu,30
+Principles of Accounting I LAB,92639,ACC,201,4,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Rich Hall 221,Rich Hall ,223,Fall2016,Laboratory,Amanda M  Lattimore,30
+Principles Of Accounting II,92618,ACC,202,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Heather   Losi,30
+Principles Accounting II Lab,90979,ACC,202,6,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 223,Rich Hall ,223,Fall2016,Laboratory,Cuifen   Zhuang,30
+Principles Of Accounting II,92619,ACC,202,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Heather   Losi,30
+Principles Accounting II Lab,91190,ACC,202,1,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 223,Rich Hall ,223,Fall2016,Laboratory,Guannan   Zhang,30
+Principles Of Accounting II,92620,ACC,202,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 223,Rich Hall ,221,Fall2016,Lecture,Heather   Losi,30
+Principles Of Accounting IILab,91310,ACC,202,3,Undergraduate ,3,,8:25 am - 9:20 am,T,Rich Hall 221,Rich Hall ,319,Fall2016,Laboratory,Guannan   Zhang,30
+Principles Of Accounting II,92622,ACC,202,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 319,Rich Hall ,320,Fall2016,Lecture,Eric M  Ramon,30
+Principles Of Accounting IILab,91510,ACC,202,5,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 320,Rich Hall ,223,Fall2016,Laboratory,Derek Matthew  Holden,30
+Principles Of Accounting II,92621,ACC,202,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 223,Rich Hall ,221,Fall2016,Lecture,Heather   Losi,30
+Principles Of Accounting IILab,91800,ACC,202,7,Undergraduate ,3,,8:25 am - 9:20 am,R,Rich Hall 221,Rich Hall ,223,Fall2016,Laboratory,Bilikiz Mopelola  Adebayo,30
+Intermediate Accounting I,90038,ACC,301,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90961,ACC,301,2,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Rich Hall 223,Rich Hall ,323,Fall2016,Laboratory,Lindsay K  DiGiacomo,30
+Intermediate Accounting I,90042,ACC,301,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Rich Hall 323,Rich Hall ,323,Fall2016,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,90962,ACC,301,4,Undergraduate ,3,,8:00 am - 8:55 am,W,Rich Hall 323,Rich Hall ,223,Fall2016,Laboratory,Derek Matthew  Holden,30
+Intermediate Accounting I,91514,ACC,301,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I Lab,91515,ACC,301,6,Undergraduate ,3,,12:40 pm - 1:35 pm,W,Rich Hall 223,Rich Hall ,323,Fall2016,Laboratory,Cuifen   Zhuang,30
+Intermediate Accounting II,90043,ACC,302,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 323,Rich Hall ,223,Fall2016,Lecture,Laura Bea  Lamb,30
+Accounting Information Systems,90553,ACC,305,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 223,Rich Hall ,223,Fall2016,Lecture,Thomas J  Tribunella,30
+Accounting Information Systems,91192,ACC,305,2,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 223,Rich Hall ,322,Fall2016,Lecture,Thomas J  Tribunella,30
+Cost Accounting,90050,ACC,310,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rich Hall 322,Rich Hall ,221,Fall2016,Lecture,Dean   Crawford,30
+Cost Accounting,91184,ACC,310,4,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 221,Rich Hall ,220,Fall2016,Lecture,Debra A.  Geroux,30
+Managerial Accounting,91971,ACC,320,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Rich Hall 220,Rich Hall ,324,Fall2016,Lecture,Eric M  Ramon,30
+Acct as Management Tool,93043,ACC,321,6,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 324,Rich Hall ,323,Fall2016,Lecture,Susan   Wright,30
+Federal Tax Accounting I,90053,ACC,330,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 323,Rich Hall ,323,Fall2016,Lecture,Dean   Crawford,30
+Federal Tax Accounting I,90055,ACC,330,1,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 323,Rich Hall ,323,Fall2016,Lecture,Dean   Crawford,30
+Federal Tax Accounting I,90825,ACC,330,2,Undergraduate ,3,,7:05 pm - 8:25 pm,TR,Rich Hall 323,Rich Hall ,221,Fall2016,Lecture,Dean   Crawford,30
+Auditing,90942,ACC,430,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Rich Hall 221,Hewitt Union ,228C,Fall2016,Lecture,Hema   Rao,30
+Content Methods; English,90081,ADO,310,4,Undergraduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 228C,TBA,,Fall2016,Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90083,ADO,313,5,Undergraduate ,3,,TBA,TBA,TBA,Hewitt Union ,228B,Fall2016,Activity,Sharon G  Kane,30
+Content Methds:2nd/ForeignLang,90084,ADO,320,6,Undergraduate ,3,,4:30 pm - 8:30 pm,M,Hewitt Union 228B,TBA,,Fall2016,Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd/Foreign Lang,90086,ADO,323,7,Undergraduate ,3,,TBA,TBA,TBA,Sheldon Hall ,328,Fall2016,Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90088,ADO,330,1,Undergraduate ,3,,4:10 pm - 8:10 pm,W,Sheldon Hall 328,TBA,,Fall2016,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III:Mathematic,90090,ADO,333,2,Undergraduate ,3,,TBA,TBA,TBA,Hewitt Union ,228C,Fall2016,Activity,Jean E  Hallagan,30
+Content Methods: Science,90743,ADO,340,3,Undergraduate ,3,,4:30 pm - 8:30 pm,R,Hewitt Union 228C,TBA,,Fall2016,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90093,ADO,343,4,Undergraduate ,3,,TBA,TBA,TBA,Hewitt Union ,228B,Fall2016,Activity,Eric   Olson,30
+Content Methods:Social Studies,90095,ADO,350,5,Undergraduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 228B,TBA,,Fall2016,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field PlacementIII:Social Stud,90098,ADO,353,6,Undergraduate ,3,,TBA,TBA,TBA,Hewitt Union ,228B,Fall2016,Activity,Ritu   Radhakrishnan,30
+Interdisciplinary Methods,92091,ADO,394,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Hewitt Union 228B,Hewitt Union ,228C,Fall2016,Recitation or Discussion,David Paul  Parisian,30
+Content Methods: English,90082,ADO,510,1,Graduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 228C,Off Campus ,,Fall2016,Recitation or Discussion,Sharon G  Kane,30
+Field Placement III: English,90101,ADO,513,2,Graduate ,3,,7:00 am - 11:30 am,MTWRF,Off Campus ,Hewitt Union ,228B,Fall2016,Activity,Sharon G  Kane,30
+Content Methods:2ndForeignLang,90085,ADO,520,3,Graduate ,3,,4:30 pm - 8:30 pm,M,Hewitt Union 228B,Off Campus ,,Fall2016,Recitation or Discussion,Joanne E.  O'Toole,30
+Field Exp III:2nd Foreign Lang,90087,ADO,523,4,Graduate ,3,,7:00 am - 11:30 am,MTWF,Off Campus ,Sheldon Hall ,328,Fall2016,Activity,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90089,ADO,530,5,Graduate ,3,,4:10 pm - 8:10 pm,W,Sheldon Hall 328,Off Campus ,,Fall2016,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III: Math,90091,ADO,533,6,Graduate ,3,,7:00 am - 11:30 am,TR,Off Campus ,Hewitt Union ,228C,Fall2016,Activity,Jean E  Hallagan,30
+Content Methods:Science,90092,ADO,540,7,Graduate ,3,,4:30 pm - 8:30 pm,R,Hewitt Union 228C,Off Campus ,,Fall2016,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90094,ADO,543,1,Graduate ,3,,7:00 am - 11:30 am,TR,Off Campus ,Hewitt Union ,228B,Fall2016,Activity,Eric   Olson,30
+Content Methods:Social Studies,90096,ADO,550,2,Graduate ,3,,4:30 pm - 8:30 pm,W,Hewitt Union 228B,Off Campus ,,Fall2016,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field Placement III:Soc Studie,90097,ADO,553,3,Graduate ,3,,7:00 am - 11:30 am,MTWRF,Off Campus ,Off Campus ,,Fall2016,Activity,Ritu   Radhakrishnan,30
+Field Experience B:Plan/Teach,91470,ADO,593,4,Graduate ,3,,TBA,TBA,Off Campus ,Lanigan Hall ,102,Fall2016,Activity,Jean E  Hallagan,30
+Archaeology & Human Evolution,90190,ANT,111,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 102,Mahar Hall ,309,Fall2016,Lecture,Alanna E  Ossa,30
+Archaeology & Human Evolution,91104,ANT,111,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 309,Mahar Hall ,309,Fall2016,Lecture,Douglas   Pippin,30
+Archaeology & Human Evolution,92378,ANT,111,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 309,Lanigan Hall ,105,Fall2016,Lecture,Kathleen A  Blake,30
+Cultural Anthropology,90192,ANT,112,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 105,Mahar Hall ,309,Fall2016,Lecture,Jing   Lei,30
+History of Ethnological Theory,91026,ANT,210,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 309,Mahar Hall ,309,Fall2016,Lecture,Jing   Lei,30
+Introductory Archaeology,91374,ANT,230,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 309,Mahar Hall ,307,Fall2016,Lecture,Alanna E  Ossa,30
+Biological Anthropology,90988,ANT,280,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 307,TBA,,Fall2016,Lecture,Kathleen A  Blake,30
+Teaching Anthropology,90193,ANT,302,5,Undergraduate ,3,,TBA,TBA,TBA,Mahar Hall ,309,Fall2016,Lecture,Kathleen A  Blake,30
+Research Methods,90194,ANT,310,6,Undergraduate ,3,,3:00 pm - 5:45 pm,M,Mahar Hall 309,Mahar Hall ,309,Fall2016,Lecture,Douglas   Pippin,30
+Digging Up the Past,92613,ANT,331,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 309,Mahar Hall ,309,Fall2016,Lecture,Douglas   Pippin,30
+"Archaeology,Hist Pres & CRM",93045,ANT,337,1,Undergraduate ,3,,3:00 pm - 5:40 pm,W,Mahar Hall 309,Mahar Hall ,307,Fall2016,Lecture,Alanna E  Ossa,30
+Forensic Anthropology,91105,ANT,354,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 307,,"100% web, no face to face ",Fall2016,Lecture,Kathleen A  Blake,30
+Peoples&Cultr of China,91956,ANT,372,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Lanigan Hall ,107,Fall2016,Distance Learning,Jing   Lei,30
+Intro to the Visual Arts,91651,ART,100,4,Undergraduate ,3,,5:00 pm - 6:25 pm,MW,Lanigan Hall 107,Lanigan Hall ,104,Fall2016,Lecture,Walter R  Langlois,30
+Intro to the Visual Arts,93297,ART,100,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 104,,"100% web, no face to face ",Fall2016,Lecture,Russell   Prigodich,30
+Intro to the Visual Arts,91933,ART,100,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Tyler Hall ,102,Fall2016,Distance Learning,Alesha Marie  Hall,30
+TTMM Studio Art Non-Majors,91646,ART,102,7,Undergraduate ,3,,5:30 pm - 7:30 pm,MW,Tyler Hall 102,,"100% web, no face to face ",Fall2016,Studio,William   DeMott,30
+TEMM:Intro to Digital Media,91934,ART,103,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Tyler Hall ,102,Fall2016,Distance Learning,Alesha Marie  Hall,30
+Design Concepts I-2D,90268,ART,105,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 102,Tyler Hall ,102,Fall2016,Activity,William   DeMott,30
+Design Concepts I-2D,91224,ART,105,3,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 102,Tyler Hall ,102,Fall2016,Studio,Melissa   Cardone,30
+Design Concepts I-2D,90267,ART,105,4,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 102,Tyler Hall ,102,Fall2016,Studio,Mary D.  Pierce,30
+Design Concepts I-2D,91212,ART,105,5,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 102,Hewitt Union ,7A,Fall2016,Studio,Mary D.  Pierce,30
+Design Concepts II-3D,90269,ART,106,6,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 7A,Hewitt Union ,7A,Fall2016,Studio,Russell   Prigodich,30
+Design Concepts II-3D,91204,ART,106,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Hewitt Union 7A,Hewitt Union ,7A,Fall2016,Studio,Sara   Prigodich,30
+Design Concepts II-3D,91657,ART,106,1,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Hewitt Union 7A,Lanigan Hall ,107,Fall2016,Studio,Benjamin R  Entner,30
+Gender&Contemp Visual Culture,91936,ART,110,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107,Tyler Hall ,217,Fall2016,Lecture,Lisa K  Langlois,30
+Digital Media,91200,ART,207,3,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Tyler Hall 217,Tyler Hall ,217,Fall2016,Studio,Elizabeth Nichole  Hunt,30
+Digital Media,91935,ART,207,4,Undergraduate ,3,,11:35 am - 1:35 pm,MWF,Tyler Hall 217,Tyler Hall ,217,Fall2016,Studio,Elizabeth Nichole  Hunt,30
+Typography,91225,ART,209,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Tyler Hall ,217,Fall2016,Studio,Justin Anty  Mastrangelo,30
+Typography,91782,ART,209,6,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Tyler Hall ,206,Fall2016,Studio,Justin Anty  Mastrangelo,30
+Drawing I,90270,ART,210,7,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 206,Tyler Hall ,206,Fall2016,Activity,Joseph Mario  Romano,30
+Drawing I,91290,ART,210,1,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 206,Tyler Hall ,206,Fall2016,Studio,Jason M  Cheney,30
+Drawing I,91287,ART,210,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 206,Tyler Hall ,205,Fall2016,Studio,Jason M  Cheney,30
+Painting I,92787,ART,215,3,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 205,Tyler Hall ,209,Fall2016,Studio,Joseph Mario  Romano,30
+Watercolor Painting I,91636,ART,220,4,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 209,Hewitt Union ,1A,Fall2016,Studio,Marissa L.  Hill,30
+Intro to Printmaking,90271,ART,225,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1A,Hewitt Union ,1B,Fall2016,Studio,Mary D.  Pierce,30
+Ceramics I,90272,ART,230,6,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1B,Tyler Hall ,216,Fall2016,Studio,Sara   Prigodich,30
+Intro to Digital Photography,90273,ART,243,7,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Tyler Hall 216,Tyler Hall ,216,Fall2016,Studio,Peter   Cardone,30
+Intro to Digital Photography,90899,ART,243,1,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Tyler Hall 216,Tyler Hall ,216,Fall2016,Activity,Peter   Cardone,30
+Intro to Digital Photography,91205,ART,243,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 216,Hewitt Union ,7A,Fall2016,Studio,Julieve   Jubin,30
+Sculpture I,91768,ART,245,3,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,Lanigan Hall ,107,Fall2016,Studio,Benjamin R  Entner,30
+West Hert I-Survy Art I,90274,ART,250,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 107,,"100% web, no face to face ",Fall2016,Lecture,Walter R  Langlois,30
+West Hert I-Survy Art I,92788,ART,250,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Hewitt Union ,212,Fall2016,Distance Learning,Benjamin R  Entner,30
+West HertII-Survy Art II,91661,ART,251,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Hewitt Union 212,,"100% web, no face to face ",Fall2016,Lecture,Lisa A  Seppi,30
+West HertII-Survy Art II,92818,ART,251,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Tyler Hall ,201,Fall2016,Distance Learning,Lisa A  Seppi,30
+Figure Drawing I,90733,ART,300,,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 201,Lanigan Hall ,34,Fall2016,Activity,Juan   Perdiguero,30
+Motion Graphics I,92813,ART,304,1,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,Lanigan Hall ,34,Fall2016,Lecture,Carla A  Senecal,30
+Type and Image,91211,ART,307,2,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,Lanigan Hall ,36,Fall2016,Studio,Carla A  Senecal,30
+Multimedia I,91220,ART,309,3,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Tyler Hall ,201,Fall2016,Studio,Cara B  Thompson,30
+Intermediate Drawing,90275,ART,310,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 201,Tyler Hall ,217,Fall2016,Studio,Juan   Perdiguero,30
+Digital Illustration I,91483,ART,313,5,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 217,Lanigan Hall ,36,Fall2016,Studio,Amy E.  Bartell,30
+Web Media I,91214,ART,317,6,Undergraduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Studio,Rebecca Wendy  Mushtare,30
+3-D Modeling and Animation,91654,ART,318,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,Tyler Hall ,209,Fall2016,Studio,Lisa A.  DuBois,30
+Watercolor Painting II,93041,ART,320,1,Undergraduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 209,Tyler Hall ,201,Fall2016,Studio,Marissa L.  Hill,30
+Drawing for Transfer Students,91267,ART,322,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Tyler Hall 201,Lanigan Hall ,34,Fall2016,Studio,Juan   Perdiguero,30
+Digital Media-Transfer Student,91213,ART,323,3,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 34,Hewitt Union ,1A,Fall2016,Studio,Carla A  Senecal,30
+Printmaking-Intaglio,91666,ART,325,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1A,Hewitt Union ,1A,Fall2016,Studio,Mary D.  Pierce,30
+Screen Printing,90871,ART,326,5,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1A,Hewitt Union ,1B,Fall2016,Studio,Justin Anty  Mastrangelo,30
+Ceramics II,90829,ART,330,6,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Tyler Hall ,209,Fall2016,Studio,Sara   Prigodich,30
+Art Therapy Principles,93044,ART,339,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Tyler Hall 209,Tyler Hall ,216,Fall2016,Studio,Melissa   Cardone,30
+Intermediate Digital Photo,91260,ART,343,1,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 216,Hewitt Union ,7A,Fall2016,Studio,Julieve   Jubin,30
+Sculpture,91767,ART,345,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,Hewitt Union ,212,Fall2016,Studio,Benjamin R  Entner,30
+20th Century Art,90831,ART,353,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Hewitt Union 212,Lanigan Hall ,105,Fall2016,Lecture,Lisa A  Seppi,30
+History of Graphic Design,90554,ART,365,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 105,Lanigan Hall ,106A,Fall2016,Lecture,Cynthia A  Clabough,30
+Chinese Art,92811,ART,368,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 106A,Mahar Hall ,214,Fall2016,Lecture,Lisa K  Langlois,30
+Art/Architecture Islam Culture,91662,ART,371,6,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 214,Mahar Hall ,214,Fall2016,Lecture,Lisa K  Langlois,30
+Intro To Museum Studies,90279,ART,380,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 214,Hewitt Union ,212,Fall2016,Lecture,Michael K.  Flanagan,30
+STAH:Modern Art/Mass Culture,92817,ART,391,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Hewitt Union 212,Lanigan Hall ,34,Fall2016,Lecture,Lisa A  Seppi,30
+Graphic Design Facility Manage,91215,ART,395,2,Undergraduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 34,To Be Announced ,,Fall2016,Studio,Jenilee A.  Ward,30
+"Two Dimensional,Experi.Studio",91216,ART,396,3,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Justin Anty  Mastrangelo,30
+"Two Dimensional,Experi.Studio",91206,ART,396,4,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Julieve   Jubin,30
+"Two Dimensional,Experi.Studio",91387,ART,396,5,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Kelly L  Roe,30
+"Two Dimensional,Experi.Studio",91223,ART,396,6,Undergraduate ,3,,TBA,TBA,To Be Announced ,TBA,,Fall2016,Studio,Juan   Perdiguero,30
+"Two Dimensional,Experi.Studio",91649,ART,396,7,Undergraduate ,3,,TBA,TBA,TBA,To Be Announced ,,Fall2016,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91395,ART,396,1,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Carla A  Senecal,30
+"Two Dimensional,Experi.Studio",91398,ART,396,2,Undergraduate ,3,,TBA,TBA,To Be Announced ,TBA,,Fall2016,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91650,ART,396,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91592,ART,396,4,Undergraduate ,3,,TBA,TBA,TBA,To Be Announced ,,Fall2016,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91208,ART,396,5,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91804,ART,396,6,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91035,ART,396,7,Undergraduate ,3,,TBA,TBA,To Be Announced ,TBA,,Fall2016,Studio,Amy E.  Bartell,30
+"Two Dimensional,Experi.Studio",92819,ART,396,1,Undergraduate ,3,,TBA,TBA,TBA,To Be Announced ,,Fall2016,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91201,ART,396,2,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Peter   Cardone,30
+"Two Dimensional,Experi.Studio",91230,ART,396,3,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Mary D.  Pierce,30
+"3 Dimensional,Experi. Studio",91202,ART,397,4,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Lisa A.  DuBois,30
+"3 Dimensional,Experi. Studio",91219,ART,397,5,Undergraduate ,3,,TBA,TBA,To Be Announced ,To Be Announced ,,Fall2016,Studio,Benjamin R  Entner,30
+"3 Dimensional,Experi. Studio",91228,ART,397,6,Undergraduate ,3,,TBA,TBA,To Be Announced ,Tyler Hall ,201,Fall2016,Studio,Unassigned   Staff,30
+Figure Drawing II,91207,ART,400,7,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 201,Lanigan Hall ,34,Fall2016,Studio,Juan   Perdiguero,30
+Publication Design,91289,ART,408,1,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,Lanigan Hall ,36,Fall2016,Studio,Cynthia A  Clabough,30
+Multimedia II,91221,ART,409,2,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Tyler Hall ,217,Fall2016,Studio,Cara B  Thompson,30
+Digital Illustration II,90280,ART,413,3,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 217,Lanigan Hall ,34,Fall2016,Studio,Amy E.  Bartell,30
+Graphic/InteractiveDesign Prac,91222,ART,414,4,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 34,Lanigan Hall ,36,Fall2016,Practicum,Cara B  Thompson,30
+Web Media II,91393,ART,417,5,Undergraduate ,3,,11:30 am - 1:35 pm,MWF,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Studio,Rebecca Wendy  Mushtare,30
+Adv 3-D Modeling & Animation,91655,ART,418,6,Undergraduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,To Be Announced ,,Fall2016,Studio,Lisa A.  DuBois,30
+Studio Management,90882,ART,419,7,Undergraduate ,3,,TBA,TBA,To Be Announced ,Tyler Hall ,205,Fall2016,Activity,Juan   Perdiguero,30
+Adv. Drawing and Painting,91511,ART,422,1,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 205,Tyler Hall ,217,Fall2016,Studio,Juan   Perdiguero,30
+Adv. Problems in Illustration,92816,ART,423,2,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 217,Hewitt Union ,1A,Fall2016,Studio,Amy E.  Bartell,30
+Adv Problems in Printmaking,91652,ART,425,3,Undergraduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1A,Hewitt Union ,1B,Fall2016,Studio,Justin Anty  Mastrangelo,30
+Ceramics III,90830,ART,430,4,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Hewitt Union ,1B,Fall2016,Studio,Sara   Prigodich,30
+Ceramics IV,90946,ART,431,5,Undergraduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Tyler Hall ,216,Fall2016,Studio,Sara   Prigodich,30
+Advanced Digital Photography,91229,ART,443,6,Undergraduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,Hewitt Union ,7A,Fall2016,Studio,Julieve   Jubin,30
+ProjSt 3D/4D:Sculpture,91769,ART,445,7,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,Lanigan Hall ,34,Fall2016,Studio,Benjamin R  Entner,30
+Motion Graphics II,92814,ART,451,1,Undergraduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,Lanigan Hall ,34,Fall2016,Studio,Carla A  Senecal,30
+BFA Exhibition,91210,ART,492,2,Undergraduate ,3,,5:15 pm - 5:45 pm,MW,Lanigan Hall 34,Lanigan Hall ,36,Fall2016,Activity,Cara B  Thompson,30
+GR Studio:3-D Model/Animation,91656,ART,500,3,Graduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,Lanigan Hall ,34,Fall2016,Studio,Lisa A.  DuBois,30
+Gr Graphic Design-Publication,91263,ART,508,4,Graduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,Lanigan Hall ,34,Fall2016,Lecture,Cynthia A  Clabough,30
+Gr Graphic Design-Type&Image,93189,ART,508,5,Graduate ,3,,9:35 am - 12:30 pm,TR,Lanigan Hall 34,Lanigan Hall ,36,Fall2016,Studio,Carla A  Senecal,30
+Graduate Multimedia,91269,ART,509,6,Graduate ,3,,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Lanigan Hall ,34,Fall2016,Lecture,Cara B  Thompson,30
+Gr Multimedia:Motion Graphics,92815,ART,509,7,Graduate ,3,,2:20 pm - 5:15 pm,TR,Lanigan Hall 34,Tyler Hall ,205,Fall2016,Lecture,Carla A  Senecal,30
+Graduate Drawing:Advanced,91266,ART,510,1,Graduate ,3,,9:10 am - 12:25 pm,MW,Tyler Hall 205,Tyler Hall ,201,Fall2016,Lecture,Juan   Perdiguero,30
+Graduate Drawing: Figure,91397,ART,510,2,Graduate ,3,,6:00 pm - 9:00 pm,MW,Tyler Hall 201,Tyler Hall ,217,Fall2016,Lecture,Juan   Perdiguero,30
+Graduate Digital Illustration,91262,ART,513,3,Graduate ,3,,2:20 pm - 5:15 pm,TR,Tyler Hall 217,Lanigan Hall ,34,Fall2016,Lecture,Amy E.  Bartell,30
+Grad Prob in Graphic Design,90602,ART,514,4,Graduate ,3,,6:00 pm - 9:00 pm,MW,Lanigan Hall 34,Lanigan Hall ,35,Fall2016,Activity,Cara B  Thompson,30
+Grad Prob in Graphic Design,92456,ART,514,5,Graduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Tyler Hall ,209,Fall2016,Activity,Rebecca Wendy  Mushtare,30
+Grad Painting:Watercolor,91637,ART,515,6,Graduate ,3,,6:00 pm - 9:00 pm,TR,Tyler Hall 209,Lanigan Hall ,36,Fall2016,Studio,Marissa L.  Hill,30
+Graduate Web Design,91394,ART,517,7,Graduate ,3,,11:30 am - 1:35 pm,MWF,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Lecture,Rebecca Wendy  Mushtare,30
+Graduate Web Design,91268,ART,517,1,Graduate ,3,,9:10 am - 11:15 am,MWF,Lanigan Hall 36,TBA,,Fall2016,Lecture,Rebecca Wendy  Mushtare,30
+Graduate Critique,92809,ART,519,2,Graduate ,3,,TBA,TBA,TBA,Lanigan Hall ,35,Fall2016,Recitation or Discussion,Cynthia A  Clabough,30
+Graduate Critique,91261,ART,519,3,Graduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Lanigan Hall ,34,Fall2016,Recitation or Discussion,Rebecca Wendy  Mushtare,30
+Graduate Digital Media,91781,ART,523,4,Graduate ,3,,9:10 am - 12:25 pm,MW,Lanigan Hall 34,Hewitt Union ,1A,Fall2016,Studio,Carla A  Senecal,30
+Graduate Printmaking,91667,ART,525,5,Graduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1A,Hewitt Union ,1A,Fall2016,Studio,Mary D.  Pierce,30
+GR. Printmaking:Screenprinting,91653,ART,525,6,Graduate ,3,,9:10 am - 12:25 pm,MW,Hewitt Union 1A,Hewitt Union ,1B,Fall2016,Studio,Justin Anty  Mastrangelo,30
+Graduate Ceramics,91264,ART,530,7,Graduate ,3,,2:00 pm - 5:00 pm,MW,Hewitt Union 1B,Tyler Hall ,216,Fall2016,Lecture,Sara   Prigodich,30
+Graduate Photography,91302,ART,540,1,Graduate ,3,,9:35 am - 12:30 pm,TR,Tyler Hall 216,Hewitt Union ,7A,Fall2016,Lecture,Julieve   Jubin,30
+Graduate Sculpture,91450,ART,545,2,Graduate ,3,,2:20 pm - 5:15 pm,TR,Hewitt Union 7A,Hewitt Union ,212,Fall2016,Studio,Benjamin R  Entner,30
+20th Century Art,91795,ART,553,3,Graduate ,3,,12:40 pm - 1:35 pm,MWF,Hewitt Union 212,Lanigan Hall ,105,Fall2016,Lecture,Lisa A  Seppi,30
+Grad History Graphic Design,91805,ART,565,4,Graduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 105,Mahar Hall ,214,Fall2016,Lecture,Cynthia A  Clabough,30
+RPAH:Art/Architect Islam Cultu,92812,ART,571,5,Graduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 214,Hewitt Union ,212,Fall2016,Lecture,Lisa K  Langlois,30
+RPAH:Modern Art/Mass Culture,91663,ART,571,6,Graduate ,3,,9:10 am - 10:05 am,MWF,Hewitt Union 212,Lanigan Hall ,106A,Fall2016,Lecture,Lisa A  Seppi,30
+RPAH: Chinese Art,91660,ART,571,7,Graduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 106A,Lanigan Hall ,35,Fall2016,Lecture,Lisa K  Langlois,30
+Graduate Art Theory & Practice,90628,ART,572,1,Graduate ,3,,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Marano Campus Center ,208,Fall2016,Activity,Rebecca Wendy  Mushtare,30
+American Sign Language I,90288,ASL,101,2,Undergraduate ,3,,5:00 pm - 6:20 pm,TR,Marano Campus Center 208,Shineman Center ,185,Fall2016,Lecture,Laura   Latray-Corey,30
+Astronomy,90412,AST,100,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 185,Shineman Center ,122,Fall2016,Lecture,Scott   Roby,30
+Astronomy,90413,AST,100,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 122,Shineman Center ,172,Fall2016,Lecture,Scott   Roby,30
+Astronomy,90414,AST,100,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 172,Shineman Center ,194,Fall2016,Lecture,Kenneth Eric  Mauser,30
+Astronomy,90415,AST,100,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 194,Shineman Center ,172,Fall2016,Lecture,Kenneth Eric  Mauser,30
+Astronomy,92978,AST,100,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 172,Shineman Center ,172,Fall2016,Lecture,John   Zielinski,30
+Astronomy,92979,AST,100,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 172,Shineman Center ,170,Fall2016,Lecture,John   Zielinski,30
+Topics In Modern Astronomy,92102,AST,310,2,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 170,,"100% web, no face to face ",Fall2016,Lecture,Shashi M  Kanbur,30
+Intro to Health Info Systems,92175,BHI,501,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Angelika   Gruessner,30
+Health Informatics Methods,92176,BHI,502,4,Graduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Ioana   Coman,30
+eHealth Systems,92177,BHI,503,5,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Shineman Center ,448,Fall2016,Distance Learning,Isabelle   Bichindaritz,30
+Database Applications,92181,BHI,508,6,Graduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 448,,"100% web, no face to face ",Fall2016,Lecture,Ioana   Coman,30
+Database Applications,91914,BHI,508,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",TBA,,Fall2016,Distance Learning,Ioana   Coman,30
+Project in BHI,92882,BHI,699,1,Graduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Activity,Isabelle   Bichindaritz,30
+Thesis in BHI,92883,BHI,700,2,Graduate ,3,,TBA,TBA,TBA,Park Hall ,313,Fall2016,Activity,Isabelle   Bichindaritz,30
+General Biology,90366,BIO,101,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 313,Shineman Center ,204,Fall2016,Lecture,Michael J  McDonald,30
+General Biology Lab,90963,BIO,101,4,Undergraduate ,3,,12:40 pm - 2:45 pm,F,Shineman Center 204,Park Hall ,314,Fall2016,Laboratory,Michael J  McDonald,30
+Biology Seminar,90880,BIO,110,5,Undergraduate ,3,,12:40 pm - 1:35 pm,M,Park Hall 314,Park Hall ,314,Fall2016,Seminar,Sofia   Windstam,30
+Biology Seminar,90728,BIO,110,6,Undergraduate ,3,,10:20 am - 11:15 am,F,Park Hall 314,Marano Campus Center ,258,Fall2016,Seminar,Sofia   Windstam,30
+Biology Seminar,91717,BIO,110,7,Undergraduate ,3,,8:00 am - 8:55 am,W,Marano Campus Center 258,Shineman Center ,178,Fall2016,Seminar,Peter   Newell,30
+Biology SeminaR,90729,BIO,110,1,Undergraduate ,3,,12:45 pm - 2:05 pm,R,Shineman Center 178,Park Hall ,314,Fall2016,Seminar,James A  MacKenzie,30
+Biology Seminar,92209,BIO,110,2,Undergraduate ,3,,11:10 am - 12:05 pm,T,Park Hall 314,Shineman Center ,178,Fall2016,Seminar,Richard C  Back,30
+Biology Seminar,91177,BIO,110,3,Undergraduate ,3,,12:45 pm - 2:05 pm,T,Shineman Center 178,Park Hall ,314,Fall2016,Seminar,James A  MacKenzie,30
+Biology Seminar,91175,BIO,110,4,Undergraduate ,3,,11:30 am - 12:25 pm,M,Park Hall 314,Park Hall ,314,Fall2016,Seminar,C. Eric  Hellquist,30
+Biology Seminar,90758,BIO,110,5,Undergraduate ,3,,11:30 am - 12:25 pm,F,Park Hall 314,Park Hall ,314,Fall2016,Seminar,Sofia   Windstam,30
+Biology Seminar,91709,BIO,110,6,Undergraduate ,3,,11:30 am - 12:25 pm,W,Park Hall 314,Shineman Center ,178,Fall2016,Seminar,Christopher H  Chandler,30
+Biology Seminar,91708,BIO,110,7,Undergraduate ,3,,2:20 pm - 3:40 pm,R,Shineman Center 178,Shineman Center ,175,Fall2016,Seminar,James A  MacKenzie,30
+Molecular/Cellular Foundations,91136,BIO,120,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 175,Shineman Center ,204,Fall2016,Lecture,Yulia   Artemenko,30
+Molecular/Cellular Found Lab,91173,BIO,120,2,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 204,Shineman Center ,204,Fall2016,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular Found. Lab,91320,BIO,120,3,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 204,Shineman Center ,204,Fall2016,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular FoundaLAB,92763,BIO,120,4,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 204,Shineman Center ,122,Fall2016,Laboratory,Anthony L  Contento,30
+Human Biology,90407,BIO,203,5,Undergraduate ,3,,7:00 pm - 8:25 pm,MW,Shineman Center 122,Shineman Center ,172,Fall2016,Lecture,Cleane L  Medeiros,30
+Diversity of Life,92958,BIO,220,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 172,Rich Hall ,320,Fall2016,Lecture,Jennifer C  Olori,30
+T: Marine Ecosystems,93290,BIO,301,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 320,Shineman Center ,178,Fall2016,Lecture,Pamela   Brannock,30
+Cellular Physiology,91296,BIO,309,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 178,Marano Campus Center ,208,Fall2016,Lecture,Anthony L  Contento,30
+Cellular Physiology,93289,BIO,309,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 208,Shineman Center ,174,Fall2016,Lecture,David A  Dunn,30
+Microbiology,91557,BIO,310,3,Undergraduate ,3,,9:10 am - 10:05 am,MW,Shineman Center 174,Shineman Center ,212,Fall2016,Lecture,Peter   Newell,30
+Microbiology Lab,91558,BIO,310,4,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 212,Shineman Center ,212,Fall2016,Laboratory,Peter   Newell,30
+Microbiology Lab,91559,BIO,310,5,Undergraduate ,3,,8:00 am - 11:00 am,R,Shineman Center 212,Shineman Center ,212,Fall2016,Laboratory,Peter   Newell,30
+Microbiology LAB,92766,BIO,310,6,Undergraduate ,3,,12:45 pm - 3:45 pm,R,Shineman Center 212,Marano Campus Center ,132,Fall2016,Laboratory,Peter   Newell,30
+Genetics,90408,BIO,315,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 132,Shineman Center ,208,Fall2016,Lecture,Pamela   Brannock,30
+Laboratory in Genetics,90723,BIO,316,1,Undergraduate ,3,,1:50 pm - 4:50 pm,M,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Christina Isabella  Winterton,30
+Laboratory in Genetics,90837,BIO,316,2,Undergraduate ,3,,5:20 pm - 8:20 pm,M,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Anthony L  Contento,30
+Laboratory in Genetics,90838,BIO,316,3,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Poongodi   Geetha-Loganathan,30
+Laboratory in Genetics,90839,BIO,316,4,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,90840,BIO,316,5,Undergraduate ,3,,5:45 pm - 8:45 pm,T,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,91306,BIO,316,6,Undergraduate ,3,,1:50 pm - 4:50 pm,W,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,92770,BIO,316,7,Undergraduate ,3,,9:10 am - 12:10 pm,W,Shineman Center 208,Shineman Center ,208,Fall2016,Laboratory,Pamela   Brannock,30
+Laboratory in Genetics,92771,BIO,316,1,Undergraduate ,3,,5:45 pm - 8:45 pm,R,Shineman Center 208,Shineman Center ,172,Fall2016,Laboratory,Anthony L  Contento,30
+Introductory Ecology,91174,BIO,320,2,Undergraduate ,3,,9:10 am - 10:05 am,MW,Shineman Center 172,Shineman Center ,301,Fall2016,Lecture,Michael   Schummer,30
+Introductory Ecology Lab,91313,BIO,320,3,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 301,Shineman Center ,301,Fall2016,Laboratory,Michael   Schummer,30
+Introductory Ecology Lab,91715,BIO,320,4,Undergraduate ,3,,9:10 am - 12:10 pm,F,Shineman Center 301,Shineman Center ,448,Fall2016,Laboratory,Michael   Schummer,30
+GIS in  Ecology/Conservation,92949,BIO,323,5,Undergraduate ,3,,2:20 pm - 5:20 pm,TR,Shineman Center 448,Shineman Center ,176,Fall2016,Lecture,Richard C  Back,30
+Population Biology,92024,BIO,324,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 176,Park Hall ,314,Fall2016,Lecture,Maria   Sagot,30
+The Plant Kingdom,90908,BIO,340,7,Undergraduate ,3,,10:20 am - 11:15 am,MW,Park Hall 314,Shineman Center ,301,Fall2016,Lecture,Jinyan   Guo,30
+The Plant Kingdom Lab,92963,BIO,340,1,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Shineman Center 301,Rice Creek ,123,Fall2016,Laboratory,Jinyan   Guo,30
+Plant Ecology,92956,BIO,358,2,Undergraduate ,3,,2:20 pm - 4:50 pm,T,Rice Creek 123,Rice Creek ,119,Fall2016,Lecture,Kamal I  Mohamed,30
+Plant Ecology Lab,92957,BIO,358,3,Undergraduate ,3,,2:20 pm - 4:50 pm,R,Rice Creek 119,Shineman Center ,178,Fall2016,Laboratory,Kamal I  Mohamed,30
+Great Lakes Environ. Issues,92774,BIO,363,4,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 178,Shineman Center ,176,Fall2016,Lecture,C. Eric  Hellquist,30
+The Animal Kingdom,91562,BIO,370,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 176,Shineman Center ,305,Fall2016,Lecture,Andrew   McElwain,30
+The Animal Kingdom Lab,91563,BIO,370,6,Undergraduate ,3,,6:00 pm - 9:00 pm,T,Shineman Center 305,TBA,,Fall2016,Laboratory,Andrew   McElwain,30
+Teach Assist Biological Scienc,92959,BIO,396,7,Undergraduate ,3,,TBA,TBA,TBA,Shineman Center ,178,Fall2016,Activity,Ashlee Elizabeth  Smith,30
+Evolution,91179,BIO,425,1,Undergraduate ,3,,5:30 pm - 6:50 pm,MW,Shineman Center 178,Park Hall ,212,Fall2016,Lecture,Michael J  McDonald,30
+Evolution,91181,BIO,425,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 212,Shineman Center ,178,Fall2016,Lecture,Jinyan   Guo,30
+Evolution,91003,BIO,425,3,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Shineman Center 178,Shineman Center ,178,Fall2016,Lecture,Michael J  McDonald,30
+Evolution,91842,BIO,425,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 178,Shineman Center ,178,Fall2016,Lecture,Susan   Hammerly,30
+Conservation Biology,92023,BIO,460,5,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 178,Rice Creek ,121,Fall2016,Lecture,Michael   Schummer,30
+Research: Field Ecology,91713,BIO,492,6,Undergraduate ,3,,2:20 pm - 5:20 pm,T,Rice Creek 121,Shineman Center ,301,Fall2016,Lecture,C. Eric  Hellquist,30
+Research: Genomics,90410,BIO,492,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 301,Shineman Center ,348,Fall2016,Lecture,Christopher H  Chandler,30
+R:BIO Fungi-host Interactions,91004,BIO,492,1,Undergraduate ,3,,2:20 pm - 5:20 pm,R,Shineman Center 348,Shineman Center ,178,Fall2016,Activity,Sofia   Windstam,30
+Evolution,91180,BIO,525,2,Graduate ,3,,5:30 pm - 6:50 pm,MW,Shineman Center 178,Park Hall ,212,Fall2016,Seminar,Michael J  McDonald,30
+Evolution,91009,BIO,525,3,Graduate ,3,,9:35 am - 10:55 am,TR,Park Hall 212,Shineman Center ,178,Fall2016,Seminar,Jinyan   Guo,30
+Evolution,91008,BIO,525,4,Graduate ,3,,5:30 pm - 6:50 pm,TR,Shineman Center 178,Shineman Center ,178,Fall2016,Seminar,Michael J  McDonald,30
+Evolution,92029,BIO,525,5,Graduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 178,Rice Creek ,121,Fall2016,Seminar,David A  Dunn,30
+Research: Field Ecology,91714,BIO,592,6,Graduate ,3,,2:20 pm - 5:20 pm,T,Rice Creek 121,Shineman Center ,301,Fall2016,Lecture,C. Eric  Hellquist,30
+Research: Genomics,90526,BIO,592,7,Graduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 301,Rich Hall ,220,Fall2016,Lecture,Christopher H  Chandler,30
+Business Law I,90060,BLW,280,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Rich Hall 220,Rich Hall ,220,Fall2016,Lecture,John W  Spring,30
+Business Law I,91189,BLW,280,2,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 220,Rich Hall ,223,Fall2016,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,90052,BLW,355,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 223,Park Hall ,314,Fall2016,Lecture,Anastasia   Gagas,30
+Legal&Regulatory Environ ofBus,91199,BLW,355,4,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Park Hall 314,Rich Hall ,219,Fall2016,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,90054,BLW,355,5,Undergraduate ,3,,5:30 pm - 6:50 pm,TR,Rich Hall 219,Rich Hall ,219,Fall2016,Lecture,Delbert James  Guile,30
+Legal&Regulatory Environ ofBus,90056,BLW,355,6,Undergraduate ,3,,7:05 pm - 8:25 pm,TR,Rich Hall 219,Park Hall ,314,Fall2016,Lecture,Delbert James  Guile,30
+Legal&Regulatory Environ ofBus,91013,BLW,355,7,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Park Hall 314,Rich Hall ,220,Fall2016,Lecture,Andrew T.  Wolfe,30
+Legal&Regulatory Environ ofBus,90745,BLW,355,,Undergraduate ,3,,6:20 pm - 9:05 pm,M,Rich Hall 220,Park Hall ,314,Fall2016,Lecture,Michael R  McAndrew,30
+Legal&Regulatory Environ ofBus,91677,BLW,355,1,Undergraduate ,3,,7:35 pm - 8:55 pm,TR,Park Hall 314,,"100% web, no face to face ",Fall2016,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,90051,BLW,355,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,91676,BLW,355,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Rich Hall ,220,Fall2016,Distance Learning,Kathryn   Wolfe,30
+Business Law II,90057,BLW,381,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Rich Hall 220,Rich Hall ,220,Fall2016,Lecture,Mary E  McGowan,30
+Business Law II,91186,BLW,381,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Rich Hall 220,Lanigan Hall ,105,Fall2016,Lecture,Mary E  McGowan,30
+Introduction To Mass Media,91471,BRC,108,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 105,Lanigan Hall ,106,Fall2016,Lecture,Heidi   Bulk,30
+Introduction To Mass Media,91553,BRC,108,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 106,Mahar Hall ,119,Fall2016,Lecture,Jennifer   Fogel,30
+Introduction To Mass Media,91052,BRC,108,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 119,Lanigan Hall ,104,Fall2016,Lecture,Brian   Moritz,30
+Introduction To Mass Media,92719,BRC,108,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 104,,"100% web, no face to face ",Fall2016,Lecture,Heidi   Bulk,30
+Soc Hist Amer Radio&TV,92964,BRC,200,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Lanigan Hall ,20,Fall2016,Distance Learning,Marvin   Kaminsky,30
+Broadcast Performance,90225,BRC,215,4,Undergraduate ,3,,6:15 pm - 9:00 pm,W,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Lecture,Peter E.  Hunn,30
+Radio Production,90226,BRC,220,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Lecture,David   Crider,30
+Radio Production,90227,BRC,220,6,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 20,Marano Campus Center ,206,Fall2016,Lecture,David   Crider,30
+Broadcast Newswriting,90228,BRC,229,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 206,Marano Campus Center ,206,Fall2016,Lecture,Michael J  Riecke,30
+Broadcast Newswriting,91460,BRC,229,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 206,Marano Campus Center ,206,Fall2016,Lecture,Michael J  Riecke,30
+Broadcast Newswriting,91066,BRC,229,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 206,Mahar Hall ,211,Fall2016,Lecture,Michael J  Riecke,30
+Broadcast Newswriting,92726,BRC,229,3,Undergraduate ,3,,4:30 pm - 5:50 pm,TR,Mahar Hall 211,Lanigan Hall ,36,Fall2016,Lecture,James R  Lerch,30
+Intro Video Production,90229,BRC,235,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Lecture,Marybeth   Longo,30
+Intro Video Production,91011,BRC,235,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Lecture,Marybeth   Longo,30
+Intro Video Production,91235,BRC,235,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Lecture,Laura Ann  Lewin,30
+Intro Video Production,91307,BRC,235,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 36,Lanigan Hall ,36,Fall2016,Lecture,Laura Ann  Lewin,30
+Intro Video Production,92727,BRC,235,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Lanigan Hall 36,Lanigan Hall ,102A,Fall2016,Lecture,Francisco   Suarez,30
+Broadcasting and Cable,93276,BRC,300,2,Undergraduate ,3,,6:00 pm - 8:45 pm,W,Lanigan Hall 102A,Lanigan Hall ,102A,Fall2016,Lecture,David L  Moody,30
+Media Economics,93037,BRC,301,3,Undergraduate ,3,,6:15 pm - 9:00 pm,M,Lanigan Hall 102A,Mahar Hall ,216,Fall2016,Lecture,Peter E.  Hunn,30
+Media Economics,92728,BRC,301,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 216,Lanigan Hall ,20,Fall2016,Lecture,Jason   Zenor,30
+Sound for TV and Film,92952,BRC,308,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Lecture,Jeffrey N  Bradbury,30
+Sound for TV and Film,92953,BRC,308,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 20,Mahar Hall ,202,Fall2016,Lecture,Jeffrey N  Bradbury,30
+Mass Media and the Law,91817,BRC,319,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 202,Lanigan Hall ,106A,Fall2016,Lecture,Brian   Moritz,30
+Mass Media and the Law,91284,BRC,319,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 106A,Lanigan Hall ,106A,Fall2016,Lecture,Jason   Zenor,30
+"Programs, Programming &Effects",90230,BRC,320,2,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 106A,Lanigan Hall ,102A,Fall2016,Lecture,David L  Moody,30
+"Programs, Programming &Effects",91823,BRC,320,3,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 102A,,"100% web, no face to face ",Fall2016,Lecture,David L  Moody,30
+"Programs, Programming &Effects",91503,BRC,320,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Lanigan Hall ,102A,Fall2016,Distance Learning,Jason Matthew  Becker,30
+Broadcast Sales,90751,BRC,321,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 102A,,"100% web, no face to face ",Fall2016,Lecture,David L  Moody,30
+Broadcast Sales,91482,BRC,321,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,216,Fall2016,Distance Learning,Jason Matthew  Becker,30
+Research Methodsfor Mass Media,92954,BRC,325,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 216,Mahar Hall ,211,Fall2016,Lecture,Arvind   Diddi,30
+Media Copywriting,90231,BRC,328,1,Undergraduate ,3,,4:40 pm - 5:55 pm,MW,Mahar Hall 211,Lanigan Hall ,20,Fall2016,Lecture,Timan Harris  Nekritz,30
+Broadcast News Reporting,90232,BRC,329,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Lecture,Michael J  Riecke,30
+Broadcast News Reporting Lab,90965,BRC,329,3,Undergraduate ,3,,3:00 pm - 4:55 pm,F,Lanigan Hall 20,Shineman Center ,176,Fall2016,Laboratory,Michael J  Riecke,30
+Telecommunications,91757,BRC,330,4,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 176,Lanigan Hall ,20,Fall2016,Lecture,Randolph   Odendahl,30
+Sports Broadcasting,91803,BRC,345,5,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 20,Lanigan Hall ,106,Fall2016,Lecture,James R  Lerch,30
+"Chldrn,Womn&Minori Media",91273,BRC,350,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 106,Mahar Hall ,216,Fall2016,Lecture,Jennifer   Fogel,30
+Media and Society,92049,BRC,400,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 216,Mahar Hall ,107,Fall2016,Lecture,Jennifer   Fogel,30
+Mass Media & Politics,93016,BRC,419,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 107,,"100% web, no face to face ",Fall2016,Lecture,Jason   Zenor,30
+Social Networks and the Web,92969,BRC,421,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Lanigan Hall ,36,Fall2016,Distance Learning,Ulises A  Mejias,30
+Scriptwriting for Television,90233,BRC,428,3,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 36,Lanigan Hall ,20,Fall2016,Activity,Francisco   Suarez,30
+Advanced TV Production,91535,BRC,445,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Lecture,Laura Ann  Lewin,30
+Advanced TV Production Lab,91633,BRC,445,5,Undergraduate ,3,,11:30 am - 12:25 pm,W,Lanigan Hall 20,Lanigan Hall ,20,Fall2016,Laboratory,Laura Ann  Lewin,30
+TB:Post Production/Editing,92967,BRC,450,6,Undergraduate ,3,,3:00 pm - 5:45 pm,W,Lanigan Hall 20,Hewitt Union ,228B,Fall2016,Lecture,Marybeth   Longo,30
+Teaching Mathematics,90102,CED,330,7,Undergraduate ,3,,8:00 am - 9:20 am,TR,Hewitt Union 228B,Hewitt Union ,228B,Fall2016,Lecture,Michael Joseph  Difabio,30
+Teaching Mathematics,91237,CED,330,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Hewitt Union 228B,Hewitt Union ,228C,Fall2016,Lecture,Michael Joseph  Difabio,30
+Teaching Science & Technology,92856,CED,340,2,Undergraduate ,3,,11:10 am - 12:30 pm,MW,Hewitt Union 228C,Hewitt Union ,228C,Fall2016,Lecture,Eric   Olson,30
+Teaching Science & Technology,90103,CED,340,3,Undergraduate ,3,,9:35 am - 10:55 am,MW,Hewitt Union 228C,Hewitt Union ,228C,Fall2016,Lecture,Eric   Olson,30
+Teaching Science & Technology,90111,CED,340,4,Undergraduate ,3,,3:00 pm - 5:00 pm,M,Hewitt Union 228C,Park Hall ,212,Fall2016,Lecture,Diann   Jackson,30
+Teaching Social Studies,90116,CED,350,5,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Park Hall 212,Sheldon Hall ,328,Fall2016,Lecture,Robyn Lynn  Proud,30
+Teaching Social Studies,90117,CED,350,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Sheldon Hall 328,Park Hall ,204,Fall2016,Lecture,Ritu   Radhakrishnan,30
+Teaching Social Studies,92864,CED,350,7,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Park Hall 204,Off Campus ,,Fall2016,Lecture,Robyn Lynn  Proud,30
+Field Placement III,90119,CED,393,1,Undergraduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Student Teaching,Unassigned   Staff,30
+Integrated Childhood Methods,91609,CED,394,2,Undergraduate ,3,,8:00 am - 5:00 pm,TR,Off Campus ,Shineman Center ,175,Fall2016,Recitation or Discussion,Katherine   Biss,30
+Survey of Chemistry,90435,CHE,101,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Shineman Center 175,Shineman Center ,103,Fall2016,Lecture,Francis Philip  Pappalardo,30
+Survey of Chemistry Lab,92933,CHE,101,4,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 103,Shineman Center ,103,Fall2016,Laboratory,Kristin Irene  Gublo,30
+Freshman Seminar,92115,CHE,110,5,Undergraduate ,3,,11:30 am - 12:25 pm,M,Shineman Center 103,Shineman Center ,103,Fall2016,Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92116,CHE,110,6,Undergraduate ,3,,11:30 am - 12:25 pm,W,Shineman Center 103,Shineman Center ,103,Fall2016,Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92337,CHE,110,7,Undergraduate ,3,,12:40 pm - 1:35 pm,F,Shineman Center 103,Marano Campus Center ,132,Fall2016,Seminar,Kristin Irene  Gublo,30
+General Chemistry,90437,CHE,111,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 132,Park Hall ,315,Fall2016,Lecture,Jeffery A.  Schneider,30
+General Chemistry,91453,CHE,111,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 315,Shineman Center ,122,Fall2016,Lecture,Thomas M  Brown,30
+General Chemistry,90438,CHE,111,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 122,Shineman Center ,175,Fall2016,Lecture,Julia   Koeppe,30
+General Chemistry,92792,CHE,111,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 175,Shineman Center ,106,Fall2016,Lecture,Casey C  Raymond,30
+Laboratory (for Che 111),90844,CHE,113,5,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 106,Shineman Center ,104,Fall2016,Laboratory,Jeffery A.  Schneider,30
+Laboratory (for Che 111),92037,CHE,113,6,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 104,Shineman Center ,104,Fall2016,Laboratory,Thomas M  Brown,30
+Laboratory (for Che 111),90444,CHE,113,7,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 104,Shineman Center ,106,Fall2016,Laboratory,Mahemuti   Xiadiman,30
+Laboratory (for Che 111),90440,CHE,113,1,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 106,Shineman Center ,106,Fall2016,Laboratory,James Anthony  Calvert,30
+Laboratory (for Che 111),90441,CHE,113,2,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 106,Shineman Center ,104,Fall2016,Laboratory,Alexandria Rose  Connelly,30
+Laboratory (for Che 111),90445,CHE,113,3,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 104,Shineman Center ,104,Fall2016,Laboratory,James Anthony  Calvert,30
+Laboratory (for Che 111),90783,CHE,113,4,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 104,Shineman Center ,104,Fall2016,Laboratory,Christopher   Pitts,30
+Laboratory (for Che 111),90442,CHE,113,5,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 104,Shineman Center ,106,Fall2016,Laboratory,James Anthony  Calvert,30
+Laboratory (for Che 111),90608,CHE,113,6,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 106,Shineman Center ,106,Fall2016,Laboratory,Mahemuti   Xiadiman,30
+Laboratory (for Che 111),90443,CHE,113,7,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 106,Shineman Center ,104,Fall2016,Laboratory,Sean Matthew  Lyons,30
+Laboratory (for Che 111),90446,CHE,113,1,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 104,Shineman Center ,104,Fall2016,Laboratory,Mahemuti   Xiadiman,30
+Laboratory (for Che 111),91280,CHE,113,2,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 104,Shineman Center ,103,Fall2016,Laboratory,Mahemuti   Xiadiman,30
+Laboratory (for Che 111),91536,CHE,113,3,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 103,Shineman Center ,103,Fall2016,Laboratory,Alexandria Rose  Connelly,30
+Laboratory (for Che 111),91455,CHE,113,4,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 103,Shineman Center ,103,Fall2016,Laboratory,Christopher   Pitts,30
+Laboratory (for Che 111),91570,CHE,113,5,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 103,Shineman Center ,106,Fall2016,Laboratory,Mahemuti   Xiadiman,30
+Laboratory (for Che 111),92038,CHE,113,6,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 106,Shineman Center ,103,Fall2016,Laboratory,Shaun M  Henderson,30
+Laboratory (for Che 111),92039,CHE,113,7,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 103,Shineman Center ,104,Fall2016,Laboratory,Alison Nicole  Taylor,30
+Laboratory (for Che 111),92793,CHE,113,1,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 104,Shineman Center ,104,Fall2016,Laboratory,Alexandria Rose  Connelly,30
+Laboratory (for Che 111),90439,CHE,113,2,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 104,Shineman Center ,106,Fall2016,Laboratory,Sean Matthew  Lyons,30
+Laboratory (for Che 111),91870,CHE,113,3,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 106,Shineman Center ,106,Fall2016,Laboratory,Sean Matthew  Lyons,30
+Laboratory (for Che 111),92346,CHE,113,4,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 106,Shineman Center ,192,Fall2016,Laboratory,Geoffrey   Peterson,30
+Applied Math for General Chemi,92895,CHE,120,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MW,Shineman Center 192,Shineman Center ,122,Fall2016,Lecture,Martha   Bruch,30
+Chemistry & Public Concern,90447,CHE,209,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 122,Shineman Center ,170,Fall2016,Lecture,Timothy F  Braun,30
+General Chem II,90448,CHE,212,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 170,Shineman Center ,103,Fall2016,Lecture,Martha   Bruch,30
+Laboratory (for Che 212),90450,CHE,214,1,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 103,Shineman Center ,103,Fall2016,Laboratory,Martha   Bruch,30
+Laboratory (for Che 212),90449,CHE,214,2,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 103,Shineman Center ,103,Fall2016,Laboratory,Alison Nicole  Taylor,30
+Laboratory (for Che 212),92794,CHE,214,3,Undergraduate ,3,,8:00 am - 10:55 am,R,Shineman Center 103,Park Hall ,315,Fall2016,Laboratory,Alison Nicole  Taylor,30
+Introductory Organic Chemistry,90451,CHE,230,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 315,Shineman Center ,101,Fall2016,Lecture,Fehmi   Damkaci,30
+Intro Organic CHE Laboratory,90452,CHE,230,5,Undergraduate ,3,,11:10 am - 2:05 pm,R,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Shaun M  Henderson,30
+Intro Organic CHE Laboratory,90453,CHE,230,6,Undergraduate ,3,,2:20 pm - 5:15 pm,R,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Christopher   Pitts,30
+Introductory Organic Chemistry,91626,CHE,230,7,Undergraduate ,3,,5:30 pm - 8:25 pm,R,Shineman Center 101,Shineman Center ,175,Fall2016,Laboratory,Shaun M  Henderson,30
+Environmental Science,91615,CHE,300,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 175,,"100% web, no face to face ",Fall2016,Lecture,Webe   Kadima,30
+Environmental Science,90454,CHE,300,2,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Shineman Center ,175,Fall2016,Distance Learning,Jeffery A.  Schneider,30
+Criminalistic Chemistry,90455,CHE,305,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 175,Shineman Center ,176,Fall2016,Lecture,Shokouh H  Haddadi,30
+Analytical Chemistry,91613,CHE,322,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 176,Shineman Center ,205,Fall2016,Lecture,Shokouh H  Haddadi,30
+Analytical Chemistry Lab,90964,CHE,322,5,Undergraduate ,3,,3:00 pm - 7:00 pm,R,Shineman Center 205,Shineman Center ,205,Fall2016,Laboratory,Robert S  Morse,30
+Analytical Chemistry Lab,91614,CHE,322,6,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 205,Park Hall ,315,Fall2016,Laboratory,Webe   Kadima,30
+Organic Chemistry,90456,CHE,331,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 315,Shineman Center ,101,Fall2016,Lecture,Matthew S  Baker,30
+Organic Che Lab,major only,90459,,1,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90989,CHE,331,2,Undergraduate ,3,,8:00 am - 10:55 am,T,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90457,CHE,331,3,Undergraduate ,3,,11:10 am - 2:05 pm,T,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90458,CHE,331,4,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,90460,CHE,331,5,Undergraduate ,3,,1:50 pm - 4:45 pm,W,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Laboratory,91048,CHE,331,6,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry lab,91305,CHE,331,7,Undergraduate ,3,,5:30 pm - 8:25 pm,W,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry Lab,91821,CHE,331,1,Undergraduate ,3,,5:30 pm - 8:25 pm,T,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry-LAB,92754,CHE,331,2,Undergraduate ,3,,10:20 am - 1:15 pm,M,Shineman Center 101,Shineman Center ,101,Fall2016,Laboratory,Matthew S  Baker,30
+Organic Chemistry-LAB,92755,CHE,331,3,Undergraduate ,3,,10:20 am - 1:15 pm,W,Shineman Center 101,Shineman Center ,170,Fall2016,Laboratory,Matthew S  Baker,30
+Physical Chemistry,90461,CHE,341,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 170,Shineman Center ,201,Fall2016,Lecture,Martha   Bruch,30
+Comp Physical Chem Lab,91754,CHE,343,5,Undergraduate ,3,,12:45 pm - 4:45 pm,T,Shineman Center 201,Shineman Center ,112,Fall2016,Laboratory,Martha   Bruch,30
+ST: Enzymes,92795,CHE,401,6,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 112,Sheldon Hall ,337,Fall2016,Lecture,Julia   Koeppe,30
+ST:Structure/Functions Protein,92796,CHE,401,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 337,Shineman Center ,103,Fall2016,Lecture,Webe   Kadima,30
+Forensic Science,90462,CHE,405,1,Undergraduate ,3,,1:50 pm - 5:05 pm,W,Shineman Center 103,Shineman Center ,196,Fall2016,Lecture,Shokouh H  Haddadi,30
+Instrumental Analysis,91624,CHE,425,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 196,Shineman Center ,203,Fall2016,Lecture,Vadoud H  Niri,30
+Instrumental Analysis Lab,91625,CHE,425,3,Undergraduate ,3,,12:40 pm - 4:40 pm,W,Shineman Center 203,Shineman Center ,176,Fall2016,Laboratory,Vadoud H  Niri,30
+Organic Synthesis,92366,CHE,433,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 176,Shineman Center ,176,Fall2016,Lecture,Fehmi   Damkaci,30
+Inorganic Chemistry,90463,CHE,451,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 176,Shineman Center ,207,Fall2016,Lecture,Thomas M  Brown,30
+Inorganic Chemistry Laboratory,91815,CHE,451,6,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 207,Shineman Center ,175,Fall2016,Laboratory,Casey C  Raymond,30
+Biochemistry,90464,CHE,461,7,Undergraduate ,3,,5:30 pm - 6:55 pm,TR,Shineman Center 175,Shineman Center ,112,Fall2016,Lecture,Kestutis G  Bendinskas,30
+Biochemistry Lab,90465,CHE,461,1,Undergraduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,Shineman Center ,112,Fall2016,Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,90990,CHE,461,2,Undergraduate ,3,,5:30 pm - 8:25 pm,M,Shineman Center 112,Shineman Center ,112,Fall2016,Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,91508,CHE,461,3,Undergraduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 112,Shineman Center ,112,Fall2016,Laboratory,Julia   Koeppe,30
+ST: Enzymes,91981,CHE,501,4,Graduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 112,Sheldon Hall ,337,Fall2016,Lecture,Julia   Koeppe,30
+TA:Structure/Functions Protein,92006,CHE,501,5,Graduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 337,Park Hall ,206,Fall2016,Lecture,Webe   Kadima,30
+Analytical Spectroscopy,93042,CHE,526,6,Graduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 206,Shineman Center ,176,Fall2016,Lecture,Vadoud H  Niri,30
+Adv. Organic Chemistry II,92362,CHE,537,7,Graduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 176,Shineman Center ,196,Fall2016,Lecture,Fehmi   Damkaci,30
+Chemical Kinetics,93029,CHE,546,1,Graduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 196,Shineman Center ,176,Fall2016,Lecture,Casey C  Raymond,30
+Adv Inorganic Chemistry,93329,CHE,552,2,Graduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 176,Shineman Center ,175,Fall2016,Lecture,Thomas M  Brown,30
+Biochemistry,90466,CHE,561,3,Graduate ,3,,5:30 pm - 6:55 pm,TR,Shineman Center 175,Shineman Center ,112,Fall2016,Lecture,Kestutis G  Bendinskas,30
+Biochemistry Laboratory,90467,CHE,561,4,Graduate ,3,,1:50 pm - 4:45 pm,M,Shineman Center 112,Shineman Center ,112,Fall2016,Laboratory,Kestutis G  Bendinskas,30
+Advanced Biochemistry Lab,91509,CHE,561,5,Graduate ,3,,2:20 pm - 5:15 pm,T,Shineman Center 112,Marano Campus Center ,231,Fall2016,Laboratory,Julia   Koeppe,30
+Elementary Chinese,90818,CHI,101,6,Undergraduate ,3,,5:00 pm - 6:25 pm,MW,Marano Campus Center 231,Lanigan Hall ,102A,Fall2016,Lecture,Ching Hung  Hsiao,30
+Arts and Ideas,91456,CMA,100,7,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Lanigan Hall 102A,Lanigan Hall ,102A,Fall2016,Lecture,Sally   Rock-Blake,30
+Arts and Ideas,91165,CMA,100,1,Undergraduate ,3,,4:10 pm - 5:30 pm,W,Lanigan Hall 102A,Lanigan Hall ,34,Fall2016,Lecture,Sally   Rock-Blake,30
+Graphic Design Essentials,93040,CMA,201,2,Undergraduate ,3,,6:00 pm - 8:00 pm,TR,Lanigan Hall 34,Mahar Hall ,208,Fall2016,Lecture,Kimberly Ann  Kittleson,30
+Intro to Cognitive Science,90473,COG,166,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 208,Shineman Center ,170,Fall2016,Lecture,David   Vampola,30
+Intro to Cognitive Science,92277,COG,166,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 170,Shineman Center ,444,Fall2016,Lecture,David   Vampola,30
+Program/Knowledge Representati,91457,COG,241,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 444,Mahar Hall ,214,Fall2016,Lecture,Craig   Graci,30
+"Brains, Minds, & Consciousness",91133,COG,266,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 214,Lanigan Hall ,104,Fall2016,Lecture,Theo   Rhodes,30
+Foundations Of Communication,90234,COM,100,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 104,Lanigan Hall ,104,Fall2016,Lecture,Jessica K  Reeher,30
+Foundations Of Communication,92735,COM,100,1,Undergraduate ,3,,6:15 pm - 9:00 pm,T,Lanigan Hall 104,Lanigan Hall ,104,Fall2016,Lecture,Anna   Ziegler,30
+Found Of Communication LLC,93039,COM,100,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 104,,"100% web, no face to face ",Fall2016,Lecture,Jessica K  Reeher,30
+Foundations Of Communication,91869,COM,100,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,102,Fall2016,Distance Learning,Denise   Casey,30
+Critical Thinking/Public Speak,93237,COM,210,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 102,Sheldon Hall ,337,Fall2016,Lecture,John K  Smith,30
+Critical Thinking/Public Speak,93035,COM,210,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Sheldon Hall 337,Mahar Hall ,216,Fall2016,Lecture,Mary   Simone,30
+Critical Thinking/Public Speak,90235,COM,210,6,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 216,Mahar Hall ,216,Fall2016,Lecture,Penny S  Morley,30
+Critical Thinking/Public Speak,90236,COM,210,7,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Mahar Hall 216,Mahar Hall ,108,Fall2016,Lecture,Penny S  Morley,30
+CriticalThink/PublicSpeakLLC,91057,COM,210,1,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 108,Lanigan Hall ,106A,Fall2016,Lecture,Jill M  Ennis,30
+Critical Thinking/Public Speak,91533,COM,210,2,Undergraduate ,3,,6:00 pm - 8:45 pm,R,Lanigan Hall 106A,Mahar Hall ,119,Fall2016,Lecture,Michael J  Masucci,30
+Critical Thinking/Public Speak,91029,COM,210,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 119,Lanigan Hall ,106A,Fall2016,Lecture,Gabor   Hardy,30
+Critical Thinking/Public Speak,91322,COM,210,4,Undergraduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 106A,Mahar Hall ,103,Fall2016,Lecture,Michael J  Masucci,30
+Critical Thinking/Public Speak,91274,COM,210,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 103,Mahar Hall ,119,Fall2016,Lecture,John K  Smith,30
+Critical Thinking/Public Speak,91275,COM,210,6,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Mahar Hall 119,Lanigan Hall ,102A,Fall2016,Lecture,Gabor   Hardy,30
+Critical Thinking/Public Speak,92357,COM,210,7,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 102A,Mahar Hall ,118,Fall2016,Lecture,Thomas   Downs,30
+Strategic Communication in Bus,91486,COM,211,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 118,Lanigan Hall ,107A,Fall2016,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,91487,COM,211,2,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Lanigan Hall 107A,Park Hall ,211,Fall2016,Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91488,COM,211,3,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Park Hall 211,Lanigan Hall ,107A,Fall2016,Seminar,Anastasia   Gagas,30
+Strategic Communication in Bus,91490,COM,211,4,Undergraduate ,3,,7:35 pm - 8:55 pm,TR,Lanigan Hall 107A,Lanigan Hall ,107A,Fall2016,Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91491,COM,211,5,Undergraduate ,3,,8:00 am - 9:20 am,TR,Lanigan Hall 107A,Lanigan Hall ,107A,Fall2016,Seminar,Tiffany   Bell,30
+Strategic Communication in Bus,91492,COM,211,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 107A,Mahar Hall ,106,Fall2016,Seminar,Tiffany   Bell,30
+Strategic Communication in Bus,91493,COM,211,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 106,Mahar Hall ,106,Fall2016,Seminar,Stephanie   Wideman,30
+Strategic Communication in Bus,91494,COM,211,,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 106,Marano Campus Center ,142,Fall2016,Seminar,Stephanie   Wideman,30
+Strategic Communication in Bus,91489,COM,211,1,Undergraduate ,3,,5:00 pm - 7:45 pm,W,Marano Campus Center 142,Hewitt Union ,228B,Fall2016,Seminar,Christopher Lawrence  Hockey,30
+Strategic Comm in Bus LLC,91485,COM,211,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Hewitt Union 228B,Lanigan Hall ,107A,Fall2016,Seminar,Sarah Ann  Bozek,30
+Strategic Communication in Bus,91525,COM,211,3,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Lanigan Hall 107A,Mahar Hall ,314,Fall2016,Seminar,Michael Charles  Backus,30
+Strategic Communication in Bus,91690,COM,211,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 314,Lanigan Hall ,35,Fall2016,Seminar,Laura Ann  Lewin,30
+Strategic Communication in Bus,91853,COM,211,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 35,Lanigan Hall ,35,Fall2016,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91526,COM,211,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 35,Mahar Hall ,203,Fall2016,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,92736,COM,211,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 203,Mahar Hall ,314,Fall2016,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,91527,COM,211,1,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Mahar Hall 314,Sonata ,105,Fall2016,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,92960,COM,211,2,Undergraduate ,3,,12:00 pm - 1:20 pm,TR,Sonata 105,,"100% web, no face to face ",Fall2016,Seminar,Leila   Karkia,30
+Strategic Comm in Business,92328,COM,211,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Lanigan Hall ,107A,Fall2016,Distance Learning,Amy B  McHugh,30
+Interpersonal Communication,90237,COM,212,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 107A,Lanigan Hall ,107A,Fall2016,Lecture,Heidi   Bulk,30
+Interpersonal Communication,91291,COM,212,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 107A,Lanigan Hall ,107A,Fall2016,Lecture,Tiffany   Bell,30
+Interpersonal Communication,92057,COM,212,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 107A,Mahar Hall ,208,Fall2016,Lecture,Kristan Lorraine  Johnson,30
+Interpersonal Communication,91442,COM,212,7,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 208,Mahar Hall ,214,Fall2016,Lecture,Stephanie   Wideman,30
+Survey Of Public Relations,90239,COM,215,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 214,Mahar Hall ,214,Fall2016,Lecture,Erica L  Henriksen,30
+Survey Of Public Relations,90240,COM,215,2,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 214,Mahar Hall ,108,Fall2016,Lecture,Taejin   Jung,30
+Group Interaction & Discussion,92048,COM,240,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 108,Lanigan Hall ,106A,Fall2016,Lecture,Jill M  Ennis,30
+Communication Theories,90238,COM,301,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 106A,Lanigan Hall ,107A,Fall2016,Lecture,Jennifer   Knapp,30
+Communication Theories,91632,COM,301,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Lanigan Hall 107A,Mahar Hall ,208,Fall2016,Lecture,Tiffany   Bell,30
+Message Criticism,90727,COM,302,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 208,,"100% web, no face to face ",Fall2016,Lecture,Stephanie   Wideman,30
+Message Criticism,91531,COM,302,7,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Steven M  Granelli,30
+Message Criticism,91532,COM,302,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,103,Fall2016,Distance Learning,Steven M  Granelli,30
+Qualitative Research Methods,91443,COM,303,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 103,Mahar Hall ,107,Fall2016,Lecture,Jenny   Rosenberg,30
+Qualitative Research Methods,91631,COM,303,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 107,Mahar Hall ,210,Fall2016,Lecture,Jenny   Rosenberg,30
+PublicRelationsWriting&MassMed,91630,COM,313,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 210,Mahar Hall ,210,Fall2016,Lecture,Amy Alissa  Rood,30
+PublicRelationsWriting&MassMed,91872,COM,313,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 210,Mahar Hall ,211,Fall2016,Lecture,Denise M  DiRienzo,30
+Design & Layout For Media,91691,COM,315,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 211,Mahar Hall ,211,Fall2016,Lecture,Woomi   Shim,30
+Design & Layout For Media,91692,COM,315,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 211,Lanigan Hall ,107A,Fall2016,Lecture,Woomi   Shim,30
+Survey of Health Communication,92965,COM,316,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Lanigan Hall 107A,Mahar Hall ,204,Fall2016,Lecture,Taejin   Jung,30
+Public Relations Research,90833,COM,317,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 204,Mahar Hall ,204,Fall2016,Lecture,Lindsay Marie  McCluskey,30
+Public Relations Research,92047,COM,317,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 204,Mahar Hall ,122,Fall2016,Lecture,Lindsay Marie  McCluskey,30
+Event Planning,91744,COM,318,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 122,Lanigan Hall ,102A,Fall2016,Lecture,Denise M  DiRienzo,30
+Argumentation & Debate,91822,COM,350,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 102A,Mahar Hall ,103,Fall2016,Lecture,Thomas   Downs,30
+Persuasion,90752,COM,360,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 103,Lanigan Hall ,107A,Fall2016,Lecture,John K  Smith,30
+Persuasion,91696,COM,360,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Lanigan Hall 107A,Hewitt Union ,228B,Fall2016,Lecture,Jessica K  Reeher,30
+Case Studies Public Relations,90241,COM,415,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Hewitt Union 228B,Mahar Hall ,204,Fall2016,Lecture,Sarah Ann  Bozek,30
+Case Studies Public Relations,92058,COM,415,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 204,Lanigan Hall ,107A,Fall2016,Lecture,Lindsay Marie  McCluskey,30
+Capstone in Public Relations,90242,COM,416,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Lanigan Hall 107A,Lanigan Hall ,107A,Fall2016,Lecture,Taejin   Jung,30
+Capstone in Public Relations,92050,COM,416,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Lanigan Hall 107A,,"100% web, no face to face ",Fall2016,Lecture,Taejin   Jung,30
+InterculturalCommunicationCOIL,92968,COM,422,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,204,Fall2016,Distance Learning,Amy B  McHugh,30
+Communication/Service Learning,91444,COM,490,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 204,Lanigan Hall ,35,Fall2016,Lecture,Jenny   Rosenberg,30
+Int to Strategic Communication,92056,COM,500,7,Graduate ,3,,6:00 pm - 8:45 pm,T,Lanigan Hall 35,Mahar Hall ,210,Fall2016,Lecture,Mary   Toale,30
+Applied Research Methods,93277,COM,503,1,Graduate ,3,,5:00 pm - 6:50 pm,MW,Mahar Hall 210,Lanigan Hall ,102,Fall2016,Lecture,Katherine   Thweatt,30
+Issues & Careers Human Service,90176,CPS,308,2,Undergraduate ,3,,3:55 pm - 6:55 pm,T,Lanigan Hall 102,Lanigan Hall ,107,Fall2016,Lecture,Barbara   Streets,30
+Introduction to Counseling,90177,CPS,310,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 107,Lanigan Hall ,107,Fall2016,Lecture,Michael G  Mullen,30
+Introduction to Counseling,93003,CPS,310,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lanigan Hall 107,Lanigan Hall ,106,Fall2016,Lecture,Michael G  Mullen,30
+Intro to Family,90178,CPS,391,5,Undergraduate ,3,,3:30 pm - 6:15 pm,M,Lanigan Hall 106,Mahar Hall ,108,Fall2016,Lecture,Christine Gambatese  Alencewicz,30
+Intro to Family,93004,CPS,391,6,Undergraduate ,3,,3:30 pm - 6:15 pm,W,Mahar Hall 108,Mahar Hall ,116,Fall2016,Lecture,Jason   Duffy,30
+Intr to Expressive Art Therapy,92211,CPS,393,7,Undergraduate ,3,,12:00 pm - 2:45 pm,W,Mahar Hall 116,Mahar Hall ,118,Fall2016,Lecture,Kristin Renee  MacDonald,30
+Intr to Expressive Art Therapy,90724,CPS,393,1,Undergraduate ,3,,1:50 pm - 4:35 pm,M,Mahar Hall 118,Mahar Hall ,215,Fall2016,Lecture,Kristin Renee  MacDonald,30
+Psych Found,Personality,90182,,2,Graduate ,3,,11:00 am - 1:45 pm,M,Mahar Hall 215,Mahar Hall ,111,Fall2016,Lecture,Tamara   Sullivan,30
+Psych Found,Personality,90183,,3,Graduate ,3,,11:30 am - 2:05 pm,T,Mahar Hall 111,Sonata ,118,Fall2016,Lecture,Tamara   Sullivan,30
+Psych Found,Personality,91170,,4,Graduate ,3,,5:30 pm - 8:15 pm,T,Sonata 118,Mahar Hall ,106,Fall2016,Lecture,Terrance E  O'Brien,30
+Psych Found,Development,91301,,5,Graduate ,3,,4:40 pm - 7:25 pm,M,Mahar Hall 106,Sonata ,103,Fall2016,Lecture,Jason   Duffy,30
+Psych Found,Development,91271,,6,Graduate ,3,,5:00 pm - 7:45 pm,T,Sonata 103,Sonata ,118,Fall2016,Lecture,Carlo   Cuccaro,30
+Found. Mental Health Coun,91172,CPS,508,7,Graduate ,3,,5:00 pm - 7:45 pm,M,Sonata 118,Sonata ,301,Fall2016,Lecture,Sarah F  Spiegelhoff,30
+Prof.Orient/Ethics MH Counsel,90187,CPS,509,1,Graduate ,3,,5:00 pm - 7:45 pm,W,Sonata 301,Mahar Hall ,117,Fall2016,Lecture,Tiphanie   Gonzalez,30
+Counseling Theory & Process,90188,CPS,510,2,Graduate ,3,,1:00 pm - 3:45 pm,W,Mahar Hall 117,Mahar Hall ,114,Fall2016,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90189,CPS,510,3,Graduate ,3,,9:30 am - 12:05 pm,R,Mahar Hall 114,Mahar Hall ,117,Fall2016,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90191,CPS,510,4,Graduate ,3,,9:30 am - 12:15 pm,W,Mahar Hall 117,Sonata ,118,Fall2016,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,91171,CPS,510,5,Graduate ,3,,5:30 pm - 8:15 pm,R,Sonata 118,Sonata ,104,Fall2016,Lecture,Terrance E  O'Brien,30
+Internship Mental Health Couns,92349,CPS,515,6,Graduate ,3,,5:30 pm - 8:30 pm,M,Sonata 104,Sonata ,,Fall2016,Internship,Terrance E  O'Brien,30
+Internship Mental Health Couns,91824,CPS,515,7,Graduate ,3,,5:30 pm - 8:30 pm,M,Sonata ,Sonata ,,Fall2016,Internship,Terrance E  O'Brien,30
+Intern:Alcohol/Substance Couns,91825,CPS,516,1,Graduate ,3,,5:30 pm - 8:30 pm,M,Sonata ,Lanigan Hall ,105,Fall2016,Internship,Terrance E  O'Brien,30
+Orientation to Counsel.Profess,90195,CPS,530,2,Graduate ,3,,12:00 pm - 2:45 pm,M,Lanigan Hall 105,Mahar Hall ,111,Fall2016,Lecture,Sean   Finnerty,30
+Intro to Group Process,90196,CPS,541,3,Graduate ,3,,4:10 pm - 8:10 pm,M,Mahar Hall 111,Mahar Hall ,118,Fall2016,Lecture,Tiphanie   Gonzalez,30
+Ethno-cult Aspects of Trauma,91746,CPS,559,4,Graduate ,3,,4:10 pm - 7:30 pm,W,Mahar Hall 118,Mahar Hall ,111,Fall2016,Lecture,Barbara   Streets,30
+Voc Dev & Decision-Making,90197,CPS,574,5,Graduate ,3,,8:00 am - 11:00 am,T,Mahar Hall 111,Mahar Hall ,111,Fall2016,Lecture,Barbara   Streets,30
+Foundtn of Psy & Edu Appraisal,90198,CPS,585,6,Graduate ,3,,10:30 am - 1:15 pm,R,Mahar Hall 111,,"100% web, no face to face ",Fall2016,Lecture,Laura M  Spenceley,30
+Foundtn of Psy & Edu Appraisal,91389,CPS,585,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,112,Fall2016,Distance Learning,Michael   LeBlanc,30
+Individual Cognitive Assessmen,90199,CPS,587,1,Graduate ,3,,9:45 am - 12:45 pm,W,Mahar Hall 112,Mahar Hall ,112,Fall2016,Lecture,Laura M  Spenceley,30
+Individual Cognitive Assessmen,90921,CPS,587,2,Graduate ,3,,1:00 pm - 3:45 pm,W,Mahar Hall 112,Mahar Hall ,118,Fall2016,Lecture,Laura M  Spenceley,30
+Intro. Expressive Art Therapy,91001,CPS,590,3,Graduate ,3,,1:50 pm - 4:35 pm,M,Mahar Hall 118,Mahar Hall ,116,Fall2016,Lecture,Kristin Renee  MacDonald,30
+Intro. Expressive Art Therapy,92212,CPS,590,4,Graduate ,3,,12:00 pm - 2:45 pm,W,Mahar Hall 116,Mahar Hall ,111,Fall2016,Lecture,Kristin Renee  MacDonald,30
+Intro to Family Systems,90200,CPS,591,5,Graduate ,3,,12:40 pm - 3:20 pm,M,Mahar Hall 111,Mahar Hall ,111,Fall2016,Lecture,Jason   Duffy,30
+Intro to Play Therapy,91390,CPS,592,6,Graduate ,3,,5:00 pm - 8:00 pm,W,Mahar Hall 111,Sonata ,104,Fall2016,Lecture,Christie Lynn  Jarvi,30
+Research Methods in HS/CC,91446,CPS,596,7,Graduate ,3,,5:00 pm - 7:45 pm,T,Sonata 104,Mahar Hall ,111,Fall2016,Lecture,Tiphanie   Gonzalez,30
+Trends & Issues in Higher Ed,92886,CPS,607,1,Graduate ,3,,1:30 pm - 4:15 pm,R,Mahar Hall 111,Mahar Hall ,114,Fall2016,Seminar,Jerald Jones  Woolfolk,30
+Practicum in School Psych,90210,CPS,613,2,Graduate ,3,,9:00 am - 11:35 am,T,Mahar Hall 114,Mahar Hall ,114,Fall2016,Practicum,James L  McDougal,30
+Practicum in School Psych,91182,CPS,613,3,Graduate ,3,,9:00 am - 11:35 am,T,Mahar Hall 114,Mahar Hall ,111,Fall2016,Practicum,James L  McDougal,30
+Consultn Counslrs & Sch Psy,90211,CPS,686,4,Graduate ,3,,9:30 am - 12:15 pm,W,Mahar Hall 111,Park Hall ,304,Fall2016,Lecture,James L  McDougal,30
+Academic & Educ. Intervention,90212,CPS,688,5,Graduate ,3,,4:00 pm - 6:45 pm,W,Park Hall 304,Marano Campus Center ,306,Fall2016,Seminar,Carlo   Cuccaro,30
+Screenwriting: Introductory,91119,CRW,201,6,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 306,Sheldon Hall ,332,Fall2016,Lecture,Jessica Leigh  Folk,30
+Screenwriting: Introductory,91120,CRW,201,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Sheldon Hall 332,Park Hall ,204,Fall2016,Lecture,Juliet A  Giglio,30
+Poetry Writing: Introductory,90709,CRW,205,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 204,Park Hall ,204,Fall2016,Seminar,Laura   Donnelly,30
+Poetry Writing: Introductory,90710,CRW,205,2,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Park Hall 204,Marano Campus Center ,322,Fall2016,Seminar,Laura   Donnelly,30
+Poetry Writing: Introductory,92062,CRW,205,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 322,Park Hall ,313,Fall2016,Seminar,Charles F  Itzin,30
+Poetry Writing: Introductory,91116,CRW,205,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 313,Marano Campus Center ,256,Fall2016,Seminar,Stephanie Sue  Pritchard,30
+Fiction Writing:Introductory,90711,CRW,206,5,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Marano Campus Center 256,Marano Campus Center ,232,Fall2016,Seminar,Benjamin William  Allocco,30
+FictionWriting:Introductory,90712,CRW,206,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 232,Mahar Hall ,118,Fall2016,Seminar,Laura A  Halferty,30
+Fiction Writing: Introductory,90713,CRW,206,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 118,Mahar Hall ,119,Fall2016,Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,91069,CRW,206,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 119,Marano Campus Center ,208,Fall2016,Seminar,Christine R  Motto,30
+Playwriting: Introductory,91122,CRW,207,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 208,Marano Campus Center ,256,Fall2016,Seminar,Jessica Leigh  Folk,30
+Creative Nonfiction Writing: I,90715,CRW,208,3,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Marano Campus Center 256,Marano Campus Center ,232,Fall2016,Seminar,Benjamin William  Allocco,30
+Creative Nonfiction Writing: I,90716,CRW,208,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 232,Park Hall ,314,Fall2016,Seminar,Laura A  Halferty,30
+CreatiNonfiction Writing:I LLC,90714,CRW,208,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 314,Marano Campus Center ,132,Fall2016,Seminar,Donna M  Steiner,30
+Living Writer Series,90717,CRW,300,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 132,Marano Campus Center ,142,Fall2016,Lecture,Juliet A  Giglio,30
+Screenwriting: Intermediate,90718,CRW,301,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 142,Marano Campus Center ,142,Fall2016,Lecture,Jamie L.  Adams,30
+Screenwriting: Intermediate,91111,CRW,301,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 142,Marano Campus Center ,322,Fall2016,Lecture,Jamie L.  Adams,30
+Poetry Writing: Intermediate,92135,CRW,305,2,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 322,Marano Campus Center ,258,Fall2016,Seminar,Charles F  Itzin,30
+Poetry Writing: Intermediate,91731,CRW,305,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 258,Marano Campus Center ,210,Fall2016,Seminar,Stephanie Sue  Pritchard,30
+Fiction Writing: Intermediate,90719,CRW,306,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 210,Marano Campus Center ,210,Fall2016,Seminar,Robert T.  O'Connor,30
+Fiction Writing: Intermediate,91117,CRW,306,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 210,Marano Campus Center ,208,Fall2016,Seminar,Robert T.  O'Connor,30
+Playwriting: Intermediate,90720,CRW,307,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 208,Marano Campus Center ,223,Fall2016,Seminar,Jessica Leigh  Folk,30
+Creative Nonfiction Writ: Inte,90721,CRW,308,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 223,Marano Campus Center ,223,Fall2016,Seminar,Linda C.  Loomis,30
+Creative Nonfiction Writ: Inte,92939,CRW,308,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 223,Marano Campus Center ,258,Fall2016,Seminar,Linda C.  Loomis,30
+Literary Citizenship,92133,CRW,355,2,Undergraduate ,3,,4:30 pm - 7:15 pm,W,Marano Campus Center 258,Marano Campus Center ,322,Fall2016,Lecture,Donna M  Steiner,30
+Screenwriting: Advanced,91743,CRW,401,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 322,To Be Announced ,,Fall2016,Lecture,Juliet A  Giglio,30
+Laboratory for CSC 101,90477,CSC,101,4,Undergraduate ,3,,TBA,TBA,To Be Announced ,Shineman Center ,122,Fall2016,Laboratory,James   Patridge,30
+Tools for Computing,90476,CSC,101,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 122,,"100% web, no face to face ",Fall2016,Lecture,Robert A.  Zuber,30
+Tools for Computing,91128,CSC,101,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Shineman Center ,174,Fall2016,Distance Learning,Robert A.  Zuber,30
+BUS Info System&Computing Tool,90820,CSC,102,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 174,To Be Announced ,,Fall2016,Lecture,Michael L  Smith,30
+Laboratory for CSC 102,90823,CSC,102,1,Undergraduate ,3,,TBA,TBA,To Be Announced ,Shineman Center ,122,Fall2016,Laboratory,Michael L  Smith,30
+BUS Info System&Computing Tool,91368,CSC,102,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 122,Shineman Center ,175,Fall2016,Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91369,CSC,102,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Shineman Center 175,Sonata ,105,Fall2016,Lecture,Michael L  Smith,30
+BUS Info System&Computing Tool,91534,CSC,102,4,Undergraduate ,3,,10:25 am - 11:45 am,TR,Sonata 105,,"100% web, no face to face ",Fall2016,Lecture,Michael L  Smith,30
+BUS Info System&Computing Tool,91674,CSC,102,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Shineman Center ,174,Fall2016,Distance Learning,Michael L  Smith,30
+Comp Tools/Info Lit for EDU,90992,CSC,103,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 174,Shineman Center ,448,Fall2016,Lecture,William C  Bosch,30
+Comp Tools/Info Lit for EDU,90993,CSC,103,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 448,Shineman Center ,448,Fall2016,Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,90991,CSC,103,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 448,Shineman Center ,448,Fall2016,Lecture,David Paul  Parisian,30
+Int To Prog & Prog Language,90483,CSC,120,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 448,Park Hall ,315,Fall2016,Lecture,Michael L  Smith,30
+Principles Of Programming,90485,CSC,212,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 315,Shineman Center ,444,Fall2016,Lecture,Bastian   Tenbergen,30
+Principles Of Programming,91282,CSC,212,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 444,Shineman Center ,446,Fall2016,Lecture,Mohammad   Mohammadi,30
+Principles Of Programming Lab,91131,CSC,212,5,Undergraduate ,3,,1:50 pm - 2:45 pm,W,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,Mohammad   Mohammadi,30
+Principles Of Programming-LAB,91370,CSC,212,6,Undergraduate ,3,,3:00 pm - 3:55 pm,W,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,Douglas   Lea,30
+Principles Of Programming-Lab,90490,CSC,212,7,Undergraduate ,3,,4:10 pm - 5:05 pm,W,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,Douglas   Lea,30
+Principles Of Programming Lab,91126,CSC,212,1,Undergraduate ,3,,8:00 am - 8:55 am,R,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,James P  Early,30
+Principles Of Programming LAB,92877,CSC,212,2,Undergraduate ,3,,3:55 pm - 4:50 pm,R,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,David   Vampola,30
+Principles Of Programming-Lab,90489,CSC,212,3,Undergraduate ,3,,11:10 am - 12:05 pm,R,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,Aleksandar V  Pantaleev,30
+Principles Of Programming-Lab,90493,CSC,212,4,Undergraduate ,3,,12:45 pm - 1:40 pm,R,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,Bastian   Tenbergen,30
+Principles Of Programming-Lab,90702,CSC,212,5,Undergraduate ,3,,9:35 am - 10:30 am,R,Shineman Center 446,Shineman Center ,446,Fall2016,Laboratory,James P  Early,30
+Principles Of Programming-Lab,90487,CSC,212,6,Undergraduate ,3,,2:20 pm - 3:15 pm,R,Shineman Center 446,Shineman Center ,174,Fall2016,Laboratory,Christopher   Harris,30
+Foundation Of Computer Science,90494,CSC,221,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 174,Shineman Center ,175,Fall2016,Lecture,Elaine   Wenderholm,30
+Foundation Of Computer Science,91942,CSC,221,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 175,Shineman Center ,406,Fall2016,Lecture,Elaine   Wenderholm,30
+Computer Orgnztn & Programming,93068,CSC,222,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 406,Shineman Center ,444,Fall2016,Lecture,Mario   Bkassiny,30
+Abstract Data Types&Prog Meth,90496,CSC,241,3,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 444,Shineman Center ,444,Fall2016,Lecture,Craig   Graci,30
+Abstract Data Types&Prog Meth,91756,CSC,241,4,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 444,Shineman Center ,444,Fall2016,Lecture,James P  Early,30
+Abstract Data Types&Prog Meth,92846,CSC,241,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 444,Shineman Center ,172,Fall2016,Lecture,James P  Early,30
+Systems Programming,91132,CSC,322,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Shineman Center 172,Shineman Center ,185,Fall2016,Lecture,Aleksandar V  Pantaleev,30
+Cryptology,92881,CSC,332,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 185,Shineman Center ,172,Fall2016,Lecture,Elizabeth   Wilcox,30
+Programming Languages,91367,CSC,344,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Shineman Center 172,Shineman Center ,122,Fall2016,Lecture,Randolph   Odendahl,30
+Data Structures & File Process,91134,CSC,365,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Shineman Center 122,Shineman Center ,444,Fall2016,Lecture,Elaine   Wenderholm,30
+Parallel Computing,91939,CSC,375,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 444,Shineman Center ,172,Fall2016,Lecture,Douglas   Lea,30
+Software Engineering,90500,CSC,380,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Shineman Center 172,Shineman Center ,444,Fall2016,Lecture,James P  Early,30
+Software Quality,91728,CSC,385,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 444,Shineman Center ,448,Fall2016,Lecture,Bastian   Tenbergen,30
+Teaching Computing,90502,CSC,390,6,Undergraduate ,3,,3:00 pm - 5:40 pm,F,Shineman Center 448,Shineman Center ,444,Fall2016,Lecture,James   Patridge,30
+Artificl Intell Prog Lang,92782,CSC,416,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 444,Shineman Center ,444,Fall2016,Lecture,Craig   Graci,30
+Graphical User Interfaces,92781,CSC,420,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Shineman Center 444,Lanigan Hall ,105,Fall2016,Lecture,Aleksandar V  Pantaleev,30
+TCG: HCI Gaming,92876,CSC,430,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Lanigan Hall 105,Shineman Center ,444,Fall2016,Lecture,Damian   Schofield,30
+Compiler Construction,92880,CSC,444,3,Undergraduate ,3,,8:00 am - 9:20 am,TR,Shineman Center 444,Shineman Center ,444,Fall2016,Lecture,Douglas   Lea,30
+Software Engineering Sem:I,91125,CSC,495,4,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Shineman Center 444,Park Hall ,212,Fall2016,Seminar,Bastian   Tenbergen,30
+Intro to Cinema Production,91410,CSS,235,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 212,Marano Campus Center ,322,Fall2016,Lecture,Joshua   Adams,30
+Intermediate Cinema Production,91115,CSS,335,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 322,Marano Campus Center ,258,Fall2016,Lecture,Jacob A  Dodd,30
+Motion Picture Editing,93248,CSS,337,7,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 258,Park Hall ,315,Fall2016,Studio,Jacob A  Dodd,30
+Film Practicum,91522,CSS,391,1,Undergraduate ,3,,3:00 pm - 6:00 pm,W,Park Hall 315,Park Hall ,315,Fall2016,Practicum,Joshua   Adams,30
+T:Directing,91812,CSS,395,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 315,Marano Campus Center ,306,Fall2016,Lecture,Joshua   Adams,30
+ST:Shakespeare and Film,92943,CSS,395,3,Undergraduate ,3,,6:00 pm - 9:00 pm,T,Marano Campus Center 306,Park Hall ,206,Fall2016,Lecture,Patrick   Murphy,30
+ST:Black American Cinema,92946,CSS,395,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Park Hall 206,Marano Campus Center ,322,Fall2016,Lecture,Amy   Shore,30
+Experimental Filmmaking,92061,CSS,485,5,Undergraduate ,3,,3:00 pm - 6:00 pm,M,Marano Campus Center 322,Lee Hall ,300,Fall2016,Studio,Jacob A  Dodd,30
+Modern Dance I,90001,DNC,201,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lee Hall 300,Lee Hall ,302,Fall2016,Activity,Cheryl   Wilkins-Mitchell,30
+Jazz Dance I,92991,DNC,204,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lee Hall 302,Lee Hall ,300,Fall2016,Activity,Cheryl   Wilkins-Mitchell,30
+Beginning Ballet Technique,92987,DNC,210,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Lee Hall 300,Cambria ,,Fall2016,Studio,Ligia R  Pinheiro,30
+Fund of Administration,92999,EAD,601,2,Graduate ,3,,4:30 pm - 10:00 pm,T,Cambria ,Sonata ,129,Fall2016,Lecture,Tamara   Lipke,30
+Fund of Administration,92163,EAD,601,3,Graduate ,3,,4:30 pm - 9:30 pm,W,Sonata 129,Off Campus ,,Fall2016,Lecture,Linda Rae  Markert,30
+Superintendent Dev: Part C,90592,EAD,693,4,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Seminar,Douglas   Hamlin,30
+Superintendent Dev: Part C,91067,EAD,693,5,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Seminar,Douglas   Hamlin,30
+Internship-Build/District Lead,90593,EAD,695,6,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Internship,Richard   Cavallaro,30
+Internship-Build/District Lead,90594,EAD,695,7,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Internship,Linda Rae  Markert,30
+Internship-Build/District Lead,90595,EAD,695,,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Internship,Cathleen J  Chamberlain,30
+Internship-Build/District Lead,90596,EAD,695,1,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Internship,Robert   McKeveny,30
+Internship-Build/District Lead,90597,EAD,695,2,Graduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Internship,Lynne   Erdle,30
+Internship-Build/District Lead,91763,EAD,695,3,Graduate ,3,,TBA,TBA,Off Campus ,Shineman Center ,406,Fall2016,Internship,Karen L.  Finter,30
+Introduction to Engineering,92156,ECE,101,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Shineman Center 406,Shineman Center ,406,Fall2016,Lecture,Sungeun   Kim,30
+Introduction to Engineering,91857,ECE,101,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Shineman Center 406,Shineman Center ,404,Fall2016,Lecture,Sungeun   Kim,30
+Electric Circuits,91127,ECE,211,6,Undergraduate ,3,,9:10 am - 11:00 am,MWF,Shineman Center 404,Shineman Center ,404,Fall2016,Lecture,Adrian   Ieta,30
+Electric Circuits,91991,ECE,211,7,Undergraduate ,3,,3:00 pm - 4:50 pm,MWF,Shineman Center 404,Shineman Center ,406,Fall2016,Lecture,Marianne   Hromalik,30
+Digital Systems,91130,ECE,271,1,Undergraduate ,3,,10:20 am - 12:10 pm,MWF,Shineman Center 406,Shineman Center ,406,Fall2016,Lecture,Marianne   Hromalik,30
+Digital Systems,92203,ECE,271,2,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Shineman Center 406,Marano Campus Center ,202,Fall2016,Lecture,Mario   Bkassiny,30
+Power Circuits and Systems,91990,ECE,321,3,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 202,Shineman Center ,406,Fall2016,Lecture,Hui   Zhang,30
+Electromagnetics,91992,ECE,344,4,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Shineman Center 406,Shineman Center ,406,Fall2016,Lecture,Sungeun   Kim,30
+Control Systems,91672,ECE,365,5,Undergraduate ,3,,11:10 am - 1:55 pm,TR,Shineman Center 406,Shineman Center ,404,Fall2016,Studio,Hui   Zhang,30
+Microprocessor Applications,93141,ECE,375,6,Undergraduate ,3,,8:00 am - 10:45 am,TR,Shineman Center 404,Shineman Center ,408,Fall2016,Studio,Rachid   Manseur,30
+ECE Seminar,92138,ECE,401,7,Undergraduate ,3,,1:50 pm - 4:35 pm,F,Shineman Center 408,Shineman Center ,404,Fall2016,Seminar,Rachid   Manseur,30
+Advanced Electronics,92825,ECE,416,1,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Shineman Center 404,Shineman Center ,404,Fall2016,Studio,Adrian   Ieta,30
+Advanced Electronics-Lab,92827,ECE,416,2,Undergraduate ,3,,2:20 pm - 5:05 pm,T,Shineman Center 404,Shineman Center ,408,Fall2016,Laboratory,Adrian   Ieta,30
+Communications Systems,91986,ECE,454,3,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Shineman Center 408,Shineman Center ,408,Fall2016,Studio,Mario   Bkassiny,30
+Communications Systems Lab,91987,ECE,454,4,Undergraduate ,3,,2:20 pm - 5:05 pm,R,Shineman Center 408,Lanigan Hall ,101,Fall2016,Laboratory,Mario   Bkassiny,30
+Principles of Microeconomics,90201,ECO,101,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Lanigan Hall 101,Mahar Hall ,122,Fall2016,Lecture,John   Kane,30
+Principles of Microeconomics,91530,ECO,101,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 122,Mahar Hall ,220,Fall2016,Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,91596,ECO,101,7,Undergraduate ,3,,8:00 am - 9:20 am,TR,Mahar Hall 220,Lanigan Hall ,102,Fall2016,Lecture,Glenn   Graham,30
+Principles of Microeconomics,91555,ECO,101,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Lanigan Hall 102,Mahar Hall ,309,Fall2016,Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,91905,ECO,101,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 309,,"100% web, no face to face ",Fall2016,Lecture,Glenn   Graham,30
+Principles of Microeco- COIL,90202,ECO,101,3,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,220,Fall2016,Distance Learning,John   Kane,30
+Prin of Macroeconomics,91141,ECO,200,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 220,Mahar Hall ,201,Fall2016,Lecture,Ghanshyam   Sharma,30
+Prin of Macroeconomics,90203,ECO,200,5,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 201,Mahar Hall ,220,Fall2016,Lecture,David R  Andrews,30
+Prin of Macroeconomics,92803,ECO,200,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 220,Mahar Hall ,220,Fall2016,Lecture,Ghanshyam   Sharma,30
+Prin of Macroeconomics,91360,ECO,200,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 220,Mahar Hall ,220,Fall2016,Lecture,Craig   Benedict,30
+Prin of Macroeconomics,91362,ECO,200,1,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 220,Mahar Hall ,208,Fall2016,Lecture,Craig   Benedict,30
+Intermediate Macro Theory,91361,ECO,300,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 208,Mahar Hall ,204,Fall2016,Lecture,Elizabeth A  Schmitt,30
+Intermediate Micro Theory,90204,ECO,301,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Mahar Hall 204,,"100% web, no face to face ",Fall2016,Lecture,Said   Atri,30
+Managerial Economics,90205,ECO,302,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,102,Fall2016,Distance Learning,Said   Atri,30
+Am Economic Hist before 1900,90206,ECO,326,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 102,Mahar Hall ,108,Fall2016,Lecture,Ranjit   Dighe,30
+Economic Development,90734,ECO,330,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 108,Mahar Hall ,217,Fall2016,Lecture,David R  Andrews,30
+Economic Development,92802,ECO,330,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Mahar Hall 217,Mahar Hall ,220,Fall2016,Lecture,Kpoti Kemelio  Kitissou,30
+Money And Banking,90207,ECO,340,1,Undergraduate ,3,,9:35 am - 10:55 am,TR,Mahar Hall 220,Mahar Hall ,220,Fall2016,Lecture,Ranjit   Dighe,30
+Money And Banking,91140,ECO,340,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 220,Mahar Hall ,220,Fall2016,Lecture,Elizabeth A  Schmitt,30
+Money And Banking,91139,ECO,340,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 220,Mahar Hall ,217,Fall2016,Lecture,Ranjit   Dighe,30
+Money And Banking,91904,ECO,340,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 217,,"100% web, no face to face ",Fall2016,Lecture,Craig   Benedict,30
+Money And Banking,90208,ECO,340,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Mahar Hall ,220,Fall2016,Distance Learning,Elizabeth A  Schmitt,30
+International Trade,91454,ECO,344,6,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Mahar Hall 220,Mahar Hall ,108,Fall2016,Lecture,Mihai   Paraschiv,30
+Intro to Labor Economics,90209,ECO,350,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 108,Mahar Hall ,108,Fall2016,Lecture,Kpoti Kemelio  Kitissou,30
+Intro to Labor Economics,91597,ECO,350,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 108,Sheldon Hall ,332,Fall2016,Lecture,Kpoti Kemelio  Kitissou,30
+Strat CollegeLevelLearners,90559,EDU,101,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Sheldon Hall 332,Mahar Hall ,216,Fall2016,Lecture,Grace Ann  Maxon-Clarke,30
+Strat CollegeLevelLearners,90555,EDU,101,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 216,Marano Campus Center ,210,Fall2016,Lecture,Unassigned   Staff,30
+Strat CollegeLevelLearners,90556,EDU,101,4,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 210,Park Hall ,304,Fall2016,Lecture,Lakeisha   Armstrong,30
+Strat CollegeLevelLearners,90557,EDU,101,5,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Park Hall 304,Sheldon Hall ,332,Fall2016,Lecture,Valerie Ann  Ledford,30
+Strat CollegeLevelLearners,90558,EDU,101,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Sheldon Hall 332,Sheldon Hall ,332,Fall2016,Lecture,Grace Ann  Maxon-Clarke,30
+Strat CollegeLevelLearners,92320,EDU,101,7,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Sheldon Hall 332,Park Hall ,211,Fall2016,Lecture,Travell   Scales,30
+Strat CollegeLevelLearners,92321,EDU,101,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 211,Mahar Hall ,104,Fall2016,Lecture,Valerie Ann  Ledford,30
+Strat Instr in the Disciplines,92599,EDU,104,2,Undergraduate ,3,,10:20 am - 11:15 am,F,Mahar Hall 104,Mahar Hall ,106,Fall2016,Lecture,Lakeisha   Armstrong,30
+Strat Instr in the Disciplines,92600,EDU,104,3,Undergraduate ,3,,12:40 pm - 1:35 pm,F,Mahar Hall 106,,"100% web, no face to face ",Fall2016,Lecture,Lakeisha   Armstrong,30
+Comparative & International ED,92669,EDU,114,4,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Sheldon Hall ,336,Fall2016,Distance Learning,Namrata   Sharma,30
+"Crit.Think.Schools,Homes, Comm",90950,EDU,200,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 336,Park Hall ,211,Fall2016,Lecture,Carolyn   McKeever,30
+HIS of EDU in US since 1865,91236,EDU,210,6,Undergraduate ,3,,4:30 pm - 7:30 pm,R,Park Hall 211,Sheldon Hall ,326,Fall2016,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,91239,EDU,210,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 326,Park Hall ,206,Fall2016,Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,92093,EDU,210,1,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Park Hall 206,Sheldon Hall ,337,Fall2016,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,90968,EDU,210,2,Undergraduate ,3,,12:45 pm - 2:05 pm,MW,Sheldon Hall 337,Sheldon Hall ,337,Fall2016,Lecture,Joseph L.  Caruana,30
+HIS of EDU in US since 1865,91032,EDU,210,3,Undergraduate ,3,,2:20 pm - 3:40 pm,MW,Sheldon Hall 337,Off Campus ,,Fall2016,Lecture,Joseph L.  Caruana,30
+Elected Field Experience,90135,EDU,300,4,Undergraduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Activity,Marcia M  Burrell,30
+Elected Field Experience,90136,EDU,300,5,Undergraduate ,3,,TBA,TBA,Off Campus ,Off Campus ,,Fall2016,Activity,Marcia M  Burrell,30
+Elected Field Experience,90137,EDU,300,6,Undergraduate ,3,,TBA,TBA,Off Campus ,Sheldon Hall ,336,Fall2016,Activity,Marcia M  Burrell,30
+"School,Pedagogy&Social Justice",90138,EDU,301,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Sheldon Hall 336,Sheldon Hall ,326,Fall2016,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90139,EDU,301,1,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Sheldon Hall 326,Sheldon Hall ,336,Fall2016,Lecture,Roshmi M  Mishra,30
+"School,Pedagogy&Social Justice",90877,EDU,301,2,Undergraduate ,3,,4:30 pm - 7:30 pm,M,Sheldon Hall 336,Sheldon Hall ,336,Fall2016,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90141,EDU,301,3,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Sheldon Hall 336,Sheldon Hall ,336,Fall2016,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90142,EDU,301,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 336,Off Campus ,,Fall2016,Lecture,Bonita   Hampton,30
+Field Placement I,92857,EDU,303,5,Undergraduate ,3,,9:00 am - 11:00 am,F,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90143,EDU,303,6,Undergraduate ,3,,11:00 am - 3:00 pm,R,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90144,EDU,303,7,Undergraduate ,3,,8:00 am - 12:00 pm,M,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90145,EDU,303,1,Undergraduate ,3,,8:00 am - 12:00 pm,T,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90146,EDU,303,2,Undergraduate ,3,,11:00 am - 3:00 pm,T,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90147,EDU,303,3,Undergraduate ,3,,8:00 am - 12:00 pm,W,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90148,EDU,303,4,Undergraduate ,3,,8:00 am - 12:00 pm,R,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90901,EDU,303,5,Undergraduate ,3,,8:00 am - 12:00 pm,F,Off Campus ,Off Campus ,,Fall2016,Activity,David Paul  Parisian,30
+Field Placement I,90149,EDU,303,6,Undergraduate ,3,,11:00 am - 3:00 pm,M,Off Campus ,Sheldon Hall ,332,Fall2016,Activity,David Paul  Parisian,30
+Culturally Relevant Teaching,90151,EDU,380,7,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Sheldon Hall 332,Sheldon Hall ,336,Fall2016,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,90150,EDU,380,1,Undergraduate ,3,,11:10 am - 12:30 pm,MW,Sheldon Hall 336,Sonata ,105,Fall2016,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,91818,EDU,380,2,Undergraduate ,3,,4:30 pm - 7:30 pm,W,Sonata 105,Sheldon Hall ,336,Fall2016,Lecture,Anne   Fairbrother,30
+Culturally Relevant Teaching,90152,EDU,380,3,Undergraduate ,3,,12:45 pm - 2:05 pm,MW,Sheldon Hall 336,Sheldon Hall ,336,Fall2016,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,90755,EDU,380,4,Undergraduate ,3,,9:35 am - 10:55 am,MW,Sheldon Hall 336,Sheldon Hall ,326,Fall2016,Lecture,Alfred   Frederick,30
+Teach Eng Lang Learn,91610,EDU,383,5,Undergraduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 326,Off Campus ,,Fall2016,Lecture,Anne   Fairbrother,30
+Professionalism&Social Justice,90153,EDU,430,6,Undergraduate ,3,,TBA,TBA,Off Campus ,,"100% web, no face to face ",Fall2016,Recitation or Discussion,David Paul  Parisian,30
+Critical Pedagogy,92086,EDU,500,7,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Sonata ,118,Fall2016,Distance Learning,Tania   Ramalho,30
+Tech for Professional Developm,92097,EDU,506,1,Graduate ,3,,4:30 pm - 7:30 pm,W,Sonata 118,,"100% web, no face to face ",Fall2016,Recitation or Discussion,Harrison   Yang,30
+Educational Assessment,92070,EDU,510,2,Graduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Jean E  Hallagan,30
+Cont Pro Develop thro Research,92073,EDU,516,3,Graduate ,3,,TBA,TBA,"100% web, no face to face ",,"100% web, no face to face ",Fall2016,Distance Learning,Dolores   Grayson,30
+Curriculum Development,92084,EDU,555,4,Graduate ,3,,TBA,TBA,"100% web, no face to face ",Sheldon Hall ,326,Fall2016,Distance Learning,Tania   Ramalho,30
+TeachENG Lang Learn Across Cur,91774,EDU,583,5,Graduate ,3,,4:30 pm - 7:30 pm,T,Sheldon Hall 326,Sonata ,303,Fall2016,Lecture,Anne   Fairbrother,30
+TeachENG Lang Learn Across Cur,93309,EDU,583,6,Graduate ,3,,4:30 pm - 7:30 pm,R,Sonata 303,Marano Campus Center ,142,Fall2016,Lecture,Anne   Fairbrother,30
+Composition I,91121,ENG,101,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 142,Park Hall ,304,Fall2016,Lecture,Steven M  Smith,30
+Composition I,92339,ENG,101,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Park Hall 304,Marano Campus Center ,208,Fall2016,Lecture,Jessie Rose  Moore,30
+Composition I,93267,ENG,101,2,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Marano Campus Center 208,Marano Campus Center ,210,Fall2016,Lecture,Matthew K  Grzecki,30
+Composition I,90157,ENG,101,3,Undergraduate ,3,,8:00 am - 9:20 am,TR,Marano Campus Center 210,Park Hall ,211,Fall2016,Lecture,Melissa Ruth  Webb,30
+Composition I,90158,ENG,101,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Park Hall 211,Park Hall ,211,Fall2016,Lecture,Anthony J  Caputa,30
+Composition I,90161,ENG,101,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Park Hall 211,Mahar Hall ,118,Fall2016,Lecture,Anthony J  Caputa,30
+Composition I,90159,ENG,101,6,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 118,Marano Campus Center ,208,Fall2016,Lecture,Devon   Moore,30
+Composition I-International,91832,ENG,101,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 208,Mahar Hall ,104,Fall2016,Lecture,Gurdeep   Skolnik,30
+Composition I,92340,ENG,101,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 104,Park Hall ,211,Fall2016,Lecture,Christopher S  Citro,30
+Composition II,93288,ENG,102,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 211,Park Hall ,314,Fall2016,Lecture,Karol   Cooper,30
+Composition II,91406,ENG,102,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Park Hall 314,Sheldon Hall ,332,Fall2016,Lecture,William T.  Brangan,30
+Composition II,91730,ENG,102,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Sheldon Hall 332,Marano Campus Center ,323,Fall2016,Lecture,Diane Marie  Zeller,30
+Composition II,92343,ENG,102,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 323,Marano Campus Center ,208,Fall2016,Lecture,Thomas   Bertonneau,30
+Composition II,91735,ENG,102,6,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 208,Marano Campus Center ,322,Fall2016,Lecture,Thomas   Bertonneau,30
+Composition II,92376,ENG,102,7,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 322,Marano Campus Center ,323,Fall2016,Lecture,Christopher S  Citro,30
+Composition II,91738,ENG,102,1,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 323,Mahar Hall ,122,Fall2016,Lecture,Sean Thomas  Milligan,30
+Composition II,91417,ENG,102,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Mahar Hall 122,Marano Campus Center ,231,Fall2016,Lecture,Mary A  Hess,30
+Composition II,93266,ENG,102,3,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 231,Mahar Hall ,122,Fall2016,Lecture,Karol   Cooper,30
+Composition II,91418,ENG,102,4,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Mahar Hall 122,Park Hall ,313,Fall2016,Lecture,Mary A  Hess,30
+Composition II,91423,ENG,102,5,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Park Hall 313,Park Hall ,313,Fall2016,Lecture,Brenna   Ryan,30
+Composition II,91419,ENG,102,6,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 313,Mahar Hall ,106,Fall2016,Lecture,Kenneth S  Nichols,30
+Composition II,91421,ENG,102,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Mahar Hall 106,Mahar Hall ,216,Fall2016,Lecture,Casey   Nagle,30
+Composition II,91422,ENG,102,1,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 216,Marano Campus Center ,322,Fall2016,Lecture,Timothy W  McCoy,30
+Composition II,91432,ENG,102,2,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 322,Mahar Hall ,103,Fall2016,Lecture,Jean   Troy-Smith,30
+Composition II,91742,ENG,102,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 103,Mahar Hall ,119,Fall2016,Lecture,Casey   Nagle,30
+Composition II,91430,ENG,102,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 119,Park Hall ,314,Fall2016,Lecture,Matthew K  Grzecki,30
+Composition II,91407,ENG,102,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 314,Mahar Hall ,104,Fall2016,Lecture,William T.  Brangan,30
+Composition II,91414,ENG,102,6,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 104,Park Hall ,313,Fall2016,Lecture,Amanda Rae  Trainham,30
+Composition II,91429,ENG,102,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 313,Mahar Hall ,119,Fall2016,Lecture,Kenneth S  Nichols,30
+CompositionII,91431,ENG,102,1,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 119,Mahar Hall ,215,Fall2016,Lecture,Leonard   DiFino,30
+Composition II,91420,ENG,102,2,Undergraduate ,3,,3:00 pm - 3:55 pm,MWF,Mahar Hall 215,Park Hall ,304,Fall2016,Lecture,Leonard   DiFino,30
+Composition II-LLC,91413,ENG,102,3,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Park Hall 304,Park Hall ,211,Fall2016,Lecture,Jessie Rose  Moore,30
+Composition II,91433,ENG,102,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Park Hall 211,Mahar Hall ,122,Fall2016,Lecture,Diane Marie  Zeller,30
+Composition II,91740,ENG,102,5,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 122,Mahar Hall ,314,Fall2016,Lecture,Kayla   Blatchley,30
+Composition II,91411,ENG,102,6,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 314,Marano Campus Center ,242,Fall2016,Lecture,Robert M  Early,30
+Composition II,91415,ENG,102,7,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 242,Park Hall ,313,Fall2016,Lecture,Imogene D  Wallenfels,30
+Composition II,91409,ENG,102,1,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Park Hall 313,Mahar Hall ,216,Fall2016,Lecture,Brenna   Ryan,30
+Composition II,91434,ENG,102,2,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 216,Mahar Hall ,314,Fall2016,Lecture,Timothy W  McCoy,30
+Composition II,91412,ENG,102,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Mahar Hall 314,Marano Campus Center ,306,Fall2016,Lecture,Robert M  Early,30
+Composition II,91416,ENG,102,4,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 306,Mahar Hall ,118,Fall2016,Lecture,Imogene D  Wallenfels,30
+Composition II,91425,ENG,102,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Mahar Hall 118,Marano Campus Center ,210,Fall2016,Lecture,Devon   Moore,30
+Composition II LLC,91739,ENG,102,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 210,Mahar Hall ,104,Fall2016,Lecture,Melissa Ruth  Webb,30
+Composition II,91741,ENG,102,7,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 104,Marano Campus Center ,306,Fall2016,Lecture,Amanda Rae  Trainham,30
+Composition II,91426,ENG,102,1,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 306,Marano Campus Center ,208,Fall2016,Lecture,Linda M.  Black-Ochsenbein,30
+Composition II-International,92153,ENG,102,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 208,Marano Campus Center ,323,Fall2016,Lecture,Gurdeep   Skolnik,30
+Composition II,91737,ENG,102,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 323,Mahar Hall ,122,Fall2016,Lecture,Sean Thomas  Milligan,30
+Composition II,91833,ENG,102,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Mahar Hall 122,Marano Campus Center ,306,Fall2016,Lecture,Kayla   Blatchley,30
+Composition II,91736,ENG,102,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 306,Marano Campus Center ,142,Fall2016,Lecture,Linda M.  Black-Ochsenbein,30
+Adv. Listening Comprehension,93064,ENG,103,6,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 142,Marano Campus Center ,142,Fall2016,Lecture,Gurdeep   Skolnik,30
+Advanced Reading-International,91867,ENG,104,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 142,Marano Campus Center ,231,Fall2016,Lecture,Gurdeep   Skolnik,30
+Writing About Literature,91858,ENG,204,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 231,Mahar Hall ,314,Fall2016,Lecture,Karol   Cooper,30
+Writing About Literature,91729,ENG,204,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Mahar Hall 314,Mahar Hall ,203,Fall2016,Lecture,Robert M  Early,30
+Writing About Literature,90167,ENG,204,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Mahar Hall 203,Marano Campus Center ,223,Fall2016,Lecture,Elizabeth Briande  Bishop,30
+Writing About Literature,90821,ENG,204,4,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 223,Marano Campus Center ,223,Fall2016,Lecture,Thomas   Bertonneau,30
+Writing About LiteratureLLC,90958,ENG,204,5,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 223,Marano Campus Center ,306,Fall2016,Lecture,Michael   Raicht,30
+Modern Culture & Media,90168,ENG,220,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 306,Marano Campus Center ,323,Fall2016,Lecture,Jessica Leigh  Folk,30
+Modern Culture & Media,90994,ENG,220,7,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 323,Marano Campus Center ,211,Fall2016,Lecture,Fiona   Coll,30
+Modern Culture & Media,91569,ENG,220,1,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 211,Marano Campus Center ,306,Fall2016,Lecture,Michael   Raicht,30
+Amer Lit/Begin-Civ War,91112,ENG,235,2,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 306,Marano Campus Center ,306,Fall2016,Lecture,Douglas A  Guerra,30
+Ethnicity & Cul Diff in Lit,91733,ENG,237,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 306,Marano Campus Center ,322,Fall2016,Lecture,Patricia E  Clark,30
+Sophomore Seminar-Genre,91476,ENG,265,4,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 322,Marano Campus Center ,258,Fall2016,Seminar,Fiona   Coll,30
+Sophomore Seminar-Genre,92940,ENG,265,5,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 258,Marano Campus Center ,211,Fall2016,Seminar,Adin   Lears,30
+Practical English Grammar,90169,ENG,271,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 211,Marano Campus Center ,323,Fall2016,Lecture,Michael   Murphy,30
+Int Cinema/Screen,90841,ENG,286,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 323,Marano Campus Center ,211,Fall2016,Lecture,Amy   Shore,30
+Intro Cinema/Screen StudiesLLC,91734,ENG,286,1,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 211,Marano Campus Center ,208,Fall2016,Lecture,Bennet   Schaber,30
+Literary Criticism,91749,ENG,304,2,Undergraduate ,3,,5:15 pm - 8:00 pm,W,Marano Campus Center 208,Marano Campus Center ,142,Fall2016,Lecture,Maureen F  Curtin,30
+Literary Criticism,90765,ENG,304,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 142,Marano Campus Center ,208,Fall2016,Lecture,Patrick   Murphy,30
+Literary Criticism,90766,ENG,304,4,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 208,Marano Campus Center ,211,Fall2016,Lecture,Thomas   Bertonneau,30
+Shakespeare- An Introduction,90170,ENG,319,5,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 211,Marano Campus Center ,323,Fall2016,Lecture,Patrick   Murphy,30
+20th Century British Fictn,91408,ENG,323,6,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 323,Marano Campus Center ,322,Fall2016,Lecture,Manori N  Jayawardane,30
+T:Hands Create:Latino LIT,92129,ENG,337,7,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 322,Marano Campus Center ,323,Fall2016,Lecture,Roberta   Hurtado,30
+20thC American Novel,92067,ENG,343,1,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Marano Campus Center 323,Marano Campus Center ,306,Fall2016,Lecture,Roberta   Hurtado,30
+Amer Poetry Since 1945,90995,ENG,351,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 306,Marano Campus Center ,323,Fall2016,Lecture,Laura   Donnelly,30
+Literature in Global Context,90171,ENG,360,3,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 323,Marano Campus Center ,256,Fall2016,Lecture,Manori N  Jayawardane,30
+Junior Seminar,90925,ENG,365,4,Undergraduate ,3,,11:10 am - 12:30 pm,TR,Marano Campus Center 256,Marano Campus Center ,210,Fall2016,Seminar,Douglas A  Guerra,30
+Junior Seminar,91046,ENG,365,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 210,Marano Campus Center ,306,Fall2016,Seminar,Maureen F  Curtin,30
+Women In Literature,92937,ENG,370,6,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 306,Marano Campus Center ,323,Fall2016,Lecture,Maureen F  Curtin,30
+Theories of Language,91118,ENG,373,7,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 323,Marano Campus Center ,211,Fall2016,Lecture,Adin   Lears,30
+Hist & Devel English Lang,91777,ENG,374,,Undergraduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 211,Hewitt Union ,228C,Fall2016,Lecture,Adin   Lears,30
+Literature for Young Adults,93102,ENG,384,1,Undergraduate ,3,,3:55 pm - 6:55 pm,T,Hewitt Union 228C,Marano Campus Center ,323,Fall2016,Lecture,Sharon G  Kane,30
+Children's Literature,90172,ENG,385,2,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 323,Park Hall ,315,Fall2016,Lecture,Jean   Troy-Smith,30
+The Cinema,90173,ENG,386,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Park Hall 315,Marano Campus Center ,232,Fall2016,Lecture,Bennet   Schaber,30
+Vision & Textuality,91732,ENG,387,4,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 232,Marano Campus Center ,323,Fall2016,Lecture,Douglas A  Guerra,30
+Film Genre with lab,90174,ENG,388,5,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 323,Lanigan Hall ,107,Fall2016,Lecture,Amy   Shore,30
+Images of Native AM in Film,92941,ENG,390,6,Undergraduate ,3,,6:00 pm - 9:00 pm,R,Lanigan Hall 107,Marano Campus Center ,306,Fall2016,Recitation or Discussion,Christopher   LaLonde,30
+SS:Shakespeare in Film,92944,ENG,395,7,Undergraduate ,3,,6:00 pm - 9:00 pm,T,Marano Campus Center 306,Marano Campus Center ,256,Fall2016,Lecture,Patrick   Murphy,30
+Seminar In Adv Literary Study,92065,ENG,465,1,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 256,Marano Campus Center ,208,Fall2016,Seminar,Roberta   Hurtado,30
+Seminar In Adv Literary Study,92075,ENG,465,2,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 208,Marano Campus Center ,322,Fall2016,Seminar,Manori N  Jayawardane,30
+Words in the World,91424,ENG,485,3,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 322,Marano Campus Center ,210,Fall2016,Lecture,Michael   Murphy,30
+Theories of Teaching Compositn,92369,ENG,502,4,Graduate ,3,,6:00 pm - 8:40 pm,T,Marano Campus Center 210,Marano Campus Center ,323,Fall2016,Lecture,Michael   Murphy,30
+20th Century British Fiction,91475,ENG,523,5,Graduate ,3,,9:35 am - 10:55 am,TR,Marano Campus Center 323,Marano Campus Center ,322,Fall2016,Lecture,Manori N  Jayawardane,30
+Ethnicity & Cultural Differenc,90175,ENG,537,6,Graduate ,3,,5:30 pm - 8:15 pm,R,Marano Campus Center 322,Marano Campus Center ,306,Fall2016,Lecture,Patricia E  Clark,30
+Amer Poetry Since 1945,90996,ENG,551,7,Graduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 306,Marano Campus Center ,323,Fall2016,Lecture,Laura   Donnelly,30
+Theories of Language,91123,ENG,573,1,Graduate ,3,,2:20 pm - 3:40 pm,TR,Marano Campus Center 323,Marano Campus Center ,306,Fall2016,Lecture,Adin   Lears,30
+SS:Shakespeare in Film,93319,ENG,595,2,Graduate ,3,,6:00 pm - 9:00 pm,T,Marano Campus Center 306,Rich Hall ,324,Fall2016,Lecture,Patrick   Murphy,30
+Corporate Finance,91191,FIN,325,3,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Rich Hall 324,Rich Hall ,324,Fall2016,Lecture,Choopong   Sripraipan,30
+Corporate Finance,90058,FIN,325,4,Undergraduate ,3,,6:00 pm - 7:20 pm,TR,Rich Hall 324,Rich Hall ,320,Fall2016,Lecture,Adam   Gagas,30
+Corporate Finance,90059,FIN,325,5,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Rich Hall 320,Rich Hall ,320,Fall2016,Lecture,Hong   Wan,30
+Corporate Finance,90061,FIN,325,6,Undergraduate ,3,,2:20 pm - 3:40 pm,TR,Rich Hall 320,Rich Hall ,220,Fall2016,Lecture,Hong   Wan,30
+Corporate Finance,90956,FIN,325,7,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 220,Rich Hall ,324,Fall2016,Lecture,Choopong   Sripraipan,30
+Corporate Finance,92640,FIN,325,1,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 324,Rich Hall ,324,Fall2016,Lecture,Choopong   Sripraipan,30
+Corporate Finance,91684,FIN,325,2,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Rich Hall 324,Rich Hall ,219,Fall2016,Lecture,Choopong   Sripraipan,30
+Financial Statement Analysis,91449,FIN,340,3,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 219,Rich Hall ,219,Fall2016,Lecture,Mary Tone  Rodgers,30
+Financial Statement Analysis,92641,FIN,340,4,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 219,Rich Hall ,323,Fall2016,Lecture,Mary Tone  Rodgers,30
+Investments,91014,FIN,354,5,Undergraduate ,3,,3:00 pm - 4:25 pm,MW,Rich Hall 323,Rich Hall ,221,Fall2016,Lecture,Eric   Tsai,30
+Investments,91810,FIN,354,6,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Rich Hall 221,Rich Hall ,323,Fall2016,Lecture,Graig   Arcuri,30
+Real Estate Finance,91969,FIN,391,7,Undergraduate ,3,,4:40 pm - 6:05 pm,MW,Rich Hall 323,Rich Hall ,323,Fall2016,Lecture,Graig   Arcuri,30
+Real Estate Finance,92706,FIN,391,1,Undergraduate ,3,,6:20 pm - 7:45 pm,MW,Rich Hall 323,Marano Campus Center ,210,Fall2016,Lecture,Graig   Arcuri,30
+Elementary French,91473,FRE,101,2,Undergraduate ,3,,4:10 pm - 5:35 pm,MW,Marano Campus Center 210,Marano Campus Center ,210,Fall2016,Lecture,Stewart   Smith,30
+Elementary French,91704,FRE,101,3,Undergraduate ,3,,3:55 pm - 5:15 pm,TR,Marano Campus Center 210,Marano Campus Center ,256,Fall2016,Lecture,Stewart   Smith,30
+Continuing Elementary French,91474,FRE,102,4,Undergraduate ,3,,8:00 am - 8:55 am,MWF,Marano Campus Center 256,Marano Campus Center ,256,Fall2016,Lecture,Susan   Bertonneau,30
+Continuing Elementary French,91840,FRE,102,5,Undergraduate ,3,,9:10 am - 10:05 am,MWF,Marano Campus Center 256,Marano Campus Center ,142,Fall2016,Lecture,Susan   Bertonneau,30
+Continuing Elementary French,92830,FRE,102,6,Undergraduate ,3,,5:00 pm - 5:55 pm,MTR,Marano Campus Center 142,Marano Campus Center ,210,Fall2016,Lecture,Najet   Gharsallaoui,30
+Intermediate French,90291,FRE,201,7,Undergraduate ,3,,1:50 pm - 2:45 pm,MWF,Marano Campus Center 210,Marano Campus Center ,231,Fall2016,Lecture,Susan   Bertonneau,30
+Continuing Intermediate French,90819,FRE,202,1,Undergraduate ,3,,10:20 am - 11:15 am,MWF,Marano Campus Center 231,Marano Campus Center ,210,Fall2016,Lecture,Allen   Stagl,30
+Advanced French A,92799,FRE,301,2,Undergraduate ,3,,12:40 pm - 1:35 pm,MWF,Marano Campus Center 210,Marano Campus Center ,256,Fall2016,Lecture,Susan   Bertonneau,30
+Survey Of French Literature,92996,FRE,350,3,Undergraduate ,3,,12:45 pm - 2:05 pm,TR,Marano Campus Center 256,Marano Campus Center ,231,Fall2016,Lecture,Lenuta   Giukin,30
+French Culture/Civilization II,92829,FRE,356,4,Undergraduate ,3,,11:30 am - 12:25 pm,MWF,Marano Campus Center 231,TBA,,Fall2016,Lecture,Allen   Stagl,30
+Project in BHI,93201,BHI,699,5,Graduate ,3,,TBA,TBA,TBA,,"100% web, no face to face ",Fall2016,Activity,Ioana   Coman,30
+Legal&Regulatory Environ ofBus,93120,BLW,355,6,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",TBA,,Fall2016,Distance Learning,Andrew T.  Wolfe,30
+Course Assistant,93314,CMA,497,7,Undergraduate ,3,,TBA,TBA,TBA,,"100% web, no face to face ",Fall2016,Tutorial,Heidi   Bulk,30
+PublicRelationsWriting&MassMed,93084,COM,313,1,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",Off Campus ,,Fall2016,Distance Learning,Denise   Casey,30
+Communication Practicum,93313,COM,497,2,Undergraduate ,3,,TBA,TBA,Off Campus ,TBA,,Fall2016,Practicum,Heidi   Bulk,30
+Strategic COM Thesis/ApProject,93302,COM,590,3,Graduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Mary   Toale,30
+CSS Undergrad Teaching Assist,93513,CSS,396,4,Undergraduate ,3,,TBA,TBA,TBA,,"100% web, no face to face ",Fall2016,Tutorial,Joshua   Adams,30
+Comparative & International ED,93101,EDU,114,5,Undergraduate ,3,,TBA,TBA,"100% web, no face to face ",TBA,,Fall2016,Distance Learning,Namrata   Sharma,30
+Independent Study,93190,ENG,599,6,Graduate ,3,,TBA,TBA,TBA,Lanigan Hall ,102,Fall2016,Independent Study,Fiona   Coll,30
+Freshmen Colloquium,91203,ART,111,7,Undergraduate ,3,,12:40 pm - 1:35 pm,F,Lanigan Hall 102,Lanigan Hall ,104,Fall2016,Studio,Benjamin R  Entner,30
+Transfer Student Colloquim,91209,ART,311,1,Undergraduate ,3,,5:15 pm - 6:45 pm,W,Lanigan Hall 104,Sonata ,107,Fall2016,Studio,Elizabeth Nichole  Hunt,30
+Integ  Lang Arts/SocSt Methods,92862,CED,542,2,Graduate ,3,,9:00 am - 1:30 pm,RF,Sonata 107,Sonata ,107,Fall2016,Lecture,Doreen L  Mazzye,30
+Field Experience A,92861,CED,543,3,Graduate ,3,,8:00 am - 4:00 pm,MTW,Sonata 107,Marano Campus Center ,242,Fall2016,Tutorial,Doreen L  Mazzye,30
+Elementary French,91124,FRE,101,4,Undergraduate ,3,,3:00 pm - 5:00 pm,MTR,Marano Campus Center 242,Lakeside Dining Hall ,5,Fall2016,Lecture,Lenuta   Giukin,30
+Integrated Childhood Methods,90125,CED,394,5,Undergraduate ,3,,8:00 am - 12:00 pm,TR,Lakeside Dining Hall 5,Lakeside Dining Hall ,5,Fall2016,Lecture,Lisa   Zaspel,30
+Integrated Childhood Methods,92157,CED,394,6,Undergraduate ,3,,1:00 pm - 5:00 pm,TR,Lakeside Dining Hall 5,Marano Campus Center ,225,Fall2016,Lecture,Lorraine Middleton  Malecki,30
+"A Global City:Santiago, Chile",93073,GLS,100,7,Undergraduate ,3,,3:00 pm - 4:25 pm,W,Marano Campus Center 225,Mahar Hall ,118,Fall2016,Lecture,Milton E  Loayza,30
+A Global City:Havana,93075,GLS,100,1,Undergraduate ,3,,1:50 pm - 2:45 pm,F,Mahar Hall 118,Mahar Hall ,103,Fall2016,Lecture,Lisa M  Glidden,30
+Hollywood POV,93138,CMA,410,2,Undergraduate ,3,,3:55 pm - 5:15 pm,T,Mahar Hall 103,Marano Campus Center ,242,Fall2016,Lecture,Michael J  Riecke,30
+Continuing Elementary French,90290,FRE,102,3,Undergraduate ,3,,3:00 pm - 5:00 pm,MTR,Marano Campus Center 242,Off Campus ,,Fall2016,Lecture,Lenuta   Giukin,30
+Cross Cultural Student Teach,90100,ADO,421,4,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Off Campus ,,Fall2016,Student Teaching,Unassigned   Staff,30
+CrossCulturalStudentTeaching,90122,CED,421,5,Undergraduate ,3,,TBA,TBA,Off Campus ,TBA,,Fall2016,Student Teaching,Unassigned   Staff,30
+Intermediate German-BHBL,60116,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jennifer   Wolf,30
+Intermediate German-Guilder,60009,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Eleanor   Christie,30
+Intermediate German-Shenendeho,60084,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Todd   Hutson,30
+Intermediate German-Mexico,60011,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kimberly Anne  Rice,30
+Intermediate German-Fulton,60020,GER,201,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Carmen   Rehrl-Ruggio,30
+Intermediate German-Delaware,60021,GER,201,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Terry   Legg,30
+Intermediate German-Fairport,60100,GER,201,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Aisa   Cehajic-Roth,30
+Intermediate German-Fay-Manli,60026,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kate   Stewart,30
+Intermediate German-B'ville,60043,GER,201,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Benjamin Philip  Gerardi,30
+Intermediate German-Shaker,60049,GER,201,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Brenna   Muldoon,30
+Intermediate German-BHBL,60055,GER,201,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kay   Kramer,30
+Intermediate German-CNS,60056,GER,201,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Susan   Poet,30
+Intermediate German-Columbia,60071,GER,201,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Rune   Williams,30
+Intermediate German-Scotia,60090,GER,201,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Mary   Vogt,30
+Intermediate German-Scotia,60111,GER,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Mary   Vogt,30
+Cont Inter German-BHBL,60115,GER,202,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jennifer   Wolf,30
+Cont Inter German-Mexico,60004,GER,202,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kimberly Anne  Rice,30
+Cont Inter German-Coble,60008,GER,202,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,TBA,30
+Cont Inter German-Mexico,60012,GER,202,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,TBA,30
+Cont Inter German-Fulton,60019,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Carmen   Rehrl-Ruggio,30
+Cont Inter German-Delhi,60022,GER,202,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Terry   Legg,30
+Cont Inter German-B'ville,60042,GER,202,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Benjamin Philip  Gerardi,30
+Cont Inter German-Shaker,60048,GER,202,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Brenna   Muldoon,30
+Cont Inter German-BHBL,60094,GER,202,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kay   Kramer,30
+Cont Inter German-Columbia,60067,GER,202,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Rune   Williams,30
+Cont Inter German-Oswego,60095,GER,202,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,TBA,30
+Cont Inter German-CNS,60079,GER,202,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Susan   Poet,30
+American Sign Lang I-Clarkstow,60101,ASL,101,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Laura   Latray-Corey,30
+Poetry Writing: Intro Fabius P,60134,CRW,205,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Seminar,William J  Neumire,30
+Fiction Writing: Intro-B'ville,60102,CRW,206,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Seminar,Cheryl C  Meany,30
+Fiction Writing: Intro-FabiusP,60130,CRW,206,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Seminar,William J  Neumire,30
+Composition II,60000,ENG,102,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Michael A  DeNobile,30
+Composition II,60133,ENG,102,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Emily   Kirch,30
+Princ. Of Lit. Rep.,60097,ENG,150,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Michael A  DeNobile,30
+Intermediate French-Fairport,60123,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Lynelle   Vandenberg,30
+Intermediate French-BHBL,60118,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Raelene A  Noll,30
+Intermediate French-Skaneatel,60003,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Sandra   Taylor,30
+Intermediate French-Weedsport,60006,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Melissa   Brown,30
+Intermediate French-Fulton,60016,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Deana H.  Honeywell,30
+Intermediate French-Fairport,60098,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Lynelle   Vandenberg,30
+Intermediate French-Central Sq,60040,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Sandi L  Sibe,30
+Intermediate French-B'ville,60044,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Elena   Southard,30
+Intermediate French-CNS,60025,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jessica L  Keane,30
+Intermediate French-Liverpool,60029,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Anna   Burns,30
+Intermediate French-Fay-Manli,60031,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Denise   Mahns,30
+Intermediate French-Marcellus,60033,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Roberta   Brown,30
+Intermediate French-W. Gen,60061,FRE,201,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Heather   Molina,30
+Intermediate French-BHBL,60053,FRE,201,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Rosine   Leloir,30
+Intermediate French-Mexico,60070,FRE,201,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kimberley Elizabeth  Harter,30
+Intermediate French-Fay-Manli,60073,FRE,201,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Diane   Zarzecki,30
+Intermediate French-CNS,60081,FRE,201,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jane   Murlin,30
+Intermediate French,60082,FRE,201,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,TBA,30
+Intermediate French-Oswego,60092,FRE,201,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Maria   Kaleta,30
+Cont Inter French-BHBL,60117,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Rosine   Leloir,30
+Cont Inter French-Weedsport,60005,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Melissa   Brown,30
+Cont Inter French-Fulton,60014,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Deana H.  Honeywell,30
+Cont Inter French-Liverpool,60028,FRE,202,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Anna   Burns,30
+Cont Inter French- B'ville,60088,FRE,202,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Elena   Southard,30
+Cont Inter French-Central Sq,60039,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Sandi L  Sibe,30
+Cont Inter French-Mexico,60066,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Kimberley Elizabeth  Harter,30
+Cont Inter French-Marcellus,60032,FRE,202,3,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jessica   Cuello,30
+Cont Inter French-CNS,60078,FRE,202,4,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jane   Murlin,30
+Cont Inter French-CNS,60089,FRE,202,5,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Jessica L  Keane,30
+Cont Inter French-BHBL,60054,FRE,202,6,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Raelene A  Noll,30
+Cont Inter French-W. Gen,60062,FRE,202,7,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Heather   Molina,30
+Cont Inter French-Oswego,60096,FRE,202,1,Undergraduate ,3,,TBA,TBA,TBA,TBA,,Fall2016,Lecture,Maria   Kaleta,30
+Cont Inter French-Skaneatel,60108,FRE,202,2,Undergraduate ,3,,TBA,TBA,TBA,Marano Campus Center ,164,Fall2016,Lecture,Sandra   Taylor,30
+Strat Instr in the Disciplines,92381,EDU,104,3,Undergraduate ,3,,1:00 pm - 2:00 pm,T,Marano Campus Center 164,Off Campus ,,Fall2016,Lecture,Linda   LeFevre,30
+Student Teaching,90099,ADO,420,4,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Off Campus ,,Fall2016,Student Teaching,Unassigned   Staff,30
+Childhood Student Teaching,90121,CED,420,5,Undergraduate ,3,,TBA,MTWRF,Off Campus ,Mahar Hall ,111,Fall2016,Student Teaching,Unassigned   Staff,30
+Clinical Consult Play Therapy,91816,CPS,603,6,Graduate ,3,,9:00 am - 3:15 pm,S,Mahar Hall 111,Palmyra-Macedon CSD ,,Fall2016,Seminar,Ashley Elizabeth-Ann  Lawton Converse,30
+Fund of Administration,92122,EAD,601,7,Graduate ,3,,4:30 pm - 10:00 pm,M,Palmyra-Macedon CSD ,Marano Campus Center ,206,Fall2016,Lecture,Danielle M  Dehm,30
+Strat Instr in the Disciplines,92380,EDU,104,1,Undergraduate ,3,,3:00 pm - 3:55 pm,M,Marano Campus Center 206,Sonata ,301,Fall2016,Lecture,Linda   LeFevre,30
+Internship: School Counseling,91748,CPS,618,2,Graduate ,3,,4:00 pm - 7:00 pm,M,Sonata 301,Sonata ,301,Fall2016,Internship,Sean   Finnerty,30
+Internship: School Counseling,92119,CPS,618,3,Graduate ,3,,4:00 pm - 7:00 pm,M,Sonata 301,Palmyra-Macedon CSD ,,Fall2016,Internship,Sean   Finnerty,30
+Supervsn- Improvment of Inst,93001,EAD,641,4,Graduate ,3,,4:30 pm - 10:00 pm,M,Palmyra-Macedon CSD ,Sonata ,107,Fall2016,Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93000,EAD,641,5,Graduate ,3,,4:30 pm - 10:00 pm,W,Sonata 107,Cambria ,,Fall2016,Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93002,EAD,641,6,Graduate ,3,,4:30 pm - 10:00 pm,W,Cambria ,Mahar Hall ,111,Fall2016,Lecture,Tamara   Lipke,30
+Internship in School Psych,92118,CPS,617,7,Graduate ,3,,9:30 am - 11:35 am,F,Mahar Hall 111,Marano Campus Center ,211,Fall2016,Internship,James L  McDougal,30
+DASA Training,93009,DASA,1020,1,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,,8:30 am - 3:30 pm,S,Marano Campus Center 211,,,Fall2016,Lecture,Carlo   Cuccaro,30

@@ -18,5 +18,17 @@ class Section extends Model
             'courseID' => $values['CourseID']
         ]);
         $this->related['Course'] = $course;
+
+        $faculty = new Users();
+        $faculty->get([
+            'ID' => $values['FacultyID']
+        ]);
+        $this->related['Faculty'] = $faculty;
+
+        $time_slot = new TimeSlot();
+        $time_slot->get([
+            'ID' => $values['TimeSlotNum']
+        ]);
+        $this->related['TimeSlot'] = $time_slot;
     }
 }

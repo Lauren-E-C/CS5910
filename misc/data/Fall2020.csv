@@ -1,0 +1,901 @@
+﻿Coursename,CRN,Department,CourseID,Section,Level,Credits,Prerequisites,timeslot,Day,Location,Term,Roomtype,Instructor,Capacity
+DASA Training,11696,DASA,1020,1,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,Class,8:30 am - 3:30 pm,S,Sonata 129,Fall2020,Lecture,Geri   Geitner,30
+Physical Geology,91976,GEO,100,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Nicholas J  DiFrancesco,30
+Physical Geology Laboratory,91033,GEO,101,3,Undergraduate ,3,Class,2:40 pm - 5:35 pm,T,Shineman Center 372,Fall2020,Laboratory,Richard   Frieman,30
+Physical Geology Laboratory,91400,GEO,101,4,Undergraduate ,3,Class,9:40 am - 12:35 pm,R,Shineman Center 372,Fall2020,Laboratory,David   Valentino,30
+Environmental Sustainability,90998,GEO,115,5,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Justin   Stroup,30
+Geology of New York State,95115,GEO,308,6,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 150,Fall2020,Lecture,David   Valentino,30
+Mineralogy,90416,GEO,310,7,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Sheldon Hall M00,Fall2020,Lecture,Nicholas J  DiFrancesco,30
+Mineralogy Lab,90966,GEO,310,1,Undergraduate ,3,Class,9:40 am - 12:35 pm,R,Shineman Center 370,Fall2020,Laboratory,Nicholas J  DiFrancesco,30
+Structural Geology,91977,GEO,330,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 370,Fall2020,Lecture,David   Valentino,30
+Structural Geology Lab,91978,GEO,330,3,Undergraduate ,3,Class,9:40 am - 12:35 pm,T,Shineman Center 370,Fall2020,Laboratory,David   Valentino,30
+Stratigraphy,90832,GEO,420,4,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Marano Campus Center 223,Fall2020,Lecture,Paul Albert  Agle,30
+Stratigraphy Lab,90967,GEO,420,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,R,Shineman Center 370,Fall2020,Laboratory,Paul Albert  Agle,30
+Geomorphology,94101,GEO,450,6,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,Shineman Center 370,Fall2020,Lecture,Justin   Stroup,30
+Elementary German,94481,GER,101,7,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Lanigan Hall 103,Fall2020,Lecture,Patrick   Schultz,30
+Elementary German,95087,GER,101,1,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Ana   Djukic-Cocks,30
+Continuing Elementary German,90294,GER,102,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Ana   Djukic-Cocks,30
+Intermediate German,90295,GER,201,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Ana   Djukic-Cocks,30
+Landeskunde,95188,GER,300,4,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Ana   Djukic-Cocks,30
+Advanced German A,94480,GER,301,5,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Ana   Djukic-Cocks,30
+Principles of Accounting I,92628,ACC,201,6,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Sheldon Hall M00,Fall2020,Lecture,Frank   Garcia,30
+Principles of Accounting I,92631,ACC,201,7,Undergraduate ,3,Class,1:00 pm - 1:55 pm,W,"100% web, no face to face ",Fall2020,Laboratory,Mariama Dioulde  Kante,30
+Principles of Accounting I LAB,92635,ACC,201,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Blessed   Sampa,30
+Principles of Accounting I LAB,92637,ACC,201,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Blessed   Sampa,30
+Principles of Accounting I LAB,92639,ACC,201,3,Undergraduate ,3,Class,8:25 am - 9:20 am,R,"100% web, no face to face ",Fall2020,Laboratory,Nicholas C  Duffy,30
+Principles of Accounting I,92634,ACC,201,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Victoria   Chiu,30
+Principles of Accounting I,92636,ACC,201,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Victoria   Chiu,30
+Principles of Accounting I,92638,ACC,201,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Andrea Maria Anastasia  Pagano,30
+Principles Of Accounting II,92618,ACC,202,7,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Rich Hall 320,Fall2020,Lecture,Heather   Losi,30
+Principles Accounting II Lab,90979,ACC,202,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Mackenzie S  Maxam,30
+Principles Accounting II Lab,91190,ACC,202,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Mariama Dioulde  Kante,30
+Principles Of Accounting IILab,91310,ACC,202,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Trentin Cole  Carentz,30
+Principles Of Accounting II,92622,ACC,202,4,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Rich Hall 223,Fall2020,Lecture,Melissa Lynn  Schrader,30
+Principles Of Accounting IILab,91510,ACC,202,5,Undergraduate ,3,Class,8:25 am - 9:20 am,T,"100% web, no face to face ",Fall2020,Laboratory,Nicholas C  Duffy,30
+Principles Of Accounting II,92620,ACC,202,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heather   Losi,30
+Principles Of Accounting II,92619,ACC,202,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heather   Losi,30
+Intermediate Accounting I Lab,90961,ACC,301,1,Undergraduate ,3,Class,8:00 am - 8:55 am,M,"100% web, no face to face ",Fall2020,Laboratory,Matthew J  Poteralski,30
+Intermediate Accounting I Lab,90962,ACC,301,2,Undergraduate ,3,Class,8:00 am - 8:55 am,W,"100% web, no face to face ",Fall2020,Laboratory,Bryan Tyler  Czarnecki,30
+Intermediate Accounting I,90042,ACC,301,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting I,90038,ACC,301,4,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Andrea Maria Anastasia  Pagano,30
+Intermediate Accounting II,90043,ACC,302,5,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Rich Hall 221,Fall2020,Lecture,Laura Bea  Lamb,30
+Accounting Information Systems,90553,ACC,305,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Thomas J  Tribunella,30
+Cost Accounting,90050,ACC,310,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Victoria   Chiu,30
+Managerial Accounting,91971,ACC,320,1,Undergraduate ,3,Class,5:30 pm - 6:50 pm,TR,Rich Hall 221,Fall2020,Lecture,David F  DiRoma,30
+Acct as Management Tool,95203,ACC,321,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Laura Bea  Lamb,30
+Acct as Management Tool,93043,ACC,321,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Laura Bea  Lamb,30
+Federal Tax Accounting I,90053,ACC,330,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Dean   Crawford,30
+Federal Tax Accounting I,90055,ACC,330,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Dean   Crawford,30
+Auditing,90942,ACC,430,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Dean   Crawford,30
+Content Methods; English,90081,ADO,310,7,Undergraduate ,3,Class,4:00 pm - 8:00 pm,T,Park Hall 315,Fall2020,Recitation or Discussion,Sharon G  Kane,30
+Content Methods; English,95221,ADO,310,1,Undergraduate ,3,Class,4:00 pm - 8:00 pm,T,"100% web, no face to face ",Fall2020,Recitation or Discussion,Christine M.  Walsh,30
+Field Placement III: English,95222,ADO,313,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Christine M.  Walsh,30
+Content Methds:2nd/ForeignLang,90084,ADO,320,3,Undergraduate ,3,Class,5:15 pm - 9:15 pm,M,Wilber 115,Fall2020,Recitation or Discussion,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90088,ADO,330,4,Undergraduate ,3,Class,4:10 pm - 8:10 pm,W,"100% web, no face to face ",Fall2020,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III:Mathematic,90090,ADO,333,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Jean E  Hallagan,30
+Content Methods: Science,90743,ADO,340,6,Undergraduate ,3,Class,5:00 pm - 9:00 pm,T,"100% web, no face to face ",Fall2020,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90093,ADO,343,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Eric   Olson,30
+Content Methods:Social Studies,90095,ADO,350,1,Undergraduate ,3,Class,4:30 pm - 8:30 pm,T,"100% web, no face to face ",Fall2020,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field PlacementIII:Social Stud,90098,ADO,353,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Ritu   Radhakrishnan,30
+Content Methods: English,90082,ADO,510,3,Graduate ,3,Class,4:00 pm - 8:00 pm,T,Park Hall 315,Fall2020,Recitation or Discussion,Sharon G  Kane,30
+Content Methods:2ndForeignLang,90085,ADO,520,4,Graduate ,3,Class,5:15 pm - 9:15 pm,M,Wilber 115,Fall2020,Recitation or Discussion,Joanne E.  O'Toole,30
+Content Methods: Mathematics,90089,ADO,530,5,Graduate ,3,Class,4:10 pm - 8:10 pm,W,"100% web, no face to face ",Fall2020,Recitation or Discussion,Jean E  Hallagan,30
+Field Placement III: Math,90091,ADO,533,6,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Jean E  Hallagan,30
+Content Methods:Science,90092,ADO,540,7,Graduate ,3,Class,5:00 pm - 9:00 pm,T,"100% web, no face to face ",Fall2020,Recitation or Discussion,Eric   Olson,30
+Field Placement III: Science,90094,ADO,543,1,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Eric   Olson,30
+Content Methods:Social Studies,94760,ADO,550,2,Graduate ,3,Class,4:30 pm - 8:30 pm,T,"100% web, no face to face ",Fall2020,Recitation or Discussion,Ritu   Radhakrishnan,30
+Field Placement III:Soc Studie,90097,ADO,553,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Ritu   Radhakrishnan,30
+Archaeology & Human Evolution,92378,ANT,111,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kathleen A  Blake,30
+Archaeology & Human Evolution,90190,ANT,111,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Alanna E  Ossa,30
+Cultural Anthropology,93536,ANT,112,6,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Hewitt Union 104,Fall2020,Lecture,Rebecca W  Peters,30
+Cultural Anthropology,90192,ANT,112,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Jing   Lei,30
+FYSC:The Talking Dead,95132,ANT,198,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kathleen A  Blake,30
+Anthropological Theory Part I,91026,ANT,210,2,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Rebecca W  Peters,30
+T:Peoples&Culture of Africa,94918,ANT,301,3,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Rebecca W  Peters,30
+Teaching Anthropology,93546,ANT,302,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Tutorial,Alanna E  Ossa,30
+Research Methods,90194,ANT,310,5,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Mahar Hall 204,Fall2020,Lecture,Alanna E  Ossa,30
+Archaeology of the Old World,94917,ANT,341,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Alanna E  Ossa,30
+Forensic Anthropology,91105,ANT,354,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kathleen A  Blake,30
+North American Indians,90836,ANT,375,1,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Michael   Chaness,30
+Intro to the Visual Arts,91651,ART,100,2,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,Lanigan Hall 104,Fall2020,Lecture,William   DeMott,30
+Intro to the Visual Arts,93297,ART,100,3,Undergraduate ,3,Class,6:00 pm - 7:25 pm,MW,Lanigan Hall 103,Fall2020,Lecture,William   DeMott,30
+T: Ceramics,94986,ART,102,4,Undergraduate ,3,Class,5:30 pm - 7:30 pm,MW,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+Design Concepts I-2D,90268,ART,105,5,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 213,Fall2020,Studio,Richard   Metzgar,30
+Design Concepts I-2D,91212,ART,105,6,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 213,Fall2020,Studio,Suzanne L.  Beason,30
+Design Concepts I-2D,91224,ART,105,7,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 213,Fall2020,Studio,Joseph Mario  Romano,30
+Design Concepts I-2D,90267,ART,105,1,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 213,Fall2020,Studio,Suzanne L.  Beason,30
+Design Concepts II-3D,90269,ART,106,2,Undergraduate ,3,Class,9:40 am - 12:30 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+Design Concepts II-3D,91204,ART,106,3,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 207,Fall2020,Studio,Richard   Metzgar,30
+Design Concepts II-3D,95205,ART,106,4,Undergraduate ,3,Class,6:00 pm - 9:00 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+Digital Media,91200,ART,207,5,Undergraduate ,3,Class,9:15 am - 11:20 am,MWF,Tyler Hall 217,Fall2020,Studio,Elizabeth Nichole  Hunt,30
+Digital Media,94178,ART,207,6,Undergraduate ,3,Class,11:45 am - 1:50 pm,MWF,Tyler Hall 217,Fall2020,Studio,Elizabeth Nichole  Hunt,30
+Digital Media,91935,ART,207,7,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 217,Fall2020,Studio,Melissa   Martin,30
+Typography,91225,ART,209,1,Undergraduate ,3,Class,9:15 am - 11:20 am,MWF,Lanigan Hall 34,Fall2020,Studio,Donna L  Greene,30
+Typography,91782,ART,209,2,Undergraduate ,3,Class,11:45 am - 1:50 pm,MWF,Lanigan Hall 34,Fall2020,Studio,Donna L  Greene,30
+Typography,95206,ART,209,3,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Lanigan Hall 34,Fall2020,Studio,Donna L  Greene,30
+Drawing I,93883,ART,210,4,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 214,Fall2020,Studio,Jason M  Cheney,30
+Drawing I,94194,ART,210,5,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 214,Fall2020,Studio,Joseph Mario  Romano,30
+Drawing I,94195,ART,210,6,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 214,Fall2020,Studio,Juan   Perdiguero,30
+Drawing I,94828,ART,210,7,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 214,Fall2020,Studio,Kristy   Hoover,30
+Painting I,92787,ART,215,1,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 225,Fall2020,Studio,Christopher   McEvoy,30
+Intro to Printmaking,90271,ART,225,2,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 200,Fall2020,Studio,Kelly L  Roe,30
+Ceramics I,94771,ART,230,3,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+Intro to Digital Photography,90273,ART,243,4,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 216,Fall2020,Studio,Peter   Cardone,30
+Intro to Digital Photography,90899,ART,243,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 216,Fall2020,Studio,Peter   Cardone,30
+Intro to Digital Photography,91205,ART,243,6,Undergraduate ,3,Class,6:00 pm - 9:00 pm,TR,Tyler Hall 216,Fall2020,Studio,Megan G  King,30
+Sculpture I,94964,ART,245,7,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+West Hert I-Survy Art I,90274,ART,250,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa K  Langlois,30
+West HertII-Survy Art II,91661,ART,251,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa A  Seppi,30
+Figure Drawing I,90733,ART,300,3,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Type and Image,95204,ART,307,4,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Fall2020,Studio,Amy E.  Bartell,30
+Type and Image,91211,ART,307,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 217,Fall2020,Studio,Melissa   Martin,30
+Multimedia I,94978,ART,309,6,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Multimedia I,94975,ART,309,7,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Intermediate Drawing,90275,ART,310,1,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Intro to Illustration I,93750,ART,312,2,Undergraduate ,3,Class,6:00 pm - 9:00 pm,TR,Tyler Hall 213,Fall2020,Studio,Jason M  Cheney,30
+Painting II,93583,ART,315,3,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 225,Fall2020,Studio,Christopher   McEvoy,30
+Painting III,93584,ART,316,4,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 225,Fall2020,Studio,Christopher   McEvoy,30
+Web Media I,91214,ART,317,5,Undergraduate ,3,Class,9:15 am - 11:20 am,MWF,Lanigan Hall 36,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+3-D Modeling and Animation,94982,ART,318,6,Undergraduate ,3,Class,11:45 am - 1:50 pm,MWF,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Drawing for Transfer Students,95314,ART,322,7,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 214,Fall2020,Studio,Kristy   Hoover,30
+Drawing for Transfer Students,91267,ART,322,1,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 215,Fall2020,Studio,Christopher   McEvoy,30
+Digital Media-Transfer Student,91213,ART,323,2,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Fall2020,Studio,Amy E.  Bartell,30
+Ceramics II,90829,ART,330,3,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+ST: Designing with or for Comm,94971,ART,333,4,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+ST: Photography Projects,95173,ART,333,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Julieve   Jubin,30
+Art Therapy Practices,94147,ART,336,6,Undergraduate ,3,Class,6:30 pm - 8:30 pm,MW,Tyler Hall 213,Fall2020,Studio,Melissa   Cardone,30
+Intermediate Digital Photo,91260,ART,343,7,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 216,Fall2020,Studio,Julieve   Jubin,30
+Sculpture,94965,ART,345,1,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+20th Century Art,90831,ART,353,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa A  Seppi,30
+History Of Photography,94969,ART,356,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa K  Langlois,30
+Native N. American Indian Art,94974,ART,358,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa A  Seppi,30
+History of Graphic Design,90554,ART,365,5,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 107,Fall2020,Lecture,Cynthia A  Clabough,30
+Asian Art Through Silk Road,94970,ART,374,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa K  Langlois,30
+Intro To Museum Studies,90279,ART,380,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Mahar Hall 204,Fall2020,Lecture,Michael K.  Flanagan,30
+Graphic Design Facility Manage,91215,ART,395,1,Undergraduate ,3,Class,2:00 pm - 5:00 pm,F,Lanigan Hall 34,Fall2020,Studio,Jenilee A.  Ward,30
+"Two Dimensional,Experi.Studio",91230,ART,396,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Juan   Perdiguero,30
+"Two Dimensional,Experi.Studio",91216,ART,396,3,Undergraduate ,3,Class,2:00 pm - 5:00 pm,F,Lanigan Hall 34,Fall2020,Studio,Jenilee A.  Ward,30
+Figure Drawing II,94973,ART,400,4,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Figure Drawing III,94564,ART,401,5,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Commercial Graphic Design,95209,ART,407,6,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Lanigan Hall 34,Fall2020,Lecture,Cynthia A  Clabough,30
+Multimedia II,94979,ART,409,7,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Multimedia II,94976,ART,409,,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Drawing III,94972,ART,410,1,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Traditional Illustration II,93577,ART,412,2,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Cynthia A  Clabough,30
+Digital Illustration II,90280,ART,413,3,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Cynthia A  Clabough,30
+Graphic&InteractiveDesignPract,91222,ART,414,4,Undergraduate ,3,Class,6:00 pm - 9:00 pm,TR,Lanigan Hall 34,Fall2020,Tutorial,Cynthia A  Clabough,30
+Web Media II,91393,ART,417,5,Undergraduate ,3,Class,9:15 am - 11:20 am,MWF,Lanigan Hall 36,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+Adv. Drawing and Painting,94558,ART,422,6,Undergraduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 215,Fall2020,Studio,Juan   Perdiguero,30
+Adv. Problems in Illustration,92816,ART,423,7,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Cynthia A  Clabough,30
+Adv Problems in Printmaking,91652,ART,425,1,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 200,Fall2020,Studio,Kelly L  Roe,30
+Ceramics III,90830,ART,430,2,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+Ceramics IV,94987,ART,431,3,Undergraduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+Advanced Digital Photography,91229,ART,443,4,Undergraduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 216,Fall2020,Studio,Julieve   Jubin,30
+Project Studio 3D/4D Studies,94966,ART,445,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+BFA Exhibition,91210,ART,492,6,Undergraduate ,3,Class,11:45 am - 1:15 pm,F,Tyler Hall 200,Fall2020,Activity,Cynthia A  Clabough,30
+Graduate Studio-Illustration,93805,ART,500,7,Graduate ,3,Class,6:00 pm - 9:00 pm,TR,Tyler Hall 213,Fall2020,Lecture,Jason M  Cheney,30
+Gr Graphic Design-Type&Image,93189,ART,508,1,Graduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 217,Fall2020,Studio,Melissa   Martin,30
+Graduate Multimedia,94980,ART,509,2,Graduate ,3,Class,6:00 pm - 9:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Graduate Multimedia,94977,ART,509,3,Graduate ,3,Class,2:00 pm - 5:00 pm,MW,Lanigan Hall 36,Fall2020,Studio,Cara B  Thompson,30
+Graduate Drawing,94748,ART,510,4,Graduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 215,Fall2020,Lecture,Christopher   McEvoy,30
+Graduate Drawing,94334,ART,510,5,Graduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 215,Fall2020,Lecture,Juan   Perdiguero,30
+Graduate Digital Illustration,91262,ART,513,6,Graduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2020,Lecture,Amy E.  Bartell,30
+Graduate Digital Illustration,94963,ART,513,7,Graduate ,3,Class,2:40 pm - 5:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Cynthia A  Clabough,30
+Grad Prob in Graphic Design,90602,ART,514,1,Graduate ,3,Class,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Fall2020,Activity,Cynthia A  Clabough,30
+Graduate Web Design,91268,ART,517,2,Graduate ,3,Class,9:15 am - 11:20 am,MWF,Lanigan Hall 36,Fall2020,Lecture,Rebecca Wendy  Mushtare,30
+Graduate Critique,94962,ART,519,3,Graduate ,3,Class,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Fall2020,Recitation or Discussion,Cara B  Thompson,30
+Graduate Digital Media,91781,ART,523,4,Graduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 217,Fall2020,Studio,Amy E.  Bartell,30
+Graduate Ceramics,94567,ART,530,5,Graduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 128,Fall2020,Studio,Renqian   Yang,30
+Graduate Ceramics,91264,ART,530,6,Graduate ,3,Class,9:40 am - 12:35 pm,TR,Tyler Hall 128,Fall2020,Lecture,Renqian   Yang,30
+Graduate Topics in Studio Art,95263,ART,533,7,Graduate ,3,Class,9:40 am - 12:35 pm,TR,Lanigan Hall 34,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+GR Photography: Beginning,93579,ART,540,1,Graduate ,3,Class,9:15 am - 12:30 pm,MW,Tyler Hall 216,Fall2020,Studio,Julieve   Jubin,30
+Graduate Sculpture,94967,ART,545,2,Graduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 207,Fall2020,Studio,Benjamin R  Entner,30
+Grad History Graphic Design,91805,ART,565,3,Graduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 107,Fall2020,Lecture,Cynthia A  Clabough,30
+Research Problems in Art Histo,91663,ART,571,4,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa A  Seppi,30
+Research Problems in Art Histo,94180,ART,571,5,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa K  Langlois,30
+Graduate Art Theory & Practice,94568,ART,572,6,Graduate ,3,Class,2:00 pm - 5:00 pm,F,Lanigan Hall 35,Fall2020,Activity,Cynthia A  Clabough,30
+Graduate Art Theory & Practice,90628,ART,572,7,Graduate ,3,Class,TBA,TBA,TBA,Fall2020,Activity,Julieve   Jubin,30
+American Sign Language I,90288,ASL,101,1,Undergraduate ,3,Class,5:00 pm - 6:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Laura   Latray-Corey,30
+Astronomy,90412,AST,100,2,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Scott   Roby,30
+Astronomy,90413,AST,100,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Scott   Roby,30
+Astronomy,90414,AST,100,4,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,"100% web, no face to face ",Fall2020,Lecture,Kenneth Eric  Mauser,30
+Astronomy,90415,AST,100,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Kenneth Eric  Mauser,30
+Astronomy,92978,AST,100,6,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,John   Zielinski,30
+Astronomy,92979,AST,100,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,John   Zielinski,30
+Intro to Health Info Systems,93702,BHI,501,1,Graduate ,3,Class,6:00 pm - 9:00 pm,W,Sonata 202,Fall2020,Lecture,Kevin Edward  Kurzinski,30
+Health Informatics Methods,93704,BHI,502,2,Graduate ,3,Class,6:00 pm - 9:00 pm,M,Sonata 202,Fall2020,Lecture,Isabelle   Bichindaritz,30
+eHealth Systems,93706,BHI,503,3,Graduate ,3,Class,6:00 pm - 9:00 pm,R,Sonata 202,Fall2020,Lecture,Boseon   Byeon,30
+Digital Health,93707,BHI,505,4,Graduate ,3,Class,6:00 pm - 9:00 pm,T,Sonata 202,Fall2020,Lecture,Boseon   Byeon,30
+Database Applications,92181,BHI,508,5,Graduate ,3,Class,11:20 am - 12:40 pm,TR,Shineman Center 448,Fall2020,Lecture,Ioana   Coman,30
+Geospatial/Temporal/NetworkDat,94079,BHI,510,6,Graduate ,3,Class,6:00 pm - 9:00 pm,W,Sonata 303,Fall2020,Lecture,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,95176,BHI,698,7,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Internship,Boseon   Byeon,30
+Graduate Internship in BHI,95177,BHI,698,1,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Internship,Isabelle   Bichindaritz,30
+Project in BHI,95178,BHI,699,2,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Isabelle   Bichindaritz,30
+Project in BHI,95179,BHI,699,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Boseon   Byeon,30
+Thesis in BHI,95180,BHI,700,4,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Isabelle   Bichindaritz,30
+Thesis in BHI,95181,BHI,700,5,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Boseon   Byeon,30
+General Biology,90366,BIO,101,6,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Sheldon Hall M00,Fall2020,Lecture,Andrew   McElwain,30
+General Biology Lab,90963,BIO,101,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Andrew   McElwain,30
+General Biology,95024,BIO,101,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Andrew   McElwain,30
+Biology Seminar,91175,BIO,110,2,Undergraduate ,3,Class,1:00 pm - 1:55 pm,R,Shineman Center 172,Fall2020,Seminar,Richard C  Back,30
+Biology Seminar,91709,BIO,110,3,Undergraduate ,3,Class,3:30 pm - 4:25 pm,W,Shineman Center 122,Fall2020,Seminar,Richard C  Back,30
+Biology Seminar,90728,BIO,110,4,Undergraduate ,3,Class,9:40 am - 11:00 am,T,Shineman Center 174,Fall2020,Seminar,James A  MacKenzie,30
+Biology Seminar,94841,BIO,110,5,Undergraduate ,3,Class,5:30 pm - 6:25 pm,R,Shineman Center 176,Fall2020,Seminar,Karen R  Sime,30
+Biology Seminar,91177,BIO,110,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,T,Shineman Center 150,Fall2020,Seminar,James A  MacKenzie,30
+Biology Seminar,91708,BIO,110,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,R,Shineman Center 150,Fall2020,Seminar,James A  MacKenzie,30
+Biology Seminar,90880,BIO,110,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Christopher H  Chandler,30
+Biology Seminar,90758,BIO,110,2,Undergraduate ,3,Class,9:15 am - 10:10 am,W,"100% web, no face to face ",Fall2020,Seminar,Maria   Sagot,30
+Biology Seminar,95026,BIO,110,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,F,"100% web, no face to face ",Fall2020,Seminar,Maria   Sagot,30
+Biology Seminar,91717,BIO,110,4,Undergraduate ,3,Class,1:00 pm - 1:55 pm,M,"100% web, no face to face ",Fall2020,Seminar,Susan   Hammerly,30
+Biology Seminar,92209,BIO,110,5,Undergraduate ,3,Class,4:10 pm - 5:05 pm,M,"100% web, no face to face ",Fall2020,Seminar,Susan   Hammerly,30
+Molecular/Cellular Found Lab,91173,BIO,120,6,Undergraduate ,3,Class,11:20 am - 2:20 pm,R,Shineman Center 208,Fall2020,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular Found. Lab,91320,BIO,120,7,Undergraduate ,3,Class,2:40 pm - 5:40 pm,T,Shineman Center 208,Fall2020,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular FoundaLAB,92763,BIO,120,1,Undergraduate ,3,Class,2:15 pm - 5:15 pm,W,Shineman Center 208,Fall2020,Laboratory,Yulia   Artemenko,30
+Molecular/Cellular Foundations,91136,BIO,120,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Yulia   Artemenko,30
+Human Biology,95161,BIO,203,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Distance Learning,Elizabeth   Balko,30
+Human Biology,90407,BIO,203,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Cleane L  Medeiros,30
+Understanding Evolution,95261,BIO,207,5,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Peter A  Rosenbaum,30
+Diversity of Life,92958,BIO,220,6,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Jennifer C  Olori,30
+T:Extremophiles,94260,BIO,301,7,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Shineman Center 172,Fall2020,Lecture,Samuel C  McCarthy,30
+Cellular Physiology,93289,BIO,309,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Samuel C  McCarthy,30
+Microbiology Lab,91558,BIO,310,2,Undergraduate ,3,Class,9:15 am - 12:15 pm,W,Shineman Center 212,Fall2020,Laboratory,Peter   Newell,30
+Microbiology Lab,91559,BIO,310,3,Undergraduate ,3,Class,8:00 am - 11:00 am,R,Shineman Center 212,Fall2020,Laboratory,Peter   Newell,30
+Microbiology Lab,92766,BIO,310,4,Undergraduate ,3,Class,1:00 pm - 4:00 pm,R,Shineman Center 212,Fall2020,Laboratory,Peter   Newell,30
+Microbiology,91557,BIO,310,5,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Peter   Newell,30
+Genetics,90408,BIO,315,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Christopher H  Chandler,30
+Laboratory in Genetics,90838,BIO,316,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Poongodi   Geetha-Loganathan,30
+Laboratory in Genetics,95023,BIO,316,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,90839,BIO,316,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Susan   Hammerly,30
+Laboratory in Genetics,91306,BIO,316,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Anthony L  Contento,30
+Laboratory in Genetics,90723,BIO,316,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Nicholas M  Sard,30
+Laboratory in Genetics,90837,BIO,316,5,Undergraduate ,3,Class,5:45 pm - 8:45 pm,R,"100% web, no face to face ",Fall2020,Laboratory,Samuel C  McCarthy,30
+Laboratory in Genetics,90840,BIO,316,6,Undergraduate ,3,Class,5:45 pm - 8:45 pm,T,"100% web, no face to face ",Fall2020,Laboratory,Samuel C  McCarthy,30
+Introductory Ecology Lab,91313,BIO,320,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,C. Eric  Hellquist,30
+Introductory Ecology Lab,91715,BIO,320,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,C. Eric  Hellquist,30
+Introductory Ecology Lab,94522,BIO,320,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,C. Eric  Hellquist,30
+Introductory Ecology,91174,BIO,320,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,C. Eric  Hellquist,30
+Behavioral Biology Lab,94030,BIO,325,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Daniel T  Baldassarre,30
+Behavioral Biology,94031,BIO,325,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Daniel T  Baldassarre,30
+The Plant Kingdom,90908,BIO,340,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Jinyan   Guo,30
+The Plant Kingdom Lab,92963,BIO,340,7,Undergraduate ,3,Class,2:40 pm - 5:40 pm,R,"100% web, no face to face ",Fall2020,Laboratory,Jinyan   Guo,30
+The Plant Kingdom Lab,93552,BIO,340,1,Undergraduate ,3,Class,9:15 am - 12:15 pm,F,"100% web, no face to face ",Fall2020,Laboratory,Jinyan   Guo,30
+Great Lakes Environ. Issues,94029,BIO,363,2,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,"100% web, no face to face ",Fall2020,Lecture,Nicholas M  Sard,30
+The Animal Kingdom Lab,91563,BIO,370,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Michael J  McDonald,30
+The Animal Kingdom Lab,93558,BIO,370,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Michael J  McDonald,30
+The Animal Kingdom,91562,BIO,370,5,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Michael J  McDonald,30
+Evolution,91003,BIO,425,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Shineman Center 176,Fall2020,Lecture,Michael J  McDonald,30
+Evolution,93877,BIO,425,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Daniel T  Baldassarre,30
+Evolution,91181,BIO,425,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Daniel T  Baldassarre,30
+Evolution,91179,BIO,425,2,Undergraduate ,3,Class,2:15 pm - 3:35 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Jinyan   Guo,30
+Research:Field Ecology,93556,BIO,492,3,Undergraduate ,3,Class,2:40 pm - 5:40 pm,T,Rice Creek 121,Fall2020,Lecture,Kamal I  Mohamed,30
+Research: Entomology,91713,BIO,492,4,Undergraduate ,3,Class,10:30 am - 1:30 pm,F,Shineman Center 304,Fall2020,Lecture,Karen R  Sime,30
+Research: Molecular Ecology,91004,BIO,492,5,Undergraduate ,3,Class,2:40 pm - 5:40 pm,R,"100% web, no face to face ",Fall2020,Activity,Nicholas M  Sard,30
+Evolution,91008,BIO,525,6,Graduate ,3,Class,11:20 am - 12:40 pm,TR,Shineman Center 176,Fall2020,Seminar,Michael J  McDonald,30
+Evolution,94506,BIO,525,7,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Daniel T  Baldassarre,30
+Evolution,91009,BIO,525,1,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Daniel T  Baldassarre,30
+Evolution,91180,BIO,525,2,Graduate ,3,Class,2:15 pm - 3:35 pm,MW,"100% web, no face to face ",Fall2020,Seminar,Jinyan   Guo,30
+ProblemInBiology:Field Ecology,93557,BIO,592,3,Graduate ,3,Class,2:40 pm - 5:40 pm,T,Rice Creek 121,Fall2020,Lecture,Kamal I  Mohamed,30
+Research: Entomology,91714,BIO,592,4,Graduate ,3,Class,10:30 am - 1:30 pm,F,Shineman Center 304,Fall2020,Lecture,Karen R  Sime,30
+Business Law I,90060,BLW,280,5,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,91199,BLW,355,6,Undergraduate ,3,Class,6:00 pm - 7:20 pm,TR,Rich Hall 324,Fall2020,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,91677,BLW,355,7,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,Rich Hall 324,Fall2020,Lecture,Catherine   Sullivan,30
+Legal&Regulatory Environ ofBus,94570,BLW,355,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,90054,BLW,355,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,John W  Spring,30
+Legal&Regulatory Environ ofBus,91013,BLW,355,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,John W  Spring,30
+Business Law II,90057,BLW,381,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Mary E  McGowan,30
+Introduction To Mass Media,91553,BRC,108,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jennifer   Fogel,30
+Introduction To Mass Media,92719,BRC,108,6,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Mary   Simone,30
+Soc Hist Amer Radio&TV,92964,BRC,200,7,Undergraduate ,3,Class,6:15 pm - 9:00 pm,M,Lanigan Hall 104,Fall2020,Lecture,Peter E.  Hunn,30
+Broadcast Performance,90225,BRC,215,1,Undergraduate ,3,Class,6:15 pm - 9:00 pm,W,Lanigan Hall 20,Fall2020,Lecture,Peter E.  Hunn,30
+Radio Production,90227,BRC,220,2,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 20,Fall2020,Lecture,Jeffrey N  Bradbury,30
+Integrated Media Writ/Design,93616,BRC,223,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Serenity   Sutherland,30
+Integrated Media Writ/Design,93622,BRC,223,4,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Serenity   Sutherland,30
+Broadcast Newswriting,90228,BRC,229,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Marano Campus Center 206,Fall2020,Lecture,Michael J  Riecke,30
+Broadcast Newswriting,94756,BRC,229,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Mahar Hall 210,Fall2020,Lecture,Catherine J  Loper,30
+Broadcast Newswriting,92726,BRC,229,7,Undergraduate ,3,Class,3:30 pm - 4:50 pm,MW,Mahar Hall 211,Fall2020,Lecture,Catherine J  Loper,30
+Intro Video Production,90229,BRC,235,1,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Lanigan Hall 36,Fall2020,Lecture,Michael   Cleland,30
+Intro Video Production,94728,BRC,235,2,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,Lanigan Hall 36,Fall2020,Lecture,Michael   Cleland,30
+Intro Video Production,91235,BRC,235,3,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Lanigan Hall 20,Fall2020,Lecture,Michael   Cleland,30
+Intro Video Production,92727,BRC,235,4,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 36,Fall2020,Lecture,Francisco   Suarez,30
+Media Economics,92728,BRC,301,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason   Zenor,30
+Media Economics,93037,BRC,301,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Brian   Moritz,30
+Media Management,94629,BRC,305,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Mahar Hall 122,Fall2020,Lecture,David   Crider,30
+Media Management,94630,BRC,305,1,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Lanigan Hall 106,Fall2020,Lecture,David   Crider,30
+Media Management,94691,BRC,305,2,Undergraduate ,3,Class,4:25 pm - 5:45 pm,TR,Mahar Hall 122,Fall2020,Lecture,James R  Lerch,30
+Sound for TV and Film,92952,BRC,308,3,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Lanigan Hall 20,Fall2020,Lecture,Jeffrey N  Bradbury,30
+Sound for TV and Film,92953,BRC,308,4,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Lanigan Hall 20,Fall2020,Lecture,Jeffrey N  Bradbury,30
+Mass Media and the Law,91817,BRC,319,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason   Zenor,30
+Mass Media and the Law,94197,BRC,319,6,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,"100% web, no face to face ",Fall2020,Lecture,David   Crider,30
+Research Methodsfor Mass Media,94198,BRC,325,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Arvind   Diddi,30
+Broadcast News Reporting,90232,BRC,329,1,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Mahar Hall 211,Fall2020,Lecture,Michael J  Riecke,30
+Broadcast News Reporting Lab,90965,BRC,329,2,Undergraduate ,3,Class,2:15 pm - 3:10 pm,W,Lanigan Hall 20,Fall2020,Laboratory,Michael J  Riecke,30
+Sports Broadcasting,91803,BRC,345,3,Undergraduate ,3,Class,6:00 pm - 8:45 pm,T,Lanigan Hall 20,Fall2020,Lecture,James R  Lerch,30
+"Chldrn,Womn&Minori Media",91273,BRC,350,4,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Jennifer   Fogel,30
+Television Criticism,94719,BRC,355,5,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Jennifer   Fogel,30
+Mass Media & Politics,95039,BRC,419,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason   Zenor,30
+Social Networks and the Web,93615,BRC,421,7,Undergraduate ,3,Class,3:30 pm - 4:55 pm,W,"100% web, no face to face ",Fall2020,Lecture,Ulises A  Mejias,30
+Scriptwriting for Television,90233,BRC,428,1,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Lanigan Hall 105,Fall2020,Activity,Francisco   Suarez,30
+Advanced TV Production,94640,BRC,445,2,Undergraduate ,3,Class,3:30 pm - 5:30 pm,MW,Lanigan Hall 20,Fall2020,Laboratory,Michael   Cleland,30
+Global Documentary Production,95037,BRC,460,3,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,Lanigan Hall 105,Fall2020,Lecture,Francisco   Suarez,30
+Teaching Mathematics,94049,CED,330,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Jean E  Hallagan,30
+Teaching Science & Technology,90111,CED,340,5,Undergraduate ,3,Class,3:30 pm - 6:30 pm,M,Wilber 311,Fall2020,Lecture,Richard   Baier,30
+Teaching Science & Technology,90103,CED,340,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Eric   Olson,30
+Teaching Science & Technology,92856,CED,340,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Eric   Olson,30
+Teaching Social Studies,90117,CED,350,1,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Park Hall 206,Fall2020,Lecture,David P.  Maynard,30
+Teaching Social Studies,92864,CED,350,2,Undergraduate ,3,Class,4:30 pm - 7:30 pm,W,"100% web, no face to face ",Fall2020,Lecture,Robyn Lynn  Proud,30
+Teaching Social Studies,90116,CED,350,3,Undergraduate ,3,Class,4:30 pm - 7:30 pm,T,"100% web, no face to face ",Fall2020,Lecture,Robyn Lynn  Proud,30
+Integ  Lang Arts/SocSt Methods,92862,CED,542,4,Graduate ,3,Class,1:00 pm - 4:00 pm,R,Sonata 129,Fall2020,Lecture,Doreen L  Mazzye,30
+Integ  Lang Arts/SocSt Methods,95256,CED,542,5,Graduate ,3,Class,4:00 pm - 8:00 pm,T,"100% web, no face to face ",Fall2020,Lecture,Areli   Schermerhorn,30
+Survey of Chemistry,90435,CHE,101,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Whalmany L  Ounkham,30
+Freshman Seminar,92115,CHE,110,7,Undergraduate ,3,Class,10:30 am - 11:25 am,M,Shineman Center 122,Fall2020,Seminar,Kristin Irene  Gublo,30
+Freshman Seminar,92116,CHE,110,,Undergraduate ,3,Class,10:30 am - 11:25 am,W,Shineman Center 122,Fall2020,Seminar,Kristin Irene  Gublo,30
+General Chemistry-majors only,92792,CHE,111,1,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Park Hall 315,Fall2020,Lecture,Thomas M  Brown,30
+General Chemistry,90437,CHE,111,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Whalmany L  Ounkham,30
+General Chemistry,90438,CHE,111,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Jeffery A.  Schneider,30
+General Chemistry,91453,CHE,111,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Kestutis G  Bendinskas,30
+Laboratory (for Che 111),90443,CHE,113,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,R,Shineman Center 106,Fall2020,Laboratory,Anthony E  Pompa,30
+Laboratory (for Che 111),94824,CHE,113,6,Undergraduate ,3,Class,2:15 pm - 5:10 pm,M,Shineman Center 106,Fall2020,Laboratory,Shelby N  Barnes,30
+Laboratory (for Che 111),90444,CHE,113,7,Undergraduate ,3,Class,2:40 pm - 5:35 pm,T,Shineman Center 104,Fall2020,Laboratory,Jenell R  Gerow,30
+Laboratory (for Che 111),90440,CHE,113,1,Undergraduate ,3,Class,2:40 pm - 5:35 pm,T,Shineman Center 106,Fall2020,Laboratory,Vaea Robert Kasey  Salt-Bernard,30
+Laboratory (for Che 111),90441,CHE,113,2,Undergraduate ,3,Class,2:15 pm - 5:10 pm,W,Shineman Center 106,Fall2020,Laboratory,Anthony E  Pompa,30
+Laboratory (for Che 111),90445,CHE,113,3,Undergraduate ,3,Class,2:15 pm - 5:10 pm,W,Shineman Center 104,Fall2020,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),90442,CHE,113,4,Undergraduate ,3,Class,11:20 am - 2:15 pm,R,Shineman Center 104,Fall2020,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),90608,CHE,113,5,Undergraduate ,3,Class,11:20 am - 2:15 pm,R,Shineman Center 106,Fall2020,Laboratory,Shelby N  Barnes,30
+Laboratory (for Che 111)major,92037,CHE,113,6,Undergraduate ,3,Class,2:15 pm - 5:10 pm,M,Shineman Center 104,Fall2020,Laboratory,Jeffery A.  Schneider,30
+Laboratory (for Che 111),90446,CHE,113,7,Undergraduate ,3,Class,2:40 pm - 5:35 pm,R,Shineman Center 104,Fall2020,Laboratory,Vaea Robert Kasey  Salt-Bernard,30
+Laboratory (for Che 111),91455,CHE,113,1,Undergraduate ,3,Class,8:00 am - 10:55 am,T,Shineman Center 106,Fall2020,Laboratory,Anthony E  Pompa,30
+Laboratory (for Che 111),92038,CHE,113,2,Undergraduate ,3,Class,11:20 am - 2:15 pm,T,Shineman Center 106,Fall2020,Laboratory,Shelby N  Barnes,30
+Laboratory (for Che 111),90439,CHE,113,3,Undergraduate ,3,Class,11:20 am - 2:15 pm,T,Shineman Center 104,Fall2020,Laboratory,Jose   Giler,30
+Laboratory (for Che 111),91870,CHE,113,4,Undergraduate ,3,Class,8:00 am - 10:55 am,R,Shineman Center 106,Fall2020,Laboratory,Vaea Robert Kasey  Salt-Bernard,30
+Laboratory (for Che 111),90783,CHE,113,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Jenell R  Gerow,30
+Chemistry & Public Concern,90447,CHE,209,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Whalmany L  Ounkham,30
+General Chem II,90448,CHE,212,7,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Martha   Bruch,30
+General Chem II,95027,CHE,212,1,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Martha   Bruch,30
+Laboratory (for Che 212),90450,CHE,214,2,Undergraduate ,3,Class,11:20 am - 2:15 pm,R,"100% web, no face to face ",Fall2020,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 212),90449,CHE,214,3,Undergraduate ,3,Class,2:40 pm - 5:35 pm,R,"100% web, no face to face ",Fall2020,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 212),94773,CHE,214,4,Undergraduate ,3,Class,8:00 am - 10:55 am,R,"100% web, no face to face ",Fall2020,Laboratory,Maryanne Wamaitha  Gachema,30
+Laboratory (for Che 212),95032,CHE,214,5,Undergraduate ,3,Class,2:15 pm - 5:10 pm,W,"100% web, no face to face ",Fall2020,Laboratory,Maryanne Wamaitha  Gachema,30
+Introductory Organic Chemistry,90451,CHE,230,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Matthew S  Baker,30
+Intro Organic Chem Lab,95134,CHE,233,7,Undergraduate ,3,Class,11:20 am - 2:15 pm,R,Shineman Center 101,Fall2020,Laboratory,Julian Clifford  Barber,30
+Intro Organic Chem Lab,95135,CHE,233,1,Undergraduate ,3,Class,2:40 pm - 5:35 pm,R,Shineman Center 101,Fall2020,Laboratory,Jenell R  Gerow,30
+Intro Organic Chem Lab,95136,CHE,233,2,Undergraduate ,3,Class,5:55 pm - 8:50 pm,R,Shineman Center 101,Fall2020,Laboratory,Julian Clifford  Barber,30
+Intro Organic Chem Lab,95309,CHE,233,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Laboratory,Kristin Irene  Gublo,30
+Criminalistic Chemistry,90455,CHE,305,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Shokouh H  Haddadi,30
+Analytical Chemistry,95190,CHE,322,5,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 172,Fall2020,Lecture,Shokouh H  Haddadi,30
+Analytical Chem Lab,95137,CHE,323,6,Undergraduate ,3,Class,2:40 pm - 6:40 pm,R,Shineman Center 205,Fall2020,Laboratory,Whalmany L  Ounkham,30
+Organic Chemistry-Majors only,91305,CHE,331,7,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 175,Fall2020,Lecture,Fehmi   Damkaci,30
+Organic Chemistry,90456,CHE,331,1,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Matthew S  Baker,30
+Organic Chem Lab,95144,CHE,333,2,Undergraduate ,3,Class,8:00 am - 10:55 am,T,Shineman Center 101,Fall2020,Laboratory,Angela Marie  Frampton,30
+Organic Chem Lab,95145,CHE,333,3,Undergraduate ,3,Class,11:20 am - 2:15 pm,T,Shineman Center 101,Fall2020,Laboratory,Angela Marie  Frampton,30
+Organic Chem Lab,95146,CHE,333,4,Undergraduate ,3,Class,2:40 pm - 5:35 pm,T,Shineman Center 101,Fall2020,Laboratory,Emma K  Kuczkowski,30
+Organic Chem Lab,95147,CHE,333,5,Undergraduate ,3,Class,2:15 pm - 5:10 pm,W,Shineman Center 101,Fall2020,Laboratory,Christopher Remy  Serrano,30
+Organic Chem Lab,95148,CHE,333,6,Undergraduate ,3,Class,5:30 pm - 8:25 pm,M,Shineman Center 101,Fall2020,Laboratory,Angela Marie  Frampton,30
+Organic Chem Lab,95149,CHE,333,7,Undergraduate ,3,Class,10:30 am - 1:25 pm,M,Shineman Center 101,Fall2020,Laboratory,Emma K  Kuczkowski,30
+Organic Chem Lab,95151,CHE,333,1,Undergraduate ,3,Class,2:15 pm - 5:10 pm,M,Shineman Center 101,Fall2020,Laboratory,Christopher Remy  Serrano,30
+Organic Chem Lab,95277,CHE,333,2,Undergraduate ,3,Class,10:30 am - 1:25 pm,W,"100% web, no face to face ",Fall2020,Laboratory,Christopher Remy  Serrano,30
+Physical Chemistry,90461,CHE,341,3,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Martha   Bruch,30
+Comp Physical Chem Lab,91754,CHE,343,4,Undergraduate ,3,Class,1:00 pm - 5:00 pm,T,"100% web, no face to face ",Fall2020,Laboratory,Martha   Bruch,30
+Instrumental Analysis,91624,CHE,425,5,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 176,Fall2020,Lecture,Vadoud H  Niri,30
+Instrumental Analysis Lab,95139,CHE,426,6,Undergraduate ,3,Class,1:00 pm - 5:00 pm,W,Shineman Center 205,Fall2020,Laboratory,Vadoud H  Niri,30
+Inorganic Chemistry,90463,CHE,451,7,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Shineman Center 172,Fall2020,Lecture,Thomas M  Brown,30
+Inorganic Chem Lab,95159,CHE,453,1,Undergraduate ,3,Class,2:15 pm - 5:10 pm,M,Shineman Center 207,Fall2020,Laboratory,Thomas M  Brown,30
+Biochemistry,90464,CHE,461,2,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Kestutis G  Bendinskas,30
+Biochemistry Lab,95142,CHE,463,3,Undergraduate ,3,Class,5:30 pm - 8:25 pm,M,"100% web, no face to face ",Fall2020,Laboratory,Julia   Koeppe,30
+Biochemistry Lab,95141,CHE,463,4,Undergraduate ,3,Class,2:15 pm - 5:10 pm,M,"100% web, no face to face ",Fall2020,Laboratory,Kestutis G  Bendinskas,30
+Biochemistry Lab,95143,CHE,463,5,Undergraduate ,3,Class,2:40 pm - 5:35 pm,T,"100% web, no face to face ",Fall2020,Laboratory,Julia   Koeppe,30
+T: Enzymes,95122,CHE,501,6,Graduate ,3,Class,9:40 am - 11:00 am,TR,Park Hall 315,Fall2020,Lecture,Julia   Koeppe,30
+STAC: Advanced Elctro Analytic,95030,CHE,529,7,Graduate ,3,Class,11:20 am - 12:40 pm,TR,Shineman Center 185,Fall2020,Lecture,Vadoud H  Niri,30
+Advanced Organic Spectroscopy,95028,CHE,540,1,Graduate ,3,Class,11:45 am - 12:40 pm,MWF,Park Hall 315,Fall2020,Lecture,Fehmi   Damkaci,30
+STIC: Solids,94476,CHE,559,2,Graduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 172,Fall2020,Lecture,Casey C  Raymond,30
+Biochemistry Laboratory,90467,CHE,561,3,Graduate ,3,Class,2:15 pm - 5:10 pm,M,"100% web, no face to face ",Fall2020,Laboratory,Kestutis G  Bendinskas,30
+Biochemistry,90466,CHE,561,4,Graduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Kestutis G  Bendinskas,30
+Elementary Chinese,90818,CHI,101,5,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Ching Hung  Hsiao,30
+Integrated Media Theory/Design,93601,CMA,400,6,Undergraduate ,3,Class,4:30 pm - 7:15 pm,W,"100% web, no face to face ",Fall2020,Lecture,Serenity   Sutherland,30
+Intro to Cognitive Science,90473,COG,166,7,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,John K  Lindstedt,30
+Program/Knowledge Representati,94074,COG,241,1,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Shineman Center 183,Fall2020,Lecture,Aleksandar V  Pantaleev,30
+Program/Knowledge Representati,91457,COG,241,2,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 174,Fall2020,Lecture,James P  Early,30
+"Brains, Minds, & Consciousness",91133,COG,266,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Theo   Rhodes,30
+Comp Models of Cognitive Sci,93711,COG,366,4,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Craig   Graci,30
+Cognitive Systems,93534,COG,435,5,Undergraduate ,3,Class,8:40 am - 10:05 am,MW,"100% web, no face to face ",Fall2020,Lecture,Theo   Rhodes,30
+Semiotics & Study of Meaning,93802,COG,444,6,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,David   Vampola,30
+Foundations Of Communication,90234,COM,100,7,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Jessica K  Reeher,30
+CriticalThink/PublicSpeak,91057,COM,210,1,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Mahar Hall 202,Fall2020,Lecture,Jill M  Ennis,30
+Critical Thinking/Public Speak,92357,COM,210,2,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Lanigan Hall 107,Fall2020,Lecture,Thomas   Downs,30
+Critical Thinking/Public Speak,91322,COM,210,3,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Mahar Hall 106,Fall2020,Lecture,Mary   Simone,30
+Critical Thinking/Public Speak,91029,COM,210,4,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Christine M  Hirsch,30
+Critical Thinking/Public Speak,91275,COM,210,5,Undergraduate ,3,Class,7:00 pm - 8:25 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Judith Ann  Roberts,30
+Critical Thinking/Public Speak,91533,COM,210,6,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Christine M  Hirsch,30
+Critical Thinking/Public Speak,90235,COM,210,7,Undergraduate ,3,Class,4:40 pm - 7:25 pm,T,"100% web, no face to face ",Fall2020,Lecture,Penny S  Morley,30
+Strategic Communication in Bus,91491,COM,211,1,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Lanigan Hall 103,Fall2020,Seminar,Kim A.  Park,30
+Strategic Communication in Bus,91853,COM,211,2,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Lanigan Hall 103,Fall2020,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91526,COM,211,3,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 104,Fall2020,Seminar,Amy   Vergamini,30
+Strategic Communication in Bus,91486,COM,211,4,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Mahar Hall 102,Fall2020,Seminar,James Alan  Dunagan,30
+Strategic Communication in Bus,91488,COM,211,5,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,Lanigan Hall 103,Fall2020,Seminar,Anastasia   Gagas,30
+Strategic Communication in Bus,91492,COM,211,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Mahar Hall 118,Fall2020,Seminar,James Alan  Dunagan,30
+Strategic Communication in Bus,94751,COM,211,7,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Mahar Hall 107,Fall2020,Seminar,Rose Marie   Crisalli,30
+Strategic Communication in Bus,94752,COM,211,1,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Mahar Hall 107,Fall2020,Seminar,Rose Marie   Crisalli,30
+Strategic CommuniBus-LC,92736,COM,211,2,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,Mahar Hall 107,Fall2020,Seminar,Rose Marie   Crisalli,30
+Strategic Comm in Bus,91485,COM,211,3,Undergraduate ,3,Class,5:30 pm - 6:50 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Judith Ann  Roberts,30
+Strategic Communication in Bus,91527,COM,211,4,Undergraduate ,3,Class,8:00 am - 8:55 am,MWF,"100% web, no face to face ",Fall2020,Seminar,Mallory L  Bower,30
+Strategic Communication in Bus,91487,COM,211,5,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Jacob Richard  Byron,30
+Strategic Communication in Bus,91525,COM,211,6,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Jacob Richard  Byron,30
+Interpersonal Communication,91442,COM,212,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Katherine   Thweatt,30
+Interpersonal Communication,91291,COM,212,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heidi   Bulk,30
+Interpersonal Communication,92057,COM,212,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heidi   Bulk,30
+Survey Of Public Relations,90239,COM,215,3,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Lindsay Marie  McCluskey,30
+Survey Of Public Relations,90240,COM,215,4,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Taejin   Jung,30
+Group Interaction & Discussion,92048,COM,240,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Lanigan Hall 104,Fall2020,Lecture,Jill M  Ennis,30
+Communication Theories,90238,COM,301,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Andrea J  Vickery,30
+Communication Theories,91632,COM,301,7,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Andrea J  Vickery,30
+Message Criticism,90727,COM,302,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heidi   Bulk,30
+Message Criticism,91531,COM,302,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Heidi   Bulk,30
+PublicRelationsWriting&MassMed,91630,COM,313,3,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 102,Fall2020,Lecture,Kathleen   White,30
+Design & Layout For Media,91691,COM,315,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Lanigan Hall 36,Fall2020,Lecture,Woomi   Shim,30
+Design & Layout For Media,91692,COM,315,5,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Lanigan Hall 36,Fall2020,Lecture,Woomi   Shim,30
+Public Relations Research,92047,COM,317,6,Undergraduate ,3,Class,8:00 am - 8:55 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Joseph Earl  Stabb,30
+Argumentation & Debate,91822,COM,350,7,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Lanigan Hall 103,Fall2020,Lecture,Thomas   Downs,30
+Organizational Communication,94203,COM,365,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Christine M  Hirsch,30
+Communication Ethics,94636,COM,380,2,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Christine M  Hirsch,30
+T:Principles&PracticesFundrais,95036,COM,395,3,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Joseph Earl  Stabb,30
+Communication Research Methods,94647,COM,403,4,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Jenny   Rosenberg,30
+Case Studies Public Relations,90241,COM,415,5,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Lanigan Hall 102,Fall2020,Lecture,Kathleen   White,30
+Case Studies Public Relations,95219,COM,415,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lindsay Marie  McCluskey,30
+Capstone in Public Relations,90242,COM,416,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Taejin   Jung,30
+InterculturalCommunication,92968,COM,422,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amy B  McHugh,30
+Communication/Service Learning,91444,COM,490,2,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Jenny   Rosenberg,30
+Int to Strategic Communication,94645,COM,500,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Katherine   Thweatt,30
+Applied Communication Theory,94646,COM,501,4,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Andrea J  Vickery,30
+Issues & Careers Human Service,90176,CPS,308,5,Undergraduate ,3,Class,4:20 pm - 7:20 pm,T,"100% web, no face to face ",Fall2020,Lecture,Barbara   Streets,30
+Introduction to Counseling,90177,CPS,310,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Sheldon Hall M00,Fall2020,Lecture,Michael G  Mullen,30
+Introduction to Counseling,93003,CPS,310,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Kristin Renee  MacDonald,30
+Intro to Family,90178,CPS,391,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Charlene   Harris,30
+Intro to Family,93004,CPS,391,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Charlene   Harris,30
+Intr to Expressive Art Therapy,92211,CPS,393,3,Undergraduate ,3,Class,9:15 am - 12:00 pm,M,"100% web, no face to face ",Fall2020,Lecture,Kyle Richard  Dzintars,30
+Intr to Expressive Art Therapy,90724,CPS,393,4,Undergraduate ,3,Class,1:00 pm - 3:45 pm,M,"100% web, no face to face ",Fall2020,Lecture,Kristin Renee  MacDonald,30
+Psych Found,Personality,90182,,5,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Daniel   McManus,30
+Psych Found,Personality,90183,,6,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa   Duffy,30
+Psych Found,Personality,91170,,7,Graduate ,3,Class,1:00 pm - 3:45 pm,T,"100% web, no face to face ",Fall2020,Lecture,Jason   Duffy,30
+Psych Found,Development,91301,,1,Graduate ,3,Class,4:30 pm - 7:15 pm,M,Lanigan Hall 106,Fall2020,Lecture,Jason   Duffy,30
+Psych Found,Development,91271,,2,Graduate ,3,Class,5:00 pm - 7:45 pm,T,"100% web, no face to face ",Fall2020,Lecture,Carlo   Cuccaro,30
+Found. Mental Health Coun,91172,CPS,508,3,Graduate ,3,Class,5:00 pm - 7:45 pm,M,"100% web, no face to face ",Fall2020,Lecture,Sarah F  Spiegelhoff,30
+Counseling Theory & Process,90188,CPS,510,4,Graduate ,3,Class,1:00 pm - 3:45 pm,W,Wilber 311,Fall2020,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,90189,CPS,510,5,Graduate ,3,Class,1:00 pm - 3:35 pm,M,Lanigan Hall 105,Fall2020,Lecture,Jason   Duffy,30
+Counseling Theory & Process,90191,CPS,510,6,Graduate ,3,Class,9:30 am - 12:15 pm,W,Wilber B8,Fall2020,Lecture,Jodi Ann  Mullen,30
+Counseling Theory & Process,91171,CPS,510,7,Graduate ,3,Class,5:30 pm - 8:15 pm,W,"100% web, no face to face ",Fall2020,Lecture,Sarah F  Spiegelhoff,30
+Internship Mental Health Couns,91481,CPS,515,1,Graduate ,3,Class,3:00 pm - 6:00 pm,T,"100% web, no face to face ",Fall2020,Internship,Tiphanie   Gonzalez,30
+Internship Mental Health Couns,91576,CPS,515,2,Graduate ,3,Class,3:00 pm - 6:00 pm,T,"100% web, no face to face ",Fall2020,Internship,Tiphanie   Gonzalez,30
+Internship Mental Health Couns,92349,CPS,515,3,Graduate ,3,Class,9:00 am - 12:00 pm,T,"100% web, no face to face ",Fall2020,Internship,Jason   Duffy,30
+Intern:Alcohol/Substance Couns,91480,CPS,516,4,Graduate ,3,Class,3:00 pm - 6:00 pm,T,"100% web, no face to face ",Fall2020,Internship,Tiphanie   Gonzalez,30
+Intern:Alcohol/Substance Couns,91825,CPS,516,5,Graduate ,3,Class,9:00 am - 12:00 pm,T,"100% web, no face to face ",Fall2020,Internship,Jason   Duffy,30
+Orientation to Counsel.Profess,90195,CPS,530,6,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Sean   Finnerty,30
+Intro to Group Process,90196,CPS,541,7,Graduate ,3,Class,4:10 pm - 8:10 pm,M,"100% web, no face to face ",Fall2020,Lecture,Daniel   McManus,30
+Ethno-cult Aspects of Trauma,91746,CPS,559,1,Graduate ,3,Class,4:10 pm - 7:30 pm,W,"100% web, no face to face ",Fall2020,Lecture,Barbara   Streets,30
+Chem Dependency & Treatment,94240,CPS,560,2,Graduate ,3,Class,6:00 pm - 8:40 pm,R,Wilber 311,Fall2020,Lecture,John M  Randall,30
+Voc Dev & Decision-Making,90197,CPS,574,3,Graduate ,3,Class,8:30 am - 12:00 pm,T,"100% web, no face to face ",Fall2020,Lecture,Barbara   Streets,30
+Foundtn of Psy & Edu Appraisal,90198,CPS,585,4,Graduate ,3,Class,9:30 am - 12:15 pm,W,Wilber 311,Fall2020,Lecture,Michelle S  Storie,30
+Intro. Expressive Art Therapy,92212,CPS,590,5,Graduate ,3,Class,9:15 am - 12:00 pm,M,"100% web, no face to face ",Fall2020,Lecture,Kyle Richard  Dzintars,30
+Intro. Expressive Art Therapy,91001,CPS,590,6,Graduate ,3,Class,1:00 pm - 3:45 pm,M,"100% web, no face to face ",Fall2020,Lecture,Kristin Renee  MacDonald,30
+Practicum in School Psych,91182,CPS,613,7,Graduate ,3,Class,9:30 am - 12:05 pm,T,"100% web, no face to face ",Fall2020,Practicum,James L  McDougal,30
+Practicum in School Psych,90210,CPS,613,1,Graduate ,3,Class,9:30 am - 12:05 pm,T,"100% web, no face to face ",Fall2020,Practicum,Michelle S  Storie,30
+Field Study in Couns Serv,95315,CPS,615,2,Graduate ,3,Class,TBA,TBA,TBA,Fall2020,Tutorial,Michael   LeBlanc,30
+Internship: School Counseling,91748,CPS,618,3,Graduate ,3,Class,12:30 pm - 3:00 pm,F,"100% web, no face to face ",Fall2020,Internship,Sean   Finnerty,30
+Consultn Counslrs & Sch Psy,90211,CPS,686,4,Graduate ,3,Class,12:30 pm - 3:05 pm,T,Wilber 311,Fall2020,Lecture,James L  McDougal,30
+Academic & Educ. Intervention,90212,CPS,688,5,Graduate ,3,Class,4:00 pm - 6:45 pm,W,Wilber 311,Fall2020,Seminar,Michelle S  Storie,30
+Intro to Criminal Justice,94536,CRJ,101,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Diane Marie  Brand,30
+Intro to Courts & Judic Procs,94517,CRJ,220,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Karel   Kurst-Swanger,30
+Intro to Courts & Judic Procs,94533,CRJ,220,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Margaret A  Schmuhl,30
+T:Criminal Profiling,95191,CRJ,300,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marthinus   Koen,30
+"T:Race,Crime& Criminal Justice",95268,CRJ,300,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kirsten   Paap,30
+The Death Penalty,95049,CRJ,313,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Margaret A  Schmuhl,30
+The Poor and the Courts,95269,CRJ,325,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Nolana   McKinstry,30
+Prof & Eth Dilemmas in CRJ,94547,CRJ,326,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Richard M  Cocks,30
+Crime and the Media,95047,CRJ,330,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jaclyn   Schildkraut,30
+Crime Theories & Victimization,95043,CRJ,333,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marthinus   Koen,30
+Crime Theories & Victimization,94524,CRJ,333,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Shamus   Smith,30
+Criminal Investigation,95052,CRJ,345,3,Undergraduate ,3,Class,5:00 pm - 7:45 pm,R,Sonata 129,Fall2020,Lecture,Michael J.  Walsh,30
+Crime and Society,95207,CRJ,347,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Omara   Rivera-Vazquez,30
+Intro to Criminal Law,95252,CRJ,365,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Donna   Stuccio,30
+Intro to Criminal Law,94520,CRJ,365,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Diane Marie  Brand,30
+Intro to Criminal Law,95051,CRJ,365,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Tamara E  Thomson,30
+Organized Crime,95267,CRJ,366,,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Steven   Minard,30
+Criminal Procedure,95041,CRJ,370,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Roger   Guy,30
+Research Methods CRJ,94527,CRJ,387,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jeremy J  Shifton,30
+Research Methods CRJ,95045,CRJ,387,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marthinus   Koen,30
+Seminar in Criminal Justice,94526,CRJ,401,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Margaret A  Schmuhl,30
+Seminar in Criminal Justice,94528,CRJ,401,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jeremy J  Shifton,30
+Children & the Law,95218,CRJ,461,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Daniel G  Cantone,30
+Practicum in Teaching CrimJust,94523,CRJ,490,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Practicum,Diane Marie  Brand,30
+Practicum in Teaching CrimJust,94529,CRJ,490,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Practicum,Marthinus   Koen,30
+Practicum in Teaching CrimJust,94534,CRJ,490,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Practicum,Margaret A  Schmuhl,30
+Practicum in Teaching CrimJust,94538,CRJ,490,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Practicum,Jeremy J  Shifton,30
+FYSC-The Spoken Word,94994,CRW,198,4,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Lanigan Hall 105,Fall2020,Lecture,Stephanie Sue  Pritchard,30
+Screenwriting: Introductory,91120,CRW,201,5,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,Lanigan Hall 107,Fall2020,Lecture,Michael   Raicht,30
+Screenwriting: Introductory,94090,CRW,201,6,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Juliet A  Giglio,30
+Screenwriting: Introductory,91119,CRW,201,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Juliet A  Giglio,30
+Poetry Writing: Introductory,90709,CRW,205,1,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Christopher S  Citro,30
+Poetry Writing: Introductory,91116,CRW,205,2,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Soma Mei Sheng   Frazier,30
+Poetry Writing: Introductory,92062,CRW,205,3,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Soma Mei Sheng   Frazier,30
+FictionWriting:Introductory,90712,CRW,206,4,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Lanigan Hall 103,Fall2020,Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,90713,CRW,206,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Lanigan Hall 102,Fall2020,Seminar,Christine R  Motto,30
+Fiction Writing: Introductory,91069,CRW,206,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Laura A  Halferty,30
+Playwriting: Introductory,91122,CRW,207,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Park Hall 211,Fall2020,Seminar,Kenneth S  Nichols,30
+Creative Nonfiction Writing: I,93873,CRW,208,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Laura A  Halferty,30
+CreatiNonfiction Writing:I LC,90714,CRW,208,2,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Donna M  Steiner,30
+Creative Nonfiction Writing: I,93748,CRW,208,3,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Seminar,Jessie Rose  Moore,30
+Graphic Storytelling: Intro.,94740,CRW,210,4,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Lanigan Hall 102,Fall2020,Seminar,Michael   Raicht,30
+Living Writer Series,90717,CRW,300,5,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Michael   Raicht,30
+Screenwriting: Intermediate,90718,CRW,301,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Robert T.  O'Connor,30
+Screenwriting: Intermediate,91111,CRW,301,7,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Juliet A  Giglio,30
+Poetry Writing: Intermediate,94086,CRW,305,1,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Seminar,Stephanie Sue  Pritchard,30
+Fiction Writing: Intermediate,90719,CRW,306,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Robert T.  O'Connor,30
+Fiction Writing: Intermediate,91117,CRW,306,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Robert T.  O'Connor,30
+Creative Nonfiction Writ: Inte,94084,CRW,308,4,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Christopher S  Citro,30
+Digital Storytelling,94628,CRW,313,5,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Soma Mei Sheng   Frazier,30
+Tools for Computing,90476,CSC,101,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Robert A.  Zuber,30
+BUS Info System&Computing Tool,91369,CSC,102,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,James   Patridge,30
+BUS Info System&Computing Tool,91534,CSC,102,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Michael L  Smith,30
+BUS Info System&Computing Tool,90820,CSC,102,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,James   Patridge,30
+Comp Tools/Info Lit for EDU,90991,CSC,103,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,David Paul  Parisian,30
+Comp Tools/Info Lit for EDU,90992,CSC,103,4,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Qing   Zhang,30
+Comp Tools/Info Lit for EDU,90993,CSC,103,5,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,David Paul  Parisian,30
+Int To Prog & Prog Language,90483,CSC,120,6,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Shineman Center 448,Fall2020,Lecture,Michael L  Smith,30
+Principles Of Programming,91282,CSC,212,7,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Shineman Center 174,Fall2020,Lecture,Mohammad   Mohammadi,30
+Principles Of Programming Lab,91131,CSC,212,1,Undergraduate ,3,Class,2:15 pm - 3:10 pm,W,Shineman Center 446,Fall2020,Laboratory,Mohammad   Mohammadi,30
+Principles Of Programming-LAB,91370,CSC,212,2,Undergraduate ,3,Class,3:30 pm - 4:25 pm,W,Shineman Center 446,Fall2020,Laboratory,Daniel Ray  Schlegel,30
+Principles Of Programming-Lab,90490,CSC,212,3,Undergraduate ,3,Class,4:45 pm - 5:40 pm,W,Shineman Center 446,Fall2020,Laboratory,Daniel Ray  Schlegel,30
+Principles Of Programming Lab,91126,CSC,212,4,Undergraduate ,3,Class,8:00 am - 8:55 am,R,"100% web, no face to face ",Fall2020,Laboratory,Craig   Graci,30
+Principles Of Programming-Lab,90487,CSC,212,5,Undergraduate ,3,Class,2:40 pm - 3:35 pm,R,Shineman Center 446,Fall2020,Laboratory,Aleksandar V  Pantaleev,30
+Principles Of Programming-Lab,90489,CSC,212,6,Undergraduate ,3,Class,11:20 am - 12:15 pm,R,Shineman Center 446,Fall2020,Laboratory,Douglas   Lea,30
+Principles Of Programming-Lab,90493,CSC,212,7,Undergraduate ,3,Class,1:00 pm - 1:55 pm,R,Shineman Center 446,Fall2020,Laboratory,Jae Woong   Lee,30
+Principles Of Programming-Lab,90702,CSC,212,1,Undergraduate ,3,Class,9:40 am - 10:35 am,R,"100% web, no face to face ",Fall2020,Laboratory,David   Vampola,30
+Principles Of Programming,90485,CSC,212,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Daniel Ray  Schlegel,30
+Foundation Of Computer Science,90494,CSC,221,3,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Shineman Center 170,Fall2020,Lecture,Ioana   Coman,30
+Foundation Of Computer Science,91942,CSC,221,4,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 183,Fall2020,Lecture,Jae Woong   Lee,30
+Computer Orgnztn & Programming,94311,CSC,222,5,Undergraduate ,3,Class,1:00 pm - 2:50 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Sungeun   Kim,30
+Abstract Data Types&Prog Meth,91756,CSC,241,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Shineman Center 183,Fall2020,Lecture,Aleksandar V  Pantaleev,30
+Abstract Data Types&Prog Meth,90496,CSC,241,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 174,Fall2020,Lecture,James P  Early,30
+Systems Programming,91132,CSC,322,1,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Shineman Center 170,Fall2020,Lecture,Jae Woong   Lee,30
+Cryptology,94954,CSC,332,2,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Elizabeth   Wilcox,30
+Programming Languages,93723,CSC,344,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 170,Fall2020,Lecture,Daniel Ray  Schlegel,30
+Data Structures & Algorithms,91134,CSC,365,4,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Shineman Center 170,Fall2020,Lecture,Ioana   Coman,30
+Computational Models Cog Proce,93712,CSC,366,5,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Craig   Graci,30
+Parallel Computing,91939,CSC,375,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Shineman Center 130,Fall2020,Lecture,Douglas   Lea,30
+Software Engineering,94078,CSC,380,7,Undergraduate ,3,Class,8:00 am - 8:55 am,MWF,Shineman Center 170,Fall2020,Lecture,Bastian   Tenbergen,30
+Software Quality,91728,CSC,385,1,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Shineman Center 130,Fall2020,Lecture,Tamaike   Brown,30
+Teaching Computing,90502,CSC,390,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,James   Patridge,30
+Artificl Intell Prog Lang,94949,CSC,416,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Craig   Graci,30
+Graphical User Interfaces,94951,CSC,420,4,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,Shineman Center 130,Fall2020,Lecture,Aleksandar V  Pantaleev,30
+T:Computer Game Design,insDS,94953,,5,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Shineman Center 130,Fall2020,Lecture,Damian   Schofield,30
+T:Computer Game Design,insVM,95192,,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Vanessa   Maike,30
+Compiler Construction,94950,CSC,444,7,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Shineman Center 130,Fall2020,Lecture,Douglas   Lea,30
+Internet of Things/Sensors,95164,CSC,473,1,Undergraduate ,3,Class,3:30 pm - 4:50 pm,MW,Shineman Center 130,Fall2020,Lecture,Jae Woong   Lee,30
+Software Design,94272,CSC,480,2,Undergraduate ,3,Class,6:25 pm - 7:50 pm,TR,Shineman Center 130,Fall2020,Lecture,Bastian   Tenbergen,30
+Software Deployment,94948,CSC,482,3,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 130,Fall2020,Lecture,James P  Early,30
+Software Engineering Sem:I,94072,CSC,495,4,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Shineman Center 176,Fall2020,Seminar,Aleksandar V  Pantaleev,30
+First-Year Practicum-,93784,CSS,111,5,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Tiffany L  Deater,30
+Intro to Cinema Production,91410,CSS,235,6,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,Mahar Hall 108,Fall2020,Lecture,Joshua   Adams,30
+Cinematography,94255,CSS,336,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Studio,Jacob A  Dodd,30
+Motion Picture Editing,93790,CSS,337,1,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Studio,Jacob A  Dodd,30
+Motion Picture Editing,95212,CSS,337,2,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Studio,Jacob A  Dodd,30
+T: Video Art,95133,CSS,395,3,Undergraduate ,3,Class,6:00 pm - 9:00 pm,W,"100% web, no face to face ",Fall2020,Lecture,Tiffany L  Deater,30
+Motion Picture Directing,94609,CSS,435,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Mahar Hall 108,Fall2020,Seminar,Joshua   Adams,30
+Cinema & Environment,95184,CSS,437,5,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Studio,Tiffany L  Deater,30
+Location-based Filmmaking,94988,CSS,491,6,Undergraduate ,3,Class,3:00 pm - 6:00 pm,T,Shineman Center 175,Fall2020,Studio,Joshua   Adams,30
+Begin Modern Dance Technique,94327,DNC,112,7,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Tyler Hall 42,Fall2020,Studio,Brett   Bogardus,30
+Begin Dance Jazz Technique,95078,DNC,116,1,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Tyler Hall 42,Fall2020,Studio,Brett   Bogardus,30
+Adv Ballet Technique,95080,DNC,318,2,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Tyler Hall 42,Fall2020,Studio,Ligia R  Pinheiro,30
+Fund of Administration,92163,EAD,601,3,Graduate ,3,Class,4:30 pm - 10:00 pm,M,"100% web, no face to face ",Fall2020,Lecture,Danielle M  Dehm,30
+Introduction to Engineering,91857,ECE,101,4,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Shineman Center 185,Fall2020,Lecture,Ildar   Sabirianov,30
+Electric Circuits,91127,ECE,211,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Adrian   Ieta,30
+Signals and Systems,94960,ECE,233,6,Undergraduate ,3,Class,10:30 am - 12:20 pm,MWF,Shineman Center 408,Fall2020,Seminar,Mario   Bkassiny,30
+C/C++ Programming Lang,95169,ECE,270,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Mustafa   Ayad,30
+Digital Systems,91130,ECE,271,1,Undergraduate ,3,Class,1:00 pm - 2:50 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Sungeun   Kim,30
+Microelectronic Circuits,93516,ECE,314,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Adrian   Ieta,30
+Power Circuits and Systems,94135,ECE,321,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Hui   Zhang,30
+Electromagnetics,91992,ECE,344,4,Undergraduate ,3,Class,8:00 am - 8:55 am,MWF,Shineman Center 404,Fall2020,Lecture,Ildar   Sabirianov,30
+Control Systems,94584,ECE,365,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Hui   Zhang,30
+Microprocessor Applications,93141,ECE,375,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Mustafa   Ayad,30
+ECE Seminar,92138,ECE,401,7,Undergraduate ,3,Class,3:30 pm - 4:25 pm,W,"100% web, no face to face ",Fall2020,Seminar,Sungeun   Kim,30
+Intro to Digital Imaging,95168,ECE,433,1,Undergraduate ,3,Class,4:45 pm - 5:40 pm,MWF,Shineman Center 406,Fall2020,Lecture,Sungeun   Kim,30
+Communications Systems,91986,ECE,454,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Shineman Center 190,Fall2020,Studio,Mario   Bkassiny,30
+Communications Systems Lab,91987,ECE,454,3,Undergraduate ,3,Class,2:40 pm - 5:25 pm,T,Shineman Center 190,Fall2020,Laboratory,Mario   Bkassiny,30
+Computer Architecture,94134,ECE,475,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Studio,Marianne   Hromalik,30
+Capstone Design Proposal,91993,ECE,491,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marianne   Hromalik,30
+Principles of Microeconomics,90201,ECO,101,6,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,John   Kane,30
+Principles of Microeconomics,91530,ECO,101,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Svetlana   Beilfuss,30
+Principles of Microeconomics,91555,ECO,101,1,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Mihai   Paraschiv,30
+Principles of Microeconomics,91905,ECO,101,2,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Mihai   Paraschiv,30
+Prin of Macroeconomics,91141,ECO,200,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,91360,ECO,200,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,92803,ECO,200,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Brian   Dempsey,30
+Prin of Macroeconomics,90203,ECO,200,6,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,"100% web, no face to face ",Fall2020,Lecture,Glenn   Graham,30
+Intermediate Macro Theory,91361,ECO,300,7,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Mahar Hall 122,Fall2020,Lecture,Elizabeth A  Schmitt,30
+Intermediate Micro Theory,90204,ECO,301,1,Undergraduate ,3,Class,4:40 pm - 6:05 pm,MW,Mahar Hall 122,Fall2020,Lecture,Said   Atri,30
+Hist Economic Doctrines,94935,ECO,322,2,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Mahar Hall 201,Fall2020,Lecture,David R  Andrews,30
+Am Economic Hist before 1900,90206,ECO,326,3,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Mahar Hall 108,Fall2020,Lecture,Ranjit   Dighe,30
+Economic Development,92802,ECO,330,4,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Mahar Hall 204,Fall2020,Lecture,David R  Andrews,30
+Money And Banking,91140,ECO,340,5,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Lanigan Hall 101,Fall2020,Lecture,Craig   Benedict,30
+Money And Banking,91904,ECO,340,6,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Mahar Hall 122,Fall2020,Lecture,Craig   Benedict,30
+Money And Banking,90207,ECO,340,7,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,Mahar Hall 122,Fall2020,Lecture,Craig   Benedict,30
+Political Eco Financial Crises,94573,ECO,341,1,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Mahar Hall 202,Fall2020,Lecture,Ranjit   Dighe,30
+International Trade,91454,ECO,344,2,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Mihai   Paraschiv,30
+Intro to Labor Economics,90209,ECO,350,3,Undergraduate ,3,Class,3:30 pm - 4:50 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Svetlana   Beilfuss,30
+Intro to Labor Economics,91597,ECO,350,4,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Svetlana   Beilfuss,30
+Comparative & International ED,93863,EDU,114,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Corie Anne  Kohlbach,30
+Comparative & International ED,94052,EDU,114,6,Undergraduate ,3,Class,4:30 pm - 7:30 pm,W,"100% web, no face to face ",Fall2020,Lecture,Grace Ann  Maxon-Clarke,30
+FYSC:New Adult Literature,95228,EDU,198,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Marano Campus Center 132,Fall2020,Lecture,Sharon G  Kane,30
+FYSC-Mindful Living,94679,EDU,198,1,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Barbara A  Beyerbach,30
+HIS of EDU in US since 1865,90968,EDU,210,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Robert   Chalwell,30
+HIS of EDU in US since 1865,91236,EDU,210,3,Undergraduate ,3,Class,4:30 pm - 7:30 pm,R,"100% web, no face to face ",Fall2020,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,91239,EDU,210,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,James C  Tschudy,30
+HIS of EDU in US since 1865,92093,EDU,210,5,Undergraduate ,3,Class,4:30 pm - 7:30 pm,T,"100% web, no face to face ",Fall2020,Lecture,Bryon Kieth  Wilcox,30
+HIS of EDU in US since 1865,93864,EDU,210,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,James C  Tschudy,30
+Elected Field Experience,90135,EDU,300,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Sandra L  Kyle,30
+Elected Field Experience,90136,EDU,300,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Amanda   Fenlon,30
+Elected Field Experience,90137,EDU,300,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,Amanda   Fenlon,30
+"School,Pedagogy&Social Justice",90138,EDU,301,3,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Mahar Hall 201,Fall2020,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90877,EDU,301,4,Undergraduate ,3,Class,4:30 pm - 7:30 pm,M,Mahar Hall 201,Fall2020,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90141,EDU,301,5,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Mahar Hall 201,Fall2020,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",90142,EDU,301,6,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,Mahar Hall 201,Fall2020,Lecture,Bonita   Hampton,30
+"School,Pedagogy&Social Justice",94046,EDU,301,7,Undergraduate ,3,Class,4:30 pm - 7:30 pm,W,"100% web, no face to face ",Fall2020,Lecture,Anne   Fairbrother,30
+"School,Pedagogy&Social Justice",94744,EDU,301,1,Undergraduate ,3,Class,4:30 pm - 7:30 pm,M,"100% web, no face to face ",Fall2020,Lecture,Ritu   Radhakrishnan,30
+Field Placement I,90147,EDU,303,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90145,EDU,303,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90146,EDU,303,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90148,EDU,303,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90143,EDU,303,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90144,EDU,303,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90149,EDU,303,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,90901,EDU,303,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Field Placement I,91288,EDU,303,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Activity,David Paul  Parisian,30
+Culturally Relevant Teaching,95224,EDU,380,4,Undergraduate ,3,Class,11:10 am - 12:30 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Alfred   Frederick,30
+Culturally Relevant Teaching,94745,EDU,380,5,Undergraduate ,3,Class,5:00 pm - 8:00 pm,W,"100% web, no face to face ",Fall2020,Lecture,Liane Evelyn  Benedict,30
+Culturally Relevant Teaching,90152,EDU,380,6,Undergraduate ,3,Class,2:20 pm - 3:40 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Alfred   Frederick,30
+Professionalism&Social Justice,90153,EDU,430,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Practicum,David Paul  Parisian,30
+Critical Pedagogy,93733,EDU,500,1,Graduate ,3,Class,5:00 pm - 8:00 pm,T,"100% web, no face to face ",Fall2020,Lecture,Tania   Ramalho,30
+Tech for Professional Developm,92097,EDU,506,2,Graduate ,3,Class,4:30 pm - 7:15 pm,W,"100% web, no face to face ",Fall2020,Recitation or Discussion,Harrison   Yang,30
+Educ of Diverse Populations,95236,EDU,514,3,Graduate ,3,Class,5:00 pm - 8:00 pm,W,"100% web, no face to face ",Fall2020,Lecture,Liane Evelyn  Benedict,30
+Composition I,90158,ENG,101,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Anthony J  Caputa,30
+Composition I,90159,ENG,101,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Anthony J  Caputa,30
+Composition I,90157,ENG,101,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Melissa Ruth  Webb,30
+Composition I,90161,ENG,101,7,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Melissa Ruth  Webb,30
+Composition II,91413,ENG,102,1,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Lanigan Hall 107,Fall2020,Lecture,Stephanie Sue  Pritchard,30
+Composition II,92343,ENG,102,2,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Marano Campus Center 323,Fall2020,Lecture,Kenneth S  Nichols,30
+Composition II,91735,ENG,102,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,Marano Campus Center 208,Fall2020,Lecture,Roberta   Hurtado,30
+Composition II,94825,ENG,102,4,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,Marano Campus Center 323,Fall2020,Lecture,Kenneth S  Nichols,30
+Composition II,95155,ENG,102,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Katherine B  Stout,30
+Composition II,95156,ENG,102,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Katherine B  Stout,30
+Composition II,95229,ENG,102,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Emily   Kirch,30
+Composition II,95230,ENG,102,,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Emily   Kirch,30
+Comp II: Service Learning,94708,ENG,102,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jessie Rose  Moore,30
+Composition II,95231,ENG,102,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amanda Rae  Trainham,30
+Composition II,95232,ENG,102,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amanda Rae  Trainham,30
+Composition II,95233,ENG,102,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amanda Rae  Trainham,30
+Composition II,91412,ENG,102,5,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Bennet   Schaber,30
+Composition II,91416,ENG,102,6,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Michael   Murphy,30
+Composition II,91421,ENG,102,7,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Linda M.  Black-Ochsenbein,30
+Composition II,91429,ENG,102,1,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Michael   Murphy,30
+Composition II,91432,ENG,102,2,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Manori N  Jayawardane,30
+Composition II,91730,ENG,102,3,Undergraduate ,3,Class,4:35 pm - 5:55 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Donna M  Steiner,30
+Composition II:Service Learnin,91738,ENG,102,4,Undergraduate ,3,Class,5:30 pm - 8:15 pm,W,"100% web, no face to face ",Fall2020,Lecture,Sean Thomas  Milligan,30
+Composition II-International,92153,ENG,102,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Gurdeep   Skolnik,30
+Composition II,91742,ENG,102,6,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Patrick   Murphy,30
+Writing About LiteratureLC,94698,ENG,204,7,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Mahar Hall 122,Fall2020,Lecture,Sarah L.  Berry,30
+Writing About Literature,90958,ENG,204,1,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,Marano Campus Center 306,Fall2020,Lecture,Karol   Cooper,30
+Writing About Literature,91858,ENG,204,2,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Linda M.  Black-Ochsenbein,30
+Amer Lit/Begin-Civ War,91112,ENG,235,3,Undergraduate ,3,Class,11:20 am - 12:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Douglas A  Guerra,30
+Ethnicity & Cul Diff in Lit,91733,ENG,237,4,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,Marano Campus Center 306,Fall2020,Lecture,Roberta   Hurtado,30
+SS:Historical Genre Study,94321,ENG,265,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Karol   Cooper,30
+SS: The Body Politic,91476,ENG,265,6,Undergraduate ,3,Class,5:00 pm - 6:20 pm,MW,"100% web, no face to face ",Fall2020,Seminar,Sarah L.  Berry,30
+SS: U.S. American Literature,94088,ENG,265,7,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,"100% web, no face to face ",Fall2020,Seminar,Sarah L.  Berry,30
+Practical English Grammar,90169,ENG,271,1,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Michael   Murphy,30
+Int Cinema/Screen,90841,ENG,286,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Amy   Shore,30
+Literary Criticism,91749,ENG,304,3,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Maureen F  Curtin,30
+Literary Criticism,90765,ENG,304,4,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Patrick   Murphy,30
+Shakespeare- An Introduction,90170,ENG,319,5,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Patrick   Murphy,30
+19thC English Novel,93739,ENG,322,6,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Sean Thomas  Milligan,30
+T:USBlackLit:Slurs&Stereotypes,94989,ENG,337,7,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Marano Campus Center 306,Fall2020,Lecture,Patricia E  Clark,30
+Amer Poetry Since 1945,94611,ENG,351,1,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,Lanigan Hall 104,Fall2020,Lecture,Elizabeth Briande  Bishop,30
+Literature in Global Context,90171,ENG,360,2,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Manori N  Jayawardane,30
+Jr Seminar: Daniel Defoe,90925,ENG,365,3,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Karol   Cooper,30
+JS: Chimamanda Ngozi Adichie,94087,ENG,365,4,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Seminar,Manori N  Jayawardane,30
+Women In Literature,94990,ENG,370,5,Undergraduate ,3,Class,9:40 am - 11:00 am,TR,"100% web, no face to face ",Fall2020,Lecture,Maureen F  Curtin,30
+Hist & Devel English Lang,91777,ENG,374,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Elizabeth Briande  Bishop,30
+Children's Literature,90172,ENG,385,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Elizabeth Briande  Bishop,30
+The Cinema,90173,ENG,386,1,Undergraduate ,3,Class,7:00 pm - 9:00 pm,T,Lanigan Hall 105,Fall2020,Lecture,Bennet   Schaber,30
+Film Genre with lab,90174,ENG,388,2,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Amy   Shore,30
+Images of Native AM in Film,94620,ENG,390,3,Undergraduate ,3,Class,6:00 pm - 9:00 pm,W,Sheldon Hall M00,Fall2020,Recitation or Discussion,Christopher   LaLonde,30
+SS: Literature & Socialism,94991,ENG,395,4,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Maureen F  Curtin,30
+S:Litof Revolutions inAmericas,92065,ENG,465,5,Undergraduate ,3,Class,3:30 pm - 4:55 pm,MW,Marano Campus Center 306,Fall2020,Seminar,Roberta   Hurtado,30
+S: Literature and Socialism,95194,ENG,465,6,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,"100% web, no face to face ",Fall2020,Seminar,Maureen F  Curtin,30
+Corporate Finance,90956,FIN,325,7,Undergraduate ,3,Class,8:00 am - 9:20 am,TR,Sheldon Hall M00,Fall2020,Lecture,Graig   Arcuri,30
+Corporate Finance,90058,FIN,325,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Hong   Wan,30
+Corporate Finance,90059,FIN,325,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Hong   Wan,30
+Corporate Finance,91191,FIN,325,3,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Richard   Skolnik,30
+Corporate Finance,92640,FIN,325,4,Undergraduate ,3,Class,2:15 pm - 3:10 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Richard   Skolnik,30
+Corporate Finance,94144,FIN,325,5,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Richard   Skolnik,30
+Financial Statement Analysis,91449,FIN,340,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Mary Tone  Rodgers,30
+Investments,91014,FIN,354,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Eric   Tsai,30
+Real Estate Finance,94136,FIN,391,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Graig   Arcuri,30
+Real Estate Finance,94137,FIN,391,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Graig   Arcuri,30
+Elementary French,91124,FRE,101,3,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Jeanine   Teodorescu,30
+Elementary French,91704,FRE,101,4,Undergraduate ,3,Class,1:00 pm - 1:55 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Jeanine   Teodorescu,30
+Elementary French,94483,FRE,101,5,Undergraduate ,3,Class,4:05 pm - 5:25 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Najet   Gharsallaoui,30
+Elementary French,91473,FRE,101,6,Undergraduate ,3,Class,11:45 am - 12:40 pm,MWF,"100% web, no face to face ",Fall2020,Lecture,Allen   Stagl,30
+Continuing Elementary French,91474,FRE,102,7,Undergraduate ,3,Class,4:10 pm - 5:30 pm,MW,"100% web, no face to face ",Fall2020,Lecture,Stewart   Smith,30
+Continuing Elementary French,91840,FRE,102,1,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,"100% web, no face to face ",Fall2020,Lecture,Stewart   Smith,30
+Continuing Elementary French,92830,FRE,102,2,Undergraduate ,3,Class,9:15 am - 10:10 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Allen   Stagl,30
+Continuing Elementary French,93811,FRE,102,3,Undergraduate ,3,Class,10:30 am - 11:25 am,MWF,"100% web, no face to face ",Fall2020,Lecture,Allen   Stagl,30
+Intermediate French,90291,FRE,201,4,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Marano Campus Center 255,Fall2020,Lecture,Lenuta   Giukin,30
+Continuing Intermediate French,90819,FRE,202,5,Undergraduate ,3,Class,2:40 pm - 4:00 pm,TR,Marano Campus Center 255,Fall2020,Lecture,Lenuta   Giukin,30
+Advanced French A,95090,FRE,301,6,Undergraduate ,3,Class,3:30 pm - 4:50 pm,MW,Marano Campus Center 255,Fall2020,Lecture,Lenuta   Giukin,30
+Survey of French Literature,95088,FRE,351,7,Undergraduate ,3,Class,4:20 pm - 5:40 pm,TR,Marano Campus Center 255,Fall2020,Lecture,Lenuta   Giukin,30
+S: Advanced French A,95117,FRE,395,1,Undergraduate ,3,Class,3:30 pm - 4:50 pm,MW,Marano Campus Center 255,Fall2020,Lecture,Lenuta   Giukin,30
+Intro. to Geography,90786,GEG,100,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amy   D'Angelo,30
+Field Placement III: English,90083,ADO,313,3,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Sharon G  Kane,30
+Field Exp III:2nd/Foreign Lang,90086,ADO,323,4,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Joanne E.  O'Toole,30
+Field Placement III: English,90101,ADO,513,5,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Sharon G  Kane,30
+Field Exp III:2nd Foreign Lang,90087,ADO,523,6,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Joanne E.  O'Toole,30
+Field Experience B:Plan/Teach,91470,ADO,593,7,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Joanne E.  O'Toole,30
+Sociolinguistics,94472,ANT,345,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jing   Lei,30
+Intro to the Visual Arts,94726,ART,100,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Justin Anty  Mastrangelo,30
+West HertII-Survy Art II,94189,ART,251,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lisa A  Seppi,30
+Digital Illustration I,91483,ART,313,4,Undergraduate ,3,Class,6:00 pm - 9:00 pm,MW,Tyler Hall 217,Fall2020,Studio,Amy E.  Bartell,30
+"Two Dimensional,Experi.Studio",91206,ART,396,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",94983,ART,396,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91223,ART,396,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91649,ART,396,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",91395,ART,396,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Elizabeth Nichole  Hunt,30
+"Two Dimensional,Experi.Studio",94984,ART,396,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91398,ART,396,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Christopher   McEvoy,30
+"Two Dimensional,Experi.Studio",91650,ART,396,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Rebecca Wendy  Mushtare,30
+"Two Dimensional,Experi.Studio",94985,ART,396,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cara B  Thompson,30
+"Two Dimensional,Experi.Studio",91592,ART,396,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",91208,ART,396,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Richard   Metzgar,30
+"Two Dimensional,Experi.Studio",91804,ART,396,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Julieve   Jubin,30
+"Two Dimensional,Experi.Studio",91035,ART,396,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Peter   Cardone,30
+"Two Dimensional,Experi.Studio",92819,ART,396,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Cynthia A  Clabough,30
+"Two Dimensional,Experi.Studio",94516,ART,396,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Amy E.  Bartell,30
+"Two Dimensional,Experi.Studio",91201,ART,396,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Kelly L  Roe,30
+"Two Dimensional,Experi.Studio",95319,ART,396,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Julieve   Jubin,30
+"3 Dimensional,Experi. Studio",91219,ART,397,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Richard   Metzgar,30
+"3 Dimensional,Experi. Studio",91228,ART,397,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Benjamin R  Entner,30
+"3 Dimensional,Experi. Studio",91202,ART,397,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Studio,Renqian   Yang,30
+Painting IV,93585,ART,415,4,Undergraduate ,3,Class,2:40 pm - 5:35 pm,TR,Tyler Hall 225,Fall2020,Studio,Christopher   McEvoy,30
+Studio Management,90882,ART,419,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Activity,Christopher   McEvoy,30
+IS:Advanced Painting Studio,95320,ART,499,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Independent Study,Christopher   McEvoy,30
+Graduate Photography,91302,ART,540,7,Graduate ,3,Class,2:00 pm - 5:00 pm,MW,Tyler Hall 216,Fall2020,Studio,Julieve   Jubin,30
+Intro to Health Info Systems,92175,BHI,501,1,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kevin Edward  Kurzinski,30
+Health Informatics Methods,92176,BHI,502,2,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Isabelle   Bichindaritz,30
+eHealth Systems,92177,BHI,503,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Boseon   Byeon,30
+Digital Health,93708,BHI,505,4,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Boseon   Byeon,30
+Database Applications,91914,BHI,508,5,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Ioana   Coman,30
+Geospatial/Temporal/NetworkDat,94080,BHI,510,6,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93703,BHI,698,7,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Isabelle   Bichindaritz,30
+Graduate Internship in BHI,93709,BHI,698,1,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Boseon   Byeon,30
+Project in BHI,92882,BHI,699,2,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Isabelle   Bichindaritz,30
+Project in BHI,93201,BHI,699,3,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Activity,Boseon   Byeon,30
+Thesis in BHI,92883,BHI,700,4,Graduate ,3,Class,TBA,TBA,TBA,Fall2020,Activity,Isabelle   Bichindaritz,30
+Thesis in BHI,93202,BHI,700,5,Graduate ,3,Class,TBA,TBA,TBA,Fall2020,Activity,Boseon   Byeon,30
+Legal&Regulatory Environ ofBus,90051,BLW,355,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Mary E  McGowan,30
+Legal&Regulatory Environ ofBus,91676,BLW,355,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Kathryn   Wolfe,30
+Legal&Regulatory Environ ofBus,93120,BLW,355,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Andrew T.  Wolfe,30
+Legal&Regulatory Environ ofBus,90056,BLW,355,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,John W  Spring,30
+Introduction To Mass Media,94682,BRC,108,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason Matthew  Becker,30
+Media Economics,93602,BRC,301,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason Matthew  Becker,30
+Post Production and Editing,93613,BRC,315,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marybeth   Longo,30
+Mass Media and the Law,93625,BRC,319,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jason   Zenor,30
+Media Copywriting,90231,BRC,328,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Timan Harris  Nekritz,30
+Social Networks and the Web,94638,BRC,421,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Ulises A  Mejias,30
+Field Placement III,90119,CED,393,2,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Student Teaching,Deborah   Quick,30
+Field Placement III,94894,CED,393,3,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Student Teaching,Joan   Gujarati,30
+Field Placement III,94895,CED,393,4,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Student Teaching,Christine H  Weisenburger,30
+Field Experience A,92861,CED,543,5,Graduate ,3,Class,TBA,MTWRF,Off Campus ,Fall2020,Tutorial,Doreen L  Mazzye,30
+Chemistry & Public Concern,93643,CHE,209,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Fehmi   Damkaci,30
+Environmental Science,90454,CHE,300,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jeffery A.  Schneider,30
+Digital Imagery Fundamentals,94939,CMA,200,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Justin Anty  Mastrangelo,30
+Foundations Of Communication,91869,COM,100,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Denise   Casey,30
+Foundations Of Communication,94755,COM,100,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Denise   Casey,30
+Survey Of Public Relations,94641,COM,215,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Joseph Earl  Stabb,30
+PublicRelationsWriting&MassMed,94627,COM,313,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Lindsay Marie  McCluskey,30
+Org Leadership/Team Building,95038,COM,504,6,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Katherine   Thweatt,30
+Intercultural Communication,94784,COM,522,7,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Amy B  McHugh,30
+Strategic COM Thesis/ApProject,94643,COM,590,1,Graduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Serenity   Sutherland,30
+Prof.Orient/Ethics MH Counsel,90187,CPS,509,2,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Tiphanie   Gonzalez,30
+Foundtn of Psy & Edu Appraisal,91389,CPS,585,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Michael   LeBlanc,30
+Intro to Criminal Justice,94514,CRJ,101,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Donna   Stuccio,30
+Introduction to Corrections,94518,CRJ,230,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Mark J  Shannon,30
+Introduction to Corrections,95050,CRJ,230,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Mark J  Shannon,30
+Crime Theories & Victimization,94531,CRJ,333,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Celinet   Duran,30
+Crime Theories & Victimization,94820,CRJ,333,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Celinet   Duran,30
+Crime and Society,94530,CRJ,347,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Omara   Rivera-Vazquez,30
+Intro to Criminal Law,94539,CRJ,365,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jeremy J  Shifton,30
+Terrorism and Homeland Securit,95042,CRJ,383,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,William   Jones,30
+Research Methods CRJ,95048,CRJ,387,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jaclyn   Schildkraut,30
+Comparative Justice Systems,94541,CRJ,425,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,William   Jones,30
+Tools for Computing,91128,CSC,101,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Robert A.  Zuber,30
+BUS Info System&Computing Tool,91674,CSC,102,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Michael L  Smith,30
+Internship-Build/District Lead,90593,EAD,695,2,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Richard   Cavallaro,30
+Internship-Build/District Lead,90594,EAD,695,3,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Linda Rae  Markert,30
+Internship-Build/District Lead,90595,EAD,695,4,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Tamara   Lipke,30
+Internship-Build/District Lead,90596,EAD,695,5,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Lynne   Erdle,30
+Internship-Build/District Lead,90597,EAD,695,6,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Linda Rae  Markert,30
+Internship-Build/District Lead,91763,EAD,695,7,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Cathleen J  Chamberlain,30
+Internship-Build/District Lead,95126,EAD,695,1,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Internship,Unassigned   Staff,30
+Principles of Microeconomics,90202,ECO,101,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,John   Kane,30
+Managerial Economics,90205,ECO,302,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Said   Atri,30
+Money And Banking,90208,ECO,340,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Elizabeth A  Schmitt,30
+Money And Banking,94937,ECO,340,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Elizabeth A  Schmitt,30
+Comparative & International ED,92669,EDU,114,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Namrata   Sharma,30
+Comparative & International ED,93101,EDU,114,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Namrata   Sharma,30
+Critical Pedagogy,92086,EDU,500,1,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Tania   Ramalho,30
+Educational Assessment,92070,EDU,510,2,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jean E  Hallagan,30
+Cont Pro Develop thro Research,94722,EDU,516,3,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Dennis   Parsons,30
+Curriculum Development,92084,EDU,555,4,Graduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Tania   Ramalho,30
+Corporate Finance,90061,FIN,325,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Hong   Wan,30
+Freshmen Colloquium,91203,ART,111,6,Undergraduate ,3,Class,1:00 pm - 2:20 pm,TR,Lanigan Hall 101,Fall2020,Studio,Richard   Metzgar,30
+Seminar in Criminal Justice,95198,CRJ,401,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jaclyn   Schildkraut,30
+Strat Instr in the Disciplines,92380,EDU,104,,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Allison R  Peer,30
+Internship: School Counseling,91720,CPS,618,1,Graduate ,3,Class,12:30 pm - 3:00 pm,F,"100% web, no face to face ",Fall2020,Internship,Sean   Finnerty,30
+Survey Of Public Relations,70023,COM,215,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Joseph Earl  Stabb,30
+Intro to Courts & Judic Procs,70038,CRJ,220,3,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Margaret A  Schmuhl,30
+Crime Theories & Victimization,70039,CRJ,333,4,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Roger   Guy,30
+Latinos in the CJ System,70040,CRJ,335,5,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Omara   Rivera-Vazquez,30
+Wrongful Convictions,70041,CRJ,355,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Jeremy J  Shifton,30
+Research Methods CRJ,70044,CRJ,387,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Marthinus   Koen,30
+Fiction Writing: Introductory,70048,CRW,206,1,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Seminar,Robert T.  O'Connor,30
+Prin of Macroeconomics,70046,ECO,200,2,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Brian   Dempsey,30
+Cross Cultural Student Teach,90100,ADO,421,3,Undergraduate ,3,Class,TBA,MTWRF,Off Campus ,Fall2020,Student Teaching,Unassigned   Staff,30
+CrossCulturalStudentTeaching,90122,CED,421,4,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Student Teaching,Unassigned   Staff,30
+DASA Training,93009,DASA,1020,5,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Geri   Geitner,30
+Drugs & Crime,95208,CRJ,385,6,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Roger   Guy,30
+Strat Instr in the Disciplines,92599,EDU,104,7,Undergraduate ,3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Allison R  Peer,30
+Intermediate German,60267,GER,201,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Christopher Dennis  Solan,30
+Intermediate German,60116,GER,201,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Tiffany M  Phelps,30
+Intermediate German,60261,GER,201,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Shelly   Thompson,30
+Intermediate German,60009,GER,201,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Benjamin Philip  Gerardi,30
+Intermediate German,60084,GER,201,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Todd   Hutson,30
+Intermediate German,60011,GER,201,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Mona L  Goble,30
+Intermediate German,60021,GER,201,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Terry   Legg,30
+Intermediate German,60100,GER,201,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Aisa   Cehajic-Roth,30
+Intermediate German,60026,GER,201,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Kate   Stewart,30
+Intermediate German,60270,GER,201,3,Undergraduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Lecture,Mona L  Goble,30
+Intermediate German,60049,GER,201,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Christine   Connor,30
+Intermediate German,60269,GER,201,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Anya   Zaderej,30
+Intermediate German,60071,GER,201,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Rune   Williams,30
+Intermediate German,60090,GER,201,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Glen   Reynolds,30
+Cont Inter German,60115,GER,202,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Tiffany M  Phelps,30
+Cont Intermed German,60127,GER,202,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Aisa   Cehajic-Roth,30
+Continuing Intermediate German,60248,GER,202,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Shelly   Thompson,30
+Continuing Intermediate German,60268,GER,202,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Christopher Dennis  Solan,30
+Cont Interm. German,60138,GER,202,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Terry   Legg,30
+Cont Inter German,60004,GER,202,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Kimberly Anne  Rice,30
+Cont Inter German,60019,GER,202,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Glen   Reynolds,30
+Cont Inter German,60042,GER,202,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Benjamin Philip  Gerardi,30
+Cont Inter German,60048,GER,202,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Christine   Connor,30
+Cont Inter German,60067,GER,202,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Rune   Williams,30
+Cont Inter German,60095,GER,202,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Anya   Zaderej,30
+Intermediate French,60118,FRE,201,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Raelene A  Noll,30
+Intermediate French,60262,FRE,201,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Tulsi   Master,30
+Intermediate French,60264,FRE,201,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jessica L  Keane,30
+Intermediate French,60273,FRE,201,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Kathleen A.  Lonergan,30
+Intermediate French,60003,FRE,201,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Susie   Pietsch,30
+Intermediate French,60006,FRE,201,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Melissa   Brown,30
+Intermediate French,60016,FRE,201,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Deana H.  Honeywell,30
+Intermediate French,60098,FRE,201,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Lynelle   Vandenberg,30
+Intermediate French,60040,FRE,201,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Sandi L  Sibe,30
+Intermediate French,60044,FRE,201,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Elena   Southard,30
+Intermediate French,60029,FRE,201,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Stewart   Smith,30
+Intermediate French,60031,FRE,201,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Denise   Mahns,30
+Intermediate French,60033,FRE,201,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jessica   Cuello,30
+Intermediate French,60061,FRE,201,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Margaret S. sozzi Lerner,30
+Intermediate French,60053,FRE,201,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Lauren   Kirkwood,30
+Intermediate French,60070,FRE,201,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Alyshia   Cottet,30
+Intermediate French,60073,FRE,201,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Sarah   Woodward-Jones,30
+Intermediate French,60081,FRE,201,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jane   Murlin,30
+Intermediate French,60092,FRE,201,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Maria   Kaleta,30
+Cont Inter French,60117,FRE,202,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Lauren   Kirkwood,30
+Cont Intermed French,60128,FRE,202,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Lynelle   Vandenberg,30
+Cont Inter French,60005,FRE,202,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Melissa   Brown,30
+Cont Inter French,60014,FRE,202,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Deana H.  Honeywell,30
+Cont Inter French,60028,FRE,202,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Stewart   Smith,30
+Cont Inter French,60088,FRE,202,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Elena   Southard,30
+Cont Inter French,60039,FRE,202,2,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Sandi L  Sibe,30
+Cont Inter French,60066,FRE,202,3,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Alyshia   Cottet,30
+Cont Inter French,60032,FRE,202,4,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jessica   Cuello,30
+Cont Inter French,60078,FRE,202,5,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jane   Murlin,30
+Continuing Intermediate French,60266,FRE,202,6,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Jessica L  Keane,30
+Cont Inter French,60054,FRE,202,7,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Raelene A  Noll,30
+Cont Inter French,60062,FRE,202,1,Undergraduate ,3,Class,TBA,TBA,TBA,Fall2020,Lecture,Kathleen A.  Lonergan,30
+Fund of Administration,92122,EAD,601,2,Graduate ,3,Class,4:30 pm - 10:00 pm,T,"100% web, no face to face ",Fall2020,Lecture,Tamara   Lipke,30
+Fund of Administration,92999,EAD,601,3,Graduate ,3,Class,4:30 pm - 9:45 pm,W,Sonata 129,Fall2020,Lecture,Linda Rae  Markert,30
+Internship Mental Health Couns,91824,CPS,515,4,Graduate ,3,Class,9:15 am - 12:15 pm,R,"100% web, no face to face ",Fall2020,Internship,Jodi Ann  Mullen,30
+Intern:Alcohol/Substance Couns,94133,CPS,516,5,Graduate ,3,Class,9:15 am - 12:15 pm,R,"100% web, no face to face ",Fall2020,Internship,Jodi Ann  Mullen,30
+Student Teaching,90099,ADO,420,6,Undergraduate ,3,Class,TBA,MTWRF,Off Campus ,Fall2020,Student Teaching,Unassigned   Staff,30
+Student Teaching Grades 7-12A,93735,ADO,595,7,Graduate ,3,Class,TBA,TBA,Off Campus ,Fall2020,Student Teaching,Unassigned   Staff,30
+Childhood Student Teaching,90121,CED,420,1,Undergraduate ,3,Class,TBA,MTWRF,Off Campus ,Fall2020,Student Teaching,Unassigned   Staff,30
+Internship in School Psych,92118,CPS,617,2,Graduate ,3,Class,9:30 am - 12:00 pm,F,"100% web, no face to face ",Fall2020,Paid Internship,James L  McDougal,30
+Internship in School Psych,94677,CPS,617,3,Graduate ,3,Class,9:30 am - 12:00 pm,F,"100% web, no face to face ",Fall2020,Paid Internship,James L  McDougal,30
+DASA Training,93011,DASA,1020,4,"Undergraduate, Non-matric undergraduate, Non-matric graduate, Graduate ",3,Class,TBA,TBA,"100% web, no face to face ",Fall2020,Lecture,Carlo   Cuccaro,30
+Supervsn- Improvment of Inst,93001,EAD,641,5,Graduate ,3,Class,4:30 pm - 10:00 pm,M,"100% web, no face to face ",Fall2020,Lecture,Angela   Perrotto,30
+Supervsn- Improvment of Inst,93000,EAD,641,6,Graduate ,3,Class,4:30 pm - 10:00 pm,W,"100% web, no face to face ",Fall2020,Lecture,Angela   Perrotto,30

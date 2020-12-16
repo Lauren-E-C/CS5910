@@ -56,11 +56,15 @@ if (isset($course_data['Course'])) {
     $crn = substr($course_data['Course'], 0, 5);
 
     $grid = new Grid(new ClassList(), [
+        'StudentID' => 'Student ID',
         ':r_1' => ['Last Name', 'Student', 'lastName'],
         ':r_2' => ['First Name', 'Student', 'firstName'],
-        'FacultyID' => 'Faculty ID',
+        ':r_3' => ['Midterm Grade', 'Enrollment', 'Midterm_Grade'],
+        ':r_4' => ['Final Grade', 'Enrollment', 'Final_Grade'],
+
+        //'FacultyID' => 'Faculty ID',
         'TermNumber' => 'Term',
-        'CourseRegistrationNumber' => 'CRN'
+        //'CourseRegistrationNumber' => 'CRN'
     ]);
 
     $grid->showGrid([

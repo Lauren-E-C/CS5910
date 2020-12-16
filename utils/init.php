@@ -29,23 +29,20 @@ $user_nav = [
     ],
     'Admin' => [
         'Course Catalog Management' => [
-            'View Course Catalog' => 'welcomePageOptions/viewCourseCatalog.php',
-            'Search Course Catalog' => '#',
-            'Add To Course Catalog' => '#',
-            'Edit Course Catalog' => '#',
-            'Delist Course In Catalog' => '#',
-            'Relist Course In Catalog' => '#',
-        ],
-        'Prerequisite Management' => [
-            'Prerequisite Table' => '#',
-            'Add Prerequisite To Course' => '#',
-            'Remove Prerequisite From Course' => '#',
+            'View Course Catalog' => 'view_course_catalog.php',
+            'Search Course Catalog' => 'search_course_catalog.php',
+            'Course Catalog Maintenance' => 'admin_course_grid.php',
+            'Prerequisite Table' => 'prerequisite_table.php',
 
         ],
+        //'Prerequisite Management' => [
+
+        //    'Add Prerequisite To Course' => '#',
+        //    'Remove Prerequisite From Course' => '#',
+
+        //],
         'Department Management' => [
-            'Department List' => '#',
-            'Create Department' => '#',
-            'Edit Department' => '#',
+            'Department List' => 'admin_department_grid.php',
             'Manage Major' => 'admin_major_grid.php',
             'Manage Minor' => 'admin_minor_grid.php',
 
@@ -53,23 +50,23 @@ $user_nav = [
         'Semester Management' => [
             'View Master Schedule' => 'welcomePageOptions/searchMasterSchedule.php',
             'Search For A Class' => 'master_schedule.php',
-            'Add Course Section' => '#',
-            'Edit Course Section' => '#',
-            'Remove Course Section' => '#',
+            'Course Section Maintenance' => 'admin_section_grid.php',
+
         ],
         'Account Management' => [
-            'Manage Admin Account' => '#',
             'Manage Student Account' => '#',
             'Manage Faculty Account' => '#',
             'Manage Researcher Account' => '#',
+            'Modify Student Grades' => '#',
             'Unlock User Account' => 'admin_unlock_account.php',
-            'Create Hold' => '#',
+            'Holds' => '#',
+            'Student Holds' => '#',
 
         ],
-        'Calander Management' => [
-            'View Academic Calander' => 'academicCalander.php',
-            'Add to Academic Calander' => '#',
-            'Edit Academic Calander' => '#',
+        'Calendar Management' => [
+            'View Academic Calendar' => 'academicCalander.php',
+            'Add to Academic Calendar' => '#',
+            'Edit Academic Calendar' => '#',
 
         ],
     ],
@@ -81,10 +78,10 @@ $user_nav = [
             'Computer Science Courses' => '#',
         ],
         'Courses And Sections' => [
-            'Prerequisite Table' => '#',
+            'Prerequisite Table' => '#prerequisite_table.php',
             'Search Master Schedule' => 'master_schedule.php',
-            'Search Course Catalog' => '#',
-            'Course Catalog' => 'welcomePageOptions/viewCourseCatalog.php'
+            'Search Course Catalog' => 'search_course_catalog.php',
+            'View Course Catalog' => 'view_course_catalog.php'
 
         ],
     ],
@@ -93,14 +90,14 @@ $user_nav = [
             'Class Registration' => 'student_register.php',
             'Prerequisites' => '#',
             'Drop Class' => 'student_drop_class.php',
-            'View Course Catalog' => 'welcomePageOptions/viewCourseCatalog.php',
+            'View Course Catalog' => 'view_course_catalog.php',
             'Search For A Class' => 'master_schedule.php',
 
         ],
         'Registration' => [
             'Schedule' => 'student_schedule.php',
             'Holds' => '#',
-            'Degree Audit' => '#',
+            'Degree Audit' => 'student_degree_audit.php',
             'Unofficial Transcript' => 'student_transcript.php'
         ],
         'Advising' => [
@@ -142,6 +139,7 @@ require_once $base_dir . '/utils/Model.php';
 require_once $base_dir . '/utils/Grid.php';
 require_once $base_dir . '/utils/Form.php';
 
+require_once $base_dir . '/models/AcademicCalendar.php';
 require_once $base_dir . '/models/Users.php';
 require_once $base_dir . '/models/Faculty.php';
 require_once $base_dir . '/models/ClassList.php';
@@ -156,10 +154,12 @@ require_once $base_dir . '/models/Minor.php';
 require_once $base_dir . '/models/StudentMinor.php';
 require_once $base_dir . '/models/MinorRequirements.php';
 require_once $base_dir . '/models/Department.php';
+require_once $base_dir . '/models/Prerequisites.php';
 require_once $base_dir . '/models/StudentHolds.php';
 require_once $base_dir . '/models/Attendance.php';
 require_once $base_dir . '/models/TimeSlot.php';
 require_once $base_dir . '/models/Building.php';
 require_once $base_dir . '/models/Section.php';
+require_once $base_dir . '/models/SectionCourse.php';
 require_once $base_dir . '/models/Room.php';
 require_once $base_dir . '/models/Department.php';

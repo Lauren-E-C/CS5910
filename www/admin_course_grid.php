@@ -27,6 +27,7 @@ $course = new Course();  // create new instance of a course model
 $g = new Grid($course, [
     'departmentcode' => 'Department ID',
     'courseID' => 'Course ID',
+    'coursenumber' => 'Course Number',
     'coursename' => 'Course Name',
     'level' => 'Level',
     'prerequisites' => 'Prerequisites',

@@ -93,7 +93,7 @@ class Enrollment extends Model
         $course = new Course();
         $key = $section->getValue('CourseID');
         $x = $course->get([
-            'coursenumber' => $key
+            'courseID' => $key
         ]);
         if (!$x) echo "Course $key does not exist";
         $this->related['Course'] = $course;
