@@ -2,6 +2,7 @@
 $roles = ['Admin'];
 $page_title = "Section Add";
 include_once 'header.php';
+include_once 'building_room.php';
 
 ?>
     <script>

@@ -1,23 +1,14 @@
 <?php
 $roles = ['Admin'];
-$page_title = "Add Course Prerequisite";
+$page_title = "Add Faculty";
 include_once 'header.php';
 
-$course = new Course();
-$course_values = $course->getKeyValues('courseID', 'coursename');
+$department = new Department();
+
+$departments = array();
+$departments = $department->getKeyValues('DepartmentID', 'DepartmentName');
 
 $f = new Form();
-
-$course_id = "";
-if ($_SERVER['REQUEST_METHOD'] == "GET") {
-//    echo "get";
-    $course_id = $_GET['courseID'];
-} else {
-//    echo "post";
-    $course_id = $_POST['courseID'];
-}
-
-//print_r($course_id);
 ?>
     <hr>
     <div class="container">
@@ -30,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == "GET") {
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_course_edit.php?courseID=<?= $course_id ?>" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_faculty_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -38,28 +29,33 @@ if ($_SERVER['REQUEST_METHOD'] == "GET") {
     </div>
     <hr>
 <?php
-//print_r($course_id);
-$course_data = $f->showForm([
-    'courseID' => new HiddenField('courseID', $course_id),
-    'PreqCourseID' => new KeyValueField('PreqCourseID', $course_values),
-    'GradeRequirement' => "Grade Requirement"
+
+$faculty_data = $f->showForm([
+    ['firstName' => 'First Name',
+        'lastName' => 'Last Name'],
+    ['email' => 'E-Mail',
+        'phoneNumber' => 'Phone Number'],
+    'address' => 'Address',
+    ['town' => 'City',
+        'state' => 'State',
+        'zip' => 'Zip Code'],
+    'country' => 'Country',
 ]);
 
-if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    $prerequisite = new Prerequisites();
+if ($faculty_data) {
+    $users = new Users();
     try {
-        $prerequisite->create([
-            'CourseID' => $course_id,
-            'PreqCourseID' => $course_data['PreqCourseID'],
-            'GradeRequirement' =>  $course_data['GradeRequirement']
-        ]);
+        $faculty_data['ID'] = null;
+        $faculty_data['uType'] = 'Instructor';
+        $users->create($faculty_data);
         ?>
         <div class="container">
             <div class="alert alert-success" role="alert">
-                Prerequisite created successfully.
+                Faculty created successfully.
             </div>
         </div>
         <?php
+
     } catch (Exception $e) {
         ?>
         <div class="container">

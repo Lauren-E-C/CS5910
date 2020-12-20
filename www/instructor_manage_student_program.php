@@ -13,6 +13,15 @@ for ($major_record = $major->get(); $major_record; $major_record = $major->next(
     $majors[] = $major_record['MajorName'];
 }
 
+$minor = new Minor();
+$minors = array(
+    "Minor not declared"
+);
+
+for ($minor_record = $minor->get(); $minor_record; $minor_record = $minor->next()) {
+    $minors[] = $minor_record['MinorName'];
+}
+
 $student_id = null;
 
 if (isset($_GET['StudentID'])) {
@@ -64,18 +73,35 @@ $manage_links = array(
         <hr>
         <h1>Major</h1>
         <?php
-        $form_major = new Form("get");
+        $form_major = new Form();
+
+        $student_major = new StudentMajor();
+        $major_record = $student_major->get([
+            'StudentID' => $student_id
+        ]);
+
+        if ($major_record) {
+
+            $phpdate = strtotime($major_record['DeclaredDate']);
+            $mysqldate = date('Y-m-d', $phpdate);
+
+            if ($_SERVER['REQUEST_METHOD'] != "POST") {
+                $major_name = $major_record['MajorName'];
+                $form_major->setValues([
+                    'DeclaredDate' => $mysqldate,
+                    'MajorName' => $major_record['MajorName']
+                ]);
+            }
+        }
+
         $form_major_data = $form_major->showForm([
             'MajorName' => new SelectField('Major', $majors),
             'DeclaredDate' => new DateField('Declared Date'),
             'StudentID' => new HiddenField('StudentID', $student_id)
         ]);
-        if (isset($form_major_data['MajorName'])) {
+
+        if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST['MajorName'])) {
             $major_name = $form_major_data['MajorName'];
-            $student_major = new StudentMajor();
-            $major_record = $student_major->get([
-                'StudentID' => $student_id
-            ]);
             if (!$major_record) {
                 $student_major->create(
                     $form_major_data
@@ -88,52 +114,51 @@ $manage_links = array(
         }
         ?>
         <hr>
+        <h1>Minor</h1>
         <?php
-        // minor
-        if ($major_name) {
-            echo "<h1>Minor</h1>";
+        $form_minor = new Form();
 
-            $minor = new minor("get");
+        $student_minor = new StudentMinor();
+        $minor_record = $student_minor->get([
+            'StudentID' => $student_id
+        ]);
 
-            $minors = array();
-            for ($minor_record = $minor->get(); $minor_record; $minor_record = $minor->next()) {
-                if ($major_name == $minor_record['MajorAffiliation']) {
-                    $minors[] = $minor_record['MinorName'];
-                }
-            }
+        if ($minor_record) {
 
-            if (count($minors)) {
-                echo "<!--- Minor Form -->";
-                $form_minor = new Form();
-                $form_minor_data = $form_minor->showForm([
-                    'MinorName' => new SelectField('Minor', $minors),
-                    'DeclaredDate' => new DateField('Declared Date'),
-                    'MajorName' => new HiddenField('MajorName', $major_name),
-                    'StudentID' => new HiddenField('StudentID', $student_id)
+            $phpdate = strtotime($minor_record['DeclaredDate']);
+            $mysqldate = date('Y-m-d', $phpdate);
+
+            if ($_SERVER['REQUEST_METHOD'] != "POST") {
+                $minor_name = $minor_record['MinorName'];
+                $form_minor->setValues([
+                    'DeclaredDate' => $mysqldate,
+                    'MinorName' => $minor_record['MinorName']
                 ]);
-
-                if (isset($form_minor_data['MinorName'])) {
-                    $minor_name = $form_minor_data['MinorName'];
-                    $student_minor = new StudentMinor();
-                    $minor_record = $student_minor->get([
-                        'StudentID' => $student_id
-                    ]);
-                    if (!$minor_record) {
-                        $student_minor->create([
-                            'MinorName' => $form_minor_data['MinorName'],
-                            'DeclaredDate' => $form_minor_data['DeclaredDate'],
-                            'StudentID' => $form_minor_data['StudentID']
-                        ]);
-                    } else {
-                        $student_minor->update([
-                            'MinorName' => $form_minor_data['MinorName'],
-                            'DeclaredDate' => $form_minor_data['DeclaredDate'],
-                            'StudentID' => $form_minor_data['StudentID']
-                        ]);
-                    }
-                }
             }
         }
+
+        $form_minor_data = $form_minor->showForm([
+            'MajorName' => new HiddenField('Major', $major_name),
+            'MinorName' => new SelectField('Minor', $minors),
+            'DeclaredDate' => new DateField('Declared Date'),
+            'StudentID' => new HiddenField('StudentID', $student_id)
+        ]);
+
+        unset($form_minor_data['MajorName']);
+
+        if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST['MinorName']) && $_POST['MinorName'] != 'Minor not declared') {
+            $minor_name = $form_minor_data['MinorName'];
+            if (!$minor_record) {
+                $student_minor->create(
+                    $form_minor_data
+                );
+            } else {
+                $student_minor->update(
+                    $form_minor_data
+                );
+            }
+        }
+
         ?>
     </div>
 

@@ -1,12 +1,12 @@
 <?php
-include_once 'instructor_manage_student_header.php';
+include_once 'admin_manage_student_header.php';
 
 $student_id = null;
 
-if (isset($_GET['StudentID'])) {
-    $student_id = $_GET['StudentID'];
+if (isset($_GET['ID'])) {
+    $student_id = $_GET['ID'];
 } else {
-    $student_id = $_POST['StudentID'];
+    $student_id = $_POST['ID'];
 }
 
 $student_major = new StudentMajor();
@@ -23,9 +23,6 @@ if (!$student_major_record) {
 $enrollments = array();
 $enrollment = new Enrollment();
 for ($enrollment_record = $enrollment->get(['StudentID' => $student_id]); $enrollment_record; $enrollment_record = $enrollment->next()) {
-
-//    var_dump($enrollment_record);echo "<br>\n";
-
     $enrollment_record['Section'] = $enrollment->getRelatedModel('Section')->getValues();
     $enrollment_record['Course'] = $enrollment->getRelatedModel('Course')->getValues();
 
@@ -64,10 +61,6 @@ for ($enrollment_record = $enrollment->get(['StudentID' => $student_id]); $enrol
             $requirement_type = "";
             $major_requirements = new MajorRequirements();
             for ($major_requirements_record = $major_requirements->get(['MajorName' => $student_major_name]); $major_requirements_record; $major_requirements_record = $major_requirements->next()) {
-
-//                echo "<br>major_requirements_record<br>\n";
-//                var_dump($major_requirements_record);echo "<br>\n";
-
                 $course_id = $major_requirements_record['CourseID'];
                 $course_name = $major_requirements->getValue('coursename', 'Course');
                 $course_credits = $major_requirements->getValue('credits', 'Course');

@@ -37,7 +37,8 @@ if (isset($_SESSION['u_type']) && isset($user_nav[$_SESSION['u_type']])) {
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <span style="margin-right: 10px;"><?= $_SESSION["u_data"]['firstName'] ?> <?= $_SESSION["u_data"]['lastName'] ?>   </span>
-                <button class="btn btn-outline-success my-2 my-sm-0" style="margin-right: 10px;" type="submit">Change Password</button>
+<!--                <button class="btn btn-outline-success my-2 my-sm-0" style="margin-right: 10px;" type="submit">Change Password</button>-->
+                <a href="passwd.php" style="margin-right: 10px;" class="btn btn-outline-success my-2 my-sm-0" >Change Password</a>
                 <a href="logout.php" class="btn btn-outline-success my-2 my-sm-0" >Logout</a>
             </form>
         </div>

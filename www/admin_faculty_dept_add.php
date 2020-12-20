@@ -1,24 +1,20 @@
 <?php
 $roles = ['Admin'];
-$page_title = "Add Course Prerequisite";
+$page_title = "Assign Faculty to Department";
 include_once 'header.php';
+include_once 'building_room.php';
 
-$course = new Course();
-$course_values = $course->getKeyValues('courseID', 'coursename');
-
-$f = new Form();
-
-$course_id = "";
 if ($_SERVER['REQUEST_METHOD'] == "GET") {
-//    echo "get";
-    $course_id = $_GET['courseID'];
+    $faculty_id = $_GET['ID'];
 } else {
-//    echo "post";
-    $course_id = $_POST['courseID'];
+    $faculty_id = $_POST['FacultyID'];
 }
 
-//print_r($course_id);
+list($building_field, $room_field) = building_room();
+
+$listed = "Unassign Department";
 ?>
+
     <hr>
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light" style="margin: 10px;">
@@ -30,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == "GET") {
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_course_edit.php?courseID=<?= $course_id ?>" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_faculty_edit.php?ID=<?= $faculty_id ?>" class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -38,25 +34,30 @@ if ($_SERVER['REQUEST_METHOD'] == "GET") {
     </div>
     <hr>
 <?php
-//print_r($course_id);
-$course_data = $f->showForm([
-    'courseID' => new HiddenField('courseID', $course_id),
-    'PreqCourseID' => new KeyValueField('PreqCourseID', $course_values),
-    'GradeRequirement' => "Grade Requirement"
+
+# FacultyID=500417&DepartmentID=ACC
+
+$f = new Form();
+
+$department = new Department();
+$department_values = $department->getKeyValues('DepartmentID', 'DepartmentName');
+
+$faculty_form_data = $f->showForm([
+    'FacultyID' => new HiddenField('FacultyID', $faculty_id),
+    'DepartmentID' => new KeyValueField('Department', $department_values),
+    'BuildingID' => $building_field,
+    'RoomID' => $room_field,
+    'DateAssigned' => new DateField('Date Assigned')
 ]);
 
-if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    $prerequisite = new Prerequisites();
+if (isset($_GET['save'])) {
     try {
-        $prerequisite->create([
-            'CourseID' => $course_id,
-            'PreqCourseID' => $course_data['PreqCourseID'],
-            'GradeRequirement' =>  $course_data['GradeRequirement']
-        ]);
+        $faculty = new Faculty();
+        $faculty->create($faculty_form_data);
         ?>
         <div class="container">
             <div class="alert alert-success" role="alert">
-                Prerequisite created successfully.
+                Faculty assignment created successfully.
             </div>
         </div>
         <?php

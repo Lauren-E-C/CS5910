@@ -10,7 +10,9 @@ $g = new Grid(new SectionCourse(), [
     'SeatsCapacity' => "Seats",
     'RoomID' => "Room",
     'BuildingName' => "Building",
-    'departmentcode' => 'Department'
+    'departmentcode' => 'Department',
+    'Semester' => 'Semester',
+    'Year' => 'Year',
 ]);
 
 $dept = new Department();
@@ -30,7 +32,9 @@ $d = $f->showForm([
     ['SeatsMin' => "Seats Min", 'SeatsMax' => "Seats Max"],
     'RoomID' => "Room",
     'BuildingName' => "Building",
-    'Department' => $deptField
+    'Department' => $deptField,
+    'Semester' => "Semester",
+    'Year' => "Year",
 ]);
 
 echo "<hr>";
@@ -60,6 +64,13 @@ if ($d != null) {
 
     if ($d['Department']) {
         $filter["departmentcode"] = $d['Department'];
+    }
+
+    if ($d['Semester']) {
+        $filter["Semester"] = $d['Semester'];
+    }
+    if ($d['Year']) {
+        $filter["Year"] = $d['Year'];
     }
 
     $g->showGrid($filter);

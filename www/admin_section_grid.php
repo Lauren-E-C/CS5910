@@ -16,7 +16,6 @@ include_once 'header.php';
                 <ul class="navbar-nav mr-auto">
                     <li>
                         <a href="admin_section_add.php" class="btn btn-success my-2 my-sm-0">Add Section</a>
-                        <a href="admin_section_remove.php" class="btn btn-success my-2 my-sm-0">Remove Section</a>
                     </li>
                 </ul>
             </nav>

@@ -60,6 +60,43 @@ function class_register($crn)
         'CourseRegistrationNumber' => $crn
     ]);
 
+    if (!$section_data) { ?>
+        <div class="alert alert-danger" role="alert">
+            The Course Registration Number <?= $crn ?> does not exist!
+        </div>
+        <?php
+        return;
+    }
+
+    if ($section->getValue('SeatsUsed') >= $section->getValue('SeatsCapacity')) { ?>
+        <div class="alert alert-danger" role="alert">
+            The Course has reached capacity.
+        </div>
+        <?php
+        return;
+    }
+
+    $current_term = new CurrentTerm();
+    $current_term_record = $current_term->get([
+        'ID' => 1
+    ]);
+
+    if ($section->getValue('Semester') != $current_term->getValue('Semester')) { ?>
+        <div class="alert alert-danger" role="alert">
+            Section not in current semester.
+        </div>
+        <?php
+        return;
+    }
+
+    if ($section->getValue('Year') != $current_term->getValue('Year')) { ?>
+        <div class="alert alert-danger" role="alert">
+            Section not in current school year.
+        </div>
+        <?php
+        return;
+    }
+
     $course = $section->getRelatedModel('Course');
     $course_id = $course->getValue('courseID');
 
@@ -79,7 +116,7 @@ function class_register($crn)
         while ($enrollment_data) {
             $enrolled_course_id = $enrollment->getValue('courseID', 'Course');
             if ($enrolled_course_id == $prerequisites->getValue('PreqCourseID')) {
-                $preq_message = "You're too stupid to take this class";
+                $preq_message = "Prerequsite grade requirement not met for course";
                 if ($enrollment->computeQuality($enrollment->getValue('Final_Grade')) >= 2) {
                     $preq_message = null;
                 }
@@ -100,13 +137,6 @@ function class_register($crn)
         return;
     }
 
-
-    if (!$section_data) {
-        echo "<div class=\"alert alert-danger\" role=\"alert\">
-            The Course Registration Number $crn does not exist!
-        </div>";
-        return;
-    }
 
     $enrollment_data = $enrollment->get([
         "CourseRegistrationNumber" => $crn,
@@ -136,13 +166,18 @@ function class_register($crn)
         $enrollment->create([
             "CourseRegistrationNumber" => $crn,
             "StudentID" => $student_id,
-            "EnrollmentDate" => date('Y-m-d H:i:s')
+            "EnrollmentDate" => date('Y-m-d H:i:s'),
+            'Final_Grade' => null,
+            'Midterm_Grade' => null,
         ]);
         $class_list->create([
             "CourseRegistrationNumber" => $crn,
             "StudentID" => $student_id,
             "FacultyID" => $section_data["FacultyID"],
             "TermNumber" => $section_data["Semester"] . $section_data["Year"]
+        ]);
+        $section->update([
+            'SeatsUsed' => $section->getValue('SeatsUsed') + 1
         ]);
     } catch (Exception $e) {
         echo "<div class=\"alert alert-danger\" role=\"alert\">

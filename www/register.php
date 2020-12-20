@@ -21,19 +21,19 @@ $d = $f->showForm([
 if ($d) {
     echo "<div class=\"container\">\n";
     if ($d["crn_1"]) {
-        class_register($d["crn_1"]);
+        change_grade($d["crn_1"]);
     }
     if ($d["crn_2"]) {
-        class_register($d["crn_2"]);
+        change_grade($d["crn_2"]);
     }
     if ($d["crn_3"]) {
-        class_register($d["crn_3"]);
+        change_grade($d["crn_3"]);
     }
     if ($d["crn_4"]) {
-        class_register($d["crn_4"]);
+        change_grade($d["crn_4"]);
     }
     if ($d["crn_5"]) {
-        class_register($d["crn_5"]);
+        change_grade($d["crn_5"]);
     }
     echo "</div>\n";
 }

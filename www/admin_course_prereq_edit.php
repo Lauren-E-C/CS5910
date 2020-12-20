@@ -39,6 +39,16 @@ $prerequisite_record = $prerequisite->get([
                     </li>
                 </ul>
             </nav>
+
+            <li class="navbar-nav nav-item dropdown">
+                <a class="btn btn-danger nav-link dropdown-toggle" style="color: white" href="#" id="navbarDropdown"
+                   role="button"
+                   data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">Delete</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="admin_course_prereq_delete.php?CourseID=<?= $course_id ?>&PreqCourseID=<?= $preq_course_id?>">Confirm Delete</a>
+                </div>
+            </li>
         </nav>
     </div>
     <hr>

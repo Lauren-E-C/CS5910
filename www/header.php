@@ -51,6 +51,10 @@ if (!isset($page_title)) {
                 max-width: 680px;
                 padding: 0 15px;
             }
+
+            html body footer.footer span.text-muted {
+                padding-left: 20px;
+            }
         </style>
 
         <style>

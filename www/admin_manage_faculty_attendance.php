@@ -1,21 +1,21 @@
 <?php
-$roles = ['Instructor', 'Admin'];
-$page_title = "Assign Final Grade";
-include_once 'header.php';
+include_once 'admin_manage_faculty_header.php';
+
+$faculty_id = $student_id;
 
 $crn_form = new Form("get");
 $student_form = new Form("get");
 
 $student_form_data = $student_form->getValues([
     'Student',
-    'Grade',
+    'Attendance',
     'Course'
 ]);
 
 $class_list = new ClassList();
 
 $course_crn_record = $class_list->get([
-    'FacultyID' => $_SESSION["u_data"]["ID"]
+    'FacultyID' => $faculty_id
 ]);
 
 $course_crn_values = array();
@@ -26,15 +26,17 @@ while ($course_crn_record) {
     $course_crn_record = $class_list->next();
 }
 
+
 $course_student_field = new SelectField('Course', $course_crn_values);
 $crn_form_data = $crn_form->showForm([
-    'Course' => $course_student_field
+    'Course' => $course_student_field,
+    'ID' => new HiddenField('ID', $faculty_id)
 ]);
 
-if ($crn_form_data || $student_form_data) {
+if (isset($_GET['Course']) || isset($_GET['Student'])) {
     $crn = substr($crn_form_data['Course'], 0, 5);
     $class_student_record = $class_list->get([
-        'FacultyID' => $_SESSION["u_data"]["ID"],
+        'FacultyID' => $faculty_id,
         'CourseRegistrationNumber' => $crn
     ]);
 
@@ -46,36 +48,50 @@ if ($crn_form_data || $student_form_data) {
         $class_student_record = $class_list->next();
     }
 
+    $attendance_field = new SelectField("Attendance", [
+        'Present',
+        'Absent'
+    ]);
+
     $course_student_field = new SelectField('Student', $course_student_values);
     $course_course_field = new HiddenField('Course', $crn);
-
-    $enrollment = new Enrollment();
-    $grade_field = new SelectField("Grade", $enrollment->getGrades());
+    $course_date_filed = new DateField("Date");
+    $course_date_filed->setValue(date('Y-m-d'));
 
     $student_form_data = $student_form->showForm([
         'Student' => $course_student_field,
-        'Grade' => $grade_field,
-        'Course' => $course_course_field
+        'Attendance' => $attendance_field,
+        'Date' => $course_date_filed,
+        'Course' => $course_course_field,
+        'ID' => new HiddenField('ID', $faculty_id)
     ]);
 
     if (isset($student_form_data['Student'])) {
         $student_id = substr($student_form_data['Student'], 0, 6);
+        $attendance = new Attendance();
         echo "<div class=\"container\">";
         try {
-            $r = $enrollment->get([
+            $r = $attendance->get([
                 'StudentID' => $student_id,
-                'CourseRegistrationNumber' => $student_form_data['Course']
+                'CourseRegistrationNumber' => $student_form_data['Course'],
+                'Date' => $student_form_data['Date']
             ]);
             if ($r) {
-                $enrollment->update([
-                    'Final_Grade' => $student_form_data['Grade']
+                $attendance->update([
+                    'Status' => $student_form_data['Attendance']
                 ]);
                 echo "<div class=\"alert alert-success\" role=\"alert\">";
-                echo "Grade successfully assigned.";
+                echo "Attendance successfully updated.";
                 echo "</div>";
             } else {
-                echo "<div class=\"alert alert-danger\" role=\"alert\">";
-                echo "No enrollment for student: $student_id crn: {$student_form_data['Course']}";
+                $r = $attendance->create([
+                    'StudentID' => $student_id,
+                    'CourseRegistrationNumber' => $student_form_data['Course'],
+                    'Date' => $student_form_data['Date'],
+                    'Status' => $student_form_data['Attendance']
+                ]);
+                echo "<div class=\"alert alert-success\" role=\"alert\">";
+                echo "Attendance successfully created.";
                 echo "</div>";
             }
         } catch (Exception $e) {
