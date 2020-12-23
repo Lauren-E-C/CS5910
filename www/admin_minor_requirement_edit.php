@@ -4,6 +4,37 @@ $page_title = "Edit Minor Requirement";
 include_once 'header.php';
 
 $f = new Form();
+
+
+$course = new Course();
+$courses = array();
+
+$minor_requirement = new MinorRequirements();
+$minor_name = "";
+if ($_SERVER['REQUEST_METHOD'] == "GET") {
+    $minor_name = $_GET['MinorName'];
+    $course_id = $_GET['CourseID'];
+    $old_course_id = $_GET['CourseID'];
+    $minor_requirement_data = $minor_requirement->get([
+        'MinorName' => $minor_name,
+        'CourseID' => $course_id
+    ]);
+    $grade_requirement = $minor_requirement_data['GradeRequirement'];
+} else {
+    $minor_name = $_POST['MinorName'];
+    $grade_requirement = $_POST['GradeRequirement'];
+    $course_id = $_POST['CourseID'];
+    $old_course_id = $_POST['OldCourseID'];
+//    $course_id = substr($course_text, 0, strpos($course_text, ' ') + 1);
+    $minor_requirement_data = $minor_requirement->get([
+        'MinorName' => $minor_name,
+        'CourseID' => $course_id
+    ]);
+}
+
+
+
+
 ?>
     <hr>
     <div class="container">
@@ -16,7 +47,8 @@ $f = new Form();
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_minor_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_minor_edit.php?MinorName=<?= $minor_name ?>"
+                           class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -27,7 +59,7 @@ $f = new Form();
                    data-toggle="dropdown"
                    aria-haspopup="true" aria-expanded="false">Delete</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="admin_minor_delete.php">Confirm Delete</a>
+                    <a class="dropdown-item" href="admin_minor_requirement_delete.php?MinorName=<?= $minor_name ?>&CourseID=<?= $course_id?>">Confirm Delete</a>
                 </div>
             </li>
         </nav>
@@ -35,56 +67,33 @@ $f = new Form();
     <hr>
 <?php
 
-$course = new Course();
-$courses = array();
 
-$minor_requirement = new MinorRequirements();
-$minor_name = "";
-if ($_SERVER['REQUEST_METHOD'] == "GET") {
-    $minor_name = $_GET['MinorName'];
-    $course_id = $_GET['CourseID'];
-    $minor_requirement_data = $minor_requirement->get([
-        'MinorName' => $minor_name,
-        'CourseID' => $course_id
-    ]);
-    $grade_requirement = $minor_requirement_data['GradeRequirement'];
-} else {
-    $minor_name = $_POST['MinorName'];
-    $grade_requirement = $_POST['GradeRequirement'];
-    $course_text = $_POST['Course'];
-    $course_id = substr($course_text, 0, strpos($course_text, ' ') + 1);
-    $minor_requirement_data = $minor_requirement->get([
-        'MinorName' => $minor_name,
-        'CourseID' => $course_id
-    ]);
-}
+$course_values = $course->getKeyValues('courseID', 'coursename');
 
-$current_course = "";
-for ($course_record = $course->get(); $course_record; $course_record = $course->next()) {
-    if ($course_record['courseID'] == $course_id) {
-        $current_course = $course_record['courseID'] . " - " . $course_record['coursename'];
-    }
-    $courses[] = $course_record['courseID'] . " - " . $course_record['coursename'];
-}
 
 $f->setValues([
     'MinorName' => $minor_name,
-    'Course' => $current_course,
+    'CourseID' => $course_id,
+    'OldCourseID' => $old_course_id,
     'GradeRequirement' => $grade_requirement
 ]);
 
 $minor_requirement_data = $f->showForm([
     'MinorName' => new HiddenField('MinorName', $minor_name),
-    'Course' => new ReadOnlyField('Course'),
+    'CourseID' => new KeyValueField('Course', $course_values),
+    'OldCourseID' => new HiddenField('OldCourseID', $old_course_id),
     'GradeRequirement' => "Grade Requirement"
 ]);
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    $course = $minor_requirement_data['Course'];
     try {
+        $minor_requirement->get([
+            'MinorName' => $minor_name,
+            'CourseID' => $minor_requirement_data['OldCourseID'],
+        ]);
         $minor_requirement->update([
             'MinorName' => $minor_requirement_data['MinorName'],
-            'CourseID' => substr($course, 0, strpos($course, ' ') + 1),
+            'CourseID' => $minor_requirement_data['CourseID'],
             'GradeRequirement' => $minor_requirement_data['GradeRequirement']
         ]);
         ?>

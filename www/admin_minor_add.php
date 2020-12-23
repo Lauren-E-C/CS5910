@@ -4,19 +4,10 @@ $page_title = "Add Minor";
 include_once 'header.php';
 
 $department = new Department();
+$departments = $department->getKeyValues('DepartmentID', 'DepartmentName');
 
-$departments = array();
-for ($department_record = $department->get(); $department_record; $department_record = $department->next()) {
-    $departments[] = $department_record['DepartmentID'];
-}
-
-// Major
 $major = new Major();
-
-$majors = array();
-for ($major_record = $major->get(); $major_record; $major_record = $major->next()) {
-    $majors[] = $major_record['MajorName'];
-}
+$majors = $major->getKeyValues('MajorName', "MajorName");
 
 $f = new Form();
 ?>
@@ -42,8 +33,8 @@ $f = new Form();
 
 $minor_data = $f->showForm([
     'MinorName' => 'Minor Name',
-    'DepartmentID' => new SelectField('Department', $departments),
-    'MajorAffiliation' => new SelectField('Major Affiliation', $majors)
+    'DepartmentID' => new KeyValueField('Department', $departments),
+    'MajorAffiliation' => new KeyValueField('Major Affiliation', $majors)
 ]);
 
 if ($minor_data) {

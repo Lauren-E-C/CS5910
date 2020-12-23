@@ -4,11 +4,7 @@ $page_title = "Add Major";
 include_once 'header.php';
 
 $department = new Department();
-
-$departments = array();
-for ($department_record = $department->get(); $department_record; $department_record = $department->next()) {
-    $departments[] = $department_record['DepartmentID'];
-}
+$departments = $department->getKeyValues('DepartmentID', 'DepartmentName');
 
 $f = new Form();
 ?>
@@ -34,7 +30,7 @@ $f = new Form();
 
 $major_data = $f->showForm([
     'MajorName' => 'Major Name',
-    'DepartmentID' => new SelectField('Department', $departments),
+    'DepartmentID' => new KeyValueField('Department', $departments),
     'TypeOfDegree' => new SelectField('Degree Type', ['Undergraduate', 'Graduate'])
 ]);
 

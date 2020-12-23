@@ -3,21 +3,12 @@ $roles = ['Admin'];
 $page_title = "Edit Minor";
 include_once 'header.php';
 
-// Department
+// Deppartment
 $department = new Department();
+$departments = $department->getKeyValues('DepartmentID', 'DepartmentName');
 
-$departments = array();
-for ($department_record = $department->get(); $department_record; $department_record = $department->next()) {
-    $departments[] = $department_record['DepartmentID'];
-}
-
-// Major
 $major = new Major();
-
-$majors = array();
-for ($major_record = $major->get(); $major_record; $major_record = $major->next()) {
-    $majors[] = $major_record['MajorName'];
-}
+$majors = $major->getKeyValues('MajorName', 'MajorName');
 
 // get minor record to be ediited
 $minor_name = null;
@@ -57,7 +48,7 @@ if (!isset($_GET['save'])) {
                        data-toggle="dropdown"
                        aria-haspopup="true" aria-expanded="false">Delete</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="admin_minor_delete.php">Confirm Delete</a>
+                        <a class="dropdown-item" href="admin_minor_delete.php?MinorName=<?= $minor_name ?>">Confirm Delete</a>
                     </div>
                 </li>
             </nav>
@@ -68,8 +59,8 @@ if (!isset($_GET['save'])) {
 
 $minor_data = $minor_form->showForm([
     'MinorName' => 'Minor Name',
-    'DepartmentID' => new SelectField('Department', $departments),
-    'MajorAffiliation' => new SelectField('Major Affiliation', $majors)
+    'DepartmentID' => new KeyValueField('Department', $departments),
+    'MajorAffiliation' => new KeyValueField('Major Affiliation', $majors)
 ]);
 ?>
     <hr>
@@ -83,8 +74,7 @@ $minor_data = $minor_form->showForm([
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_minor_requirement_add.php?MinorName=<?= $minor_name ?>"
-                           class="btn btn-success my-2 my-sm-0">Add
+                        <a href="admin_minor_requirement_add.php?MinorName=<?= $minor_name ?>" class="btn btn-success my-2 my-sm-0">Add
                             Requirement</a>
                     </li>
                 </ul>

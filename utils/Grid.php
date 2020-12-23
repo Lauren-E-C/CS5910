@@ -29,6 +29,7 @@ class Grid
     protected $onclickPage = null;
     protected $columns = false;
     protected $filters = false;
+    protected $buttons = [];
 
     public function __construct($model, $columns = false)
     {
@@ -41,7 +42,7 @@ class Grid
 
         if ($this->columns) {
             foreach ($this->columns as $key => $value) {
-                if (substr($key,0,1) != ':' && array_search($key, $fields, true) === false) {
+                if (substr($key, 0, 1) != ':' && array_search($key, $fields, true) === false) {
                     throw new Exception("Column name not in table: |{$key}|");
                 }
             }
@@ -52,7 +53,13 @@ class Grid
         }
     }
 
-    public function setOnclickPage($onclickPage) {
+    public function setButtons($buttons)
+    {
+        $this->buttons = $buttons;
+    }
+
+    public function setOnclickPage($onclickPage)
+    {
         $this->onclickPage = $onclickPage;
     }
 
@@ -81,25 +88,36 @@ class Grid
                         if ($getVars !== "") {
                             $getVars .= "&";
                         }
-                        $getVars .= $key . "=" . htmlspecialchars($value);
+                        $getVars .= urlencode($key) . "=" . urlencode(htmlspecialchars($value));
                     }
-                    if ($this->onclickPage) {
-                        echo "<tr onclick=\"document.location = '".$this->onclickPage."?" . $getVars . "';\">";
-                    } else {
-                        echo "<tr>";
-                    }
+//                    if ($this->onclickPage) {
+//                        echo "<tr onclick=\"document.location = '".$this->onclickPage."?" . $getVars . "';\">";
+//                    } else {
+//                        echo "<tr>";
+//                    }
 
                     #preg_replace($pattern, $replacement, $string);
 
                     foreach ($this->columns as $key => $value) {
-                        echo "<td>";
+                        if ($this->onclickPage) {
+                            echo "<td onclick=\"document.location = '" . $this->onclickPage . "?" . $getVars . "';\">";
+                        } else {
+                            echo "<td>";
+                        }
                         if (is_array($value)) {
                             // ['Student ID', 'Student', 'lastName'],
-                            echo preg_replace('/00:00:00/','' , $m->getValue($value[2], $value[1]));
+                            echo preg_replace('/00:00:00/', '', $m->getValue($value[2], $value[1]));
                         } else {
-                            echo preg_replace('/00:00:00/','' ,$m->getValue($key));
+                            echo preg_replace('/00:00:00/', '', $m->getValue($key));
                         }
                         echo "</td>";
+                    }
+                    foreach ($this->buttons as $text => $link) {
+                        ?>
+                        <td>
+                            <a style="padding-left: 5px" class="btn btn-primary" href="<?= $link ?>?<?= $getVars ?>"><?= $text ?></a>
+                        </td>
+                        <?php
                     }
                     echo "</tr>\n";
                 } ?>

@@ -39,6 +39,9 @@ $g = new Grid(new Section(),[
 
     'BuildingName' => 'Building<br>Name',
     'RoomID' => 'Room',
+    'Semester' => 'Semester',
+    'Year' => 'Year',
 ]);
 
+$g->setOnclickPage('admin_section_edit.php');
 $g->showGrid();

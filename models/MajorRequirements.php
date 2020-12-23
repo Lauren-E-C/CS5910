@@ -13,12 +13,17 @@ class MajorRequirements extends Model
     {
         $this->related = [];
 
-        $section = new Course();
+        $course = new Course();
+//        $course->setDebugger(true);
         $key = $values['CourseID'];
-        $x = $section->get([
+        $x = $course->get([
             'courseID' => $key
         ]);
-        if (!$x) echo "Course $key does not exist";
-        $this->related['Course'] = $section;
+//        echo "<pre>";
+//        var_dump($key);
+//        var_dump($x);
+//        echo "</pre>";
+        if (!$x) echo "<pre>Course |$key| does not exist</pre><br>\n";
+        $this->related['Course'] = $course;
     }
 }

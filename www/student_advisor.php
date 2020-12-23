@@ -24,14 +24,19 @@ if ($advisor_record) {
             </tr>
             </thead>
             <tbody>
-            <tr>
-                <td><?php echo $advisor->getValue('firstName', 'Advisor'); ?></td>
-                <td><?php echo $advisor->getValue('lastName', 'Advisor'); ?></td>
-                <td><?php echo preg_replace('/ .*/', '', $advisor->getValue('AssignedDate')); ?></td>
-                <td><?php echo $advisor->getValue('phoneNumber', 'Advisor'); ?></td>
-                <td><?php echo $advisor->getValue('BuildingName', 'Building'); ?></td>
-                <td><?php echo $advisor->getValue('RoomID', 'Faculty'); ?></td>
-            </tr>
+            <?php while ($advisor_record) { ?>
+                <tr>
+                    <td><?php echo $advisor->getValue('firstName', 'Advisor'); ?></td>
+                    <td><?php echo $advisor->getValue('lastName', 'Advisor'); ?></td>
+                    <td><?php echo preg_replace('/ .*/', '', $advisor->getValue('AssignedDate')); ?></td>
+                    <td><?php echo $advisor->getValue('phoneNumber', 'Advisor'); ?></td>
+                    <td><?php echo $advisor->getValue('BuildingName', 'Building'); ?></td>
+                    <td><?php echo $advisor->getValue('RoomID', 'Faculty'); ?></td>
+                </tr>
+                <?php
+                $advisor_record = $advisor->next();
+            }
+            ?>
             </tbody>
         </table>
     </div>

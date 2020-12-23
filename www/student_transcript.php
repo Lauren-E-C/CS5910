@@ -75,8 +75,14 @@ if ($term_data) {
         $class_list->next();
     }
 
-    $gpa_term = ($quality_term_total * 3) / $credits_term_earned;
-    $gpa_all = ($quality_all_total * 3) / $credits_all_earned;
+    $gpa_term = 0;
+    $gpa_all = 0;
+    if ($credits_term_earned) {
+        $gpa_term = ($quality_term_total * 3) / $credits_term_earned;
+    }
+    if ($gpa_all) {
+        $gpa_all = ($quality_all_total * 3) / $credits_all_earned;
+    }
 
     ?>
     <br>

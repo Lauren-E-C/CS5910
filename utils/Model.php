@@ -8,11 +8,20 @@ class Model implements ModelInterface
     protected $keyFields;
     private $db;
     private $statement = null;
-    private $values = null;
+    protected $values = null;
     private $keyValues = null;
     private $fields;
     private $fieldList;
     protected $related = [];
+    protected $debugger = false;
+
+    /**
+     * @param bool $debugger
+     */
+    public function setDebugger($debugger)
+    {
+        $this->debugger = $debugger;
+    }
 
     public function __construct($table, $keyFields)
     {
@@ -106,7 +115,15 @@ class Model implements ModelInterface
             }
         }
 
+
+
         $this->statement = $this->db->prepare($sql);
+        if ($this->debugger) {
+            echo "<div SQL:'>";
+            var_dump($sql);
+            echo "<br>QS: " . $this->statement->queryString;
+            echo "</div>";
+        }
         $this->db->exec($this->statement);
         $row = $this->db->fetch($this->statement);
 
@@ -277,6 +294,8 @@ class Model implements ModelInterface
     {
         $return = "";
 
+        if (!is_array($keyValues)) throw new  Exception("Not array");
+
         $first = $this->getFirstElement($keyValues);
         if (gettype($first) === "string") {
             $keyValues = array($keyValues);
@@ -305,7 +324,12 @@ class Model implements ModelInterface
                         if ($return !== "") {
                             $return .= " AND ";
                         }
-                        $return .= $key . " = " . $this->quoteValue($value);
+                        if (substr($value, 0, 1) == '%') {
+                            $value = strtolower(substr($value, 1, strlen($value) - 1));
+                            $return .= " LOWER(" . $key . ") LIKE '%" . $value . "%'";
+                        } else {
+                            $return .= $key . " = " . $this->quoteValue($value);
+                        }
                     }
                 }
             }
@@ -315,6 +339,7 @@ class Model implements ModelInterface
 
     private function quoteValue($value)
     {
+//        $value = preg_replace('/&/', '\&', $value);
         if (gettype($value) === "string") {
             //return "'" . $this->db->quote($value) . "'";
             return $this->db->quote($value);

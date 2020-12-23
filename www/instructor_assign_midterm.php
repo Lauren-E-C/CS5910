@@ -3,6 +3,21 @@ $roles = ['Instructor', 'Admin'];
 $page_title = "Assign Midterm Grade";
 include_once 'header.php';
 
+$current_term = new CurrentTerm();
+$current_term_record = $current_term->get([
+    'ID' => 1
+]);
+
+if ($current_term->getValue('Exam') != 'Midterm') { ?>
+    <div class="container">
+        <div class="alert alert-danger" role="alert">
+            Time to grade midterms exam has expired.
+        </div>
+    </div>
+    <?php
+    exit;
+}
+
 $crn_form = new Form("get");
 $student_form = new Form("get");
 

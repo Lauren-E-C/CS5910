@@ -4,13 +4,16 @@ $page_title = "Add Minor Requirement";
 include_once 'header.php';
 
 $course = new Course();
-
-$courses = array();
-for ($course_record = $course->get(); $course_record; $course_record = $course->next()) {
-    $courses[] = $course_record['courseID'] . " - " . $course_record['coursename'];
-}
+$courses = $course->getKeyValues('courseID', 'coursename');
 
 $f = new Form();
+$minor_name = "";
+if ($_SERVER['REQUEST_METHOD'] == "GET") {
+    $minor_name = $_GET['MinorName'];
+} else {
+    $minor_name = $f->getValues(['MinorName'])['MinorName'];
+}
+
 ?>
     <hr>
     <div class="container">
@@ -23,7 +26,8 @@ $f = new Form();
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_minor_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_minor_edit.php?MinorName=<?= $minor_name ?>"
+                           class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -32,23 +36,17 @@ $f = new Form();
     <hr>
 <?php
 
-$minor_name = "";
-if ($_SERVER['REQUEST_METHOD'] == "GET") {
-    $minor_name = $_GET['MinorName'];
-} else {
-    $minor_name = $f->getValues(['MinorName']);
-}
+
 
 $minor_requirement_data = $f->showForm([
     'MinorName' => new HiddenField('MinorName', $minor_name),
-    'Course' => new SelectField('Course', $courses),
+    'Course' => new KeyValueField('Course', $courses),
     'GradeRequirement' => "Grade Requirement"
 ]);
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $minor_requirement = new MinorRequirements();
-    $course = $minor_requirement_data['Course'];
-    $course_id = substr($course, 0, strpos($course, ' ') + 1);
+    $course_id = $minor_requirement_data['Course'];
     try {
         $minor_requirement->create([
             'MinorName' => $minor_requirement_data['MinorName'],

@@ -4,14 +4,6 @@ $page_title = "Section Add";
 include_once 'header.php';
 include_once 'building_room.php';
 
-?>
-    <script>
-        function buildingChange(o) {
-            console.log(o.value);
-        }
-    </script>
-<?php
-
 // -- course field
 $course = new Course();  // create model to get access to the "course" table
 $course_values = $course->getKeyValues('courseID', 'coursename');
@@ -30,71 +22,15 @@ $time_slot = new TimeSlot();
 $time_slot_values = $time_slot->getKeyValues('ID', null);
 $time_slot_field = new KeyValueField('Time Slot', $time_slot_values);
 
-// -- Building Field
-$building = new Building();
-$building_values = $building->getKeyValues('BuildingIDNumber', 'BuildingName');
-$building_field = new KeyValueField('Building', $building_values);
-$building_field->setOnChange('buildingChange');
-
-// -- Room field
-$room_field = new KeyValueField('Room', ['' => '']);
-
 // -- Semester Field
 $semester_field = new SelectField('Semester', ['Fall', 'Winter', 'Spring', 'Summer']);
 
 // -- Year field
-$year_field = new SelectField('Year', ['2021', '2022']);
+$year_field = new SelectField('Year', ['2020', '2021', '2022', '2023', '2024', '2025']);
 
-// -- get the rooms for each build
-$building_rooms = array();
-$building_record = $building->get();
-while ($building_record) {
-    $building_id = $building->getValue('BuildingIDNumber');
-
-    $building_rooms[$building_id] = array();
-    $room = new Room();
-    $room_record = $room->get([
-        'BuildingIDNumber' => $building_id
-    ]);
-
-    while ($room_record) {
-        $building_rooms[$building_id][] = $room->getValue('RoomID');
-        $room_record = $room->next();
-    }
-    $building_record = $building->next();
-}
-
+// -- Build & room selects
+list($building_field, $room_field) = building_room();
 ?>
-    <script>
-        function buildingChange(o) {
-            var building_rooms = [];
-            <?php
-            echo "\n";
-            foreach ($building_rooms as $building_key => $rooms) {
-                echo "building_rooms[\"$building_key\"]= [";
-                foreach ($rooms as $room) {
-                    echo "\"$room\", ";
-                }
-                echo "];\n";
-            }
-            ?>
-            var rooms = building_rooms[o.value];
-
-            var room_select = $('#RoomID').get(0);
-            while (room_select.options.length > 0) {
-                room_select.remove(room_select.options.length - 1);
-            }
-
-            for (i = 0; i < rooms.length; i++) {
-                var opt = document.createElement('option');
-
-                opt.text = rooms[i];
-                opt.value = rooms[i];
-
-                room_select.add(opt, null);
-            }
-        }
-    </script>
 
     <!--Navigation Bar-->
 
@@ -109,7 +45,7 @@ while ($building_record) {
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_course_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_section_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -124,13 +60,16 @@ $section = new Section();
 $section_record = $section->getMax('CourseRegistrationNumber');
 $crn = $section_record['max'] + 1;
 
-$f->setValues([
-    'CourseRegistrationNumber' => $crn
-]);
+if ($_SERVER['REQUEST_METHOD'] == "GET") {
+    $f->setValues([
+        'CourseRegistrationNumber' => $crn
+    ]);
+}
 
 $section_form_data = $f->showForm([
     'CourseRegistrationNumber' => new ReadOnlyField('Course Registration Number'),
     'SectionNumber' => 'Section Number',
+    'CourseID' => $course_field,
     'FacultyID' => $faculty_field,
     'TimeSlotNum' => $time_slot_field,
     'SeatsCapacity' => 'Seats Capacity',
@@ -142,7 +81,8 @@ $section_form_data = $f->showForm([
 
 if (isset($_GET['save'])) {
 
-    $build_id = $section_form_data['BuildingIDNumber'];
+    $building = new Building();
+    $building_id = $section_form_data['BuildingIDNumber'];
     $building_record = $building->get(['BuildingIDNumber' => $building_id]);
     $building_name = $building->getValue('BuildingName');
 
@@ -158,6 +98,37 @@ if (isset($_GET['save'])) {
         'Semester' => $section_form_data['Semester'],
         'Year' => $section_form_data['Year'],
     ];
+
+    $section = new Section();
+    if ($section->get([
+        'FacultyID' => $section_form_data['FacultyID'],
+        'TimeSlotNum' => $section_form_data['TimeSlotNum'],
+        'Semester' => $section_form_data['Semester'],
+        'Year' => $section_form_data['Year'],
+    ])) {
+        ?>
+        <div class="container">
+            <div class="alert alert-danger" role="alert">Instructor already schedule for a class during this time</div>
+        </div>
+        <?php
+        exit;
+    }
+
+    if ($section->get([
+        'TimeSlotNum' => $section_form_data['TimeSlotNum'],
+        'BuildingName' => $building_name,
+        'RoomID' => $section_form_data['RoomID'],
+        'Semester' => $section_form_data['Semester'],
+        'Year' => $section_form_data['Year'],
+    ])) {
+        ?>
+        <div class="container">
+            <div class="alert alert-danger" role="alert">Room already schedule for a class during this time</div>
+        </div>
+        <?php
+        exit;
+    }
+
 
     try {
         $section = new Section();

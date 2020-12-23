@@ -65,14 +65,17 @@ class Enrollment extends Model
             $this->setValues($values);
         }
 
-        $midterm_grade = $this->getValue('Midterm_Grade');
-        if ($midterm_grade) {
-            $this->setValue('Midterm_Quality', $this->computeQuality($midterm_grade));
+        if (isset($this->values['Midterm_Grade']) && $this->values['Midterm_Grade']) {
+            $midterm_grade = $this->getValue('Midterm_Grade');
+            if ($midterm_grade) {
+                $this->setValue('Midterm_Quality', $this->computeQuality($midterm_grade));
+            }
         }
-
-        $final_grade = $this->getValue('Final_Grade');
-        if ($final_grade) {
-            $this->setValue('Final_Quality', $this->computeQuality($final_grade));
+        if (isset($this->values['Final_Grade']) && $this->values['Final_Grade']) {
+            $final_grade = $this->getValue('Final_Grade');
+            if ($final_grade) {
+                $this->setValue('Final_Quality', $this->computeQuality($final_grade));
+            }
         }
 
         parent::create($values);

@@ -29,8 +29,6 @@ if ($department_listed == 'Y') {
     $listed = 'Delist';
 }
 
-list($building_field, $room_field) = building_room();
-
 ?>
 
     <hr>
@@ -76,6 +74,14 @@ $manager = new Users();
 $manager_values = $chair->getKeyValues('ID', 'email', [
     'uType' => 'Instructor'
 ]);
+
+$room_id = $department_record['RoomID'];
+
+//echo "<pre>";
+//var_dump($room_id);
+//echo "</pre>";
+
+list($building_field, $room_field) = building_room($room_id);
 
 // render the form to the browser
 $department_form_data = $f->showForm([

@@ -1,5 +1,5 @@
 <?php
-function building_room()
+function building_room($room_id = false)
 {
 // -- Building Field
     $building = new Building();
@@ -37,6 +37,11 @@ function building_room()
 
             var building_rooms = [];
             <?php
+            if ($room_id) {
+                echo "var room_id = $room_id;\n";
+            } else {
+                echo "var room_id = null;\n";
+            }
             echo "\n";
             foreach ($building_rooms as $building_key => $rooms) {
                 echo "building_rooms[\"$building_key\"]= [";
@@ -47,7 +52,38 @@ function building_room()
             }
             ?>
 
-            var building_select = $('#BuildingID').get(0);
+            var building_select = $('#BuildingIDNumber').get(0); // TODO: examin other building/room
+            if (building_select === undefined) {
+                console.log('Could not find BuildingIDNumber, looking for BuildingID');
+                var building_select = $('#BuildingID').get(0);
+            }
+            var building_id = building_select.selectedOptions.item(0).value;
+
+            console.log(building_id);
+            console.log(building_rooms[building_id]);
+            var rooms = building_rooms[building_id];
+
+            var room_select = $('#RoomID').get(0);
+            while (room_select.options.length > 0) {
+                room_select.remove(room_select.options.length - 1);
+            }
+
+            for (i = 0; i < rooms.length; i++) {
+                var opt = document.createElement('option');
+
+                opt.text = rooms[i];
+                opt.value = rooms[i];
+                 if (rooms[i] == room_id) {
+                     opt.selected = true;
+                 }
+
+                room_select.add(opt, null);
+            }
+
+        });
+
+        function setRoomId(id) {
+            var building_select = $('#BuildingIDNumber').get(0); // TODO: examin other building/room
             var building_id = building_select.selectedOptions.item(0).value;
 
             console.log(building_id);
@@ -67,8 +103,7 @@ function building_room()
 
                 room_select.add(opt, null);
             }
-
-        });
+        }
 
         function buildingChange(o) {
             var building_rooms = [];

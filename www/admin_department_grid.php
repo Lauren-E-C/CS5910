@@ -22,7 +22,10 @@ include_once 'header.php';
     </div>
 <?php
 
-$g = new Grid(new Department(), [
+$d = new Department();
+//$d->setDebugger(true);
+
+$g = new Grid($d, [
     'DepartmentID' => 'Department<br>ID',
     'DepartmentName' => 'Department<br>Name',
 
@@ -33,11 +36,11 @@ $g = new Grid(new Department(), [
     ':r03' => ['Manager<br>First Name', 'Manager', 'firstName'],
     ':r04' => ['Manager<br>Last Name', 'Manager', 'lastName'],
 
-    'BuildingName' => 'Building<br>Name',
+//    'BuildingName' => 'Building<br>Name',
+    ':r05' => ['Building<br>Name', 'Building', 'BuildingName'],
     'RoomID' => 'Room<br>ID',
     'PhoneNumber' => 'Phone<br>Number',
     'Email' => 'E-Mail'
-
 ]);
 
 $g->setOnclickPage('admin_department_edit.php');

@@ -13,5 +13,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://sql157.main-hosting.eu:3306/u684207109_cs5910</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="u684207109_Catalog@sql157.main-hosting.eu" uuid="f20e165c-cc9a-4c59-ab11-29c21c80594c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sql157.main-hosting.eu:3306/u684207109_Catalog</jdbc-url>
+    </data-source>
   </component>
 </project>

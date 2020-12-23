@@ -4,6 +4,34 @@ $page_title = "Edit Major Requirement";
 include_once 'header.php';
 
 $f = new Form();
+
+
+$course = new Course();
+$courses = array();
+
+$major_requirement = new MajorRequirements();
+$major_name = "";
+if ($_SERVER['REQUEST_METHOD'] == "GET") {
+    $major_name = $_GET['MajorName'];
+    $course_id = $_GET['CourseID'];
+    $old_course_id = $_GET['CourseID'];
+    $major_requirement_data = $major_requirement->get([
+        'MajorName' => $major_name,
+        'CourseID' => $course_id
+    ]);
+    $grade_requirement = $major_requirement_data['GradeRequirement'];
+} else {
+    $major_name = $_POST['MajorName'];
+    $grade_requirement = $_POST['GradeRequirement'];
+    $course_id = $_POST['CourseID'];
+    $old_course_id = $_POST['OldCourseID'];
+//    $course_id = substr($course_text, 0, strpos($course_text, ' ') + 1);
+    $major_requirement_data = $major_requirement->get([
+        'MajorName' => $major_name,
+        'CourseID' => $course_id
+    ]);
+}
+
 ?>
     <hr>
     <div class="container">
@@ -16,7 +44,8 @@ $f = new Form();
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_major_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_major_edit.php?MajorName=<?= $major_name ?>"
+                           class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -27,7 +56,7 @@ $f = new Form();
                    data-toggle="dropdown"
                    aria-haspopup="true" aria-expanded="false">Delete</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="admin_major_delete.php">Confirm Delete</a>
+                    <a class="dropdown-item" href="admin_major_requirement_delete.php?MajorName=<?= $major_name ?>&CourseID=<?= $course_id?>">Confirm Delete</a>
                 </div>
             </li>
         </nav>
@@ -35,56 +64,33 @@ $f = new Form();
     <hr>
 <?php
 
-$course = new Course();
-$courses = array();
 
-$major_requirement = new MajorRequirements();
-$major_name = "";
-if ($_SERVER['REQUEST_METHOD'] == "GET") {
-    $major_name = $_GET['MajorName'];
-    $course_id = $_GET['CourseID'];
-    $major_requirement_data = $major_requirement->get([
-        'MajorName' => $major_name,
-        'CourseID' => $course_id
-    ]);
-    $grade_requirement = $major_requirement_data['GradeRequirement'];
-} else {
-    $major_name = $_POST['MajorName'];
-    $grade_requirement = $_POST['GradeRequirement'];
-    $course_text = $_POST['Course'];
-    $course_id = substr($course_text, 0, strpos($course_text, ' ') + 1);
-    $major_requirement_data = $major_requirement->get([
-        'MajorName' => $major_name,
-        'CourseID' => $course_id
-    ]);
-}
+$course_values = $course->getKeyValues('courseID', 'coursename');
 
-$current_course = "";
-for ($course_record = $course->get(); $course_record; $course_record = $course->next()) {
-    if ($course_record['courseID'] == $course_id) {
-        $current_course = $course_record['courseID'] . " - " . $course_record['coursename'];
-    }
-    $courses[] = $course_record['courseID'] . " - " . $course_record['coursename'];
-}
 
 $f->setValues([
     'MajorName' => $major_name,
-    'Course' => $current_course,
+    'CourseID' => $course_id,
+    'OldCourseID' => $old_course_id,
     'GradeRequirement' => $grade_requirement
 ]);
 
 $major_requirement_data = $f->showForm([
     'MajorName' => new HiddenField('MajorName', $major_name),
-    'Course' => new ReadOnlyField('Course'),
+    'CourseID' => new KeyValueField('Course', $course_values),
+    'OldCourseID' => new HiddenField('OldCourseID', $old_course_id),
     'GradeRequirement' => "Grade Requirement"
 ]);
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    $course = $major_requirement_data['Course'];
     try {
+        $major_requirement->get([
+            'MajorName' => $major_name,
+            'CourseID' => $major_requirement_data['OldCourseID'],
+        ]);
         $major_requirement->update([
             'MajorName' => $major_requirement_data['MajorName'],
-            'CourseID' => substr($course, 0, strpos($course, ' ') + 1),
+            'CourseID' => $major_requirement_data['CourseID'],
             'GradeRequirement' => $major_requirement_data['GradeRequirement']
         ]);
         ?>

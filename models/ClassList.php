@@ -34,11 +34,12 @@ class ClassList extends Model
         $this->related['Section'] = $section;
 
         $course = new Course();
+//        $course->setDebugger(true);
         $key = $section->getValue('CourseID');
         $x = $course->get([
-            'coursenumber' => $key
+            'courseID' => $key
         ]);
-        if (!$x) echo "Course $key does not exist";
+        if (!$x) echo "Course |$key| does not exist";
         $this->related['Course'] = $course;
 
         $enrollment = new Enrollment();

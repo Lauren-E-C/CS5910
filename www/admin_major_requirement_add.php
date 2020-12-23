@@ -4,13 +4,16 @@ $page_title = "Add Major Requirement";
 include_once 'header.php';
 
 $course = new Course();
-
-$courses = array();
-for ($course_record = $course->get(); $course_record; $course_record = $course->next()) {
-    $courses[] = $course_record['courseID'] . " - " . $course_record['coursename'];
-}
+$courses = $course->getKeyValues('courseID', 'coursename');
 
 $f = new Form();
+$major_name = "";
+if ($_SERVER['REQUEST_METHOD'] == "GET") {
+    $major_name = $_GET['MajorName'];
+} else {
+    $major_name = $f->getValues(['MajorName'])['MajorName'];
+}
+
 ?>
     <hr>
     <div class="container">
@@ -23,7 +26,8 @@ $f = new Form();
             <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li>
-                        <a href="admin_major_grid.php" class="btn btn-success my-2 my-sm-0">Back</a>
+                        <a href="admin_major_edit.php?MajorName=<?= $major_name ?>"
+                           class="btn btn-success my-2 my-sm-0">Back</a>
                     </li>
                 </ul>
             </nav>
@@ -32,23 +36,17 @@ $f = new Form();
     <hr>
 <?php
 
-$major_name = "";
-if ($_SERVER['REQUEST_METHOD'] == "GET") {
-    $major_name = $_GET['MajorName'];
-} else {
-    $major_name = $f->getValues(['MajorName']);
-}
+
 
 $major_requirement_data = $f->showForm([
     'MajorName' => new HiddenField('MajorName', $major_name),
-    'Course' => new SelectField('Course', $courses),
+    'Course' => new KeyValueField('Course', $courses),
     'GradeRequirement' => "Grade Requirement"
 ]);
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $major_requirement = new MajorRequirements();
-    $course = $major_requirement_data['Course'];
-    $course_id = substr($course, 0, strpos($course, ' ') + 1);
+    $course_id = $major_requirement_data['Course'];
     try {
         $major_requirement->create([
             'MajorName' => $major_requirement_data['MajorName'],

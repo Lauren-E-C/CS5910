@@ -62,6 +62,9 @@ class Form
         $data = array();
         if ($this->data) {
             $data = $this->data;
+//            echo "<pre>";
+//            var_dump($data);
+//            echo "</pre>";
         } else {
             if ($_SERVER['REQUEST_METHOD'] == "POST") {
                 foreach ($fields as $index => $values) {
@@ -174,6 +177,20 @@ class TextField extends FormField
     <?php }
 }
 
+class PasswordField extends FormField
+{
+    function generate($data, $key)
+    { ?>
+        <div class="col-sm form-group">
+            <label for="<?= $key ?>"><?= $this->label ?></label>
+            <input type="password" class="form-control" id="<?= $key ?>" name="<?= $key ?>"
+                   placeholder="<?= $this->label ?>"
+                <?php if (isset($data[$key])) echo "value=\"$data[$key]\""; ?>
+            >
+        </div>
+    <?php }
+}
+
 class TextAreaField extends FormField
 {
     function generate($data, $key)
@@ -252,6 +269,14 @@ class SelectField extends FormField
 
     function generate($data, $key)
     {
+//        echo "<pre>";
+//        var_dump($data);
+//        var_dump($key);
+//        echo "<hr>";
+//        var_dump($this->values);
+//        echo "</pre>";
+//        die;
+
         $v = "";
         if (isset($data[$key])) {
             $v = $data[$key];
@@ -276,7 +301,10 @@ class KeyValueField extends FormField
     public function __construct($label = false, $values = false)
     {
         if ($values) {
-            $this->values = $values;
+            $this->values = ["" => $label];
+            foreach ($values as $key => $value) {
+                $this->values[$key] = $value;
+            }
         }
         parent::__construct($label);
     }

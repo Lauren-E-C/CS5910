@@ -16,6 +16,10 @@ $major_name = null;
 if (isset($_GET['MajorName'])) {
     $major_name = $_GET['MajorName'];
 }
+//echo "<pre>New Major name: ";
+//var_dump($major_name);
+//echo "</pre>";
+
 $major = new Major();
 $major_record = $major->get([
     'MajorName' => $major_name
@@ -49,7 +53,7 @@ if (!isset($_GET['save'])) {
                        data-toggle="dropdown"
                        aria-haspopup="true" aria-expanded="false">Delete</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="admin_major_delete.php">Confirm Delete</a>
+                        <a class="dropdown-item" href="admin_major_delete.php?MajorName=<?= $major_name ?>">Confirm Delete</a>
                     </div>
                 </li>
             </nav>
@@ -84,13 +88,19 @@ $major_data = $major_form->showForm([
     <div class="container">
         <h3>Major Requirements</h3>
         <?php
-        $major_req_grid = new Grid(new MajorRequirements(), [
+        $m = new MajorRequirements();
+//        $m->setDebugger(true);
+
+        $major_req_grid = new Grid($m, [
             'MajorName' => 'Major<br>Name',
             'CourseID' => 'Course ID',
             ':r_01' => ['Course Name', 'Course', 'coursename'],
             'GradeRequirement' => 'Grade<br>Requirement'
         ]);
         $major_req_grid->setOnclickPage('admin_major_requirement_edit.php');
+//        echo "<pre>Major name: ";
+//        var_dump($major_name);
+//        echo "</pre>";
         $major_req_grid->showGrid([
             'MajorName' => $major_name
         ]);
